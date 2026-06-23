@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Share with the group — SE onboarding guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/styles.css">
+  <style>
+    .guide-wrap { max-width: 960px; margin: 0 auto; padding: 32px 24px 64px; }
+    .guide-hero { margin-bottom: 40px; }
+    .guide-hero h1 { font-size: 26px; font-weight: 700; margin-bottom: 8px; }
+    .guide-hero p { color: var(--muted); font-size: 14px; line-height: 1.7; }
+    .guide-section { margin-bottom: 48px; }
+    .guide-section h2 { font-size: 18px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
+    .guide-section .lead { color: var(--muted); font-size: 13px; margin-bottom: 20px; }
+    .steps { display: flex; flex-direction: column; gap: 12px; margin-bottom: 24px; }
+    .step { display: flex; gap: 14px; align-items: flex-start; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+    .step-num { width: 28px; height: 28px; border-radius: 50%; background: rgba(255,122,69,.15); color: var(--accent-orange); font-weight: 700; font-size: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .step-body { font-size: 13px; }
+    .step-body strong { display: block; margin-bottom: 4px; }
+    .step-body code { font-family: 'JetBrains Mono', monospace; font-size: 12px; }
+    /* Faux screenshot frame */
+    .shot { background: #0a0c10; border: 1px solid var(--border); border-radius: 14px; overflow: hidden; margin: 16px 0 8px; box-shadow: 0 8px 32px rgba(0,0,0,.4); }
+    .shot-bar { display: flex; align-items: center; gap: 8px; padding: 10px 14px; background: #141820; border-bottom: 1px solid var(--border); }
+    .shot-dot { width: 10px; height: 10px; border-radius: 50%; }
+    .shot-dot.r { background: #ff5f57; }
+    .shot-dot.y { background: #febc2e; }
+    .shot-dot.g { background: #28c840; }
+    .shot-title { font-size: 11px; color: var(--muted); margin-left: 8px; font-family: 'JetBrains Mono', monospace; }
+    .shot-body { padding: 16px 18px; font-size: 13px; line-height: 1.65; }
+    .shot-body.chat { font-family: 'Inter', sans-serif; }
+    .chat-user { background: rgba(91,156,255,.12); border-left: 3px solid var(--accent); padding: 10px 14px; border-radius: 0 8px 8px 0; margin-bottom: 12px; color: var(--text); }
+    .chat-agent { padding: 4px 0 12px; color: var(--muted); }
+    .chat-agent strong { color: var(--text); }
+    .chat-q { background: var(--surface2); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; margin-top: 10px; }
+    .chat-q label { display: block; font-size: 11px; text-transform: uppercase; letter-spacing: .6px; color: var(--muted); margin-bottom: 8px; }
+    .chat-options { display: flex; flex-wrap: wrap; gap: 6px; }
+    .chat-opt { padding: 6px 12px; border-radius: 8px; border: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+    .chat-opt.sel { border-color: var(--accent-orange); background: rgba(255,122,69,.12); color: var(--accent-orange); }
+    .shot-caption { font-size: 11px; color: var(--muted); margin-bottom: 24px; padding-left: 4px; }
+    .preview-mini { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px; margin-top: 8px; }
+    .preview-banner { background: rgba(255,122,69,.1); border: 1px solid rgba(255,122,69,.3); border-radius: 8px; padding: 8px 12px; font-size: 11px; color: var(--accent-orange); margin-bottom: 14px; text-align: center; }
+    .webex-block { background: #1a1d26; border: 1px solid var(--border); border-radius: 10px; padding: 14px; font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--muted); white-space: pre-wrap; line-height: 1.6; }
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    @media (max-width: 700px) { .two-col { grid-template-columns: 1fr; } }
+    .tool-tabs { display: flex; gap: 8px; margin-bottom: 16px; }
+    .tool-tab { padding: 8px 16px; border-radius: 8px; border: 1px solid var(--border); font-size: 12px; font-weight: 600; color: var(--muted); background: var(--surface); }
+    .tool-tab.active { background: var(--accent-orange); border-color: var(--accent-orange); color: #fff; }
+  </style>
+</head>
+<body style="background: var(--bg);">
+
+  <div class="guide-wrap">
+    <div class="guide-hero">
+      <p style="font-size:11px;text-transform:uppercase;letter-spacing:1.2px;color:var(--muted);margin-bottom:8px;">GES &amp; ASP SE Hub · Onboarding</p>
+      <h1>Share with the group</h1>
+      <p>Agent-guided workflow for publishing projects to the team hub. Trigger with <strong style="color:var(--text);">Let's share with the group</strong> in Cursor or Claude. Samples below show representative agent output at each phase.</p>
+      <p style="margin-top:12px;"><a href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE">← Back to repo</a> · <a href="../index.html">Live hub</a></p>
+    </div>
+
+    <!-- SETUP -->
+    <section class="guide-section">
+      <h2>1. Connect the repo</h2>
+      <p class="lead">Clone once, open as workspace root, skills load automatically in Cursor.</p>
+      <div class="steps">
+        <div class="step"><span class="step-num">1</span><div class="step-body"><strong>Clone</strong><code>git clone https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE.git</code></div></div>
+        <div class="step"><span class="step-num">2</span><div class="step-body"><strong>Cursor:</strong> File → Open Folder → select repo. Skills live in <code>.cursor/skills/share-with-group/</code></div></div>
+        <div class="step"><span class="step-num">3</span><div class="step-body"><strong>Claude Code:</strong> Open same folder — reads <code>CLAUDE.md</code> at repo root.</div></div>
+        <div class="step"><span class="step-num">4</span><div class="step-body"><strong>Claude.ai Project:</strong> Upload SKILL.md + reference.md + CONTRIBUTING.md as project knowledge (see pinned Discussion).</div></div>
+      </div>
+
+      <div class="shot">
+        <div class="shot-bar"><span class="shot-dot r"></span><span class="shot-dot y"></span><span class="shot-dot g"></span><span class="shot-title">Cursor — Open Folder</span></div>
+        <div class="shot-body chat">
+          <div style="color:var(--muted);font-size:12px;margin-bottom:12px;">Workspace root should be <code style="color:var(--accent);">ThousandEyes_GES_ASP_SE/</code> — not a parent monorepo — so skills resolve correctly.</div>
+          <div style="display:flex;flex-direction:column;gap:4px;font-size:12px;font-family:'JetBrains Mono',monospace;color:var(--muted);">
+            <div>📁 ThousandEyes_GES_ASP_SE</div>
+            <div style="padding-left:16px;">📁 .cursor/skills/share-with-group/</div>
+            <div style="padding-left:32px;">📄 SKILL.md</div>
+            <div style="padding-left:16px;">📁 docs/</div>
+            <div style="padding-left:16px;">📁 projects/</div>
+            <div style="padding-left:16px;">📄 CLAUDE.md</div>
+          </div>
+        </div>
+      </div>
+      <p class="shot-caption">Screenshot 1 — Expected repo layout after clone</p>
+    </section>
+
+    <!-- TRIGGER -->
+    <section class="guide-section">
+      <h2>2. Start the workflow</h2>
+      <p class="lead">New Agent chat → trigger phrase → category intake.</p>
+
+      <div class="shot">
+        <div class="shot-bar"><span class="shot-dot r"></span><span class="shot-dot y"></span><span class="shot-dot g"></span><span class="shot-title">Cursor Agent — New chat</span></div>
+        <div class="shot-body chat">
+          <div class="chat-user">Let's share with the group</div>
+          <div class="chat-agent">
+            <strong>Share mode.</strong> I'll walk you through adding a project to the GES &amp; ASP SE Hub — category, description, preview, then publish when you're ready.<br><br>
+            <strong>Which category fits best?</strong>
+            <div class="chat-q">
+              <label>Hub category</label>
+              <div class="chat-options">
+                <span class="chat-opt sel">Workproduct</span>
+                <span class="chat-opt">Workflow</span>
+                <span class="chat-opt">Discovery</span>
+                <span class="chat-opt">Automation</span>
+                <span class="chat-opt">Customer Showcase</span>
+              </div>
+            </div>
+            <div style="margin-top:14px;color:var(--text);">Also tell me: <strong>project name</strong>, and whether this is <strong>in-repo</strong> (<code>projects/</code>) or <strong>link-only</strong>.</div>
+          </div>
+        </div>
+      </div>
+      <p class="shot-caption">Screenshot 2 — Phase 1: category + project name intake</p>
+      <figure style="margin:24px 0;">
+        <img src="sample-cursor-intake.png" alt="Sample Cursor agent intake showing category selection" style="width:100%;border-radius:14px;border:1px solid var(--border);">
+        <figcaption class="shot-caption" style="margin-top:8px;">Sample screenshot — category intake in Cursor Agent</figcaption>
+      </figure>
+    </section>
+
+    <!-- DESCRIPTION -->
+    <section class="guide-section">
+      <h2>3. Describe the project</h2>
+      <p class="lead">Public-safe summary — what it does and what problem it solves.</p>
+
+      <div class="shot">
+        <div class="shot-bar"><span class="shot-dot r"></span><span class="shot-dot y"></span><span class="shot-dot g"></span><span class="shot-title">Agent — Description intake</span></div>
+        <div class="shot-body chat">
+          <div class="chat-user">Name: BGP Path Visualizer · Discovery · link-only · generates sanitized TE path diagrams for exec readouts</div>
+          <div class="chat-agent">
+            <strong>Scope lock</strong>
+            <ul style="margin:10px 0 0 18px;color:var(--muted);">
+              <li><strong style="color:var(--text);">Category:</strong> Discovery</li>
+              <li><strong style="color:var(--text);">Name:</strong> BGP Path Visualizer</li>
+              <li><strong style="color:var(--text);">What:</strong> Builds anonymized BGP path HTML reports from TE test data</li>
+              <li><strong style="color:var(--text);">Solves:</strong> Cuts exec briefing prep from hours to minutes</li>
+              <li><strong style="color:var(--text);">Repo:</strong> External link (catalog only)</li>
+              <li><strong style="color:var(--text);">Public-safe:</strong> ✓ No internal URLs or customer data</li>
+            </ul>
+            <div style="margin-top:14px;color:var(--text);"><em>Anything else before I draft the hub preview?</em></div>
+          </div>
+        </div>
+      </div>
+      <p class="shot-caption">Screenshot 3 — Phase 3: scope summary before mockup</p>
+    </section>
+
+    <!-- PREVIEW -->
+    <section class="guide-section">
+      <h2>4. Hub preview mockup</h2>
+      <p class="lead">HTML preview in <code>docs/share-previews/</code> — review before anything goes live.</p>
+
+      <div class="shot">
+        <div class="shot-bar"><span class="shot-dot r"></span><span class="shot-dot y"></span><span class="shot-dot g"></span><span class="shot-title">docs/share-previews/bgp-path-visualizer-preview.html</span></div>
+        <div class="shot-body">
+          <div class="preview-mini">
+            <div class="preview-banner">Share preview — not on the live hub yet</div>
+            <article class="project-card featured" style="margin:0;">
+              <div class="project-header">
+                <div class="project-name">BGP Path Visualizer</div>
+                <span class="badge badge-green">active</span>
+              </div>
+              <span class="badge badge-purple" style="margin-bottom:10px;display:inline-block;">Discovery</span>
+              <p class="project-desc">Builds anonymized BGP path HTML reports from ThousandEyes test data for executive readouts.</p>
+              <div class="project-tags">
+                <span class="tag">bgp</span>
+                <span class="tag">html-reports</span>
+                <span class="tag">discovery</span>
+              </div>
+              <div class="project-footer">
+                <span class="maintainers">@your-username</span>
+                <span><a href="#">Repo</a></span>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+      <p class="shot-caption">Screenshot 4 — Phase 4: catalog card preview (sample)</p>
+      <figure style="margin:24px 0;">
+        <img src="sample-hub-preview.png" alt="Sample hub catalog card preview" style="width:100%;border-radius:14px;border:1px solid var(--border);">
+        <figcaption class="shot-caption" style="margin-top:8px;">Sample screenshot — hub preview mockup</figcaption>
+      </figure>
+
+      <div class="shot">
+        <div class="shot-bar"><span class="shot-dot r"></span><span class="shot-dot y"></span><span class="shot-dot g"></span><span class="shot-title">Agent — Review prompt</span></div>
+        <div class="shot-body chat">
+          <div class="chat-agent">
+            Preview saved to <code>docs/share-previews/bgp-path-visualizer-preview.html</code><br><br>
+            Open locally: <code>cd docs/share-previews && python3 -m http.server 8080</code><br><br>
+            <strong>Please review the preview. What tweaks do you want?</strong>
+          </div>
+          <div class="chat-user" style="margin-top:12px;">Looks good — ready to publish</div>
+        </div>
+      </div>
+      <p class="shot-caption">Screenshot 5 — Phase 5–6: iteration then publish approval</p>
+    </section>
+
+    <!-- ANNOUNCE -->
+    <section class="guide-section">
+      <h2>5. Announce to the group</h2>
+      <p class="lead">After merge, post Discussion + share to GES ASP Webex space.</p>
+
+      <div class="two-col">
+        <div>
+          <div class="shot" style="margin-top:0;">
+            <div class="shot-bar"><span class="shot-dot r"></span><span class="shot-dot y"></span><span class="shot-dot g"></span><span class="shot-title">GitHub Discussion draft</span></div>
+            <div class="shot-body chat" style="font-size:12px;">
+              <strong style="color:var(--text);">[Discovery] BGP Path Visualizer — exec path reports</strong>
+              <p style="margin-top:10px;color:var(--muted);">## Summary<br>Builds anonymized BGP path HTML from TE tests…</p>
+              <p style="margin-top:8px;color:var(--muted);">## Links<br>Hub · Repo · Demo</p>
+            </div>
+          </div>
+          <p class="shot-caption">Screenshot 6a — Discussion draft</p>
+        </div>
+        <div>
+          <div class="shot" style="margin-top:0;">
+            <div class="shot-bar"><span class="shot-dot r"></span><span class="shot-dot y"></span><span class="shot-dot g"></span><span class="shot-title">Webex — GES ASP space</span></div>
+            <div class="shot-body">
+              <div class="webex-block">📢 New on the SE Hub: BGP Path Visualizer
+
+Builds anonymized BGP path HTML reports for exec readouts.
+
+🔗 Hub: baroldbonds12.github.io/ThousandEyes_GES_ASP_SE/
+🔗 GitHub: [repo link]
+
+Ping me for a 5-min walkthrough.</div>
+            </div>
+          </div>
+          <p class="shot-caption">Screenshot 6b — Webex copy-paste block</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- QUICK REF -->
+    <section class="guide-section">
+      <h2>Quick reference</h2>
+      <div class="widget widget-full" style="padding:20px;">
+        <table style="width:100%;font-size:13px;border-collapse:collapse;">
+          <tr style="border-bottom:1px solid var(--border);">
+            <td style="padding:10px 0;color:var(--muted);width:140px;">Trigger</td>
+            <td style="padding:10px 0;"><code>Let's share with the group</code></td>
+          </tr>
+          <tr style="border-bottom:1px solid var(--border);">
+            <td style="padding:10px 0;color:var(--muted);">Cursor skill</td>
+            <td style="padding:10px 0;"><code>@share-with-group</code></td>
+          </tr>
+          <tr style="border-bottom:1px solid var(--border);">
+            <td style="padding:10px 0;color:var(--muted);">Skill file</td>
+            <td style="padding:10px 0;"><code>.cursor/skills/share-with-group/SKILL.md</code></td>
+          </tr>
+          <tr style="border-bottom:1px solid var(--border);">
+            <td style="padding:10px 0;color:var(--muted);">Claude</td>
+            <td style="padding:10px 0;"><code>CLAUDE.md</code> at repo root</td>
+          </tr>
+          <tr>
+            <td style="padding:10px 0;color:var(--muted);">Live hub</td>
+            <td style="padding:10px 0;"><a href="../index.html">baroldbonds12.github.io/ThousandEyes_GES_ASP_SE/</a></td>
+          </tr>
+        </table>
+      </div>
+    </section>
+
+    <footer class="footer" style="margin:0 -24px;border-radius:0;">
+      <span>GES &amp; ASP SE Team Hub · Onboarding</span>
+      <span class="footer-id">share-with-group-guide</span>
+    </footer>
+  </div>
+
+</body>
+</html>
