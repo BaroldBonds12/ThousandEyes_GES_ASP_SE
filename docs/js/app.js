@@ -35,7 +35,6 @@
   let activeTopic = 'all';
   let searchQuery = '';
   let feedUpdatedAt = null;
-  let industryExpanded = false;
 
   function dataUrl(path) {
     return new URL(path, window.location.href).href;
@@ -307,23 +306,32 @@
     setUpdatedLabel('te-updated');
   }
 
-  function initIndustryCollapse() {
-    const toggle = document.getElementById('industry-toggle');
-    const panel = document.getElementById('industry-panel');
-    const section = toggle.closest('.feed-section');
+  function initFeedCollapse(toggleId, panelId, defaultExpanded) {
+    const toggle = document.getElementById(toggleId);
+    const panel = document.getElementById(panelId);
+    if (!toggle || !panel) return;
 
-    function setExpanded(expanded) {
-      industryExpanded = expanded;
+    const section = toggle.closest('.feed-section');
+    let expanded = defaultExpanded;
+
+    function setExpanded(next) {
+      expanded = next;
       section.dataset.collapsed = expanded ? 'false' : 'true';
       toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
       panel.classList.toggle('hidden', !expanded);
     }
 
     toggle.addEventListener('click', function () {
-      setExpanded(!industryExpanded);
+      setExpanded(!expanded);
     });
 
-    setExpanded(false);
+    setExpanded(defaultExpanded);
+  }
+
+  function initFeedCollapses() {
+    initFeedCollapse('industry-toggle', 'industry-panel', false);
+    initFeedCollapse('cisco-toggle', 'cisco-panel', false);
+    initFeedCollapse('te-toggle', 'te-panel', false);
   }
 
   function initSearch() {
@@ -448,7 +456,7 @@
     initSearch();
     initCtaLinks();
     initNavigation();
-    initIndustryCollapse();
+    initFeedCollapses();
     loadDeployInfo();
     loadData();
   });

@@ -110,24 +110,34 @@
             </div>
           </div>
 
-          <div class="widget widget-full feed-section">
-            <div class="widget-header">
-              <h2>Cisco Feed</h2>
+          <div class="widget widget-full feed-section collapsible" data-collapsed="true">
+            <button type="button" class="feed-section-toggle" id="cisco-toggle" aria-expanded="false" aria-controls="cisco-panel">
+              <span class="feed-section-title">
+                <svg class="chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+                Cisco Feed
+              </span>
               <span class="feed-updated" id="cisco-updated"></span>
+            </button>
+            <div id="cisco-panel" class="feed-panel hidden">
+              <p class="widget-desc">Latest articles and announcements from Cisco Blogs and Newsroom.</p>
+              <div id="cisco-list" class="feed-list"></div>
+              <p id="cisco-empty" class="empty-state hidden">No Cisco articles yet.</p>
             </div>
-            <p class="widget-desc">Latest articles and announcements from Cisco Blogs and Newsroom.</p>
-            <div id="cisco-list" class="feed-list"></div>
-            <p id="cisco-empty" class="empty-state hidden">No Cisco articles yet.</p>
           </div>
 
-          <div class="widget widget-full feed-section">
-            <div class="widget-header">
-              <h2>ThousandEyes Feed</h2>
+          <div class="widget widget-full feed-section collapsible" data-collapsed="true">
+            <button type="button" class="feed-section-toggle" id="te-toggle" aria-expanded="false" aria-controls="te-panel">
+              <span class="feed-section-title">
+                <svg class="chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+                ThousandEyes Feed
+              </span>
               <span class="feed-updated" id="te-updated"></span>
+            </button>
+            <div id="te-panel" class="feed-panel hidden">
+              <p class="widget-desc">Recent blog posts and release notes from ThousandEyes.</p>
+              <div id="te-list" class="feed-list"></div>
+              <p id="te-empty" class="empty-state hidden">No ThousandEyes updates yet.</p>
             </div>
-            <p class="widget-desc">Recent blog posts and release notes from ThousandEyes.</p>
-            <div id="te-list" class="feed-list"></div>
-            <p id="te-empty" class="empty-state hidden">No ThousandEyes updates yet.</p>
           </div>
         </section>
 
