@@ -1,0 +1,167 @@
+{
+  "vertical": "Manufacturing",
+  "description": "ThousandEyes capabilities for manufacturing companies including discrete manufacturing, process manufacturing, and industrial IoT",
+  "last_updated": "2026-04-03",
+  "common_requirements": [
+    {
+      "category": "Industrial Operations",
+      "requirement": "Manufacturing execution system (MES) monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors MES applications for availability, performance, and network connectivity across manufacturing facilities.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["mes", "manufacturing", "execution", "scada"]
+    },
+    {
+      "category": "Industrial Operations",
+      "requirement": "SCADA system performance monitoring",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors network connectivity to SCADA systems and application availability but does not monitor SCADA control logic.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["scada", "industrial", "control", "monitoring"]
+    },
+    {
+      "category": "Industrial Operations",
+      "requirement": "IoT device connectivity monitoring",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors network paths to IoT devices and endpoints but does not monitor the IoT devices themselves.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["iot", "devices", "sensors", "connectivity"]
+    },
+    {
+      "category": "Industrial Operations",
+      "requirement": "Production line uptime monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides real-time monitoring of network-dependent production systems with immediate alerting on connectivity issues.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["production", "uptime", "manufacturing", "availability"]
+    },
+    {
+      "category": "Supply Chain",
+      "requirement": "EDI transaction monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors EDI endpoints and B2B integrations through HTTP/API testing for availability and performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["edi", "b2b", "supply chain", "integration"]
+    },
+    {
+      "category": "Supply Chain",
+      "requirement": "ERP system performance (SAP, Oracle)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors SAP, Oracle, and other ERP systems through HTTP/API testing and web transaction monitoring.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["erp", "sap", "oracle", "enterprise"]
+    },
+    {
+      "category": "Supply Chain",
+      "requirement": "Warehouse management system (WMS) monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors WMS applications for availability, response time, and transaction completion across warehouse locations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["wms", "warehouse", "logistics", "inventory"]
+    },
+    {
+      "category": "Network Infrastructure",
+      "requirement": "Multi-site plant network monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides end-to-end network visibility across multiple manufacturing plants with path visualization and performance metrics.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/agent-to-server",
+      "keywords": ["multi-site", "plant", "factory", "wan"]
+    },
+    {
+      "category": "Network Infrastructure",
+      "requirement": "SD-WAN performance monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides SD-WAN monitoring with path selection visibility, performance metrics, and optimization recommendations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/sd-wan",
+      "keywords": ["sd-wan", "network", "optimization", "wan"]
+    },
+    {
+      "category": "Network Infrastructure",
+      "requirement": "Industrial network segmentation monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors network paths across OT/IT segments to ensure proper isolation while validating required connectivity.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["segmentation", "ot", "it", "security"]
+    },
+    {
+      "category": "Cloud & SaaS",
+      "requirement": "Cloud ERP monitoring (SAP S/4HANA Cloud)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors cloud-based ERP systems including SAP S/4HANA Cloud for availability and performance from global locations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["cloud erp", "sap", "s4hana", "saas"]
+    },
+    {
+      "category": "Cloud & SaaS",
+      "requirement": "PLM system monitoring (Autodesk, PTC)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors PLM and CAD applications including Autodesk Fusion and PTC Windchill through synthetic testing.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["plm", "cad", "autodesk", "ptc", "design"]
+    },
+    {
+      "category": "Cloud & SaaS",
+      "requirement": "Microsoft 365 for manufacturing teams",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Microsoft 365 services including Teams, SharePoint, and Outlook for manufacturing user experience.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["microsoft 365", "teams", "collaboration"]
+    },
+    {
+      "category": "Security & Compliance",
+      "requirement": "OT network security monitoring",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors network anomalies and path changes but does not provide OT-specific security analysis; integrates with OT security tools.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/internet-insights",
+      "keywords": ["ot security", "industrial", "security"]
+    },
+    {
+      "category": "Security & Compliance",
+      "requirement": "SOC 2 Type II compliance",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes maintains SOC 2 Type II certification for security controls and practices.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["soc 2", "compliance", "security"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "ServiceNow ITSM integration",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates natively with ServiceNow for automated incident creation and CMDB correlation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/servicenow",
+      "keywords": ["servicenow", "itsm", "integration"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "Splunk SIEM integration",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides native Splunk integration for security monitoring and log correlation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/splunk",
+      "keywords": ["splunk", "siem", "security", "integration"]
+    },
+    {
+      "category": "Deployment",
+      "requirement": "Hybrid deployment (cloud + on-premise agents)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes supports hybrid deployment with cloud platform and on-premise Enterprise Agents in manufacturing facilities.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/agents/enterprise-agents",
+      "keywords": ["hybrid", "deployment", "on-premise"]
+    },
+    {
+      "category": "Deployment",
+      "requirement": "Air-gapped network monitoring",
+      "support_level": "partial",
+      "answer": "Partial. Enterprise Agents can monitor within air-gapped environments but require internet connectivity for reporting to ThousandEyes cloud platform.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/agents/enterprise-agents",
+      "keywords": ["air-gapped", "isolated", "security"]
+    },
+    {
+      "category": "Use Cases",
+      "requirement": "Remote factory worker connectivity",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents monitor remote worker connectivity including VPN, WiFi, and application performance for factory personnel.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["remote worker", "vpn", "connectivity"]
+    }
+  ]
+}

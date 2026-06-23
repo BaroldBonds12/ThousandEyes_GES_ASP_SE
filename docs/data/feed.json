@@ -1,0 +1,317 @@
+{
+  "updatedAt": "2026-06-23T16:19:33.701Z",
+  "items": [
+    {
+      "title": "I automated my job (and it made me a better leader)",
+      "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+      "source": "GitHub Blog",
+      "published": "2026-06-23T16:00:00.000Z",
+      "topics": [
+        "development"
+      ]
+    },
+    {
+      "title": "AI can write the code. Your team still owns the debt.",
+      "url": "https://thenewstack.io/ai-technical-debt-verification/",
+      "source": "The New Stack",
+      "published": "2026-06-23T16:00:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "Log Analytics is now Observability Analytics: Query logs and traces with SQL",
+      "url": "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/",
+      "source": "Google Cloud Blog",
+      "published": "2026-06-23T16:00:00.000Z",
+      "topics": [
+        "networking",
+        "development"
+      ]
+    },
+    {
+      "title": "Verifiable, private AI: Google Cloud expands Confidential Computing frontiers",
+      "url": "https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/",
+      "source": "Google Cloud Blog",
+      "published": "2026-06-23T16:00:00.000Z",
+      "topics": [
+        "networking",
+        "development"
+      ]
+    },
+    {
+      "title": "GitLab just surveyed 1,500 developers. Here’s why it matters for your codebase.",
+      "url": "https://thenewstack.io/agentic-infrastructure-ai-governance/",
+      "source": "The New Stack",
+      "published": "2026-06-23T15:00:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "Can DNS become the basis for AI agent identity?",
+      "url": "https://thenewstack.io/can-dns-become-the-basis-for-ai-agent-identity/",
+      "source": "The New Stack",
+      "published": "2026-06-23T13:00:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "Open models, global networks: How AT&T and GSMA are accelerating telecom innovation with Gemma",
+      "url": "https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma/",
+      "source": "Google Cloud Blog",
+      "published": "2026-06-23T12:00:00.000Z",
+      "topics": [
+        "networking",
+        "development"
+      ]
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "source": "OpenAI Blog",
+      "published": "2026-06-23T00:00:00.000Z",
+      "topics": [
+        "ai",
+        "development"
+      ]
+    },
+    {
+      "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+      "url": "https://thenewstack.io/cursor-acquires-continue-coding/",
+      "source": "The New Stack",
+      "published": "2026-06-22T19:48:42.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "Qodo just shipped cross-repo review. Here’s why it matters for AI-flooded teams.",
+      "url": "https://thenewstack.io/qodo-cross-repo-code-review/",
+      "source": "The New Stack",
+      "published": "2026-06-22T19:42:18.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "How we found a bug in the hyper HTTP library",
+      "url": "https://blog.cloudflare.com/hyper-bug/",
+      "source": "Cloudflare Blog",
+      "published": "2026-06-22T18:00:00.000Z",
+      "topics": [
+        "networking",
+        "observability",
+        "monitoring"
+      ]
+    },
+    {
+      "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+      "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+      "source": "GitHub Blog",
+      "published": "2026-06-22T17:20:31.000Z",
+      "topics": [
+        "development"
+      ]
+    },
+    {
+      "title": "Boost BigQuery with Python: Managed Python UDFs now generally available",
+      "url": "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/",
+      "source": "Google Cloud Blog",
+      "published": "2026-06-22T17:00:00.000Z",
+      "topics": [
+        "networking",
+        "development"
+      ]
+    },
+    {
+      "title": "The Starter Tier for Google AI Studio explained",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
+      "source": "Google Cloud Blog",
+      "published": "2026-06-22T14:00:00.000Z",
+      "topics": [
+        "networking",
+        "development"
+      ]
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI Blog",
+      "published": "2026-06-22T10:00:00.000Z",
+      "topics": [
+        "ai",
+        "development"
+      ]
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI Blog",
+      "published": "2026-06-22T10:00:00.000Z",
+      "topics": [
+        "ai",
+        "development"
+      ]
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source": "OpenAI Blog",
+      "published": "2026-06-22T00:00:00.000Z",
+      "topics": [
+        "ai",
+        "development"
+      ]
+    },
+    {
+      "title": "Using Evaluation Frameworks with Agent Observability",
+      "url": "https://www.datadoghq.com/blog/using-evaluation-frameworks-with-agent-observability/",
+      "source": "Datadog Engineering",
+      "published": "2026-06-22T00:00:00.000Z",
+      "topics": [
+        "observability",
+        "monitoring"
+      ]
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI Blog",
+      "published": "2026-06-21T23:00:00.000Z",
+      "topics": [
+        "ai",
+        "development"
+      ]
+    },
+    {
+      "title": "A public Sentry key is all it takes to hijack Claude Code, Cursor, and Codex",
+      "url": "https://thenewstack.io/agentjacking-sentry-mcp-attack/",
+      "source": "The New Stack",
+      "published": "2026-06-21T17:00:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "Your agent wants to search like a 2010 quant",
+      "url": "https://thenewstack.io/search-like-2010-quant/",
+      "source": "The New Stack",
+      "published": "2026-06-21T16:00:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "“An agent is an LLM and a harness”: What Nvidia really thinks about OpenClaw",
+      "url": "https://thenewstack.io/nvidia-openclaw-agent-blueprints/",
+      "source": "The New Stack",
+      "published": "2026-06-21T15:00:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "Gemini CLI vs. Antigravity: What works, not the spec sheet",
+      "url": "https://thenewstack.io/gemini-cli-antigravity-replacement/",
+      "source": "The New Stack",
+      "published": "2026-06-20T16:00:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "Backporting bug fixes is dead, Project Valkey now  sends in the bots",
+      "url": "https://thenewstack.io/valkey-ai-backporting-agents/",
+      "source": "The New Stack",
+      "published": "2026-06-20T14:21:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "Losing Fable made the best case yet for AI models you can run yourself",
+      "url": "https://thenewstack.io/losing-fable-open-weight-glm/",
+      "source": "The New Stack",
+      "published": "2026-06-20T10:30:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "“Time to clean up human slop”: Why AI now reviews code better than your teammate.",
+      "url": "https://thenewstack.io/ai-code-review-self-review/",
+      "source": "The New Stack",
+      "published": "2026-06-19T17:30:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "How we built an internal data analytics agent",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+      "source": "GitHub Blog",
+      "published": "2026-06-19T16:00:00.000Z",
+      "topics": [
+        "development"
+      ]
+    },
+    {
+      "title": "Checkmarx’s new SAST engine isn’t about the LLM. It’s about what happens after.",
+      "url": "https://thenewstack.io/checkmarx-ai-llm-sast-security/",
+      "source": "The New Stack",
+      "published": "2026-06-19T16:00:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Google Cloud Blog",
+      "published": "2026-06-19T16:00:00.000Z",
+      "topics": [
+        "networking",
+        "development"
+      ]
+    },
+    {
+      "title": "“I think this is costing us more than we realize”: what permissionless ownership really asks of you",
+      "url": "https://thenewstack.io/permissionless-ownership-raising-hand/",
+      "source": "The New Stack",
+      "published": "2026-06-19T14:30:00.000Z",
+      "topics": [
+        "development",
+        "observability",
+        "networking"
+      ]
+    }
+  ]
+}

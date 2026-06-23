@@ -1,0 +1,231 @@
+{
+  "vertical": "Retail & E-commerce",
+  "description": "ThousandEyes capabilities for retail chains, e-commerce platforms, omnichannel retailers, and consumer brands",
+  "last_updated": "2026-04-03",
+  "common_requirements": [
+    {
+      "category": "E-commerce Platform",
+      "requirement": "E-commerce platform monitoring (Shopify, Magento, WooCommerce)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors e-commerce platforms including Shopify, Magento, and WooCommerce for availability and performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["ecommerce", "shopify", "magento", "woocommerce"]
+    },
+    {
+      "category": "E-commerce Platform",
+      "requirement": "Shopping cart and checkout monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors complete shopping flows including cart operations, checkout process, and payment completion through transaction testing.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/web-transactions",
+      "keywords": ["shopping cart", "checkout", "transaction", "monitoring"]
+    },
+    {
+      "category": "E-commerce Platform",
+      "requirement": "Product catalog and search performance",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors product catalog loading, search functionality, and API response times for e-commerce platforms.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["product catalog", "search", "performance", "ecommerce"]
+    },
+    {
+      "category": "Payment Processing",
+      "requirement": "Payment gateway monitoring (Stripe, PayPal, Square, Adyen)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors payment gateway APIs for availability, response time, and transaction success rates.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["payment", "stripe", "paypal", "square", "adyen"]
+    },
+    {
+      "category": "Payment Processing",
+      "requirement": "PCI DSS compliance support",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes maintains SOC 2 Type II certification; PCI DSS compliance requires additional security controls and validation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["pci dss", "compliance", "security", "payment"]
+    },
+    {
+      "category": "Omnichannel",
+      "requirement": "Point-of-sale (POS) system connectivity",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors POS system connectivity and transaction processing across retail locations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["pos", "point of sale", "retail", "connectivity"]
+    },
+    {
+      "category": "Omnichannel",
+      "requirement": "Buy online, pickup in-store (BOPIS) monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors BOPIS workflows including order placement, inventory lookup, and pickup notifications.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/web-transactions",
+      "keywords": ["bopis", "click and collect", "omnichannel", "pickup"]
+    },
+    {
+      "category": "Omnichannel",
+      "requirement": "Inventory management system monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors inventory management systems for availability and API response times across locations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["inventory", "management", "stock", "monitoring"]
+    },
+    {
+      "category": "Store Operations",
+      "requirement": "Multi-location store network monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides end-to-end network monitoring across retail locations with WAN and application performance visibility.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["multi-location", "store", "retail", "network"]
+    },
+    {
+      "category": "Store Operations",
+      "requirement": "Store WiFi performance for staff and customers",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents monitor WiFi performance including signal strength, roaming, and application connectivity in stores.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["wifi", "wireless", "store", "retail"]
+    },
+    {
+      "category": "CDN & Performance",
+      "requirement": "CDN performance monitoring for product images/videos",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors CDN performance including cache efficiency, load times, and content delivery for retail media.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["cdn", "images", "video", "content delivery"]
+    },
+    {
+      "category": "CDN & Performance",
+      "requirement": "Website page load time monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors page load times including DOM load, resource loading, and user experience metrics globally.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/page-load",
+      "keywords": ["page load", "performance", "website", "speed"]
+    },
+    {
+      "category": "CDN & Performance",
+      "requirement": "Mobile app API performance monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors mobile app backend APIs for availability, response time, and error rates.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["mobile app", "api", "performance", "monitoring"]
+    },
+    {
+      "category": "Third-Party Services",
+      "requirement": "Third-party marketplace integration (Amazon, eBay, Walmart)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors marketplace API integrations for order sync, inventory updates, and fulfillment workflows.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["marketplace", "amazon", "ebay", "walmart", "integration"]
+    },
+    {
+      "category": "Third-Party Services",
+      "requirement": "Shipping carrier API monitoring (FedEx, UPS, USPS)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors shipping carrier APIs for tracking, label generation, and rate calculation availability.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["shipping", "fedex", "ups", "usps", "carrier"]
+    },
+    {
+      "category": "Third-Party Services",
+      "requirement": "Marketing platform monitoring (Google Ads, Meta)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors marketing platform APIs including Google Ads and Meta for campaign management and tracking.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["marketing", "google ads", "meta", "facebook", "advertising"]
+    },
+    {
+      "category": "Peak Season",
+      "requirement": "Black Friday/Cyber Monday scalability monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides high-frequency monitoring during peak events with capacity for increased test frequency and alerting.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["black friday", "cyber monday", "peak season", "scalability"]
+    },
+    {
+      "category": "Peak Season",
+      "requirement": "Load testing and capacity planning support",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors production performance and provides baseline metrics for capacity planning but does not perform load testing.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["load testing", "capacity", "planning", "performance"]
+    },
+    {
+      "category": "Customer Experience",
+      "requirement": "Real user monitoring (RUM) for customer journeys",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents provide real user monitoring capturing actual customer experience and conversion funnel performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["rum", "real user", "customer journey", "experience"]
+    },
+    {
+      "category": "Customer Experience",
+      "requirement": "Geographic performance monitoring (US, EU, APAC)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors performance from 193+ global locations across all major regions for geographic visibility.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/agents",
+      "keywords": ["geographic", "global", "regional", "performance"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "Salesforce Commerce Cloud monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Salesforce Commerce Cloud for availability, performance, and transaction completion.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["salesforce", "commerce cloud", "ecommerce", "monitoring"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "Slack/Microsoft Teams alerting",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes sends real-time alerts to Slack and Microsoft Teams through native integrations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/alerts",
+      "keywords": ["slack", "teams", "alerting", "collaboration"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "PagerDuty incident management",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates with PagerDuty for automated incident creation and on-call escalation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides",
+      "keywords": ["pagerduty", "incident", "alerting", "escalation"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "requirement": "Conversion funnel performance analysis",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors each step of conversion funnels with transaction testing and provides detailed performance breakdowns.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/web-transactions",
+      "keywords": ["conversion", "funnel", "analytics", "performance"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "requirement": "SLA reporting for uptime guarantees",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides SLA reporting with uptime calculations, availability metrics, and historical trend analysis.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/reports",
+      "keywords": ["sla", "uptime", "reporting", "availability"]
+    },
+    {
+      "category": "Security",
+      "requirement": "DDoS detection and alerting",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes detects performance degradation during DDoS attacks and identifies network path issues but does not provide DDoS mitigation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/internet-insights",
+      "keywords": ["ddos", "security", "attack", "detection"]
+    },
+    {
+      "category": "Security",
+      "requirement": "SSL/TLS certificate monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors SSL/TLS certificates for validity, expiration, and handshake performance with proactive alerting.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["ssl", "tls", "certificate", "security"]
+    },
+    {
+      "category": "Support",
+      "requirement": "24/7 technical support during peak retail periods",
+      "support_level": "yes",
+      "answer": "Yes. Cisco provides 24/7 technical support with tiered response times based on severity level.",
+      "source_url": "https://www.thousandeyes.com/support",
+      "keywords": ["support", "24/7", "technical", "assistance"]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "vertical": "Government & Public Sector",
+  "description": "ThousandEyes capabilities for federal, state, and local government agencies, public safety, defense, and civic services",
+  "last_updated": "2026-04-03",
+  "common_requirements": [
+    {
+      "category": "Compliance & Security",
+      "requirement": "FedRAMP certification",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes maintains SOC 2 Type II certification; FedRAMP authorization requires agency-specific assessment and deployment.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["fedramp", "federal", "compliance", "certification"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "FISMA compliance support",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes provides security controls and documentation supporting FISMA compliance; specific ATO process required per agency.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["fisma", "compliance", "federal", "ato"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "StateRAMP certification for state governments",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes security controls align with StateRAMP requirements; specific state authorization process applies.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["stateramp", "state government", "compliance"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "CJIS compliance for law enforcement",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes provides encryption and access controls; CJIS compliance requires specific deployment configuration and security agreements.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["cjis", "law enforcement", "compliance", "criminal justice"]
+    },
+    {
+      "category": "Citizen Services",
+      "requirement": "Public-facing website monitoring (gov websites)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors government websites for availability, performance, and user experience from global and domestic locations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["government website", "public facing", "citizen services"]
+    },
+    {
+      "category": "Citizen Services",
+      "requirement": "Online permit and licensing system monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors permit, licensing, and application portals with transaction testing for submission workflows.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/web-transactions",
+      "keywords": ["permit", "licensing", "application", "portal"]
+    },
+    {
+      "category": "Citizen Services",
+      "requirement": "311/411 service portal monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors citizen service portals for availability, response time, and case submission performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["311", "411", "citizen services", "portal"]
+    },
+    {
+      "category": "Public Safety",
+      "requirement": "Emergency services network monitoring (FirstNet)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors FirstNet and public safety networks for availability and performance with priority alerting.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["firstnet", "emergency", "public safety", "network"]
+    },
+    {
+      "category": "Public Safety",
+      "requirement": "911 dispatch system connectivity",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors 911 dispatch system connectivity and network paths with critical alerting capabilities.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["911", "dispatch", "emergency", "psap"]
+    },
+    {
+      "category": "Public Safety",
+      "requirement": "Law enforcement CAD/RMS system monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Computer-Aided Dispatch and Records Management Systems for availability and response time.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["cad", "rms", "law enforcement", "police"]
+    },
+    {
+      "category": "Infrastructure",
+      "requirement": "Multi-site government facility network monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides end-to-end network visibility across government facilities with WAN and application performance monitoring.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["multi-site", "facility", "network", "government"]
+    },
+    {
+      "category": "Infrastructure",
+      "requirement": "Cloud migration monitoring (AWS GovCloud, Azure Government)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors AWS GovCloud and Azure Government deployments with cloud agents and performance validation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/cloud-integration",
+      "keywords": ["cloud migration", "aws govcloud", "azure government"]
+    },
+    {
+      "category": "Infrastructure",
+      "requirement": "Legacy system modernization monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors both legacy and modern systems during migration with comparative performance analysis.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["legacy", "modernization", "migration", "monitoring"]
+    },
+    {
+      "category": "Defense & Federal",
+      "requirement": "DoD network monitoring",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes can monitor unclassified DoD networks; classified networks require specialized deployment and security clearances.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["dod", "defense", "military", "network"]
+    },
+    {
+      "category": "Defense & Federal",
+      "requirement": "Secure government communication monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors secure communication platforms with encryption and access controls for government use.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["secure communications", "encrypted", "government"]
+    },
+    {
+      "category": "Healthcare (VA/Public Health)",
+      "requirement": "VA healthcare system monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors VA healthcare applications including VistA, Cerner Millennium, and patient portals.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["va", "veterans affairs", "healthcare", "vista"]
+    },
+    {
+      "category": "Healthcare (VA/Public Health)",
+      "requirement": "Public health information system monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors public health systems including disease surveillance, immunization registries, and reporting platforms.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["public health", "surveillance", "immunization", "monitoring"]
+    },
+    {
+      "category": "Elections & Voting",
+      "requirement": "Voter registration system monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors voter registration portals for availability and performance during critical registration periods.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["voter registration", "elections", "voting", "monitoring"]
+    },
+    {
+      "category": "Elections & Voting",
+      "requirement": "Election results reporting system monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors election results reporting platforms with high-frequency testing during election events.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["election results", "voting", "reporting", "monitoring"]
+    },
+    {
+      "category": "Tax & Revenue",
+      "requirement": "Tax filing system monitoring (IRS, state revenue)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors tax filing platforms for availability and performance during peak filing seasons.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["tax", "irs", "revenue", "filing"]
+    },
+    {
+      "category": "Tax & Revenue",
+      "requirement": "Payment processing for government fees",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors government payment gateways and fee collection systems for transaction completion.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["payment", "fees", "revenue", "processing"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "ServiceNow for government IT service management",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates with ServiceNow for automated incident management and ITSM workflows.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/servicenow",
+      "keywords": ["servicenow", "itsm", "government", "integration"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "Splunk for security and compliance monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates with Splunk for security monitoring, log correlation, and compliance reporting.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/splunk",
+      "keywords": ["splunk", "siem", "security", "compliance"]
+    },
+    {
+      "category": "Accessibility",
+      "requirement": "Section 508 accessibility compliance monitoring",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors website availability and performance but does not validate Section 508 accessibility standards.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["section 508", "accessibility", "compliance", "ada"]
+    },
+    {
+      "category": "Data Sovereignty",
+      "requirement": "Data residency within US borders",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes offers US-based cloud infrastructure and can configure data to remain within US borders for compliance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["data residency", "sovereignty", "us", "compliance"]
+    },
+    {
+      "category": "Deployment",
+      "requirement": "Air-gapped network monitoring for classified systems",
+      "support_level": "partial",
+      "answer": "Partial. Enterprise Agents can monitor within air-gapped environments but require secure data path for reporting to platform.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/agents/enterprise-agents",
+      "keywords": ["air-gapped", "classified", "isolated", "secure"]
+    },
+    {
+      "category": "Procurement",
+      "requirement": "GSA Schedule availability",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes is available through Cisco's GSA Schedule for federal government procurement.",
+      "source_url": "https://www.thousandeyes.com",
+      "keywords": ["gsa schedule", "procurement", "federal", "contract"]
+    },
+    {
+      "category": "Support",
+      "requirement": "US-based support staff with security clearances",
+      "support_level": "partial",
+      "answer": "Partial. Cisco provides US-based support; clearance requirements depend on specific agency needs and contract terms.",
+      "source_url": "https://www.thousandeyes.com/support",
+      "keywords": ["us support", "clearance", "security", "government"]
+    }
+  ]
+}

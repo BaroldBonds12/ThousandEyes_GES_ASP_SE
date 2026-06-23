@@ -1,0 +1,81 @@
+name: New Project
+description: Propose a new tool or showcase artifact for the SE hub
+title: "[Project]: "
+labels: ["project-proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing a project! This repo is **public** — do not include internal URLs, credentials, or customer data.
+
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+      placeholder: e.g. BGP Path Visualizer
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - workproduct
+        - workflow
+        - discovery
+        - automation
+        - showcase
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: One or two sentences — public-safe only
+      placeholder: What does it do and who is it for?
+    id: description
+    validations:
+      required: true
+
+  - type: input
+    id: repo
+    attributes:
+      label: Repository or path
+      description: GitHub repo link or path within this repo (e.g. projects/my-tool)
+      placeholder: BaroldBonds12/ThousandEyes_GES_ASP_SE/tree/main/projects/my-tool
+    validations:
+      required: true
+
+  - type: input
+    id: demo
+    attributes:
+      label: Demo link (optional)
+      placeholder: Public demo URL or null
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags
+      placeholder: rfp, automation, thousandeyes-api
+
+  - type: input
+    id: maintainer
+    attributes:
+      label: Maintainer GitHub username
+      placeholder: "@your-username"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Public-safe checklist
+      options:
+        - label: No internal hostnames or private deployment URLs
+          required: true
+        - label: No API tokens, .env values, or customer names
+          required: true
+        - label: Description is accurate and suitable for a public audience
+          required: true

@@ -1,0 +1,1229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Customer Questionnaire Crusher — Product Overview</title>
+<style>
+:root {
+  --bg: #0d1117;
+  --surface: #161b22;
+  --surface2: #1c2330;
+  --border: #30363d;
+  --text: #e6edf3;
+  --muted: #8b949e;
+  --accent: #58a6ff;
+  --critical: #f85149;
+  --warning: #e3b341;
+  --success: #3fb950;
+  --ms-blue: #0078d4;
+  --purple: #bc8cff;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+}
+a { color: var(--accent); text-decoration: none; }
+
+/* ── Layout ─────────────────────────────────────────────────── */
+.container { max-width: 1160px; margin: 0 auto; padding: 32px 40px; }
+.section { margin-bottom: 48px; }
+.section-title {
+  font-size: 11px; letter-spacing: 1.4px; text-transform: uppercase;
+  color: var(--muted); border-bottom: 1px solid var(--border);
+  padding-bottom: 10px; margin-bottom: 24px; display: flex; align-items: center; gap: 8px;
+}
+
+/* ── Banner ──────────────────────────────────────────────────── */
+.banner {
+  background: linear-gradient(135deg, #0f1923 0%, #1a2535 50%, #0f1923 100%);
+  border-bottom: 1px solid var(--border);
+  padding: 40px 40px 32px;
+  position: relative;
+  overflow: hidden;
+}
+.banner::before {
+  content: '';
+  position: absolute; top: -60px; right: -60px;
+  width: 300px; height: 300px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(88,166,255,.10) 0%, transparent 70%);
+  pointer-events: none;
+}
+.brand-line {
+  display: flex; align-items: center; gap: 10px; margin-bottom: 14px;
+}
+.brand-dot {
+  width: 10px; height: 10px; border-radius: 50%;
+  background: var(--accent); box-shadow: 0 0 8px var(--accent);
+}
+.brand-label {
+  font-size: 11px; color: var(--muted); letter-spacing: 1.6px; text-transform: uppercase;
+}
+.banner h1 {
+  font-size: 32px; font-weight: 700; color: #fff; margin-bottom: 10px;
+}
+.banner h1 span { color: var(--accent); }
+.banner .tagline {
+  font-size: 15px; color: var(--muted); margin-bottom: 20px; max-width: 640px;
+}
+.meta-row { display: flex; gap: 28px; flex-wrap: wrap; margin-bottom: 20px; }
+.meta-item { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 6px; }
+.meta-item strong { color: var(--text); font-size: 13px; }
+.badges { display: flex; gap: 10px; flex-wrap: wrap; }
+.badge-pill {
+  padding: 5px 14px; border-radius: 20px; font-size: 11px; font-weight: 600;
+}
+.pill-blue   { background: rgba(88,166,255,.15); border: 1px solid rgba(88,166,255,.4); color: var(--accent); }
+.pill-green  { background: rgba(63,185,80,.15);  border: 1px solid rgba(63,185,80,.4);  color: var(--success); }
+.pill-purple { background: rgba(188,140,255,.15);border: 1px solid rgba(188,140,255,.4);color: var(--purple); }
+.pill-yellow { background: rgba(227,179,65,.15); border: 1px solid rgba(227,179,65,.4); color: var(--warning); }
+
+/* ── KPI cards ───────────────────────────────────────────────── */
+.kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 16px; }
+.kpi-card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 12px; padding: 20px 18px; position: relative; overflow: hidden;
+  transition: transform .15s, border-color .15s;
+}
+.kpi-card:hover { transform: translateY(-2px); border-color: var(--accent); }
+.kpi-card::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+}
+.kpi-card.blue::before   { background: var(--accent); }
+.kpi-card.green::before  { background: var(--success); }
+.kpi-card.yellow::before { background: var(--warning); }
+.kpi-card.purple::before { background: var(--purple); }
+.kpi-card.red::before    { background: var(--critical); }
+.kpi-label {
+  font-size: 11px; color: var(--muted); text-transform: uppercase;
+  letter-spacing: .8px; margin-bottom: 8px;
+}
+.kpi-value {
+  font-size: 36px; font-weight: 800;
+  background: linear-gradient(135deg, #fff 0%, var(--accent) 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+.kpi-value.green  { background: linear-gradient(135deg,#fff,var(--success)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+.kpi-value.purple { background: linear-gradient(135deg,#fff,var(--purple));  -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+.kpi-value.yellow { background: linear-gradient(135deg,#fff,var(--warning)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+.kpi-sub { font-size: 11px; color: var(--muted); margin-top: 6px; }
+
+/* ── Feature cards ───────────────────────────────────────────── */
+.feat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+.feat-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+  padding: 22px 20px; transition: border-color .15s, transform .15s;
+}
+.feat-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.feat-icon { font-size: 26px; margin-bottom: 12px; }
+.feat-title { font-size: 14px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+.feat-desc  { font-size: 12px; color: var(--muted); line-height: 1.65; }
+.feat-tags  { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 12px; }
+.feat-tag {
+  font-size: 10px; font-weight: 600; padding: 2px 9px; border-radius: 10px;
+  background: rgba(88,166,255,.12); border: 1px solid rgba(88,166,255,.25); color: var(--accent);
+}
+.feat-tag.g { background: rgba(63,185,80,.12); border-color: rgba(63,185,80,.25); color: var(--success); }
+.feat-tag.p { background: rgba(188,140,255,.12); border-color: rgba(188,140,255,.25); color: var(--purple); }
+.feat-tag.y { background: rgba(227,179,65,.12); border-color: rgba(227,179,65,.25); color: var(--warning); }
+
+/* ── Use-case table ──────────────────────────────────────────── */
+.table-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+table { width: 100%; border-collapse: collapse; }
+thead { background: var(--surface2); }
+th { padding: 12px 16px; font-size: 11px; letter-spacing: .8px; text-transform: uppercase; color: var(--muted); font-weight: 600; text-align: left; }
+td { padding: 12px 16px; font-size: 13px; border-top: 1px solid var(--border); vertical-align: top; }
+tr:hover td { background: rgba(88,166,255,.04); }
+.badge { padding: 2px 10px; border-radius: 10px; font-size: 11px; font-weight: 600; }
+.badge-blue   { background: rgba(88,166,255,.15); color: var(--accent); }
+.badge-green  { background: rgba(63,185,80,.15);  color: var(--success); }
+.badge-purple { background: rgba(188,140,255,.15);color: var(--purple); }
+.badge-yellow { background: rgba(227,179,65,.15); color: var(--warning); }
+
+/* ── Architecture diagrams ───────────────────────────────────── */
+.arch-wrap {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 14px; overflow: hidden; margin-bottom: 24px;
+}
+.arch-header {
+  background: var(--surface2); border-bottom: 1px solid var(--border);
+  padding: 16px 20px; display: flex; justify-content: space-between; align-items: center;
+}
+.arch-header-title { font-size: 14px; font-weight: 700; color: var(--text); }
+.arch-header-sub   { font-size: 12px; color: var(--muted); }
+.arch-body { background: #090d14; }
+svg text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+
+/* ── Timeline ────────────────────────────────────────────────── */
+.tl-container { padding-left: 28px; position: relative; }
+.tl-container::before {
+  content: ''; position: absolute; left: 9px; top: 0; bottom: 0; width: 2px;
+  background: linear-gradient(to bottom, var(--accent), var(--success));
+  border-radius: 2px;
+}
+.tl-item { position: relative; margin-bottom: 24px; padding-left: 20px; }
+.tl-dot {
+  position: absolute; left: -28px; top: 3px;
+  width: 14px; height: 14px; border-radius: 50%;
+  border: 2px solid var(--bg);
+}
+.tl-dot.start  { background: var(--warning); }
+.tl-dot.middle { background: var(--critical); }
+.tl-dot.active { background: var(--accent); }
+.tl-dot.end    { background: var(--success); }
+.tl-step  { font-size: 11px; font-weight: 700; color: var(--accent); letter-spacing: .8px; text-transform: uppercase; }
+.tl-title { font-size: 13px; font-weight: 600; color: var(--text); margin: 2px 0 4px; }
+.tl-desc  { font-size: 12px; color: var(--muted); }
+
+/* ── Tech stack ──────────────────────────────────────────────── */
+.tech-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; }
+.tech-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+  padding: 16px 18px; display: flex; align-items: flex-start; gap: 14px;
+  transition: border-color .15s;
+}
+.tech-card:hover { border-color: var(--accent); }
+.tech-icon { font-size: 24px; line-height: 1; }
+.tech-name  { font-size: 13px; font-weight: 700; color: var(--text); }
+.tech-role  { font-size: 11px; color: var(--muted); margin-top: 3px; }
+.tech-ver   { font-size: 10px; color: var(--accent); margin-top: 5px; font-weight: 600; }
+
+/* ── Highlight box ───────────────────────────────────────────── */
+.hl-box {
+  background: rgba(88,166,255,.06); border: 1px solid rgba(88,166,255,.2);
+  border-radius: 10px; padding: 18px 22px; margin-bottom: 20px;
+}
+.hl-title { font-weight: 700; font-size: 13px; color: var(--accent); margin-bottom: 6px; }
+.hl-box p { font-size: 13px; color: var(--muted); line-height: 1.7; }
+
+/* ── Rec list ────────────────────────────────────────────────── */
+.rec-list { display: flex; flex-direction: column; gap: 12px; }
+.rec-item {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 10px; padding: 16px 18px; display: flex; align-items: flex-start; gap: 14px;
+}
+.rec-num {
+  width: 28px; height: 28px; border-radius: 50%; flex-shrink: 0;
+  background: rgba(88,166,255,.15); border: 1px solid rgba(88,166,255,.35);
+  color: var(--accent); font-size: 12px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+}
+.rec-title { font-size: 13px; font-weight: 600; color: var(--text); }
+.rec-desc  { font-size: 12px; color: var(--muted); margin-top: 3px; }
+
+/* ── Footer ──────────────────────────────────────────────────── */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 40px;
+  display: flex; justify-content: space-between; align-items: center;
+  flex-wrap: wrap; gap: 10px;
+}
+footer .left  { font-size: 12px; color: var(--muted); }
+footer .left strong { color: var(--accent); }
+footer .right { font-family: 'Menlo', 'Monaco', monospace; font-size: 11px; color: var(--muted); }
+
+/* ── Priority chain diagram ──────────────────────────────────── */
+.chain {
+  display: flex; align-items: center; gap: 0; flex-wrap: nowrap;
+  overflow-x: auto; padding: 20px 24px;
+}
+.chain-node {
+  background: var(--surface2); border: 1px solid var(--border);
+  border-radius: 10px; padding: 14px 18px; min-width: 140px; text-align: center;
+  flex-shrink: 0;
+}
+.chain-node.active { border-color: var(--accent); background: rgba(88,166,255,.08); }
+.chain-node.warn   { border-color: var(--warning); background: rgba(227,179,65,.08); }
+.chain-node.succ   { border-color: var(--success); background: rgba(63,185,80,.08); }
+.chain-node .cn-icon { font-size: 22px; margin-bottom: 6px; }
+.chain-node .cn-title { font-size: 12px; font-weight: 700; color: var(--text); }
+.chain-node .cn-sub   { font-size: 10px; color: var(--muted); margin-top: 3px; }
+.chain-arrow {
+  font-size: 18px; color: var(--muted); padding: 0 8px; flex-shrink: 0;
+}
+</style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════════════════
+     BANNER
+══════════════════════════════════════════════════════════════ -->
+<div class="banner">
+  <div class="brand-line">
+    <div class="brand-dot"></div>
+    <span class="brand-label">Cisco ThousandEyes  ·  Solution Engineering Tool</span>
+  </div>
+  <h1>Customer Questionnaire <span>Crusher</span></h1>
+  <p class="tagline">
+    100 % local AI — automatically reads customer questionnaires, fetches answers directly from
+    <strong>docs.thousandeyes.com</strong>, and produces a professional Word response document.
+    No API keys. No cloud. No data leaves the machine.
+  </p>
+  <div class="meta-row">
+    <div class="meta-item">📦 <strong>v2</strong> Latest</div>
+    <div class="meta-item">🐍 <strong>Python 3.12</strong></div>
+    <div class="meta-item">🍎 <strong>macOS</strong> arm64 / x86_64</div>
+    <div class="meta-item">🤖 <strong>Ollama</strong> local inference</div>
+    <div class="meta-item">📄 <strong>Word + Excel</strong> output</div>
+  </div>
+  <div class="badges">
+    <span class="badge-pill pill-green">✅ Air-gapped friendly</span>
+    <span class="badge-pill pill-blue">🔒 No external API</span>
+    <span class="badge-pill pill-purple">⚡ Intelligent caching</span>
+    <span class="badge-pill pill-yellow">📚 Docs-grounded answers</span>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════
+     MAIN CONTENT
+══════════════════════════════════════════════════════════════ -->
+<div class="container">
+
+  <!-- ── KPI Summary ──────────────────────────────────────────── -->
+  <div class="section">
+    <div class="section-title">📊 At a Glance</div>
+    <div class="kpi-grid">
+      <div class="kpi-card blue">
+        <div class="kpi-label">Supported Formats</div>
+        <div class="kpi-value">5</div>
+        <div class="kpi-sub">xlsx · csv · docx · pdf · txt</div>
+      </div>
+      <div class="kpi-card green">
+        <div class="kpi-label">Answer Priority Tiers</div>
+        <div class="kpi-value green">3</div>
+        <div class="kpi-sub">Corrections → Cache → Fresh AI</div>
+      </div>
+      <div class="kpi-card purple">
+        <div class="kpi-label">Doc Pages per Question</div>
+        <div class="kpi-value purple">5</div>
+        <div class="kpi-sub">Fetched from docs.thousandeyes.com</div>
+      </div>
+      <div class="kpi-card yellow">
+        <div class="kpi-label">Cache TTL</div>
+        <div class="kpi-value yellow">7d</div>
+        <div class="kpi-sub">Auto-refreshed after expiry</div>
+      </div>
+      <div class="kpi-card blue">
+        <div class="kpi-label">Output Files</div>
+        <div class="kpi-value">2</div>
+        <div class="kpi-sub">Word response + Excel Q&A summary</div>
+      </div>
+      <div class="kpi-card green">
+        <div class="kpi-label">Chars per Doc Page</div>
+        <div class="kpi-value green">5.5k</div>
+        <div class="kpi-sub">Max context fed to LLM per page</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Features ─────────────────────────────────────────────── -->
+  <div class="section">
+    <div class="section-title">✨ Key Features</div>
+    <div class="feat-grid">
+
+      <div class="feat-card">
+        <div class="feat-icon">📂</div>
+        <div class="feat-title">Multi-Format File Parsing</div>
+        <div class="feat-desc">
+          Accepts Excel workbooks (RFP matrices), CSV files, Word documents, PDFs, and plain text.
+          Intelligently extracts questions from cells ending in "?", dedicated "Question" columns,
+          "Q:" prefixed lines, and structured RFP requirement rows.
+        </div>
+        <div class="feat-tags">
+          <span class="feat-tag">.xlsx</span><span class="feat-tag">.docx</span>
+          <span class="feat-tag">.pdf</span><span class="feat-tag">.csv</span>
+          <span class="feat-tag">.txt</span>
+        </div>
+      </div>
+
+      <div class="feat-card">
+        <div class="feat-icon">🌐</div>
+        <div class="feat-title">Live ThousandEyes Docs Fetching</div>
+        <div class="feat-desc">
+          For every question, the app searches docs.thousandeyes.com via DuckDuckGo
+          (<code>site:</code> operator) and the MkDocs search index JSON. Up to 5 real
+          content pages are fetched and stripped to main body text — no search stubs,
+          no nav links — then injected as context for the LLM.
+        </div>
+        <div class="feat-tags">
+          <span class="feat-tag g">Real pages only</span>
+          <span class="feat-tag">DuckDuckGo</span>
+          <span class="feat-tag">MkDocs index</span>
+        </div>
+      </div>
+
+      <div class="feat-card">
+        <div class="feat-icon">🤖</div>
+        <div class="feat-title">Local LLM Inference (Ollama)</div>
+        <div class="feat-desc">
+          Answers are generated entirely on-device using Ollama. Supports any model
+          available via <code>ollama pull</code> — llama3.2, phi3:mini, llama3.1:8b,
+          mistral, and qwen2.5:7b are recommended and pre-listed. The model selector
+          auto-populates with whatever is installed.
+        </div>
+        <div class="feat-tags">
+          <span class="feat-tag g">No API keys</span>
+          <span class="feat-tag g">Air-gapped</span>
+          <span class="feat-tag p">llama3.2</span>
+        </div>
+      </div>
+
+      <div class="feat-card">
+        <div class="feat-icon">⚡</div>
+        <div class="feat-title">Three-Tier Answer Priority</div>
+        <div class="feat-desc">
+          Every question passes through three resolution layers:
+          <strong>User Corrections</strong> (permanent, fuzzy-matched at ≥80% similarity) →
+          <strong>LLM Cache</strong> (7-day TTL, near-instant) →
+          <strong>Fresh Inference</strong> (live doc fetch + Ollama). This minimises
+          redundant AI calls while keeping answers up to date.
+        </div>
+        <div class="feat-tags">
+          <span class="feat-tag y">⭐ Corrections</span>
+          <span class="feat-tag">⚡ Cache</span>
+          <span class="feat-tag p">🤖 Fresh</span>
+        </div>
+      </div>
+
+      <div class="feat-card">
+        <div class="feat-icon">🗂️</div>
+        <div class="feat-title">Spreadsheet Review &amp; Edit UI</div>
+        <div class="feat-desc">
+          After processing, results appear in a 3-column scrollable spreadsheet
+          (Question | Answer | Source URL). Every cell is directly editable — including
+          RFP cards. Scroll arrows and two-finger trackpad scrolling are fully supported on macOS.
+        </div>
+        <div class="feat-tags">
+          <span class="feat-tag">Inline editing</span>
+          <span class="feat-tag g">Source URLs</span>
+          <span class="feat-tag">Trackpad scroll</span>
+        </div>
+      </div>
+
+      <div class="feat-card">
+        <div class="feat-icon">📄</div>
+        <div class="feat-title">Professional Word Output</div>
+        <div class="feat-desc">
+          Generates a branded Word document matching the ThousandEyes RFP response style:
+          cover page, dynamic customer name, disclaimers, and a 4-column Q&A table
+          (# | Question | ThousandEyes Response | Source URL) with blue headers,
+          alternating rows, and hyperlinked source URLs.
+        </div>
+        <div class="feat-tags">
+          <span class="feat-tag">Cover page</span>
+          <span class="feat-tag p">Branded styling</span>
+          <span class="feat-tag g">Hyperlinks</span>
+        </div>
+      </div>
+
+      <div class="feat-card">
+        <div class="feat-icon">📊</div>
+        <div class="feat-title">Excel Q&amp;A Companion File</div>
+        <div class="feat-desc">
+          A companion Excel workbook (Question | Answer | Source URL) is auto-generated
+          alongside every Word document. It also feeds the persistent QA reference cache,
+          which the LLM reads as additional context on future runs — answers get more
+          accurate the more the tool is used.
+        </div>
+        <div class="feat-tags">
+          <span class="feat-tag g">Self-improving</span>
+          <span class="feat-tag">Q|A|URL</span>
+          <span class="feat-tag">openpyxl</span>
+        </div>
+      </div>
+
+      <div class="feat-card">
+        <div class="feat-icon">🔗</div>
+        <div class="feat-title">URL Enrichment for Cached Answers</div>
+        <div class="feat-desc">
+          When an answer is served from cache but its source URL is missing or stale,
+          a parallel URL-only lookup (no full page fetch) finds the first matching real
+          docs.thousandeyes.com content page, updates the question dict, and writes the
+          URL back to disk — so every future run is instantly enriched.
+        </div>
+        <div class="feat-tags">
+          <span class="feat-tag">Parallel lookup</span>
+          <span class="feat-tag g">Real pages only</span>
+          <span class="feat-tag">Cache write-back</span>
+        </div>
+      </div>
+
+      <div class="feat-card">
+        <div class="feat-icon">🎭</div>
+        <div class="feat-title">Vizzy Mascot &amp; Live Status</div>
+        <div class="feat-desc">
+          Vizzy — a cartoon orange robot drawn entirely in PIL — provides real-time
+          contextual feedback: startup greetings, ETA estimates for long runs,
+          "done" celebrations, and warning states. He blinks on a randomised timer
+          and changes expression to match the app state.
+        </div>
+        <div class="feat-tags">
+          <span class="feat-tag p">PIL-rendered</span>
+          <span class="feat-tag">ETA estimates</span>
+          <span class="feat-tag">8 expressions</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── Use Cases ─────────────────────────────────────────────── -->
+  <div class="section">
+    <div class="section-title">🎯 Use Cases</div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Persona</th>
+            <th>Scenario</th>
+            <th>Input</th>
+            <th>Output</th>
+            <th>Value</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="badge badge-blue">Solution Engineer</span></td>
+            <td>Prospect sends a 150-question RFP questionnaire before a POC</td>
+            <td>Excel matrix with Requirement / Category / Description columns</td>
+            <td>Word response + Excel Q&A with ✅/❌ and ThousandEyes documentation citations</td>
+            <td>Hours → Minutes; consistent, doc-sourced answers</td>
+          </tr>
+          <tr>
+            <td><span class="badge badge-purple">Account Manager</span></td>
+            <td>Customer security team sends a vendor security questionnaire (VSQ)</td>
+            <td>Word or PDF with numbered questions</td>
+            <td>Branded Word document with answers sourced from official TE docs</td>
+            <td>No SE bottleneck; customer-ready output in under 15 min</td>
+          </tr>
+          <tr>
+            <td><span class="badge badge-green">SE Manager</span></td>
+            <td>Building a repeatable answer library across the team</td>
+            <td>Any prior questionnaire that was answered and corrected</td>
+            <td>QA reference cache grows with every corrected run; future runs self-improve</td>
+            <td>Institutional knowledge captured locally; no Confluence required</td>
+          </tr>
+          <tr>
+            <td><span class="badge badge-yellow">Partner / Reseller</span></td>
+            <td>Responding to a government RFP with strict data residency requirements</td>
+            <td>CSV or Excel with 200+ technical requirements</td>
+            <td>Fully local processing; no data ever leaves the machine</td>
+            <td>Air-gapped / classified environment compatible</td>
+          </tr>
+          <tr>
+            <td><span class="badge badge-blue">Solution Engineer</span></td>
+            <td>Customer asks 40 ad-hoc product capability questions via email</td>
+            <td>Plain text or copy-pasted list</td>
+            <td>Word document with answers + direct links to relevant TE docs pages</td>
+            <td>Consistent, verifiable answers with source URLs; no guesswork</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ── System Architecture Diagram ──────────────────────────── -->
+  <div class="section">
+    <div class="section-title">🏗️ System Architecture</div>
+
+    <div class="arch-wrap">
+      <div class="arch-header">
+        <div>
+          <div class="arch-header-title">End-to-End Processing Architecture</div>
+          <div class="arch-header-sub">Five-phase pipeline — parse → resolve → fetch → infer → output</div>
+        </div>
+      </div>
+      <div class="arch-body" style="padding: 32px 24px;">
+        <svg viewBox="0 0 1060 520" width="100%" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+              <path d="M0,0 L0,6 L8,3 z" fill="#58a6ff" opacity=".7"/>
+            </marker>
+            <marker id="arr2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+              <path d="M0,0 L0,6 L8,3 z" fill="#3fb950" opacity=".7"/>
+            </marker>
+            <marker id="arr3" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+              <path d="M0,0 L0,6 L8,3 z" fill="#e3b341" opacity=".7"/>
+            </marker>
+            <filter id="glow">
+              <feGaussianBlur stdDeviation="3" result="blur"/>
+              <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+            </filter>
+          </defs>
+
+          <!-- ── Phase labels (top) ── -->
+          <text x="60"  y="28" fill="#8b949e" font-size="10" font-weight="600" letter-spacing="1.2" text-anchor="middle" text-transform="uppercase">INPUT</text>
+          <text x="240" y="28" fill="#8b949e" font-size="10" font-weight="600" letter-spacing="1.2" text-anchor="middle">RESOLVE</text>
+          <text x="500" y="28" fill="#8b949e" font-size="10" font-weight="600" letter-spacing="1.2" text-anchor="middle">FETCH &amp; INFER</text>
+          <text x="780" y="28" fill="#8b949e" font-size="10" font-weight="600" letter-spacing="1.2" text-anchor="middle">REVIEW</text>
+          <text x="980" y="28" fill="#8b949e" font-size="10" font-weight="600" letter-spacing="1.2" text-anchor="middle">OUTPUT</text>
+
+          <!-- Phase dividers -->
+          <line x1="145" y1="36" x2="145" y2="510" stroke="#30363d" stroke-width="1" stroke-dasharray="4,4"/>
+          <line x1="345" y1="36" x2="345" y2="510" stroke="#30363d" stroke-width="1" stroke-dasharray="4,4"/>
+          <line x1="665" y1="36" x2="665" y2="510" stroke="#30363d" stroke-width="1" stroke-dasharray="4,4"/>
+          <line x1="870" y1="36" x2="870" y2="510" stroke="#30363d" stroke-width="1" stroke-dasharray="4,4"/>
+
+          <!-- ─────────────────────── INPUT ─────────────────────── -->
+          <!-- File formats -->
+          <rect x="10" y="50" width="130" height="42" rx="8" fill="#1c2330" stroke="#30363d" stroke-width="1"/>
+          <text x="75" y="70" fill="#e6edf3" font-size="11" font-weight="600" text-anchor="middle">📂 Input File</text>
+          <text x="75" y="84" fill="#8b949e" font-size="9" text-anchor="middle">xlsx · csv · docx · pdf · txt</text>
+
+          <!-- file_parser -->
+          <rect x="10" y="108" width="130" height="36" rx="8" fill="#1c2330" stroke="#58a6ff" stroke-width="1"/>
+          <text x="75" y="126" fill="#58a6ff" font-size="10" font-weight="700" text-anchor="middle">file_parser.py</text>
+          <text x="75" y="139" fill="#8b949e" font-size="9" text-anchor="middle">Multi-format extraction</text>
+
+          <!-- question_extractor -->
+          <rect x="10" y="160" width="130" height="36" rx="8" fill="#1c2330" stroke="#58a6ff" stroke-width="1"/>
+          <text x="75" y="178" fill="#58a6ff" font-size="10" font-weight="700" text-anchor="middle">question_extractor.py</text>
+          <text x="75" y="191" fill="#8b949e" font-size="9" text-anchor="middle">NLP heuristic parsing</text>
+
+          <!-- arrows in input col -->
+          <line x1="75" y1="92"  x2="75" y2="107"  stroke="#58a6ff" stroke-width="1.5" opacity=".6" marker-end="url(#arr)"/>
+          <line x1="75" y1="144" x2="75" y2="159"  stroke="#58a6ff" stroke-width="1.5" opacity=".6" marker-end="url(#arr)"/>
+
+          <!-- ─────────────────────── RESOLVE ─────────────────────── -->
+          <!-- FeedbackStore -->
+          <rect x="160" y="50" width="170" height="48" rx="8" fill="#1c2330" stroke="#e3b341" stroke-width="1.5"/>
+          <text x="245" y="71" fill="#e3b341" font-size="11" font-weight="700" text-anchor="middle">⭐ FeedbackStore</text>
+          <text x="245" y="84" fill="#8b949e" font-size="9" text-anchor="middle">feedback.py · Permanent corrections</text>
+          <text x="245" y="95" fill="#8b949e" font-size="9" text-anchor="middle">Fuzzy match ≥ 80% similarity</text>
+
+          <!-- AnswerCache -->
+          <rect x="160" y="116" width="170" height="48" rx="8" fill="#1c2330" stroke="#bc8cff" stroke-width="1.5"/>
+          <text x="245" y="137" fill="#bc8cff" font-size="11" font-weight="700" text-anchor="middle">⚡ AnswerCache</text>
+          <text x="245" y="150" fill="#8b949e" font-size="9" text-anchor="middle">cache.py · SQLite · 7-day TTL</text>
+          <text x="245" y="161" fill="#8b949e" font-size="9" text-anchor="middle">URL write-back enrichment</text>
+
+          <!-- QA Reference -->
+          <rect x="160" y="182" width="170" height="48" rx="8" fill="#1c2330" stroke="#3fb950" stroke-width="1.5"/>
+          <text x="245" y="203" fill="#3fb950" font-size="11" font-weight="700" text-anchor="middle">📚 QA Reference</text>
+          <text x="245" y="216" fill="#8b949e" font-size="9" text-anchor="middle">qa_reference.py · Excel store</text>
+          <text x="245" y="227" fill="#8b949e" font-size="9" text-anchor="middle">Human-reviewed Q&amp;A pairs</text>
+
+          <!-- Priority labels -->
+          <text x="160" y="246" fill="#e3b341" font-size="9" font-weight="700">Priority 1: User corrections</text>
+          <text x="160" y="258" fill="#bc8cff" font-size="9" font-weight="700">Priority 2: Cache (7-day)</text>
+          <text x="160" y="270" fill="#3fb950" font-size="9" font-weight="700">Priority 3: Context for LLM</text>
+
+          <!-- arrows: input → resolve -->
+          <line x1="140" y1="178" x2="159" y2="178" stroke="#58a6ff" stroke-width="1.5" opacity=".6" marker-end="url(#arr)"/>
+
+          <!-- ─────────────────────── FETCH & INFER ─────────────────── -->
+          <!-- TESearcher -->
+          <rect x="360" y="50" width="185" height="90" rx="8" fill="#1c2330" stroke="#58a6ff" stroke-width="1.5"/>
+          <text x="452" y="72" fill="#58a6ff" font-size="11" font-weight="700" text-anchor="middle">🌐 TESearcher</text>
+          <text x="452" y="86" fill="#8b949e" font-size="9" text-anchor="middle">te_search.py</text>
+          <text x="452" y="99" fill="#8b949e" font-size="9" text-anchor="middle">DuckDuckGo site:docs.thousandeyes.com</text>
+          <text x="452" y="112" fill="#8b949e" font-size="9" text-anchor="middle">MkDocs search index JSON</text>
+          <text x="452" y="125" fill="#8b949e" font-size="9" text-anchor="middle">Scrapes up to 5 real content pages</text>
+
+          <!-- docs.thousandeyes.com cloud -->
+          <ellipse cx="452" cy="200" rx="95" ry="38" fill="#0f1923" stroke="#30363d" stroke-width="1.5" stroke-dasharray="5,3"/>
+          <text x="452" y="196" fill="#8b949e" font-size="10" font-weight="600" text-anchor="middle">docs.thousandeyes.com</text>
+          <text x="452" y="210" fill="#58a6ff" font-size="9" text-anchor="middle">Real content pages only</text>
+
+          <!-- LLMEngine -->
+          <rect x="560" y="50" width="100" height="90" rx="8" fill="#1c2330" stroke="#bc8cff" stroke-width="1.5"/>
+          <text x="610" y="72" fill="#bc8cff" font-size="11" font-weight="700" text-anchor="middle">🤖 LLM</text>
+          <text x="610" y="86" fill="#8b949e" font-size="9" text-anchor="middle">llm_engine.py</text>
+          <text x="610" y="99" fill="#8b949e" font-size="9" text-anchor="middle">Ollama HTTP</text>
+          <text x="610" y="112" fill="#8b949e" font-size="9" text-anchor="middle">localhost:11434</text>
+          <text x="610" y="125" fill="#8b949e" font-size="9" text-anchor="middle">llama3.2 etc.</text>
+
+          <!-- Ollama box -->
+          <rect x="556" y="165" width="108" height="48" rx="8" fill="#0f1923" stroke="#bc8cff" stroke-width="1" stroke-dasharray="4,3"/>
+          <text x="610" y="185" fill="#bc8cff" font-size="10" font-weight="700" text-anchor="middle">Ollama</text>
+          <text x="610" y="198" fill="#8b949e" font-size="9" text-anchor="middle">Local model runtime</text>
+          <text x="610" y="209" fill="#8b949e" font-size="9" text-anchor="middle">On-device only</text>
+
+          <!-- Parallel fetch annotation -->
+          <rect x="360" y="255" width="305" height="28" rx="6" fill="rgba(88,166,255,.06)" stroke="rgba(88,166,255,.2)" stroke-width="1"/>
+          <text x="512" y="274" fill="#58a6ff" font-size="10" font-weight="600" text-anchor="middle">⚡ ThreadPoolExecutor — up to 4 concurrent doc fetches</text>
+
+          <!-- arrows: resolve → fetch -->
+          <line x1="330" y1="96"  x2="359" y2="96"  stroke="#58a6ff" stroke-width="1.5" opacity=".6" marker-end="url(#arr)"/>
+          <!-- searcher → docs -->
+          <line x1="452" y1="141" x2="452" y2="161" stroke="#58a6ff" stroke-width="1.5" opacity=".6" marker-end="url(#arr)"/>
+          <!-- searcher → LLM context -->
+          <line x1="546" y1="95"  x2="559" y2="95"  stroke="#8b949e" stroke-width="1.5" opacity=".5" marker-end="url(#arr)"/>
+          <!-- LLM → Ollama -->
+          <line x1="610" y1="141" x2="610" y2="164" stroke="#bc8cff" stroke-width="1.5" opacity=".6" marker-end="url(#arr)"/>
+
+          <!-- ─────────────────────── REVIEW ─────────────────────── -->
+          <rect x="680" y="50" width="175" height="200" rx="8" fill="#1c2330" stroke="#30363d" stroke-width="1"/>
+          <text x="767" y="72"  fill="#e6edf3" font-size="11" font-weight="700" text-anchor="middle">🗂️ Review Panel</text>
+          <text x="767" y="88"  fill="#8b949e" font-size="9" text-anchor="middle">3-Column Spreadsheet</text>
+          <!-- header row -->
+          <rect x="690" y="97" width="155" height="18" rx="3" fill="#1B4D89" opacity=".7"/>
+          <text x="710" y="110" fill="#e6edf3" font-size="8" font-weight="600">#  Question</text>
+          <text x="800" y="110" fill="#e6edf3" font-size="8" font-weight="600">Answer</text>
+          <text x="831" y="110" fill="#e6edf3" font-size="8" font-weight="600">URL</text>
+          <!-- data rows -->
+          <rect x="690" y="116" width="155" height="14" rx="2" fill="#E7F0F7" opacity=".07"/>
+          <text x="710" y="127" fill="#8b949e" font-size="8">1  Does TE support BGP?</text>
+          <rect x="690" y="131" width="155" height="14" rx="2" fill="#1c2330"/>
+          <text x="710" y="142" fill="#8b949e" font-size="8">2  Agent deployment…</text>
+          <rect x="690" y="146" width="155" height="14" rx="2" fill="#E7F0F7" opacity=".07"/>
+          <text x="710" y="157" fill="#8b949e" font-size="8">3  Alerting thresholds…</text>
+          <rect x="690" y="161" width="155" height="14" rx="2" fill="#1c2330"/>
+          <text x="710" y="172" fill="#8b949e" font-size="8">4  Supported metrics…</text>
+
+          <text x="767" y="195" fill="#58a6ff" font-size="9" font-weight="600" text-anchor="middle">✏️ Directly editable</text>
+          <text x="767" y="207" fill="#8b949e" font-size="9" text-anchor="middle">All fields inline</text>
+          <text x="767" y="220" fill="#8b949e" font-size="9" text-anchor="middle">Saves to FeedbackStore</text>
+          <text x="767" y="233" fill="#8b949e" font-size="9" text-anchor="middle">+ QA reference on save</text>
+
+          <!-- arrow: infer → review -->
+          <line x1="660" y1="140" x2="679" y2="140" stroke="#58a6ff" stroke-width="1.5" opacity=".6" marker-end="url(#arr)"/>
+
+          <!-- ─────────────────────── OUTPUT ─────────────────────── -->
+          <!-- Word doc -->
+          <rect x="885" y="50" width="165" height="72" rx="8" fill="#1c2330" stroke="#58a6ff" stroke-width="1.5"/>
+          <text x="967" y="71" fill="#58a6ff" font-size="11" font-weight="700" text-anchor="middle">📄 Word Document</text>
+          <text x="967" y="85" fill="#8b949e" font-size="9" text-anchor="middle">Branded cover page</text>
+          <text x="967" y="97" fill="#8b949e" font-size="9" text-anchor="middle">4-col Q&amp;A table (TE style)</text>
+          <text x="967" y="109" fill="#8b949e" font-size="9" text-anchor="middle">Hyperlinked source URLs</text>
+
+          <!-- Excel -->
+          <rect x="885" y="140" width="165" height="56" rx="8" fill="#1c2330" stroke="#3fb950" stroke-width="1.5"/>
+          <text x="967" y="160" fill="#3fb950" font-size="11" font-weight="700" text-anchor="middle">📊 Excel Q&amp;A</text>
+          <text x="967" y="174" fill="#8b949e" font-size="9" text-anchor="middle">Question | Answer | Source URL</text>
+          <text x="967" y="186" fill="#8b949e" font-size="9" text-anchor="middle">Feeds QA reference cache</text>
+
+          <!-- QA Cache (persisted) -->
+          <rect x="885" y="214" width="165" height="40" rx="8" fill="#0f1923" stroke="#3fb950" stroke-width="1" stroke-dasharray="4,3"/>
+          <text x="967" y="232" fill="#3fb950" font-size="10" font-weight="700" text-anchor="middle">~/.te_qa_cache/</text>
+          <text x="967" y="244" fill="#8b949e" font-size="9" text-anchor="middle">qa_reference.xlsx  +  SQLite</text>
+
+          <!-- arrows: review → outputs -->
+          <line x1="856" y1="86"  x2="884" y2="86"  stroke="#58a6ff" stroke-width="1.5" opacity=".6" marker-end="url(#arr)"/>
+          <line x1="856" y1="167" x2="884" y2="167" stroke="#3fb950" stroke-width="1.5" opacity=".6" marker-end="url(#arr2)"/>
+          <line x1="967" y1="196" x2="967" y2="213" stroke="#3fb950" stroke-width="1.5" opacity=".6" marker-end="url(#arr2)"/>
+
+          <!-- feedback loop arrow -->
+          <path d="M967,255 Q967,310 245,290 Q160,285 245,230" fill="none" stroke="#e3b341" stroke-width="1.5" stroke-dasharray="5,3" opacity=".5" marker-end="url(#arr3)"/>
+          <text x="580" y="316" fill="#e3b341" font-size="9" font-weight="600" text-anchor="middle">Corrections + cache improve future runs ↺</text>
+
+          <!-- MAIN processor.py label -->
+          <rect x="153" y="290" width="520" height="28" rx="6" fill="rgba(88,166,255,.04)" stroke="rgba(88,166,255,.15)" stroke-width="1"/>
+          <text x="413" y="309" fill="#58a6ff" font-size="10" font-weight="700" text-anchor="middle">processor.py — orchestrates phases 2–4 with ThreadPoolExecutor parallelism</text>
+
+          <!-- main.py UI label -->
+          <rect x="153" y="330" width="870" height="28" rx="6" fill="rgba(188,140,255,.04)" stroke="rgba(188,140,255,.15)" stroke-width="1"/>
+          <text x="587" y="349" fill="#bc8cff" font-size="10" font-weight="700" text-anchor="middle">main.py (customtkinter) — thread-safe UI queue · VizzyBar · CollapsibleCard · spreadsheet review panel · footer controls</text>
+
+        </svg>
+      </div>
+    </div>
+
+    <!-- ── Answer Priority Chain ─────────────────────────────── -->
+    <div class="arch-wrap">
+      <div class="arch-header">
+        <div>
+          <div class="arch-header-title">Answer Resolution Priority Chain</div>
+          <div class="arch-header-sub">Every question passes through all three tiers — left to right — first hit wins</div>
+        </div>
+      </div>
+      <div class="chain">
+        <div class="chain-node warn">
+          <div class="cn-icon">⭐</div>
+          <div class="cn-title">User Corrections</div>
+          <div class="cn-sub">feedback.py<br>Fuzzy match ≥ 80%<br>Permanent, no expiry</div>
+        </div>
+        <div class="chain-arrow">→</div>
+        <div class="chain-node active">
+          <div class="cn-icon">⚡</div>
+          <div class="cn-title">LLM Cache</div>
+          <div class="cn-sub">cache.py (SQLite)<br>7-day TTL<br>URL write-back on miss</div>
+        </div>
+        <div class="chain-arrow">→</div>
+        <div class="chain-node">
+          <div class="cn-icon">🌐</div>
+          <div class="cn-title">TESearcher</div>
+          <div class="cn-sub">te_search.py<br>DDG + MkDocs index<br>Up to 5 real pages</div>
+        </div>
+        <div class="chain-arrow">→</div>
+        <div class="chain-node">
+          <div class="cn-icon">🤖</div>
+          <div class="cn-title">Ollama LLM</div>
+          <div class="cn-sub">llm_engine.py<br>Context-augmented<br>llama3.2 / phi3 / etc.</div>
+        </div>
+        <div class="chain-arrow">→</div>
+        <div class="chain-node succ">
+          <div class="cn-icon">💾</div>
+          <div class="cn-title">Cache + Output</div>
+          <div class="cn-sub">Answer + URL stored<br>FeedbackStore updated<br>Word + Excel written</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Data Flow Timeline ─────────────────────────────────── -->
+    <div class="arch-wrap">
+      <div class="arch-header">
+        <div>
+          <div class="arch-header-title">Data Flow — File Processing Sequence</div>
+          <div class="arch-header-sub">What happens step-by-step from file selection to saved output</div>
+        </div>
+      </div>
+      <div style="padding: 24px 32px;">
+        <div class="tl-container">
+          <div class="tl-item">
+            <div class="tl-dot start"></div>
+            <div class="tl-step">Step 1</div>
+            <div class="tl-title">File Selected & Parsed</div>
+            <div class="tl-desc"><code>file_parser.py</code> reads the input file and extracts raw text/rows.
+            <code>question_extractor.py</code> applies heuristics to identify questions, RFP requirements,
+            sections, and categories. Each question gets a deterministic SHA-based cache key.</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot start"></div>
+            <div class="tl-step">Step 2</div>
+            <div class="tl-title">Feedback &amp; Cache Resolution</div>
+            <div class="tl-desc"><code>FeedbackStore</code> is checked first — fuzzy-matches each question against stored user corrections (≥80% ratio). Then <code>AnswerCache</code> (SQLite) is checked for non-expired entries. Items resolved at this step skip doc fetching and LLM inference entirely.</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot active"></div>
+            <div class="tl-step">Step 3</div>
+            <div class="tl-title">URL Enrichment (Cached Items)</div>
+            <div class="tl-desc">For cached/feedback items missing a real source URL, a parallel fast lookup runs via <code>get_source_url()</code> — DuckDuckGo search returns the first real <code>docs.thousandeyes.com</code> content page URL (no full page fetch). The URL is written back to the SQLite cache for future runs.</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot active"></div>
+            <div class="tl-step">Step 4</div>
+            <div class="tl-title">Parallel Doc Fetching</div>
+            <div class="tl-desc">Remaining questions trigger a <code>ThreadPoolExecutor</code> (4 workers) that calls <code>TESearcher.search_and_fetch()</code> concurrently. Each call: DuckDuckGo → MkDocs index JSON → HTML scrape fallback. Results filtered by <code>_is_content_url()</code> — only real doc pages accepted. Up to 5 pages × 5,500 chars each.</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot middle"></div>
+            <div class="tl-step">Step 5</div>
+            <div class="tl-title">Sequential LLM Inference</div>
+            <div class="tl-desc">Each remaining question is answered by <code>LLMEngine</code> via Ollama's HTTP API (localhost:11434). Context = human-reviewed Q&A pairs from <code>qa_reference.py</code> + fetched doc page content. The first <code>[Source: URL]</code> marker is extracted as the source URL. Answers and URLs are persisted to cache.</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot active"></div>
+            <div class="tl-step">Step 6</div>
+            <div class="tl-title">Spreadsheet Review</div>
+            <div class="tl-desc">Results populate a 3-column editable spreadsheet (Question | Answer | Source URL). Rows render incrementally (1 per 35ms tick) to keep the UI responsive. Every cell is editable inline — changes are committed to <code>FeedbackStore</code> on Save for future reuse.</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot end"></div>
+            <div class="tl-step">Step 7</div>
+            <div class="tl-title">Output Generation</div>
+            <div class="tl-desc">Clicking "Save Updated File" triggers <code>file_writer.py</code>: (a) a branded Word document with cover page + 4-column Q&A table, (b) a companion Excel file (Q|A|URL), and (c) an update to the persistent QA reference at <code>~/.te_qa_cache/qa_reference.xlsx</code> — seeding better answers for the next run.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── File System Layout ─────────────────────────────────── -->
+    <div class="arch-wrap">
+      <div class="arch-header">
+        <div>
+          <div class="arch-header-title">Persistent Storage Layout</div>
+          <div class="arch-header-sub">All data stored locally at <code>~/.te_qa_cache/</code></div>
+        </div>
+      </div>
+      <div style="padding: 28px 32px;">
+        <svg viewBox="0 0 1020 200" width="100%" xmlns="http://www.w3.org/2000/svg">
+          <!-- Home dir -->
+          <rect x="10" y="70" width="130" height="60" rx="8" fill="#1c2330" stroke="#30363d"/>
+          <text x="75" y="95" fill="#e6edf3" font-size="12" font-weight="700" text-anchor="middle">🏠 ~/.te_qa_cache/</text>
+          <text x="75" y="110" fill="#8b949e" font-size="9" text-anchor="middle">Auto-created at startup</text>
+          <text x="75" y="122" fill="#8b949e" font-size="9" text-anchor="middle">User home directory</text>
+
+          <!-- arrow -->
+          <line x1="141" y1="100" x2="174" y2="100" stroke="#58a6ff" stroke-width="1.5" opacity=".5" marker-end="url(#arr)"/>
+
+          <!-- SQLite cache -->
+          <rect x="175" y="40" width="190" height="52" rx="8" fill="#1c2330" stroke="#bc8cff" stroke-width="1.5"/>
+          <text x="270" y="60" fill="#bc8cff" font-size="11" font-weight="700" text-anchor="middle">⚡ answers_&lt;model&gt;.db</text>
+          <text x="270" y="73" fill="#8b949e" font-size="9" text-anchor="middle">SQLite · LLM answer cache</text>
+          <text x="270" y="84" fill="#8b949e" font-size="9" text-anchor="middle">7-day TTL · answer + source_url</text>
+
+          <!-- Feedback JSON -->
+          <rect x="175" y="108" width="190" height="52" rx="8" fill="#1c2330" stroke="#e3b341" stroke-width="1.5"/>
+          <text x="270" y="128" fill="#e3b341" font-size="11" font-weight="700" text-anchor="middle">⭐ feedback.json</text>
+          <text x="270" y="141" fill="#8b949e" font-size="9" text-anchor="middle">Permanent user corrections</text>
+          <text x="270" y="152" fill="#8b949e" font-size="9" text-anchor="middle">Question → answer + original</text>
+
+          <!-- arrow -->
+          <line x1="366" y1="100" x2="399" y2="100" stroke="#58a6ff" stroke-width="1.5" opacity=".5" marker-end="url(#arr)"/>
+
+          <!-- QA reference -->
+          <rect x="400" y="70" width="190" height="60" rx="8" fill="#1c2330" stroke="#3fb950" stroke-width="1.5"/>
+          <text x="495" y="95" fill="#3fb950" font-size="11" font-weight="700" text-anchor="middle">📚 qa_reference.xlsx</text>
+          <text x="495" y="108" fill="#8b949e" font-size="9" text-anchor="middle">Human-reviewed Q&amp;A pairs</text>
+          <text x="495" y="120" fill="#8b949e" font-size="9" text-anchor="middle">Question | Answer | Source URL</text>
+
+          <!-- arrow -->
+          <line x1="591" y1="100" x2="624" y2="100" stroke="#58a6ff" stroke-width="1.5" opacity=".5" marker-end="url(#arr)"/>
+
+          <!-- settings -->
+          <rect x="625" y="40" width="175" height="52" rx="8" fill="#1c2330" stroke="#30363d"/>
+          <text x="712" y="60" fill="#e6edf3" font-size="11" font-weight="700" text-anchor="middle">⚙️ ~/.te_qa_settings.json</text>
+          <text x="712" y="73" fill="#8b949e" font-size="9" text-anchor="middle">Selected Ollama model</text>
+          <text x="712" y="84" fill="#8b949e" font-size="9" text-anchor="middle">Persisted between sessions</text>
+
+          <!-- output files -->
+          <rect x="625" y="108" width="175" height="52" rx="8" fill="#1c2330" stroke="#58a6ff" stroke-width="1.5"/>
+          <text x="712" y="128" fill="#58a6ff" font-size="11" font-weight="700" text-anchor="middle">📄 *_TE_Response.docx</text>
+          <text x="712" y="141" fill="#8b949e" font-size="9" text-anchor="middle">📊 *_TE_Response_answers.xlsx</text>
+          <text x="712" y="152" fill="#8b949e" font-size="9" text-anchor="middle">Saved to user-chosen location</text>
+
+          <!-- arrow -->
+          <line x1="801" y1="100" x2="834" y2="100" stroke="#3fb950" stroke-width="1.5" opacity=".5" marker-end="url(#arr2)"/>
+
+          <!-- Ollama local -->
+          <rect x="835" y="70" width="175" height="60" rx="8" fill="#0f1923" stroke="#bc8cff" stroke-width="1.5" stroke-dasharray="5,3"/>
+          <text x="922" y="95" fill="#bc8cff" font-size="11" font-weight="700" text-anchor="middle">🤖 Ollama</text>
+          <text x="922" y="108" fill="#8b949e" font-size="9" text-anchor="middle">localhost:11434</text>
+          <text x="922" y="120" fill="#8b949e" font-size="9" text-anchor="middle">Model weights on local disk</text>
+        </svg>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Technology Stack ───────────────────────────────────────── -->
+  <div class="section">
+    <div class="section-title">🛠️ Technology Stack</div>
+    <div class="tech-grid">
+
+      <div class="tech-card">
+        <div class="tech-icon">🐍</div>
+        <div>
+          <div class="tech-name">Python 3.12</div>
+          <div class="tech-role">Core application runtime</div>
+          <div class="tech-ver">Required ≥ 3.10</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🤖</div>
+        <div>
+          <div class="tech-name">Ollama</div>
+          <div class="tech-role">Local LLM inference server (HTTP API)</div>
+          <div class="tech-ver">localhost:11434</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🦙</div>
+        <div>
+          <div class="tech-name">llama3.2 / phi3 / mistral</div>
+          <div class="tech-role">Supported Ollama models</div>
+          <div class="tech-ver">Auto-detected at runtime</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🖥️</div>
+        <div>
+          <div class="tech-name">customtkinter</div>
+          <div class="tech-role">Modern dark-themed GUI framework</div>
+          <div class="tech-ver">Built on tkinter / Tk</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">📊</div>
+        <div>
+          <div class="tech-name">openpyxl + pandas</div>
+          <div class="tech-role">Excel read/write; CSV parsing</div>
+          <div class="tech-ver">xlsx · csv · RFP matrices</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">📝</div>
+        <div>
+          <div class="tech-name">python-docx</div>
+          <div class="tech-role">Word document generation</div>
+          <div class="tech-ver">OOXML-level table styling</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">📑</div>
+        <div>
+          <div class="tech-name">pdfplumber + pdfminer</div>
+          <div class="tech-role">PDF text extraction</div>
+          <div class="tech-ver">Layout-aware parsing</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🦆</div>
+        <div>
+          <div class="tech-name">duckduckgo-search</div>
+          <div class="tech-role">No-key web search (site: operator)</div>
+          <div class="tech-ver">DDGS · text results</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🕸️</div>
+        <div>
+          <div class="tech-name">BeautifulSoup + lxml</div>
+          <div class="tech-role">HTML scraping · content isolation</div>
+          <div class="tech-ver">MkDocs search index parsing</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🌐</div>
+        <div>
+          <div class="tech-name">requests + urllib3</div>
+          <div class="tech-role">HTTP client for doc fetching</div>
+          <div class="tech-ver">Session-level connection pooling</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🗄️</div>
+        <div>
+          <div class="tech-name">SQLite (via stdlib)</div>
+          <div class="tech-role">On-disk LLM answer cache</div>
+          <div class="tech-ver">7-day TTL · per-model DB</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🎨</div>
+        <div>
+          <div class="tech-name">Pillow (PIL)</div>
+          <div class="tech-role">Vizzy mascot rendering</div>
+          <div class="tech-ver">PIL.Image · ImageDraw · ImageTk</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">⚙️</div>
+        <div>
+          <div class="tech-name">PyInstaller</div>
+          <div class="tech-role">macOS .app bundle packaging</div>
+          <div class="tech-ver">dist/v2/ · arm64 native</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🔀</div>
+        <div>
+          <div class="tech-name">concurrent.futures</div>
+          <div class="tech-role">Parallel I/O — ThreadPoolExecutor</div>
+          <div class="tech-ver">4 workers · doc fetch phase</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🔡</div>
+        <div>
+          <div class="tech-name">difflib (stdlib)</div>
+          <div class="tech-role">Fuzzy question matching</div>
+          <div class="tech-ver">SequenceMatcher ≥ 0.80 ratio</div>
+        </div>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">📦</div>
+        <div>
+          <div class="tech-name">queue (stdlib)</div>
+          <div class="tech-role">Thread-safe UI update queue</div>
+          <div class="tech-ver">40ms poll · background → main thread</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── Source Module Map ──────────────────────────────────────── -->
+  <div class="section">
+    <div class="section-title">📁 Source Module Reference</div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Module</th>
+            <th>Responsibility</th>
+            <th>Key Classes / Functions</th>
+            <th>Depends On</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>main.py</code></td>
+            <td>Main UI — customtkinter window, VizzyBar, spreadsheet review panel, save logic</td>
+            <td><code>App</code>, <code>VizzyBar</code>, <code>CollapsibleCard</code>, <code>DebugWindow</code></td>
+            <td>All src.* modules</td>
+          </tr>
+          <tr>
+            <td><code>src/processor.py</code></td>
+            <td>Pipeline orchestrator — feedback → cache → URL enrich → fetch → LLM → output</td>
+            <td><code>FileProcessor</code>, <code>_enrich_source_urls()</code>, <code>_prefetch_contexts()</code></td>
+            <td>All src.* except main.py</td>
+          </tr>
+          <tr>
+            <td><code>src/te_search.py</code></td>
+            <td>ThousandEyes docs searcher — URL collection, content filtering, page fetching</td>
+            <td><code>TESearcher</code>, <code>_is_content_url()</code>, <code>get_source_url()</code></td>
+            <td>requests, bs4, duckduckgo_search</td>
+          </tr>
+          <tr>
+            <td><code>src/llm_engine.py</code></td>
+            <td>Ollama HTTP client — prompt construction, answer + URL extraction</td>
+            <td><code>LLMEngine</code>, <code>answer()</code>, <code>answer_rfp()</code>, <code>ollama_is_running()</code></td>
+            <td>requests</td>
+          </tr>
+          <tr>
+            <td><code>src/cache.py</code></td>
+            <td>On-disk SQLite answer cache with 7-day TTL</td>
+            <td><code>AnswerCache</code>, <code>get()</code>, <code>set()</code>, <code>clear()</code>, <code>stats()</code></td>
+            <td>stdlib: sqlite3, json</td>
+          </tr>
+          <tr>
+            <td><code>src/feedback.py</code></td>
+            <td>Permanent user correction store with fuzzy question matching</td>
+            <td><code>FeedbackStore</code>, <code>get()</code>, <code>set()</code>, <code>remove()</code>, <code>clear()</code></td>
+            <td>stdlib: json, difflib</td>
+          </tr>
+          <tr>
+            <td><code>src/qa_reference.py</code></td>
+            <td>Human-reviewed Q&A Excel reference — saved after every run, read as LLM context</td>
+            <td><code>save_reference()</code>, <code>load_reference()</code>, <code>find_reference_context()</code></td>
+            <td>openpyxl</td>
+          </tr>
+          <tr>
+            <td><code>src/file_parser.py</code></td>
+            <td>Multi-format document reader returning a normalised parsed dict</td>
+            <td><code>parse()</code></td>
+            <td>openpyxl, pandas, python-docx, pdfplumber</td>
+          </tr>
+          <tr>
+            <td><code>src/question_extractor.py</code></td>
+            <td>Heuristic question/requirement extraction from parsed document</td>
+            <td><code>extract()</code></td>
+            <td>src.file_parser</td>
+          </tr>
+          <tr>
+            <td><code>src/file_writer.py</code></td>
+            <td>Professional Word doc + companion Excel generation</td>
+            <td><code>write()</code>, <code>write_qa_excel()</code>, <code>_write_professional_word()</code></td>
+            <td>python-docx, openpyxl, src.qa_reference</td>
+          </tr>
+          <tr>
+            <td><code>src/vizzy.py</code></td>
+            <td>PIL-based mascot renderer — 8 expressions, auto-blink</td>
+            <td><code>create_vizzy(expression, size)</code></td>
+            <td>Pillow (PIL)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ── Security & Privacy ─────────────────────────────────────── -->
+  <div class="section">
+    <div class="section-title">🔒 Security &amp; Privacy</div>
+    <div class="hl-box">
+      <div class="hl-title">Zero-Exfiltration Architecture</div>
+      <p>Customer questionnaire content, question text, and generated answers <strong>never leave the local machine</strong>.
+      The only outbound network traffic is: (a) read-only HTTP GET requests to <code>docs.thousandeyes.com</code> to fetch documentation,
+      and (b) DuckDuckGo search queries (question text, no customer identifiers). All AI inference runs locally via Ollama.
+      The app is suitable for environments with strict data residency requirements.</p>
+    </div>
+    <div class="rec-list">
+      <div class="rec-item">
+        <div class="rec-num">1</div>
+        <div>
+          <div class="rec-title">No API Keys Required</div>
+          <div class="rec-desc">Ollama, DuckDuckGo search, and docs.thousandeyes.com scraping require no authentication credentials. Nothing to rotate, audit, or accidentally leak.</div>
+        </div>
+      </div>
+      <div class="rec-item">
+        <div class="rec-num">2</div>
+        <div>
+          <div class="rec-title">Content URL Allow-listing</div>
+          <div class="rec-desc"><code>_is_content_url()</code> strictly allows only <code>docs.thousandeyes.com</code> content paths. No redirects to external sites, no fetching of arbitrary URLs, no SSRF risk.</div>
+        </div>
+      </div>
+      <div class="rec-item">
+        <div class="rec-num">3</div>
+        <div>
+          <div class="rec-title">Local-Only Storage</div>
+          <div class="rec-desc">All persistent state (SQLite cache, feedback JSON, QA reference Excel) lives in <code>~/.te_qa_cache/</code>. No cloud sync, no remote logging, no telemetry.</div>
+        </div>
+      </div>
+      <div class="rec-item">
+        <div class="rec-num">4</div>
+        <div>
+          <div class="rec-title">Polite Web Crawling</div>
+          <div class="rec-desc">300ms inter-request delay and a realistic browser User-Agent string ensure docs.thousandeyes.com is not overloaded. In-memory page cache avoids re-fetching the same URL twice per session.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Recommended Deployment ────────────────────────────────── -->
+  <div class="section">
+    <div class="section-title">🚀 Deployment &amp; Quick Start</div>
+    <div class="rec-list">
+      <div class="rec-item">
+        <div class="rec-num">1</div>
+        <div>
+          <div class="rec-title">Install Ollama</div>
+          <div class="rec-desc">Download from <a href="https://ollama.com/download">ollama.com/download</a> and run <code>ollama pull llama3.2</code> (recommended) or any other supported model.</div>
+        </div>
+      </div>
+      <div class="rec-item">
+        <div class="rec-num">2</div>
+        <div>
+          <div class="rec-title">Launch the App</div>
+          <div class="rec-desc">Unzip <code>CustomerQuestionnaireCrusher_v2.zip</code> and open <code>TE Questionnaire Automator.app</code> from <code>dist/v2/</code>. On first launch, right-click → Open to bypass Gatekeeper.</div>
+        </div>
+      </div>
+      <div class="rec-item">
+        <div class="rec-num">3</div>
+        <div>
+          <div class="rec-title">Select a Questionnaire File</div>
+          <div class="rec-desc">Click the file drop zone or drag-and-drop an Excel RFP matrix, Word questionnaire, PDF, CSV, or plain text file.</div>
+        </div>
+      </div>
+      <div class="rec-item">
+        <div class="rec-num">4</div>
+        <div>
+          <div class="rec-title">Click ▶ Process File</div>
+          <div class="rec-desc">Vizzy will guide you through the run. Cached questions resolve in &lt;1s. Fresh questions take ~20-25s each (doc fetch + LLM). ETA is shown for long runs.</div>
+        </div>
+      </div>
+      <div class="rec-item">
+        <div class="rec-num">5</div>
+        <div>
+          <div class="rec-title">Review, Edit, and Save</div>
+          <div class="rec-desc">Edit any answer or source URL directly in the spreadsheet. Click <strong>💾 Save Updated File</strong> — a Word document and Excel companion are generated automatically. Corrections are stored for future runs.</div>
+        </div>
+      </div>
+      <div class="rec-item">
+        <div class="rec-num">6</div>
+        <div>
+          <div class="rec-title">Clear Cache When Needed</div>
+          <div class="rec-desc">Use <strong>🗑 Clear LLM Cache</strong> in the footer to force fresh AI answers (e.g. after a major ThousandEyes docs update). The QA reference is preserved.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /container -->
+
+<footer>
+  <div class="left">Powered by <strong>ThousandEyes</strong> — Customer Questionnaire Crusher v2</div>
+  <div class="right">doc-ref: CQC-ARCH-2026 · Generated 2026-04-01</div>
+</footer>
+
+</body>
+</html>

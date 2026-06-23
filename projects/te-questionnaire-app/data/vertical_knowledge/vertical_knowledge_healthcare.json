@@ -1,0 +1,263 @@
+{
+  "vertical": "Healthcare",
+  "description": "ThousandEyes capabilities for healthcare organizations including hospitals, health systems, telehealth providers, and medical device companies",
+  "last_updated": "2026-04-03",
+  "common_requirements": [
+    {
+      "category": "Compliance & Security",
+      "requirement": "HIPAA compliance",
+      "support_level": "partial",
+      "answer": "ThousandEyes maintains SOC 2 Type II and ISO 27001 certification; HIPAA compliance requires Business Associate Agreement (BAA) which should be confirmed with Cisco.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["hipaa", "compliance", "baa", "security"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "HITECH Act compliance",
+      "support_level": "partial",
+      "answer": "ThousandEyes supports HITECH Act requirements through encryption, audit logging, and access controls; formal compliance requires BAA with Cisco.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["hitech", "compliance", "security"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "SOC 2 Type II certification",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes maintains SOC 2 Type II certification demonstrating comprehensive security controls and practices.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["soc 2", "certification", "compliance"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "ISO 27001 certification",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes is ISO 27001 certified for information security management systems.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["iso 27001", "certification", "security"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "Audit logging and trail capabilities",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides comprehensive audit logging for user actions, configuration changes, and system events for compliance tracking.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/account-settings",
+      "keywords": ["audit", "logging", "compliance", "trail"]
+    },
+    {
+      "category": "EHR/EMR Monitoring",
+      "requirement": "Epic monitoring and performance",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Epic applications including MyChart, EpicCare, and Hyperspace through HTTP/API testing and synthetic transactions.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["epic", "ehr", "emr", "mychart"]
+    },
+    {
+      "category": "EHR/EMR Monitoring",
+      "requirement": "Cerner monitoring and performance",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Cerner Millennium and patient portals through synthetic testing for availability and performance metrics.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["cerner", "millennium", "ehr", "emr"]
+    },
+    {
+      "category": "EHR/EMR Monitoring",
+      "requirement": "EHR/EMR integration experience",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors EHR/EMR system performance and availability through HTTP/API testing but does not integrate with EHR databases directly.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["ehr", "emr", "integration", "monitoring"]
+    },
+    {
+      "category": "EHR/EMR Monitoring",
+      "requirement": "HL7 interface monitoring",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors HL7 interfaces through API testing for availability and response time but does not parse or validate HL7 message content.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["hl7", "interface", "integration", "messaging"]
+    },
+    {
+      "category": "EHR/EMR Monitoring",
+      "requirement": "FHIR API monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides full transaction testing for FHIR endpoints including availability, response time, and API validation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["fhir", "api", "monitoring", "interoperability"]
+    },
+    {
+      "category": "EHR/EMR Monitoring",
+      "requirement": "HL7 Standards compliance monitoring",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors HL7 interface endpoints for performance but does not validate HL7 message structure or content compliance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["hl7", "standards", "compliance"]
+    },
+    {
+      "category": "Telehealth",
+      "requirement": "Telehealth platform monitoring (Amwell, Teladoc)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors telehealth platforms including Amwell and Teladoc through synthetic testing and user experience monitoring.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["telehealth", "amwell", "teladoc", "virtual care"]
+    },
+    {
+      "category": "Telehealth",
+      "requirement": "Video consultation quality monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors video quality through VoIP/RTP metrics including MOS scores, jitter, latency, and packet loss.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/voice",
+      "keywords": ["video", "quality", "voip", "webrtc"]
+    },
+    {
+      "category": "Telehealth",
+      "requirement": "Patient portal performance monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors patient portal performance including page load times, transaction completion, and user experience metrics.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/page-load",
+      "keywords": ["patient portal", "mychart", "performance", "monitoring"]
+    },
+    {
+      "category": "Telehealth",
+      "requirement": "MyChart monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors MyChart patient portal for availability, performance, and user experience through synthetic testing.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["mychart", "epic", "patient portal"]
+    },
+    {
+      "category": "Network & Infrastructure",
+      "requirement": "Multi-site hospital network monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides end-to-end network monitoring across multiple hospital locations with path visualization and performance metrics.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/agent-to-server",
+      "keywords": ["multi-site", "hospital", "network", "wan"]
+    },
+    {
+      "category": "Network & Infrastructure",
+      "requirement": "Medical device network connectivity",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors network paths to medical devices but does not monitor the devices themselves; focuses on network connectivity.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["medical device", "iot", "connectivity"]
+    },
+    {
+      "category": "Network & Infrastructure",
+      "requirement": "Critical application uptime monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides real-time monitoring with one-second granularity, configurable alerts, and 99.9%+ SLA for critical healthcare applications.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["uptime", "availability", "critical", "sla"]
+    },
+    {
+      "category": "Network & Infrastructure",
+      "requirement": "VPN performance for remote clinicians",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents monitor VPN tunnel performance including latency, packet loss, and connection quality for remote workers.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["vpn", "remote", "clinician", "telehealth"]
+    },
+    {
+      "category": "Network & Infrastructure",
+      "requirement": "WiFi performance in clinical areas",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents measure WiFi signal strength, channel quality, roaming events, and connection performance in real-time.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["wifi", "wireless", "clinical", "hospital"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "ServiceNow ITSM integration",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates natively with ServiceNow for automated incident creation, event management, and CMDB correlation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/servicenow",
+      "keywords": ["servicenow", "itsm", "integration", "incident"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "SIEM integration (Splunk, Sentinel)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates with Splunk and can send data to SIEM platforms via API and webhooks for security monitoring.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/splunk",
+      "keywords": ["siem", "splunk", "sentinel", "security"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "Slack/Microsoft Teams alerting",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes sends real-time alerts to Slack and Microsoft Teams through native integrations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/alerts",
+      "keywords": ["slack", "teams", "alerting", "collaboration"]
+    },
+    {
+      "category": "Data & Reporting",
+      "requirement": "Customizable dashboards for leadership",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides customizable dashboards with role-based access control for different stakeholder views.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/dashboards",
+      "keywords": ["dashboard", "reporting", "visualization"]
+    },
+    {
+      "category": "Data & Reporting",
+      "requirement": "Historical data retention and analysis",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes retains historical performance data with configurable retention periods for trend analysis and compliance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/reports",
+      "keywords": ["historical", "retention", "data", "analysis"]
+    },
+    {
+      "category": "Data & Reporting",
+      "requirement": "Real-time alerting with 60-second threshold",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes alerts trigger immediately upon threshold breach with notifications via email, webhook, SMS, and integration platforms.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/alerts",
+      "keywords": ["alerting", "real-time", "threshold", "notification"]
+    },
+    {
+      "category": "Deployment",
+      "requirement": "Cloud-based SaaS deployment",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes is a cloud-based SaaS platform with global infrastructure across 193+ locations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/platform",
+      "keywords": ["saas", "cloud", "deployment"]
+    },
+    {
+      "category": "Deployment",
+      "requirement": "Hybrid deployment (cloud + on-premise)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes supports hybrid deployment with cloud-based platform and optional on-premise Enterprise Agents.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/agents/enterprise-agents",
+      "keywords": ["hybrid", "deployment", "enterprise agent"]
+    },
+    {
+      "category": "Support",
+      "requirement": "24/7 technical support",
+      "support_level": "yes",
+      "answer": "Yes. Cisco provides tiered support with 24/7 availability for critical issues based on subscription level.",
+      "source_url": "https://www.thousandeyes.com/support",
+      "keywords": ["support", "24/7", "sla"]
+    },
+    {
+      "category": "Use Cases",
+      "requirement": "Physician practice network monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors network connectivity, application performance, and user experience for distributed physician practices.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/use-cases",
+      "keywords": ["physician", "practice", "clinic", "monitoring"]
+    },
+    {
+      "category": "Use Cases",
+      "requirement": "Home health worker connectivity monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents monitor home health worker connectivity including WiFi, VPN, and application performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["home health", "remote", "connectivity"]
+    },
+    {
+      "category": "Use Cases",
+      "requirement": "Medical imaging (PACS) performance",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors PACS system availability, network path performance, and image retrieval times through HTTP/API testing.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["pacs", "imaging", "dicom", "radiology"]
+    }
+  ]
+}

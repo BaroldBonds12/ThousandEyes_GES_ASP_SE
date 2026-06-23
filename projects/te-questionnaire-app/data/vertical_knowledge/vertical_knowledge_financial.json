@@ -1,0 +1,239 @@
+{
+  "vertical": "Financial Services",
+  "description": "ThousandEyes capabilities for banks, investment firms, insurance companies, payment processors, and fintech companies",
+  "last_updated": "2026-04-03",
+  "common_requirements": [
+    {
+      "category": "Compliance & Security",
+      "requirement": "PCI DSS compliance support",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes maintains SOC 2 Type II certification and security controls; PCI DSS compliance requires additional security assessment and configuration.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["pci dss", "compliance", "payment", "security"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "SOC 2 Type II certification",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes maintains SOC 2 Type II certification demonstrating comprehensive security and operational controls.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["soc 2", "certification", "compliance"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "FINRA compliance support",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes provides audit logging and data retention features supporting FINRA requirements; specific compliance validation needed.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["finra", "compliance", "financial", "regulation"]
+    },
+    {
+      "category": "Compliance & Security",
+      "requirement": "Data encryption at rest and in transit",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes encrypts all data in transit via TLS 1.2+ and at rest using AES-256 encryption.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["encryption", "security", "tls", "aes"]
+    },
+    {
+      "category": "Trading & Market Data",
+      "requirement": "Low-latency trading platform monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors trading platforms with sub-second granularity, measuring latency, jitter, and packet loss for market connectivity.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["trading", "low latency", "market data", "monitoring"]
+    },
+    {
+      "category": "Trading & Market Data",
+      "requirement": "Market data feed monitoring (Bloomberg, Reuters)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors market data feeds through network and application testing for availability and performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["market data", "bloomberg", "reuters", "feed"]
+    },
+    {
+      "category": "Trading & Market Data",
+      "requirement": "Exchange connectivity monitoring (NYSE, NASDAQ, CME)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors exchange connectivity with network path analysis and latency measurement from trading venues.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/agent-to-server",
+      "keywords": ["exchange", "nyse", "nasdaq", "cme", "connectivity"]
+    },
+    {
+      "category": "Banking Applications",
+      "requirement": "Online banking platform monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors online banking applications including login flows, transaction processing, and account access with synthetic testing.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/web-transactions",
+      "keywords": ["online banking", "digital banking", "monitoring"]
+    },
+    {
+      "category": "Banking Applications",
+      "requirement": "Mobile banking app performance monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors mobile banking backend APIs and services supporting iOS and Android applications.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["mobile banking", "app", "api", "performance"]
+    },
+    {
+      "category": "Banking Applications",
+      "requirement": "ATM network connectivity monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors ATM network connectivity and transaction processing systems through network and application testing.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["atm", "network", "connectivity", "banking"]
+    },
+    {
+      "category": "Payment Processing",
+      "requirement": "Payment gateway monitoring (Stripe, PayPal, Square)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors payment gateway APIs for availability, response time, and transaction completion rates.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["payment gateway", "stripe", "paypal", "square"]
+    },
+    {
+      "category": "Payment Processing",
+      "requirement": "Card processing network monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors card processing networks and payment processors through API testing and transaction validation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["card processing", "payment", "visa", "mastercard"]
+    },
+    {
+      "category": "Payment Processing",
+      "requirement": "ACH/wire transfer system monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors ACH and wire transfer systems through application testing and network connectivity validation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["ach", "wire transfer", "payment", "monitoring"]
+    },
+    {
+      "category": "Core Banking",
+      "requirement": "Core banking system performance (Temenos, Fiserv, FIS)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors core banking platforms through HTTP/API testing and database connectivity validation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["core banking", "temenos", "fiserv", "fis"]
+    },
+    {
+      "category": "Core Banking",
+      "requirement": "Real-time payment systems (RTP, Zelle)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors real-time payment systems including RTP and Zelle for availability and transaction speed.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["rtp", "zelle", "real-time payments", "instant"]
+    },
+    {
+      "category": "Branch & Remote",
+      "requirement": "Branch office connectivity monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides end-to-end monitoring for branch connectivity including WAN, VPN, and application access.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["branch", "office", "wan", "connectivity"]
+    },
+    {
+      "category": "Branch & Remote",
+      "requirement": "Remote employee VPN monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents monitor VPN performance including connection quality, latency, and application access for remote workers.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["vpn", "remote", "employee", "monitoring"]
+    },
+    {
+      "category": "Third-Party Integration",
+      "requirement": "Credit bureau connectivity (Equifax, Experian, TransUnion)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors credit bureau API connectivity and response times through synthetic testing.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["credit bureau", "equifax", "experian", "transunion"]
+    },
+    {
+      "category": "Third-Party Integration",
+      "requirement": "Fraud detection service monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors fraud detection APIs and services for availability and response time performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["fraud detection", "security", "api", "monitoring"]
+    },
+    {
+      "category": "Cloud & SaaS",
+      "requirement": "Salesforce Financial Services Cloud monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Salesforce Financial Services Cloud for availability, performance, and user experience.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["salesforce", "fsc", "crm", "monitoring"]
+    },
+    {
+      "category": "Cloud & SaaS",
+      "requirement": "Microsoft 365 for financial services",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Microsoft 365 services including Teams, Outlook, and SharePoint for financial services teams.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["microsoft 365", "office 365", "collaboration"]
+    },
+    {
+      "category": "Data Centers",
+      "requirement": "Multi-datacenter failover monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors failover scenarios across data centers with automated testing and alerting on failover events.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["failover", "disaster recovery", "datacenter", "monitoring"]
+    },
+    {
+      "category": "Data Centers",
+      "requirement": "Database replication monitoring",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes monitors database connectivity and response time but does not monitor internal replication lag; integrates with database monitoring tools.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["database", "replication", "monitoring", "sql"]
+    },
+    {
+      "category": "Alerting & Reporting",
+      "requirement": "Real-time alerting with 30-second threshold",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides real-time alerting with immediate notification upon threshold breach via email, SMS, webhook, and integrations.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/alerts",
+      "keywords": ["alerting", "real-time", "notification", "threshold"]
+    },
+    {
+      "category": "Alerting & Reporting",
+      "requirement": "Executive dashboard for C-suite reporting",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides customizable executive dashboards with SLA reporting and performance metrics for leadership visibility.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/dashboards",
+      "keywords": ["dashboard", "executive", "reporting", "c-suite"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "ServiceNow ITSM integration",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates natively with ServiceNow for automated incident creation, event correlation, and CMDB integration.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/servicenow",
+      "keywords": ["servicenow", "itsm", "integration", "incident"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "Splunk SIEM integration",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides native Splunk integration for security monitoring, log correlation, and compliance reporting.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/splunk",
+      "keywords": ["splunk", "siem", "security", "integration"]
+    },
+    {
+      "category": "Deployment",
+      "requirement": "Private cloud deployment option",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes supports hybrid deployment with Enterprise Agents in private cloud and on-premise data centers.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/agents/enterprise-agents",
+      "keywords": ["private cloud", "deployment", "hybrid", "on-premise"]
+    },
+    {
+      "category": "Support",
+      "requirement": "24/7 premium support with 15-minute response SLA",
+      "support_level": "yes",
+      "answer": "Yes. Cisco provides 24/7 premium support with tiered SLAs based on severity for ThousandEyes customers.",
+      "source_url": "https://www.thousandeyes.com/support",
+      "keywords": ["support", "24/7", "sla", "premium"]
+    }
+  ]
+}

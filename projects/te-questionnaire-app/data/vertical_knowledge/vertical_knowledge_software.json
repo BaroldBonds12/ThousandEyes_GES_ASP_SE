@@ -1,0 +1,247 @@
+{
+  "vertical": "Software & Technology",
+  "description": "ThousandEyes capabilities for software companies, SaaS providers, ISPs, telecommunications, and technology companies",
+  "last_updated": "2026-04-03",
+  "common_requirements": [
+    {
+      "category": "SaaS Platform",
+      "requirement": "Multi-tenant SaaS application monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors multi-tenant SaaS platforms with global coverage, synthetic testing, and customer-specific performance visibility.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["saas", "multi-tenant", "platform", "monitoring"]
+    },
+    {
+      "category": "SaaS Platform",
+      "requirement": "API performance monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides comprehensive API monitoring including response time, availability, error rates, and transaction validation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["api", "rest", "graphql", "performance"]
+    },
+    {
+      "category": "SaaS Platform",
+      "requirement": "GraphQL API monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors GraphQL endpoints through HTTP/API testing with query validation and performance metrics.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["graphql", "api", "monitoring"]
+    },
+    {
+      "category": "SaaS Platform",
+      "requirement": "Microservices architecture monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors microservices through distributed tracing, API testing, and service dependency mapping.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["microservices", "distributed", "architecture"]
+    },
+    {
+      "category": "Cloud Infrastructure",
+      "requirement": "AWS cloud monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors AWS services including EC2, S3, CloudFront, and application endpoints with global vantage points.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/cloud-integration/aws",
+      "keywords": ["aws", "cloud", "amazon", "monitoring"]
+    },
+    {
+      "category": "Cloud Infrastructure",
+      "requirement": "Azure cloud monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Azure services and applications with cloud agents and Enterprise Agents in Azure regions.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/cloud-integration/azure",
+      "keywords": ["azure", "microsoft", "cloud"]
+    },
+    {
+      "category": "Cloud Infrastructure",
+      "requirement": "Google Cloud Platform monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors GCP services and applications with cloud coverage across Google Cloud regions.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/cloud-integration/gcp",
+      "keywords": ["gcp", "google cloud", "monitoring"]
+    },
+    {
+      "category": "Cloud Infrastructure",
+      "requirement": "Multi-cloud visibility",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides unified monitoring across AWS, Azure, GCP, and private cloud with single pane of glass visibility.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["multi-cloud", "hybrid cloud", "visibility"]
+    },
+    {
+      "category": "CDN & Content Delivery",
+      "requirement": "CDN performance monitoring (Cloudflare, Akamai, Fastly)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors CDN performance including cache hit rates, origin latency, and edge server response times globally.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["cdn", "cloudflare", "akamai", "fastly"]
+    },
+    {
+      "category": "CDN & Content Delivery",
+      "requirement": "Content delivery optimization analysis",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes analyzes CDN routing, identifies performance bottlenecks, and provides path visualization for optimization.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/internet-insights",
+      "keywords": ["cdn", "optimization", "content delivery"]
+    },
+    {
+      "category": "Developer Tools",
+      "requirement": "CI/CD pipeline monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates with CI/CD pipelines through API for automated testing and deployment validation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/api",
+      "keywords": ["ci/cd", "devops", "automation", "pipeline"]
+    },
+    {
+      "category": "Developer Tools",
+      "requirement": "GitHub integration",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors GitHub availability and can integrate via webhooks for automated workflows.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides",
+      "keywords": ["github", "git", "version control"]
+    },
+    {
+      "category": "Developer Tools",
+      "requirement": "Jira/Confluence monitoring and integration",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Atlassian services and integrates with Jira for automated ticket creation from alerts.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides",
+      "keywords": ["jira", "confluence", "atlassian", "integration"]
+    },
+    {
+      "category": "Network Performance",
+      "requirement": "BGP route monitoring and alerting",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides real-time BGP monitoring with route change detection, prefix hijack alerts, and path analysis.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/bgp",
+      "keywords": ["bgp", "routing", "network", "monitoring"]
+    },
+    {
+      "category": "Network Performance",
+      "requirement": "Internet outage detection",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Internet Insights provides global outage detection with ISP and application-level visibility.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/internet-insights",
+      "keywords": ["outage", "internet", "isp", "detection"]
+    },
+    {
+      "category": "Network Performance",
+      "requirement": "DNS performance and availability monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors DNS servers, resolution time, DNSSEC validation, and authoritative nameserver performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/dns-server",
+      "keywords": ["dns", "nameserver", "resolution", "monitoring"]
+    },
+    {
+      "category": "Security & Compliance",
+      "requirement": "SSL/TLS certificate monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors SSL/TLS certificate validity, expiration dates, and handshake performance with automated alerts.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/http-server",
+      "keywords": ["ssl", "tls", "certificate", "security"]
+    },
+    {
+      "category": "Security & Compliance",
+      "requirement": "SOC 2 Type II compliance",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes maintains SOC 2 Type II certification for security and operational controls.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["soc 2", "compliance", "security"]
+    },
+    {
+      "category": "Security & Compliance",
+      "requirement": "GDPR compliance for monitoring EU users",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes supports GDPR compliance with data residency options, data retention controls, and privacy features.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["gdpr", "privacy", "compliance", "eu"]
+    },
+    {
+      "category": "Customer Experience",
+      "requirement": "Real user monitoring (RUM)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents provide real user monitoring capturing actual user experience and performance metrics.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["rum", "real user", "monitoring", "experience"]
+    },
+    {
+      "category": "Customer Experience",
+      "requirement": "Synthetic transaction monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Web Transaction tests simulate user workflows including login, search, checkout with detailed performance metrics.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/web-transactions",
+      "keywords": ["synthetic", "transaction", "monitoring", "workflow"]
+    },
+    {
+      "category": "Customer Experience",
+      "requirement": "Global performance monitoring from 100+ locations",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides monitoring from 193+ cloud agent locations globally plus custom Enterprise Agent deployment.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/agents",
+      "keywords": ["global", "locations", "coverage", "monitoring"]
+    },
+    {
+      "category": "Integration & Automation",
+      "requirement": "REST API for automation",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides comprehensive REST API for test management, data retrieval, and integration automation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/api",
+      "keywords": ["api", "rest", "automation", "integration"]
+    },
+    {
+      "category": "Integration & Automation",
+      "requirement": "Terraform provider for infrastructure as code",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes offers official Terraform provider for managing tests and configuration as code.",
+      "source_url": "https://registry.terraform.io/providers/thousandeyes/thousandeyes",
+      "keywords": ["terraform", "iac", "automation", "infrastructure"]
+    },
+    {
+      "category": "Integration & Automation",
+      "requirement": "Slack/Microsoft Teams integration",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates with Slack and Microsoft Teams for real-time alert notifications and collaboration.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/alerts",
+      "keywords": ["slack", "teams", "collaboration", "integration"]
+    },
+    {
+      "category": "Integration & Automation",
+      "requirement": "PagerDuty/Opsgenie incident management",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates natively with PagerDuty and Opsgenie for automated incident creation and escalation.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides",
+      "keywords": ["pagerduty", "opsgenie", "incident", "alerting"]
+    },
+    {
+      "category": "Data & Analytics",
+      "requirement": "Historical data retention for trend analysis",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes retains historical performance data with configurable retention periods for long-term trend analysis.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/reports",
+      "keywords": ["historical", "retention", "analytics", "trends"]
+    },
+    {
+      "category": "Data & Analytics",
+      "requirement": "Custom dashboards and reporting",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides customizable dashboards with widgets, scheduled reports, and role-based access control.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/dashboards",
+      "keywords": ["dashboard", "reporting", "visualization", "custom"]
+    },
+    {
+      "category": "Data & Analytics",
+      "requirement": "Data export to data warehouse (Snowflake, BigQuery)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes supports data export via API and can integrate with data warehouses for advanced analytics.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/api",
+      "keywords": ["export", "data warehouse", "snowflake", "bigquery"]
+    },
+    {
+      "category": "Use Cases",
+      "requirement": "Status page integration",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes can feed data to status pages via API or integrate with services like Statuspage.io for public transparency.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/api",
+      "keywords": ["status page", "transparency", "public", "integration"]
+    }
+  ]
+}

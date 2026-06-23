@@ -1,0 +1,45 @@
+{
+  "maxItems": 30,
+  "feeds": [
+    {
+      "name": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/rss/",
+      "topics": ["networking", "observability", "monitoring"]
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss.xml",
+      "topics": ["ai", "development"]
+    },
+    {
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "topics": ["development"]
+    },
+    {
+      "name": "Grafana Labs Blog",
+      "url": "https://grafana.com/blog/index.xml",
+      "topics": ["observability", "monitoring"]
+    },
+    {
+      "name": "Datadog Engineering",
+      "url": "https://www.datadoghq.com/blog/index.xml",
+      "topics": ["observability", "monitoring"]
+    },
+    {
+      "name": "The New Stack",
+      "url": "https://thenewstack.io/feed/",
+      "topics": ["development", "observability", "networking"]
+    },
+    {
+      "name": "Google Cloud Blog",
+      "url": "https://cloudblog.withgoogle.com/rss/",
+      "topics": ["networking", "development"]
+    },
+    {
+      "name": "InfoQ",
+      "url": "https://www.infoq.com/feed/",
+      "topics": ["development", "ai", "networking"]
+    }
+  ]
+}

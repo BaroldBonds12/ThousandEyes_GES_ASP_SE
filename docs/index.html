@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ThousandEyes GES and ASP SE team collaboration hub — projects, tools, and tech radar.">
+  <title>ThousandEyes GES &amp; ASP SE Hub</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="banner">
+    <div class="banner-inner">
+      <div class="brand-line">
+        <span class="brand-dot"></span>
+        <span class="brand-label">ThousandEyes Solution Engineering</span>
+      </div>
+      <h1><span>ThousandEyes</span> GES &amp; ASP SE Hub</h1>
+      <p class="banner-desc">
+        Collaboration home for workproduct tools, workflow enhancements, discovery utilities,
+        automation, and customer showcase artifacts. Built by SEs, for SEs.
+      </p>
+      <div class="meta-row">
+        <span class="status-badge">
+          <span class="status-dot"></span>
+          Team hub active
+        </span>
+        <span class="meta-item">Projects <strong id="metric-total">—</strong></span>
+        <span class="meta-item">Featured <strong id="metric-featured">—</strong></span>
+        <span class="meta-item">
+          <a href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE/issues" target="_blank" rel="noopener noreferrer">Issues</a>
+        </span>
+        <span class="meta-item">
+          <a href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section class="section">
+      <div class="metrics-grid">
+        <div class="metric-card blue">
+          <div class="metric-label">Total Projects</div>
+          <div class="metric-value" id="metric-total-card">—</div>
+          <div class="metric-sub">In team catalog</div>
+        </div>
+        <div class="metric-card green">
+          <div class="metric-label">Active</div>
+          <div class="metric-value" id="metric-active">—</div>
+          <div class="metric-sub">Maintained tools</div>
+        </div>
+        <div class="metric-card purple">
+          <div class="metric-label">Featured</div>
+          <div class="metric-value" id="metric-featured-card">—</div>
+          <div class="metric-sub">Pinned highlights</div>
+        </div>
+        <div class="metric-card yellow">
+          <div class="metric-label">Categories</div>
+          <div class="metric-value" id="metric-categories">—</div>
+          <div class="metric-sub">Project types</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">Project Catalog</h2>
+      <div class="highlight-box">
+        <div class="hl-title">Hybrid hub</div>
+        <p>
+          Flagship tools live in <code>projects/</code> within this repo. Other work is linked from separate repos or kept private — summaries only, no internal URLs or credentials.
+        </p>
+      </div>
+      <div class="filter-bar">
+        <div id="category-tabs"></div>
+        <input type="search" id="project-search" class="search-input" placeholder="Search projects…" aria-label="Search projects">
+      </div>
+      <div id="project-grid" class="project-grid"></div>
+      <p id="projects-empty" class="feed-empty hidden">No projects match your filters.</p>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">Tech Radar</h2>
+      <p class="feed-updated" id="feed-updated"></p>
+      <div class="feed-layout">
+        <div>
+          <div id="feed-list" class="feed-list"></div>
+          <p id="feed-empty" class="feed-empty hidden">
+            No articles yet — the daily RSS workflow will populate this feed after the first run.
+          </p>
+        </div>
+        <aside class="feed-sidebar">
+          <h3>Filter by topic</h3>
+          <div id="topic-chips" class="topic-chips"></div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">Contribute</h2>
+      <div class="rec-list">
+        <div class="rec-item">
+          <span class="rec-num">1</span>
+          <div>
+            <div class="rec-title"><a data-issue-link href="#">Propose a new project</a></div>
+            <div class="rec-desc">Open an issue with the project template — name, category, description, and repo link.</div>
+          </div>
+        </div>
+        <div class="rec-item">
+          <span class="rec-num">2</span>
+          <div>
+            <div class="rec-title"><a data-contrib-link href="#">Read the contributing guide</a></div>
+            <div class="rec-desc">Public-safe content only. No internal hostnames, tokens, or customer data.</div>
+          </div>
+        </div>
+        <div class="rec-item">
+          <span class="rec-num">3</span>
+          <div>
+            <div class="rec-title"><a href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE/edit/main/docs/data/projects.json" target="_blank" rel="noopener noreferrer">Edit projects.json</a></div>
+            <div class="rec-desc">Add or update catalog entries via pull request. Data-driven — no HTML edits required.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <span>Powered by <strong>ThousandEyes</strong> SE Team</span>
+    <span class="footer-id">hub-id: GES-ASP-SE-2026</span>
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var sync = ['metric-total', 'metric-featured'];
+      sync.forEach(function (id) {
+        var src = document.getElementById(id);
+        var card = document.getElementById(id + '-card');
+        if (src && card) {
+          var obs = new MutationObserver(function () { card.textContent = src.textContent; });
+          obs.observe(src, { childList: true, characterData: true, subtree: true });
+        }
+      });
+    });
+  </script>
+</body>
+</html>

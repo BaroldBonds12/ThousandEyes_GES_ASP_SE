@@ -1,0 +1,223 @@
+{
+  "vertical": "Education",
+  "description": "ThousandEyes capabilities for K-12 schools, colleges, universities, online learning platforms, and educational institutions",
+  "last_updated": "2026-04-03",
+  "common_requirements": [
+    {
+      "category": "Learning Management",
+      "requirement": "LMS platform monitoring (Canvas, Blackboard, Moodle, D2L)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors learning management systems including Canvas, Blackboard, Moodle, and D2L for availability and performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["lms", "canvas", "blackboard", "moodle", "d2l"]
+    },
+    {
+      "category": "Learning Management",
+      "requirement": "Online exam and assessment platform monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors exam platforms for availability, performance, and user experience during critical testing windows.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["exam", "assessment", "testing", "proctoring"]
+    },
+    {
+      "category": "Video & Collaboration",
+      "requirement": "Zoom classroom performance monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Zoom connectivity including video quality, audio performance, and meeting reliability through VoIP metrics.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/voice",
+      "keywords": ["zoom", "video", "classroom", "conferencing"]
+    },
+    {
+      "category": "Video & Collaboration",
+      "requirement": "Microsoft Teams for Education monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Microsoft Teams for availability, call quality, and collaboration tool performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["teams", "microsoft", "collaboration", "education"]
+    },
+    {
+      "category": "Video & Collaboration",
+      "requirement": "Google Classroom and Meet monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Google Classroom and Google Meet for availability, performance, and video quality.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["google classroom", "google meet", "g suite", "education"]
+    },
+    {
+      "category": "Campus Network",
+      "requirement": "Multi-campus network monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides end-to-end network visibility across multiple campus locations with WAN performance monitoring.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["campus", "multi-site", "network", "wan"]
+    },
+    {
+      "category": "Campus Network",
+      "requirement": "Dormitory and student housing WiFi monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents monitor WiFi performance including signal strength, roaming, and application connectivity in dorms.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["wifi", "dormitory", "housing", "wireless"]
+    },
+    {
+      "category": "Campus Network",
+      "requirement": "Library and computer lab network monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors network performance and application access in library and lab environments.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["library", "computer lab", "network", "monitoring"]
+    },
+    {
+      "category": "Student Services",
+      "requirement": "Student information system (SIS) monitoring (Ellucian, PowerSchool)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors SIS platforms including Ellucian Banner, PowerSchool, and student portals for availability and performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["sis", "ellucian", "powerschool", "student portal"]
+    },
+    {
+      "category": "Student Services",
+      "requirement": "Enrollment and registration system monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors enrollment systems with synthetic testing for critical registration periods and peak load times.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests/web-transactions",
+      "keywords": ["enrollment", "registration", "student", "monitoring"]
+    },
+    {
+      "category": "Student Services",
+      "requirement": "Financial aid application monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors financial aid platforms and application workflows for availability and transaction completion.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["financial aid", "fafsa", "application", "monitoring"]
+    },
+    {
+      "category": "Research & HPC",
+      "requirement": "Research network connectivity (Internet2, ESnet)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors research network connections including Internet2 and ESnet for performance and availability.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["research network", "internet2", "esnet", "connectivity"]
+    },
+    {
+      "category": "Research & HPC",
+      "requirement": "High-performance computing (HPC) cluster connectivity",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors network connectivity to HPC clusters and research computing resources.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["hpc", "cluster", "research", "computing"]
+    },
+    {
+      "category": "Cloud & SaaS",
+      "requirement": "Google Workspace for Education monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Google Workspace including Gmail, Drive, Docs, and Classroom for education users.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["google workspace", "g suite", "education", "cloud"]
+    },
+    {
+      "category": "Cloud & SaaS",
+      "requirement": "Microsoft 365 Education monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Microsoft 365 Education including Teams, OneDrive, and Office applications.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["microsoft 365", "office 365", "education", "cloud"]
+    },
+    {
+      "category": "Cloud & SaaS",
+      "requirement": "Cloud storage monitoring (OneDrive, Google Drive, Dropbox)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors cloud storage platforms for upload/download performance and file sync reliability.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["cloud storage", "onedrive", "google drive", "dropbox"]
+    },
+    {
+      "category": "Security & Compliance",
+      "requirement": "FERPA compliance support",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes maintains security controls and audit logging supporting FERPA requirements; specific compliance validation needed.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["ferpa", "compliance", "privacy", "education"]
+    },
+    {
+      "category": "Security & Compliance",
+      "requirement": "COPPA compliance for K-12",
+      "support_level": "partial",
+      "answer": "Partial. ThousandEyes does not collect student data directly; COPPA compliance depends on deployment and data handling practices.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/administrative/security",
+      "keywords": ["coppa", "k-12", "compliance", "privacy"]
+    },
+    {
+      "category": "Remote Learning",
+      "requirement": "Remote student connectivity monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes Endpoint Agents monitor remote student connectivity including home WiFi, VPN, and application access.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["remote learning", "student", "connectivity", "home"]
+    },
+    {
+      "category": "Remote Learning",
+      "requirement": "VPN performance for remote access",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors VPN performance including connection quality, latency, and throughput for student and faculty access.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/endpoint-agent",
+      "keywords": ["vpn", "remote access", "performance", "monitoring"]
+    },
+    {
+      "category": "Digital Library",
+      "requirement": "Digital library resource monitoring (JSTOR, ProQuest)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors digital library platforms and databases for availability and access performance.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["digital library", "jstor", "proquest", "database"]
+    },
+    {
+      "category": "Digital Library",
+      "requirement": "E-book platform monitoring (VitalSource, RedShelf)",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors e-book platforms for availability, download speeds, and user access.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["ebook", "vitalsource", "redshelf", "textbook"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "Salesforce Education Cloud monitoring",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes monitors Salesforce Education Cloud for CRM, recruitment, and student engagement applications.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/tests",
+      "keywords": ["salesforce", "education cloud", "crm", "monitoring"]
+    },
+    {
+      "category": "Integration",
+      "requirement": "ServiceNow ITSM for campus IT",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes integrates with ServiceNow for automated incident creation and IT service management.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/servicenow",
+      "keywords": ["servicenow", "itsm", "it service", "integration"]
+    },
+    {
+      "category": "Deployment",
+      "requirement": "On-premise deployment for data sovereignty",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes supports hybrid deployment with on-premise Enterprise Agents while platform remains cloud-based.",
+      "source_url": "https://docs.thousandeyes.com/product-documentation/agents/enterprise-agents",
+      "keywords": ["on-premise", "deployment", "data sovereignty", "hybrid"]
+    },
+    {
+      "category": "Budget & Pricing",
+      "requirement": "Educational pricing discounts",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes offers educational pricing programs for qualifying academic institutions; contact sales for details.",
+      "source_url": "https://www.thousandeyes.com/pricing",
+      "keywords": ["education pricing", "academic", "discount", "budget"]
+    },
+    {
+      "category": "Support",
+      "requirement": "Academic support resources and training",
+      "support_level": "yes",
+      "answer": "Yes. ThousandEyes provides documentation, training materials, and support resources for educational institutions.",
+      "source_url": "https://docs.thousandeyes.com",
+      "keywords": ["support", "training", "documentation", "education"]
+    }
+  ]
+}
