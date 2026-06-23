@@ -2,6 +2,16 @@
 
 Thank you for helping build the GES & ASP SE collaboration hub. This repo is **public** — follow the rules below before opening a PR.
 
+## Guided workflow (Cursor)
+
+SEs using Cursor can start a chat with:
+
+> **Let's share with the group**
+
+That loads the **share-with-group** skill (`.cursor/skills/share-with-group/SKILL.md`): category intake → description → hub preview mockup → iteration → publish gate → catalog PR → GitHub Discussion + Webex announcement.
+
+You can also `@share-with-group` to force-load the skill.
+
 ## Public-safe content policy
 
 **Do not include:**

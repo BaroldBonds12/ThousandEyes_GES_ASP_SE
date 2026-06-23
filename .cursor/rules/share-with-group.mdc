@@ -1,0 +1,14 @@
+---
+description: When an SE wants to share a project on the GES/ASP hub, follow the share-with-group skill workflow (category → description → mockup → publish gate → PR → Discussion + Webex).
+globs:
+alwaysApply: false
+---
+
+# Share with the group
+
+When the user says **"Let's share with the group"** (or similar — publish to the SE hub, add to this repo):
+
+1. Read and follow `.cursor/skills/share-with-group/SKILL.md` end-to-end.
+2. Do not edit `projects.json` or push until mockup approval and publish gate pass.
+3. Enforce public-safe content — no internal URLs, secrets, or customer data.
+4. After publish, prompt for GitHub Discussion + GES ASP Webex space announcement.

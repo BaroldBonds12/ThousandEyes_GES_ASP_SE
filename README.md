@@ -22,7 +22,7 @@ Collaboration home for the ThousandEyes Global Enterprise Services and Advanced 
 
 ## Quick links
 
-- [Contributing guide](CONTRIBUTING.md)
+- [Contributing guide](CONTRIBUTING.md) — includes **"Let's share with the group"** Cursor workflow
 - [Propose a project](https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE/issues/new?template=new-project.yml)
 - [View issues](https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE/issues)
 
