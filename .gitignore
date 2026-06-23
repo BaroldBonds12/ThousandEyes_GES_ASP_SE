@@ -27,3 +27,4 @@ node_modules/
 # Build artifacts
 projects/**/dist/
 projects/**/.venv/
+docs/build-info.json

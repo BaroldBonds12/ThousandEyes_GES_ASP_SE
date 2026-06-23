@@ -30,9 +30,26 @@ Collaboration home for the ThousandEyes Global Enterprise Services and Advanced 
 ## GitHub Pages setup (one-time)
 
 1. Go to **Settings → Pages**
-2. Under **Build and deployment**, set **Source** to **GitHub Actions**
-3. Push to `main` — the `pages.yml` workflow deploys `/docs` automatically
-4. Confirm the site at the URL above
+2. Under **Build and deployment**, set **Source** to **GitHub Actions** (not branch deploy)
+3. Push to `main` — `pages.yml` deploys `/docs` with cache-busted CSS/JS
+4. Watch **Actions → Deploy GitHub Pages** for the green check (~1–3 min)
+
+### How fast do changes go live?
+
+| Layer | Typical delay | What we did |
+|-------|----------------|-------------|
+| GitHub Actions build | 1–3 minutes | `pages.yml` runs on every `docs/` push; cancel-in-progress avoids queue pile-up |
+| CDN cache (HTML) | Up to **10 minutes** | GitHub Pages sets `Cache-Control: max-age=600` — not configurable on free Pages |
+| Browser cache | Varies | Actions inject `?v=<commit>` on CSS/JS each deploy; JSON fetched with `no-cache` |
+
+**Tips for faster feedback:**
+
+- **Local preview** (instant): `cd docs && python3 -m http.server 8080`
+- **Know when deploy finished:** Actions tab → Deploy GitHub Pages → green ✓
+- **After deploy:** hard refresh once (`Cmd+Shift+R`) if HTML still looks stale
+- **Footer** shows `deploy: abc1234` (commit short SHA) when Actions deploy is active
+
+If Pages source is still **Deploy from branch**, switch to **GitHub Actions** so cache-busting and deploy status work.
 
 ## Local preview
 

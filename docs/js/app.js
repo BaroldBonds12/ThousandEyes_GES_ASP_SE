@@ -352,11 +352,27 @@
     }
   }
 
+  const FETCH_OPTS = { cache: 'no-store' };
+
+  async function loadDeployInfo() {
+    try {
+      const res = await fetch(dataUrl('build-info.json'), FETCH_OPTS);
+      if (!res.ok) return;
+      const info = await res.json();
+      const el = document.getElementById('deploy-version');
+      if (el && info.version) {
+        el.textContent = 'deploy: ' + info.version;
+      }
+    } catch {
+      /* optional — only present on Actions deploy */
+    }
+  }
+
   async function loadData() {
     try {
       const [projectsRes, feedRes] = await Promise.all([
-        fetch(dataUrl('data/projects.json')),
-        fetch(dataUrl('data/feed.json'))
+        fetch(dataUrl('data/projects.json'), FETCH_OPTS),
+        fetch(dataUrl('data/feed.json'), FETCH_OPTS)
       ]);
 
       if (projectsRes.ok) {
@@ -386,6 +402,7 @@
     initSearch();
     initCtaLinks();
     initNavigation();
+    loadDeployInfo();
     loadData();
   });
 })();
