@@ -4,146 +4,174 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="ThousandEyes GES and ASP SE team collaboration hub — projects, tools, and tech radar.">
-  <title>ThousandEyes GES &amp; ASP SE Hub</title>
+  <title>GES &amp; ASP SE Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 
-  <header class="banner">
-    <div class="banner-inner">
-      <div class="brand-line">
-        <span class="brand-dot"></span>
-        <span class="brand-label">ThousandEyes Solution Engineering</span>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Main navigation">
+      <div class="sidebar-logo">
+        <span class="logo-dot"></span>
       </div>
-      <h1><span>ThousandEyes</span> GES &amp; ASP SE Hub</h1>
-      <p class="banner-desc">
-        Collaboration home for workproduct tools, workflow enhancements, discovery utilities,
-        automation, and customer showcase artifacts. Built by SEs, for SEs.
-      </p>
-      <div class="meta-row">
-        <span class="status-badge">
-          <span class="status-dot"></span>
-          Team hub active
-        </span>
-        <span class="meta-item">Projects <strong id="metric-total">—</strong></span>
-        <span class="meta-item">Featured <strong id="metric-featured">—</strong></span>
-        <span class="meta-item">
-          <a href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE/issues" target="_blank" rel="noopener noreferrer">Issues</a>
-        </span>
-        <span class="meta-item">
-          <a href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE" target="_blank" rel="noopener noreferrer">GitHub</a>
-        </span>
+      <nav class="sidebar-nav">
+        <button type="button" class="nav-item active" data-section="overview" title="Overview">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+        </button>
+        <button type="button" class="nav-item" data-section="projects" title="Projects">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>
+        </button>
+        <button type="button" class="nav-item" data-section="radar" title="Tech Radar">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+        </button>
+        <button type="button" class="nav-item" data-section="contribute" title="Contribute">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg>
+        </button>
+      </nav>
+      <div class="sidebar-footer">
+        <a class="nav-item" href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE" target="_blank" rel="noopener noreferrer" title="GitHub">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+        </a>
       </div>
+    </aside>
+
+    <div class="main-wrap">
+      <header class="topbar">
+        <div class="topbar-left">
+          <h1 class="page-title">GES &amp; ASP SE Hub</h1>
+          <span class="status-pill"><span class="status-dot"></span> Active</span>
+        </div>
+        <div class="topbar-right">
+          <a class="topbar-btn" href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE/issues" target="_blank" rel="noopener noreferrer" title="Issues">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 8v4M12 16h.01"/></svg>
+          </a>
+          <a class="topbar-btn" href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE" target="_blank" rel="noopener noreferrer" title="Repository">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+          </a>
+        </div>
+      </header>
+
+      <main class="dashboard">
+
+        <section id="overview" class="dash-section">
+          <div class="metrics-row">
+            <div class="stat-card accent-blue">
+              <span class="stat-label">Total Projects</span>
+              <span class="stat-value" id="metric-total">—</span>
+              <span class="stat-sub">In catalog</span>
+            </div>
+            <div class="stat-card accent-green">
+              <span class="stat-label">Active</span>
+              <span class="stat-value" id="metric-active">—</span>
+              <span class="stat-sub">Maintained</span>
+            </div>
+            <div class="stat-card accent-orange">
+              <span class="stat-label">Featured</span>
+              <span class="stat-value" id="metric-featured">—</span>
+              <span class="stat-sub">Pinned</span>
+            </div>
+            <div class="stat-card accent-purple">
+              <span class="stat-label">Categories</span>
+              <span class="stat-value" id="metric-categories">—</span>
+              <span class="stat-sub">Project types</span>
+            </div>
+          </div>
+
+          <div class="dash-grid overview-grid">
+            <div class="widget widget-wide">
+              <div class="widget-header">
+                <h2>Featured Projects</h2>
+                <button type="button" class="widget-link" data-goto="projects">View all</button>
+              </div>
+              <div id="featured-list" class="task-list"></div>
+            </div>
+            <div class="widget">
+              <div class="widget-header">
+                <h2>By Category</h2>
+              </div>
+              <div id="category-chart" class="activity-chart"></div>
+            </div>
+          </div>
+        </section>
+
+        <section id="projects" class="dash-section">
+          <div class="widget widget-full">
+            <div class="widget-header">
+              <h2>Project Catalog</h2>
+              <input type="search" id="project-search" class="search-input" placeholder="Search projects…" aria-label="Search projects">
+            </div>
+            <p class="widget-desc">Flagship tools live in <code>projects/</code>. Other work is linked externally — summaries only, no internal URLs.</p>
+            <div class="filter-bar" id="category-tabs"></div>
+            <div id="project-grid" class="project-grid"></div>
+            <p id="projects-empty" class="empty-state hidden">No projects match your filters.</p>
+          </div>
+        </section>
+
+        <section id="radar" class="dash-section">
+          <div class="dash-grid radar-grid">
+            <div class="widget widget-wide">
+              <div class="widget-header">
+                <h2>Tech Radar</h2>
+                <span class="feed-updated" id="feed-updated"></span>
+              </div>
+              <div id="feed-list" class="feed-list"></div>
+              <p id="feed-empty" class="empty-state hidden">No articles yet — run the RSS workflow to populate.</p>
+            </div>
+            <div class="widget">
+              <div class="widget-header">
+                <h2>Topics</h2>
+              </div>
+              <div id="topic-chips" class="topic-chips"></div>
+              <div class="topic-legend">
+                <p class="widget-desc">Curated feeds on AI, networking, observability, monitoring, and development.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="contribute" class="dash-section">
+          <div class="widget widget-full">
+            <div class="widget-header">
+              <h2>Contribute</h2>
+            </div>
+            <div class="reminder-list">
+              <div class="reminder-item priority-high">
+                <span class="reminder-dot"></span>
+                <div>
+                  <div class="reminder-title"><a data-issue-link href="#">Propose a new project</a></div>
+                  <div class="reminder-desc">Open an issue with the project template</div>
+                </div>
+              </div>
+              <div class="reminder-item priority-medium">
+                <span class="reminder-dot"></span>
+                <div>
+                  <div class="reminder-title"><a data-contrib-link href="#">Read the contributing guide</a></div>
+                  <div class="reminder-desc">Public-safe content only — no secrets or internal URLs</div>
+                </div>
+              </div>
+              <div class="reminder-item priority-low">
+                <span class="reminder-dot"></span>
+                <div>
+                  <div class="reminder-title"><a href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE/edit/main/docs/data/projects.json" target="_blank" rel="noopener noreferrer">Edit projects.json</a></div>
+                  <div class="reminder-desc">Add catalog entries via pull request</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+      </main>
+
+      <footer class="footer">
+        <span>GES &amp; ASP SE Team Hub</span>
+        <span class="footer-id">hub-id: GES-ASP-SE-2026</span>
+      </footer>
     </div>
-  </header>
-
-  <main class="container">
-
-    <section class="section">
-      <div class="metrics-grid">
-        <div class="metric-card blue">
-          <div class="metric-label">Total Projects</div>
-          <div class="metric-value" id="metric-total-card">—</div>
-          <div class="metric-sub">In team catalog</div>
-        </div>
-        <div class="metric-card green">
-          <div class="metric-label">Active</div>
-          <div class="metric-value" id="metric-active">—</div>
-          <div class="metric-sub">Maintained tools</div>
-        </div>
-        <div class="metric-card purple">
-          <div class="metric-label">Featured</div>
-          <div class="metric-value" id="metric-featured-card">—</div>
-          <div class="metric-sub">Pinned highlights</div>
-        </div>
-        <div class="metric-card yellow">
-          <div class="metric-label">Categories</div>
-          <div class="metric-value" id="metric-categories">—</div>
-          <div class="metric-sub">Project types</div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
-      <h2 class="section-title">Project Catalog</h2>
-      <div class="highlight-box">
-        <div class="hl-title">Hybrid hub</div>
-        <p>
-          Flagship tools live in <code>projects/</code> within this repo. Other work is linked from separate repos or kept private — summaries only, no internal URLs or credentials.
-        </p>
-      </div>
-      <div class="filter-bar">
-        <div id="category-tabs"></div>
-        <input type="search" id="project-search" class="search-input" placeholder="Search projects…" aria-label="Search projects">
-      </div>
-      <div id="project-grid" class="project-grid"></div>
-      <p id="projects-empty" class="feed-empty hidden">No projects match your filters.</p>
-    </section>
-
-    <section class="section">
-      <h2 class="section-title">Tech Radar</h2>
-      <p class="feed-updated" id="feed-updated"></p>
-      <div class="feed-layout">
-        <div>
-          <div id="feed-list" class="feed-list"></div>
-          <p id="feed-empty" class="feed-empty hidden">
-            No articles yet — the daily RSS workflow will populate this feed after the first run.
-          </p>
-        </div>
-        <aside class="feed-sidebar">
-          <h3>Filter by topic</h3>
-          <div id="topic-chips" class="topic-chips"></div>
-        </aside>
-      </div>
-    </section>
-
-    <section class="section">
-      <h2 class="section-title">Contribute</h2>
-      <div class="rec-list">
-        <div class="rec-item">
-          <span class="rec-num">1</span>
-          <div>
-            <div class="rec-title"><a data-issue-link href="#">Propose a new project</a></div>
-            <div class="rec-desc">Open an issue with the project template — name, category, description, and repo link.</div>
-          </div>
-        </div>
-        <div class="rec-item">
-          <span class="rec-num">2</span>
-          <div>
-            <div class="rec-title"><a data-contrib-link href="#">Read the contributing guide</a></div>
-            <div class="rec-desc">Public-safe content only. No internal hostnames, tokens, or customer data.</div>
-          </div>
-        </div>
-        <div class="rec-item">
-          <span class="rec-num">3</span>
-          <div>
-            <div class="rec-title"><a href="https://github.com/BaroldBonds12/ThousandEyes_GES_ASP_SE/edit/main/docs/data/projects.json" target="_blank" rel="noopener noreferrer">Edit projects.json</a></div>
-            <div class="rec-desc">Add or update catalog entries via pull request. Data-driven — no HTML edits required.</div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-  </main>
-
-  <footer class="footer">
-    <span>Powered by <strong>ThousandEyes</strong> SE Team</span>
-    <span class="footer-id">hub-id: GES-ASP-SE-2026</span>
-  </footer>
+  </div>
 
   <script src="js/app.js"></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      var sync = ['metric-total', 'metric-featured'];
-      sync.forEach(function (id) {
-        var src = document.getElementById(id);
-        var card = document.getElementById(id + '-card');
-        if (src && card) {
-          var obs = new MutationObserver(function () { card.textContent = src.textContent; });
-          obs.observe(src, { childList: true, characterData: true, subtree: true });
-        }
-      });
-    });
-  </script>
 </body>
 </html>
