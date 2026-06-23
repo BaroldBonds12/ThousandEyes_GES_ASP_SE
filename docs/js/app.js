@@ -27,14 +27,15 @@
     development: 'Development'
   };
 
-  const CHART_COLORS = ['blue', 'green', 'purple', 'orange', 'red'];
-
   let projects = [];
-  let feedItems = [];
+  let industryItems = [];
+  let ciscoItems = [];
+  let teItems = [];
   let activeCategory = 'all';
   let activeTopic = 'all';
   let searchQuery = '';
   let feedUpdatedAt = null;
+  let industryExpanded = false;
 
   function dataUrl(path) {
     return new URL(path, window.location.href).href;
@@ -65,20 +66,8 @@
     return div.innerHTML;
   }
 
-  function renderMetrics() {
-    const total = projects.length;
-    const featured = projects.filter(function (p) { return p.featured; }).length;
-    const active = projects.filter(function (p) { return p.status === 'active'; }).length;
-    const categories = new Set(projects.map(function (p) { return p.category; })).size;
-
-    document.getElementById('metric-total').textContent = total;
-    document.getElementById('metric-featured').textContent = featured;
-    document.getElementById('metric-active').textContent = active;
-    document.getElementById('metric-categories').textContent = categories;
-  }
-
-  function renderFeaturedList() {
-    const container = document.getElementById('featured-list');
+  function renderFeaturedTiles() {
+    const container = document.getElementById('featured-tiles');
     const featured = projects.filter(function (p) { return p.featured; });
 
     if (featured.length === 0) {
@@ -88,49 +77,41 @@
 
     container.innerHTML = featured.map(function (p) {
       const cat = CATEGORIES[p.category] || CATEGORIES.all;
-      return (
-        '<div class="task-item">' +
-          '<div class="task-icon ' + cat.color + '">' + escapeHtml(cat.icon) + '</div>' +
-          '<div class="task-body">' +
-            '<div class="task-title"><a href="' + escapeHtml(repoUrl(p.repo)) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(p.name) + '</a></div>' +
-            '<div class="task-meta"><span class="cat-label cat-' + escapeHtml(p.category) + '">' + escapeHtml(cat.label) + '</span> · ' + escapeHtml(p.status) + '</div>' +
-          '</div>' +
-          '<span class="task-star" title="Featured">★</span>' +
-        '</div>'
-      );
-    }).join('');
-  }
+      const statusClass = STATUS_BADGE[p.status] || 'badge-blue';
+      const tags = (p.tags || []).slice(0, 3).map(function (t) {
+        return '<span class="tag">' + escapeHtml(t) + '</span>';
+      }).join('');
 
-  function renderCategoryChart() {
-    const container = document.getElementById('category-chart');
-    const counts = {};
-
-    projects.forEach(function (p) {
-      counts[p.category] = (counts[p.category] || 0) + 1;
-    });
-
-    const keys = Object.keys(counts);
-    if (keys.length === 0) {
-      container.innerHTML = '<p class="empty-state">No data yet.</p>';
-      return;
-    }
-
-    const max = Math.max.apply(null, Object.values(counts));
-
-    container.innerHTML = keys.map(function (key, i) {
-      const cat = CATEGORIES[key] || { label: key };
-      const count = counts[key];
-      const pct = max > 0 ? Math.round((count / max) * 100) : 0;
-      const color = CHART_COLORS[i % CHART_COLORS.length];
+      const links = [];
+      if (p.repo) {
+        links.push('<a href="' + escapeHtml(repoUrl(p.repo)) + '" target="_blank" rel="noopener noreferrer">Repo</a>');
+      }
+      if (p.demo) {
+        links.push('<a href="' + escapeHtml(p.demo) + '" target="_blank" rel="noopener noreferrer">Demo</a>');
+      }
 
       return (
-        '<div class="activity-row">' +
-          '<span class="activity-label">' + escapeHtml(cat.label) + '</span>' +
-          '<div class="activity-bar-wrap">' +
-            '<div class="activity-bar ' + color + '" style="width:' + pct + '%"></div>' +
+        '<article class="featured-tile ' + cat.color + '">' +
+          '<div class="featured-tile-icon">' + escapeHtml(cat.icon) + '</div>' +
+          '<div class="featured-tile-body">' +
+            '<div class="featured-tile-header">' +
+              '<h3 class="featured-tile-title">' +
+                '<a href="' + escapeHtml(repoUrl(p.repo)) + '" target="_blank" rel="noopener noreferrer">' +
+                  escapeHtml(p.name) +
+                '</a>' +
+              '</h3>' +
+              '<span class="badge ' + statusClass + '">' + escapeHtml(p.status) + '</span>' +
+            '</div>' +
+            '<span class="badge ' + cat.badge + ' featured-tile-cat">' + escapeHtml(cat.label) + '</span>' +
+            '<p class="featured-tile-desc">' + escapeHtml(p.description) + '</p>' +
+            '<div class="featured-tile-tags">' + tags + '</div>' +
+            '<div class="featured-tile-footer">' +
+              '<span class="maintainers">' + escapeHtml((p.maintainers || []).join(', ')) + '</span>' +
+              '<span>' + links.join(' · ') + '</span>' +
+            '</div>' +
           '</div>' +
-          '<span class="activity-count">' + count + '</span>' +
-        '</div>'
+          '<span class="featured-tile-star" title="Featured">★</span>' +
+        '</article>'
       );
     }).join('');
   }
@@ -221,7 +202,7 @@
     allBtn.addEventListener('click', function () {
       activeTopic = 'all';
       renderTopicChips();
-      renderFeed();
+      renderIndustryFeed();
     });
     container.appendChild(allBtn);
 
@@ -233,43 +214,44 @@
       btn.addEventListener('click', function () {
         activeTopic = key;
         renderTopicChips();
-        renderFeed();
+        renderIndustryFeed();
       });
       container.appendChild(btn);
     });
   }
 
-  function filteredFeed() {
-    if (activeTopic === 'all') return feedItems;
-    return feedItems.filter(function (item) {
+  function filteredIndustry() {
+    if (activeTopic === 'all') return industryItems;
+    return industryItems.filter(function (item) {
       return (item.topics || []).indexOf(activeTopic) !== -1;
     });
   }
 
-  function renderFeed() {
-    const list = document.getElementById('feed-list');
-    const empty = document.getElementById('feed-empty');
-    const updated = document.getElementById('feed-updated');
-    const items = filteredFeed();
-
-    if (feedUpdatedAt) {
-      updated.textContent = 'Updated ' + formatDate(feedUpdatedAt);
-    } else {
-      updated.textContent = 'Daily refresh';
-    }
+  function renderFeedItems(listEl, emptyEl, items, options) {
+    options = options || {};
+    const limit = options.limit || 25;
+    const showTopics = options.showTopics !== false;
 
     if (items.length === 0) {
-      list.innerHTML = '';
-      empty.classList.remove('hidden');
+      listEl.innerHTML = '';
+      emptyEl.classList.remove('hidden');
       return;
     }
 
-    empty.classList.add('hidden');
-    list.innerHTML = items.slice(0, 25).map(function (item) {
-      const topics = (item.topics || []).slice(0, 2).map(function (t) {
-        const label = TOPIC_LABELS[t] || t;
-        return '<span class="badge badge-blue">' + escapeHtml(label) + '</span>';
-      }).join(' ');
+    emptyEl.classList.add('hidden');
+    listEl.innerHTML = items.slice(0, limit).map(function (item) {
+      const topics = showTopics
+        ? (item.topics || []).slice(0, 2).map(function (t) {
+            const label = TOPIC_LABELS[t] || t;
+            return '<span class="badge badge-blue">' + escapeHtml(label) + '</span>';
+          }).join(' ')
+        : '';
+
+      const typeBadge = item.type === 'release'
+        ? '<span class="badge badge-purple">Release</span>'
+        : item.type === 'blog'
+          ? '<span class="badge badge-green">Blog</span>'
+          : '';
 
       return (
         '<div class="feed-item">' +
@@ -281,12 +263,67 @@
             '<div class="feed-meta">' +
               '<span>' + escapeHtml(item.source) + '</span>' +
               '<span>' + formatDate(item.published) + '</span>' +
+              typeBadge +
               topics +
             '</div>' +
           '</div>' +
         '</div>'
       );
     }).join('');
+  }
+
+  function setUpdatedLabel(elId) {
+    const el = document.getElementById(elId);
+    if (!el) return;
+    el.textContent = feedUpdatedAt ? 'Updated ' + formatDate(feedUpdatedAt) : 'Daily refresh';
+  }
+
+  function renderIndustryFeed() {
+    renderFeedItems(
+      document.getElementById('industry-list'),
+      document.getElementById('industry-empty'),
+      filteredIndustry()
+    );
+    setUpdatedLabel('industry-updated');
+  }
+
+  function renderCiscoFeed() {
+    renderFeedItems(
+      document.getElementById('cisco-list'),
+      document.getElementById('cisco-empty'),
+      ciscoItems,
+      { showTopics: false, limit: 15 }
+    );
+    setUpdatedLabel('cisco-updated');
+  }
+
+  function renderTeFeed() {
+    renderFeedItems(
+      document.getElementById('te-list'),
+      document.getElementById('te-empty'),
+      teItems,
+      { showTopics: false, limit: 15 }
+    );
+    setUpdatedLabel('te-updated');
+  }
+
+  function initIndustryCollapse() {
+    const toggle = document.getElementById('industry-toggle');
+    const panel = document.getElementById('industry-panel');
+    const section = toggle.closest('.feed-section');
+
+    function setExpanded(expanded) {
+      industryExpanded = expanded;
+      section.dataset.collapsed = expanded ? 'false' : 'true';
+      toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+      panel.classList.toggle('hidden', !expanded);
+    }
+
+    toggle.addEventListener('click', function () {
+      setExpanded(!industryExpanded);
+    });
+
+    setExpanded(false);
   }
 
   function initSearch() {
@@ -364,8 +401,15 @@
         el.textContent = 'deploy: ' + info.version;
       }
     } catch {
-      /* optional — only present on Actions deploy */
+      /* optional */
     }
+  }
+
+  function normalizeFeedSection(data, key) {
+    if (data[key]?.items) return data[key].items;
+    if (Array.isArray(data[key])) return data[key];
+    if (Array.isArray(data.items) && key === 'industry') return data.items;
+    return [];
   }
 
   async function loadData() {
@@ -382,26 +426,29 @@
 
       if (feedRes.ok) {
         const data = await feedRes.json();
-        feedItems = data.items || [];
+        industryItems = normalizeFeedSection(data, 'industry');
+        ciscoItems = normalizeFeedSection(data, 'cisco');
+        teItems = normalizeFeedSection(data, 'thousandeyes');
         feedUpdatedAt = data.updatedAt;
       }
     } catch (err) {
       console.warn('Failed to load hub data:', err);
     }
 
-    renderMetrics();
-    renderFeaturedList();
-    renderCategoryChart();
+    renderFeaturedTiles();
     renderCategoryTabs();
     renderProjects();
     renderTopicChips();
-    renderFeed();
+    renderIndustryFeed();
+    renderCiscoFeed();
+    renderTeFeed();
   }
 
   document.addEventListener('DOMContentLoaded', function () {
     initSearch();
     initCtaLinks();
     initNavigation();
+    initIndustryCollapse();
     loadDeployInfo();
     loadData();
   });

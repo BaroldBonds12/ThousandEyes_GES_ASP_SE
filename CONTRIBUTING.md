@@ -85,7 +85,7 @@ Edit [`feeds.config.json`](feeds.config.json) at the repo root:
 
 Valid topics: `ai`, `networking`, `observability`, `monitoring`, `development`
 
-After merge, the daily workflow picks up new feeds automatically. You can also trigger **Update Tech Radar Feed** manually from Actions.
+After merge, the daily workflow picks up new feeds automatically. You can also trigger **Update Hub Feeds** manually from Actions.
 
 ## In-repo project guidelines
 

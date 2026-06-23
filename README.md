@@ -62,4 +62,4 @@ cd docs && python3 -m http.server 8080
 
 ## RSS feed updates
 
-The `update-feed.yml` workflow runs daily and commits fresh articles to `docs/data/feed.json`. Trigger manually via **Actions → Update Tech Radar Feed → Run workflow**.
+The `update-feed.yml` workflow runs daily and commits fresh articles to `docs/data/feed.json` (Industry, Cisco, and ThousandEyes sections). Trigger manually via **Actions → Update Hub Feeds → Run workflow**.

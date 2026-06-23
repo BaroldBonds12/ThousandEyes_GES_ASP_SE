@@ -1,6 +1,10 @@
 {
-  "maxItems": 30,
-  "feeds": [
+  "maxItems": {
+    "industry": 25,
+    "cisco": 15,
+    "thousandeyes": 15
+  },
+  "industry": [
     {
       "name": "Cloudflare Blog",
       "url": "https://blog.cloudflare.com/rss/",
@@ -41,5 +45,24 @@
       "url": "https://www.infoq.com/feed/",
       "topics": ["development", "ai", "networking"]
     }
-  ]
+  ],
+  "cisco": [
+    {
+      "name": "Cisco Blogs",
+      "url": "https://blogs.cisco.com/feed"
+    },
+    {
+      "name": "Cisco Newsroom",
+      "url": "https://newsroom.cisco.com/c/services/i/servlets/newsroom/rssfeed.json?feed=articles"
+    },
+    {
+      "name": "Cisco Press Releases",
+      "url": "https://newsroom.cisco.com/c/services/i/servlets/newsroom/rssfeed.json?feed=press-releases"
+    }
+  ],
+  "thousandeyes": {
+    "blogListingUrl": "https://www.thousandeyes.com/blog/",
+    "blogMaxPosts": 8,
+    "changelogUrl": "https://docs.thousandeyes.com/whats-new/changelog.md"
+  }
 }
