@@ -31,9 +31,21 @@
       "status": "active",
       "description": "Agent-guided workflow for Cisco brand-approved ThousandEyes HTML slide decks. Say \"I want to make a deck\" in Cursor — intake covers audience, topics, customer context, Gong notes, and TE data before building a self-contained presenter-ready HTML file.",
       "repo": "BaroldBonds12/ThousandEyes_GES_ASP_SE/tree/main/.cursor/skills/html-deck",
-      "demo": null,
+      "demo": "https://baroldbonds12.github.io/ThousandEyes_GES_ASP_SE/showcase/cs-agent-skills-enablement-deck.html",
       "tags": ["presentation", "html-deck", "cursor", "workflow", "cisco-brand"],
       "featured": false,
+      "maintainers": ["@BaroldBonds12"]
+    },
+    {
+      "id": "cs-agent-skills-deck",
+      "name": "CS Agent Skills Enablement Deck",
+      "category": "showcase",
+      "status": "active",
+      "description": "Sample Cisco brand HTML deck teaching Customer Success how to use Cursor and Claude agent skills for workproduct. Built with the html-deck workflow — present in browser or export to PDF.",
+      "repo": "BaroldBonds12/ThousandEyes_GES_ASP_SE/tree/main/docs/showcase",
+      "demo": "https://baroldbonds12.github.io/ThousandEyes_GES_ASP_SE/showcase/cs-agent-skills-enablement-deck.html",
+      "tags": ["showcase", "cs-enablement", "html-deck", "cursor", "presentation"],
+      "featured": true,
       "maintainers": ["@BaroldBonds12"]
     },
     {
