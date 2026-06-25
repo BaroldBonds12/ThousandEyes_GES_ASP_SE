@@ -1,0 +1,15 @@
+---
+description: When building a Cisco ThousandEyes HTML presentation deck, follow the html-deck skill workflow (intake → customer context → plan → build → review).
+alwaysApply: false
+---
+
+# HTML presentation deck
+
+When the user says **"I want to make a deck"**, **"make a deck"**, **"build a presentation"**, **"HTML deck"**, or similar for a Cisco/ThousandEyes slide deck:
+
+1. Read and follow `.cursor/skills/html-deck/SKILL.md` end-to-end.
+2. **Phase 0 intake** — ask: audience, primary topics, customer name (optional), and opportunity to add ThousandEyes data, screenshots, or share links.
+3. **If customer name given** — research business priorities + TE use cases, present summary, ask for edits or pasted Gong transcripts/notes before building.
+4. **Do not generate HTML** until intake is complete and the user approves the deck plan.
+5. Build from `.cursor/skills/html-deck/cisco-thousandeyes-deck-template.html`; obey all brand rules in the template HTML comment block.
+6. Default output: `decks/<slug>-deck.html` — one self-contained file, all `[placeholders]` replaced.

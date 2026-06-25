@@ -12,6 +12,16 @@ Read `.cursor/skills/share-with-group/reference.md` for JSON templates, public-s
 
 **Do not** edit `docs/data/projects.json` or push until mockup approval and explicit publish confirmation.
 
+## HTML presentation deck
+
+When the user says **"I want to make a deck"** (or similar), follow the full workflow in:
+
+`.cursor/skills/html-deck/SKILL.md`
+
+Read `.cursor/skills/html-deck/reference.md` for slide components, brand rules, and ThousandEyes MCP integration.
+
+**Do not** generate deck HTML until intake is complete and (when a customer is named) the user confirms customer context.
+
 ## Hub layout
 
 | Path | Purpose |

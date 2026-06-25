@@ -25,6 +25,18 @@
       "maintainers": ["@BaroldBonds12"]
     },
     {
+      "id": "html-deck",
+      "name": "HTML Presentation Deck",
+      "category": "workflow",
+      "status": "active",
+      "description": "Agent-guided workflow for Cisco brand-approved ThousandEyes HTML slide decks. Say \"I want to make a deck\" in Cursor — intake covers audience, topics, customer context, Gong notes, and TE data before building a self-contained presenter-ready HTML file.",
+      "repo": "BaroldBonds12/ThousandEyes_GES_ASP_SE/tree/main/.cursor/skills/html-deck",
+      "demo": null,
+      "tags": ["presentation", "html-deck", "cursor", "workflow", "cisco-brand"],
+      "featured": false,
+      "maintainers": ["@BaroldBonds12"]
+    },
+    {
       "id": "customer-showcase-placeholder",
       "name": "Customer Showcase Gallery",
       "category": "showcase",
