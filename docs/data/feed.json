@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-06-26T18:12:52.329Z",
+  "updatedAt": "2026-06-27T15:55:21.480Z",
   "industry": {
     "items": [
+      {
+        "title": "Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters.",
+        "url": "https://thenewstack.io/runtime-verification-coding-agents/",
+        "source": "The New Stack",
+        "published": "2026-06-27T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Vibe slop is the symptom. Context debt is the disease.",
+        "url": "https://thenewstack.io/vibe-coding-context-debt/",
+        "source": "The New Stack",
+        "published": "2026-06-27T10:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "After Fable 5 ban, Anthropic and 19 organizations launch open source security body",
+        "url": "https://thenewstack.io/akrites-open-source-vulnerability-coordination/",
+        "source": "The New Stack",
+        "published": "2026-06-26T18:36:35.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The US government just told OpenAI who’s allowed to use the next GPT 5.6 model",
+        "url": "https://thenewstack.io/openai-gpt56-access-restricted/",
+        "source": "The New Stack",
+        "published": "2026-06-26T18:26:50.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls",
+        "url": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
+        "source": "Google Cloud Blog",
+        "published": "2026-06-26T18:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
       {
         "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
         "url": "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/",
@@ -32,7 +86,7 @@
         ]
       },
       {
-        "title": "AWS, Microsoft and Google agree the session is the new unit of compute. They disagree on how to isolate it.",
+        "title": "AWS, Microsoft, and Google agree the session is the new unit of compute. They disagree on how to isolate it.",
         "url": "https://thenewstack.io/agent-session-aware-runtime/",
         "source": "The New Stack",
         "published": "2026-06-26T14:11:18.000Z",
@@ -103,6 +157,16 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "Reduce CDN log costs with searchable archives",
+        "url": "https://www.datadoghq.com/blog/reduce-cdn-log-costs-with-searchable-archives/",
+        "source": "Datadog Engineering",
+        "published": "2026-06-26T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -198,69 +262,6 @@
         "topics": [
           "ai",
           "development"
-        ]
-      },
-      {
-        "title": "Untitled",
-        "url": "https://www.datadoghq.com/blog/opentelemetry-datadog-japan-use-cases-event-recap/",
-        "source": "Datadog Engineering",
-        "published": "2026-06-25T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "How we saved over $3 million in idle compute costs with Datadog Kubernetes Autoscaling",
-        "url": "https://www.datadoghq.com/blog/how-we-saved-with-kubernetes-autoscaling/",
-        "source": "Datadog Engineering",
-        "published": "2026-06-25T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Grafana 13.1 release: observability as code updates, extending Grafana Assistant across more data sources, and more",
-        "url": "https://grafana.com/blog/grafana-13-1-release-all-the-latest-features/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-06-24T21:11:19.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "OpenAI wants to claim more of the AI stack with Jalapeño, its first custom chip",
-        "url": "https://thenewstack.io/openai-jalapeno-custom-chip/",
-        "source": "The New Stack",
-        "published": "2026-06-24T20:55:13.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Azul wants to find your unpatched JVMs before AI does",
-        "url": "https://thenewstack.io/azul-java-security-jvm-mythos/",
-        "source": "The New Stack",
-        "published": "2026-06-24T20:53:07.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Will it Mythos? One coder’s verdict on Anthropic’s blend of debugging",
-        "url": "https://thenewstack.io/will-it-mythos-benchmark/",
-        "source": "The New Stack",
-        "published": "2026-06-24T20:51:49.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
         ]
       }
     ]
