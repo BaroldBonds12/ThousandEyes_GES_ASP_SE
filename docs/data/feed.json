@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-06-27T15:55:21.480Z",
+  "updatedAt": "2026-06-28T16:02:37.678Z",
   "industry": {
     "items": [
+      {
+        "title": "“Bring it to our shop”: Workday’s pitch for keeping AI agents close to your most valuable data",
+        "url": "https://thenewstack.io/workday-ai-inference-guardrails/",
+        "source": "The New Stack",
+        "published": "2026-06-28T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries",
+        "url": "https://thenewstack.io/okta-ai-agents-fedramp/",
+        "source": "The New Stack",
+        "published": "2026-06-28T13:49:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters.",
         "url": "https://thenewstack.io/runtime-verification-coding-agents/",
@@ -240,27 +262,6 @@
         "published": "2026-06-25T14:00:00.000Z",
         "topics": [
           "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How we built saga rollbacks for Cloudflare Workflows",
-        "url": "https://blog.cloudflare.com/rollbacks-for-workflows/",
-        "source": "Cloudflare Blog",
-        "published": "2026-06-25T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "How agents are transforming work",
-        "url": "https://openai.com/index/how-agents-are-transforming-work",
-        "source": "OpenAI Blog",
-        "published": "2026-06-25T02:00:00.000Z",
-        "topics": [
-          "ai",
           "development"
         ]
       }
