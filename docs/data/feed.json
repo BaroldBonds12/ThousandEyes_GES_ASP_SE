@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-07-03T17:02:37.332Z",
+  "updatedAt": "2026-07-04T15:45:50.482Z",
   "industry": {
     "items": [
+      {
+        "title": "Why cheaper models alone won’t save your AI budget",
+        "url": "https://thenewstack.io/agentic-ai-token-costs/",
+        "source": "The New Stack",
+        "published": "2026-07-04T12:02:30.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Apple just turned Safari into something AI agents can control",
+        "url": "https://thenewstack.io/safari-mcp-platform-infrastructure/",
+        "source": "The New Stack",
+        "published": "2026-07-03T17:19:46.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "The $1.3 million theft that exposed AI’s blind spot",
         "url": "https://thenewstack.io/ai-infrastructure-cargo-theft/",
@@ -234,28 +256,6 @@
       {
         "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
         "url": "https://blog.cloudflare.com/monetization-gateway/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-01T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
-        "url": "https://blog.cloudflare.com/agentic-internet-bot-report/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-01T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Making AI search smarter",
-        "url": "https://blog.cloudflare.com/making-ai-search-smarter/",
         "source": "Cloudflare Blog",
         "published": "2026-07-01T13:00:00.000Z",
         "topics": [
