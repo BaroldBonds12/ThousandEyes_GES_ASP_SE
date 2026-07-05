@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-07-04T15:45:50.482Z",
+  "updatedAt": "2026-07-05T15:55:02.423Z",
   "industry": {
     "items": [
+      {
+        "title": "Microsoft, AWS and Anthropic are spending billions — and not on better models",
+        "url": "https://thenewstack.io/microsoft-frontier-forward-deployed/",
+        "source": "The New Stack",
+        "published": "2026-07-05T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "10 moments that defined AI’s turbulent first half of 2026",
+        "url": "https://thenewstack.io/biggest-ai-moments-2026/",
+        "source": "The New Stack",
+        "published": "2026-07-05T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The AI revolution will not be televised — it’ll be quantized",
+        "url": "https://thenewstack.io/chinese-frontier-models-quantization/",
+        "source": "The New Stack",
+        "published": "2026-07-05T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Why cheaper models alone won’t save your AI budget",
         "url": "https://thenewstack.io/agentic-ai-token-costs/",
@@ -230,38 +263,6 @@
         "published": "2026-07-01T15:59:29.000Z",
         "topics": [
           "development"
-        ]
-      },
-      {
-        "title": "The call is coming from inside your pipeline: the anatomy of a Codecov attack",
-        "url": "https://thenewstack.io/codecov-supply-chain-attack/",
-        "source": "The New Stack",
-        "published": "2026-07-01T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Beyond Static Prompts: Building Scale-Proof, Polymorphic Multi-Agent Systems with Google's ADK",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/beyond-static-prompts-with-google-adk/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-01T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
-        "url": "https://blog.cloudflare.com/monetization-gateway/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-01T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
         ]
       }
     ]
