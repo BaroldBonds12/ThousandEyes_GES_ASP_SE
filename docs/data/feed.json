@@ -1,7 +1,83 @@
 {
-  "updatedAt": "2026-07-05T15:55:02.423Z",
+  "updatedAt": "2026-07-06T19:04:24.184Z",
   "industry": {
     "items": [
+      {
+        "title": "Getting Claude Code to grunt in Caveman-speak might not save as many tokens as you think",
+        "url": "https://thenewstack.io/caveman-mode-token-savings/",
+        "source": "The New Stack",
+        "published": "2026-07-06T18:28:42.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Why most AI projects fail: It’s infrastructure and people",
+        "url": "https://thenewstack.io/why-most-ai-projects-fail-its-infrastructure-and-people/",
+        "source": "The New Stack",
+        "published": "2026-07-06T18:19:49.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Palantir’s Alex Karp and Mistral’s Arthur Mensch agree: AI lock-in is coming for enterprises",
+        "url": "https://thenewstack.io/karp-mensch-ai-lockin/",
+        "source": "The New Stack",
+        "published": "2026-07-06T17:17:53.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Shift into high gear with agents: Securing the software-defined vehicle",
+        "url": "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-06T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Andrej Karpathy, Google and Garry Tan agree Markdown is the answer, but they’re not solving the same problem",
+        "url": "https://thenewstack.io/markdown-agent-memory-moat/",
+        "source": "The New Stack",
+        "published": "2026-07-06T15:13:41.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your Worker can now have its own cache in front of it",
+        "url": "https://blog.cloudflare.com/workers-cache/",
+        "source": "Cloudflare Blog",
+        "published": "2026-07-06T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "The code review bug hunt is dead. Here’s what developers get wrong.",
+        "url": "https://thenewstack.io/code-review-catches-maintainability-bugs/",
+        "source": "The New Stack",
+        "published": "2026-07-06T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Microsoft, AWS and Anthropic are spending billions — and not on better models",
         "url": "https://thenewstack.io/microsoft-frontier-forward-deployed/",
@@ -194,81 +270,35 @@
           "networking",
           "development"
         ]
-      },
-      {
-        "title": "“You Only Compute Once”: How Clockwork wants to put an end to AI training restarts",
-        "url": "https://thenewstack.io/clockwork-torchpass-gpu-migration/",
-        "source": "The New Stack",
-        "published": "2026-07-01T17:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-01T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Get started with the Claude apps gateway for Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-01T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms for third year in a row",
-        "url": "https://cloud.google.com/blog/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-01T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "New IDC study: The business value of Mandiant Consulting",
-        "url": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-01T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google Cloud confirmed to offer a safer choice for EU public sector organizations with Dutch DPIA approval",
-        "url": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-01T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "6 security settings every GitHub maintainer should enable this week",
-        "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
-        "source": "GitHub Blog",
-        "published": "2026-07-01T15:59:29.000Z",
-        "topics": [
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Accelerating Wi-Fi troubleshooting with AgenticOps",
+        "url": "https://blogs.cisco.com/networking/accelerating-wi-fi-troubleshooting-with-agenticops",
+        "source": "Cisco Blogs",
+        "published": "2026-07-06T18:30:54.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Unlocking Efficiency: Alcoa transforms mining operations at Amazon Port with URWB",
+        "url": "https://blogs.cisco.com/industrial-iot/unlocking-efficiency-alcoa-transforms-mining-operations-at-amazon-port-with-urwb",
+        "source": "Cisco Blogs",
+        "published": "2026-07-06T15:56:03.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Accelerating the future: A new era of AI-powered performance",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/accelerating-the-future-a-new-era-of-ai-powered-performance.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-07-06T12:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Hybrid Cloud Infrastructure: A Case for the Future-Proof, Organic Data Center",
         "url": "https://blogs.cisco.com/learning/hybrid-cloud-infrastructure-a-case-for-the-future-proof-organic-data-center",
@@ -310,16 +340,16 @@
         "type": "article"
       },
       {
-        "title": "Building a people-first AI strategy",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/building-a-people-first-ai-strategy.html?source=rss",
+        "title": "At the U.S. Open, Cisco drives peak performance",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/at-the-u-s-open-cisco-drives-peak-performance.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-07-01T12:00:00.000Z",
         "topics": [],
         "type": "article"
       },
       {
-        "title": "At the U.S. Open, Cisco drives peak performance",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/at-the-u-s-open-cisco-drives-peak-performance.html?source=rss",
+        "title": "Building a people-first AI strategy",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/building-a-people-first-ai-strategy.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-07-01T12:00:00.000Z",
         "topics": [],
@@ -338,22 +368,6 @@
         "url": "https://blogs.cisco.com/ai/agents-securing-agents-the-agents-powering-policy-studio",
         "source": "Cisco Blogs",
         "published": "2026-06-30T17:21:26.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Driving Operational Excellence and Exceptional Experiences: Consumer and Industrial Highlights from Cisco Live US 2026",
-        "url": "https://blogs.cisco.com/industries/driving-operational-excellence-and-exceptional-experiences-consumer-and-industrial-highlights-from-cisco-live-us-2026",
-        "source": "Cisco Blogs",
-        "published": "2026-06-30T17:10:21.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Protecting against rising cybersecurity risks in data centers",
-        "url": "https://blogs.cisco.com/datacenter/protecting-against-rising-cybersecurity-risks-in-data-centers",
-        "source": "Cisco Blogs",
-        "published": "2026-06-30T15:00:17.000Z",
         "topics": [],
         "type": "article"
       },
@@ -380,19 +394,18 @@
         "published": "2026-06-10T12:00:00.000Z",
         "topics": [],
         "type": "article"
-      },
-      {
-        "title": "Cisco Live U.S.: Leading in the agentic AI age",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m06/cisco-live-u-s-leading-in-the-agentic-ai-age.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-06-05T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
       }
     ]
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Mobile Endpoint Agent Android Version 1.8.0",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#mobile-endpoint-agent-android-version-1-8-0",
+        "source": "Release Notes",
+        "published": "2026-07-06T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Endpoint Agent Client Version 2.51.0",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-client-version-2-51-0",
@@ -454,13 +467,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#cloud-insights-updates",
         "source": "Release Notes",
         "published": "2026-07-01T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Console Logs in Transaction Test Views",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#console-logs-in-transaction-test-views",
-        "source": "Release Notes",
-        "published": "2026-06-30T00:00:00.000Z",
         "type": "release"
       }
     ]
