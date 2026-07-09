@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-07T19:16:37.021Z",
+  "updatedAt": "2026-07-09T18:26:58.697Z",
   "industry": {
     "items": [
       {
-        "title": "Anthropic gives Claude subscribers five more days with Fable 5",
-        "url": "https://thenewstack.io/anthropic-extends-fable-5/",
+        "title": "OpenAI’s GPT-5.6 is now live",
+        "url": "https://thenewstack.io/openai-gpt-56-live/",
         "source": "The New Stack",
-        "published": "2026-07-07T18:45:26.000Z",
+        "published": "2026-07-09T18:16:05.000Z",
         "topics": [
           "development",
           "observability",
@@ -14,19 +14,51 @@
         ]
       },
       {
-        "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
-        "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+        "title": "Enterprise AI benchmarks are broken",
+        "url": "https://thenewstack.io/enterprise-ai-benchmarks-are-broken/",
+        "source": "The New Stack",
+        "published": "2026-07-09T17:51:08.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Jensen Huang says traditional coding is dead. Here’s what comes next.",
+        "url": "https://thenewstack.io/huang-engineers-building-ai-agents/",
+        "source": "The New Stack",
+        "published": "2026-07-09T17:43:25.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Safely run AI-generated code in Cloud Run sandboxes",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-09T16:30:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How GitHub gave every repository a durable owner",
+        "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
         "source": "GitHub Blog",
-        "published": "2026-07-07T16:00:00.000Z",
+        "published": "2026-07-09T16:29:37.000Z",
         "topics": [
           "development"
         ]
       },
       {
-        "title": "Anthropic’s Claude Cowork now keeps working when you close your laptop",
-        "url": "https://thenewstack.io/claude-cowork-cloud-mobile/",
+        "title": "Why a five-minute sniff test is your secret supply chain defense",
+        "url": "https://thenewstack.io/sbom-sniff-test-hardened-images/",
         "source": "The New Stack",
-        "published": "2026-07-07T16:00:00.000Z",
+        "published": "2026-07-09T16:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -34,60 +66,20 @@
         ]
       },
       {
-        "title": "A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
+        "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
         "source": "Google Cloud Blog",
-        "published": "2026-07-07T16:00:00.000Z",
+        "published": "2026-07-09T16:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "BGP route policies: Top 3 use cases by customer demand",
-        "url": "https://cloud.google.com/blog/products/networking/bgp-route-policies-top-3-use-cases-by-customer-demand/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-07T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM",
-        "url": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-07T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-07T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Report: 83% of organizations need to upgrade their infrastructure to support agentic AI",
-        "url": "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-07T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "The organizational iceberg: the invisible data breaking your AI agents",
-        "url": "https://thenewstack.io/invisible-data-ai-agents/",
+        "title": "Develop like you deploy: closing the Kubernetes local-to-cluster gap",
+        "url": "https://thenewstack.io/krumware-epinio-kubernetes-mcp/",
         "source": "The New Stack",
-        "published": "2026-07-07T14:00:00.000Z",
+        "published": "2026-07-09T15:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -95,30 +87,10 @@
         ]
       },
       {
-        "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-07T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-07T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
-        "url": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
+        "title": "Why we cannot wait for better post-quantum signature algorithms",
+        "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
         "source": "Cloudflare Blog",
-        "published": "2026-07-07T13:00:00.000Z",
+        "published": "2026-07-09T14:00:00.000Z",
         "topics": [
           "networking",
           "observability",
@@ -126,10 +98,10 @@
         ]
       },
       {
-        "title": "How to kill the code review",
-        "url": "https://thenewstack.io/killing-the-code-review/",
+        "title": "Agentic AI in observability: accelerating root cause analysis",
+        "url": "https://thenewstack.io/agentic-ai-observability-operations/",
         "source": "The New Stack",
-        "published": "2026-07-07T13:00:00.000Z",
+        "published": "2026-07-09T13:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -137,107 +109,100 @@
         ]
       },
       {
-        "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-        "url": "https://openai.com/index/australian-payments-plus",
+        "title": "The “silent hallucination” loop: how our autonomous data pipeline poisoned its own vector store",
+        "url": "https://thenewstack.io/silent-llm-hallucination-loop/",
+        "source": "The New Stack",
+        "published": "2026-07-09T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“The Switzerland of AI”: OpenClaw becomes a non-profit foundation",
+        "url": "https://thenewstack.io/openclaw-foundation-nonprofit-status/",
+        "source": "The New Stack",
+        "published": "2026-07-09T12:44:35.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "ChatGPT is now a partner for your most ambitious work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
         "source": "OpenAI Blog",
-        "published": "2026-07-07T00:00:00.000Z",
+        "published": "2026-07-09T10:00:00.000Z",
         "topics": [
           "ai",
           "development"
         ]
       },
       {
-        "title": "A new study just debunked the biggest fear about AI and open source",
-        "url": "https://thenewstack.io/ai-open-source-newcomers-study/",
-        "source": "The New Stack",
-        "published": "2026-07-06T21:26:47.000Z",
+        "title": "GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/bio-bug-bounty",
+        "source": "OpenAI Blog",
+        "published": "2026-07-09T10:00:00.000Z",
         "topics": [
-          "development",
-          "observability",
-          "networking"
+          "ai",
+          "development"
         ]
       },
       {
-        "title": "Microsoft, Google and Cloudflare just made 2029 the new quantum deadline",
-        "url": "https://thenewstack.io/post-quantum-cryptography-deadline-2029/",
-        "source": "The New Stack",
-        "published": "2026-07-06T20:20:17.000Z",
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "url": "https://openai.com/index/gpt-5-6",
+        "source": "OpenAI Blog",
+        "published": "2026-07-09T10:00:00.000Z",
         "topics": [
-          "development",
-          "observability",
-          "networking"
+          "ai",
+          "development"
         ]
       },
       {
-        "title": "Getting Claude Code to grunt in Caveman-speak might not save as many tokens as you think",
-        "url": "https://thenewstack.io/caveman-mode-token-savings/",
-        "source": "The New Stack",
-        "published": "2026-07-06T18:28:42.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Why most AI projects fail: It’s infrastructure and people",
-        "url": "https://thenewstack.io/why-most-ai-projects-fail-its-infrastructure-and-people/",
-        "source": "The New Stack",
-        "published": "2026-07-06T18:19:49.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Palantir’s Alex Karp and Mistral’s Arthur Mensch agree: AI lock-in is coming for enterprises",
-        "url": "https://thenewstack.io/karp-mensch-ai-lockin/",
-        "source": "The New Stack",
-        "published": "2026-07-06T17:17:53.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Shift into high gear with agents: Securing the software-defined vehicle",
-        "url": "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
+        "title": "Autopilot Clusters with GKE managed DRANET: GPUs and TPUs",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/autopilot-clusters-with-gke-managed-dranet-gpus-and-tpus/",
         "source": "Google Cloud Blog",
-        "published": "2026-07-06T16:00:00.000Z",
+        "published": "2026-07-09T07:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "Andrej Karpathy, Google and Garry Tan agree Markdown is the answer, but they’re not solving the same problem",
-        "url": "https://thenewstack.io/markdown-agent-memory-moat/",
-        "source": "The New Stack",
-        "published": "2026-07-06T15:13:41.000Z",
+        "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+        "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+        "source": "GitHub Blog",
+        "published": "2026-07-08T21:11:56.000Z",
         "topics": [
-          "development",
-          "observability",
-          "networking"
+          "development"
         ]
       },
       {
-        "title": "Your Worker can now have its own cache in front of it",
-        "url": "https://blog.cloudflare.com/workers-cache/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-06T13:00:00.000Z",
+        "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
+        "url": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-08T20:00:00.000Z",
         "topics": [
           "networking",
-          "observability",
-          "monitoring"
+          "development"
         ]
       },
       {
-        "title": "The code review bug hunt is dead. Here’s what developers get wrong.",
-        "url": "https://thenewstack.io/code-review-catches-maintainability-bugs/",
+        "title": "GitHub availability report: June 2026",
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+        "source": "GitHub Blog",
+        "published": "2026-07-08T19:35:51.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "“Opus-class, but faster”: What Elon Musk says about beating Anthropic",
+        "url": "https://thenewstack.io/grok-45-opus-killer-launch/",
         "source": "The New Stack",
-        "published": "2026-07-06T12:00:00.000Z",
+        "published": "2026-07-08T18:59:49.000Z",
         "topics": [
           "development",
           "observability",
@@ -245,10 +210,10 @@
         ]
       },
       {
-        "title": "Microsoft, AWS and Anthropic are spending billions — and not on better models",
-        "url": "https://thenewstack.io/microsoft-frontier-forward-deployed/",
+        "title": "JetBrains’ next move isn’t a better IDE — it’s a governance layer over Claude Code, Codex, and Gemini CLI",
+        "url": "https://thenewstack.io/jetbrains-ai-team-governance/",
         "source": "The New Stack",
-        "published": "2026-07-05T15:00:00.000Z",
+        "published": "2026-07-08T17:44:04.000Z",
         "topics": [
           "development",
           "observability",
@@ -256,20 +221,74 @@
         ]
       },
       {
-        "title": "10 moments that defined AI’s turbulent first half of 2026",
-        "url": "https://thenewstack.io/biggest-ai-moments-2026/",
+        "title": "Meta says it caught OpenAI. One thing is missing.",
+        "url": "https://thenewstack.io/meta-watermelon-benchmark-claim/",
         "source": "The New Stack",
-        "published": "2026-07-05T14:00:00.000Z",
+        "published": "2026-07-08T17:34:17.000Z",
         "topics": [
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "OpenAI’s own safety card says GPT-5.6 has a lying problem",
+        "url": "https://thenewstack.io/gpt-5-6-developer-reactions/",
+        "source": "The New Stack",
+        "published": "2026-07-08T17:08:16.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+        "source": "GitHub Blog",
+        "published": "2026-07-08T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-08T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
         ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Unifying operations with Cisco Cloud Control",
+        "url": "https://blogs.cisco.com/datacenter/unifying-operations-with-cisco-cloud-control",
+        "source": "Cisco Blogs",
+        "published": "2026-07-09T15:00:06.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Beyond CMDB Sync: Cisco Catalyst Center for ITSM Workflows",
+        "url": "https://blogs.cisco.com/developer/beyond-cmdb-sync-cisco-catalyst-center-for-itsm-workflows",
+        "source": "Cisco Blogs",
+        "published": "2026-07-08T19:52:20.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "The R&A Partners with Cisco to Deliver Critical Networking Infrastructure to Major Championships and New Global Headquarters",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/the-r-a-partners-with-cisco-to-deliver-critical-networking-infrastructure-to-major-championships-and-new-global-headquarters.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-07-08T08:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "SharpHound Recon Attack – How AI enhanced the threat hunt",
         "url": "https://blogs.cisco.com/security/clamer-soc-2026-sharphound",
@@ -327,22 +346,6 @@
         "type": "article"
       },
       {
-        "title": "AIM: Building an Agentic Tier-2 SOC Analyst at Cisco Live AMER 2026",
-        "url": "https://blogs.cisco.com/security/clamer-soc-2026-agentic-tier-2",
-        "source": "Cisco Blogs",
-        "published": "2026-07-07T17:54:52.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Building the Agentic SOC at Cisco Live Americas 2026",
-        "url": "https://blogs.cisco.com/security/clamer-soc-2026",
-        "source": "Cisco Blogs",
-        "published": "2026-07-07T17:54:43.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Accelerating the future: A new era of AI-powered performance",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/accelerating-the-future-a-new-era-of-ai-powered-performance.html?source=rss",
         "source": "Cisco Newsroom",
@@ -381,19 +384,25 @@
         "published": "2026-06-12T12:00:00.000Z",
         "topics": [],
         "type": "article"
-      },
-      {
-        "title": "When high art meets AI: Cisco at the Venice Biennale",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m06/when-high-art-meets-ai-cisco-at-the-venice-biennale.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-06-10T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
       }
     ]
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Heatmap Dashboard Widget",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#heatmap-dashboard-widget",
+        "source": "Release Notes",
+        "published": "2026-07-09T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Pie Chart and Stacked Area: Stack by Submetrics or by Group",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#pie-chart-and-stacked-area-stack-by-submetrics-or-by-group",
+        "source": "Release Notes",
+        "published": "2026-07-09T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Endpoint Local Network Wireless Metrics for OpenTelemetry Data Model v2",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-local-network-wireless-metrics-for-opentelemetry-data-model-v2",
@@ -446,20 +455,6 @@
       {
         "title": "New Cloud Agents",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#new-cloud-agents",
-        "source": "Release Notes",
-        "published": "2026-07-01T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "ThousandEyes Developer Hub Launches on Cisco DevNet",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#thousandeyes-developer-hub-launches-on-cisco-devnet",
-        "source": "Release Notes",
-        "published": "2026-07-01T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Bulk Editing in Test Settings",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#bulk-editing-in-test-settings",
         "source": "Release Notes",
         "published": "2026-07-01T00:00:00.000Z",
         "type": "release"
