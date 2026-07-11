@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-07-10T18:08:25.614Z",
+  "updatedAt": "2026-07-11T15:33:12.123Z",
   "industry": {
     "items": [
+      {
+        "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag",
+        "url": "https://thenewstack.io/microsoft-agent-framework-go/",
+        "source": "The New Stack",
+        "published": "2026-07-11T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price",
+        "url": "https://thenewstack.io/openai-spacexai-meta-price-war/",
+        "source": "The New Stack",
+        "published": "2026-07-11T10:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "'Grafana's Big Tent' podcast: Anthropic on agentic coding, observability, and the future of software engineering",
+        "url": "https://grafana.com/blog/-grafana-s-big-tent-podcast-anthropic-on-agentic-coding-observability-and-the-future-of-software-engineering/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-07-10T18:34:08.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
       {
         "title": "Meta’s Iris push signals the next phase of AI infrastructure",
         "url": "https://thenewstack.io/meta-iris-ai-chip/",
@@ -64,7 +96,7 @@
         ]
       },
       {
-        "title": "What running Kubernetes across millions of clusters taught AWS about zone failures",
+        "title": "What running Kubernetes across millions of clusters taught AWS about zonal failures",
         "url": "https://thenewstack.io/eks-zonal-shift-resilience/",
         "source": "The New Stack",
         "published": "2026-07-10T15:00:00.000Z",
@@ -137,6 +169,16 @@
         "topics": [
           "ai",
           "development"
+        ]
+      },
+      {
+        "title": "Making agentic token costs visible in production",
+        "url": "https://www.datadoghq.com/blog/making-agentic-token-costs-visible-in-production/",
+        "source": "Datadog Engineering",
+        "published": "2026-07-10T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -222,48 +264,6 @@
           "development",
           "observability",
           "networking"
-        ]
-      },
-      {
-        "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-09T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Business intelligence plugins for Grafana: A support update",
-        "url": "https://grafana.com/blog/business-intelligence-plugins-for-grafana-a-support-update/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-07-09T15:52:01.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Develop like you deploy: closing the Kubernetes local-to-cluster gap",
-        "url": "https://thenewstack.io/krumware-epinio-kubernetes-mcp/",
-        "source": "The New Stack",
-        "published": "2026-07-09T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Why we cannot wait for better post-quantum signature algorithms",
-        "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-09T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
         ]
       }
     ]
