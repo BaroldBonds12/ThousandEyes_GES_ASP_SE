@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-07-11T15:33:12.123Z",
+  "updatedAt": "2026-07-12T15:38:32.772Z",
   "industry": {
     "items": [
+      {
+        "title": "Meet Brain, the AI that decides when Azure is officially down",
+        "url": "https://thenewstack.io/inside-azure-brain/",
+        "source": "The New Stack",
+        "published": "2026-07-12T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "85% say code review is the new bottleneck. Here’s what the AI coding narrative leaves out.",
+        "url": "https://thenewstack.io/merge-gate-coding-agents/",
+        "source": "The New Stack",
+        "published": "2026-07-11T17:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The impressive AI demo is dead. Here’s what actually reaches production",
+        "url": "https://thenewstack.io/ai-production-data-problem/",
+        "source": "The New Stack",
+        "published": "2026-07-11T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag",
         "url": "https://thenewstack.io/microsoft-agent-framework-go/",
@@ -67,8 +100,8 @@
         ]
       },
       {
-        "title": "Frontier and Center: Who evaluates the evaluations?",
-        "url": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-07-10T16:00:00.000Z",
         "topics": [
@@ -77,8 +110,8 @@
         ]
       },
       {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "title": "Frontier and Center: Who evaluates the evaluations?",
+        "url": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
         "source": "Google Cloud Blog",
         "published": "2026-07-10T16:00:00.000Z",
         "topics": [
@@ -230,36 +263,6 @@
         "url": "https://thenewstack.io/huang-engineers-building-ai-agents/",
         "source": "The New Stack",
         "published": "2026-07-09T17:43:25.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Safely run AI-generated code in Cloud Run sandboxes",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-09T16:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How GitHub gave every repository a durable owner",
-        "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
-        "source": "GitHub Blog",
-        "published": "2026-07-09T16:29:37.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Why a five-minute sniff test is your secret supply chain defense",
-        "url": "https://thenewstack.io/sbom-sniff-test-hardened-images/",
-        "source": "The New Stack",
-        "published": "2026-07-09T16:00:00.000Z",
         "topics": [
           "development",
           "observability",
