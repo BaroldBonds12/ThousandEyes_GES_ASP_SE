@@ -1,7 +1,114 @@
 {
-  "updatedAt": "2026-07-12T15:38:32.772Z",
+  "updatedAt": "2026-07-13T18:19:18.030Z",
   "industry": {
     "items": [
+      {
+        "title": "Anthropic extends Fable 5 again — and won’t talk about what developers found inside Cursor",
+        "url": "https://thenewstack.io/fable-5-honeycomb-opus/",
+        "source": "The New Stack",
+        "published": "2026-07-13T17:10:27.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Key findings from the 2026 Public Sector M-Trends report and beyond",
+        "url": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-13T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs",
+        "url": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-13T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV",
+        "url": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-13T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What an ex-NSA red teamer wants every SOC to stop doing",
+        "url": "https://thenewstack.io/ai-soc-alert-fatigue/",
+        "source": "The New Stack",
+        "published": "2026-07-13T13:50:34.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
+        "url": "https://blog.cloudflare.com/introducing-precursor/",
+        "source": "Cloudflare Blog",
+        "published": "2026-07-13T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Where AI saves me time and where it slows me down",
+        "url": "https://thenewstack.io/ai-engineering-speed-tradeoffs/",
+        "source": "The New Stack",
+        "published": "2026-07-13T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "APIs aren’t dead. Here’s where MCP fits alongside them.",
+        "url": "https://thenewstack.io/api-vs-mcp-incident-management/",
+        "source": "The New Stack",
+        "published": "2026-07-12T18:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How async processing hides latency and improves responsiveness",
+        "url": "https://thenewstack.io/async-processing-hides-latency/",
+        "source": "The New Stack",
+        "published": "2026-07-12T17:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic’s newest enterprise partner is training 20,000 people on Claude — here’s the shift it signals",
+        "url": "https://thenewstack.io/ust-anthropic-enterprise-ai-stack/",
+        "source": "The New Stack",
+        "published": "2026-07-12T17:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Meet Brain, the AI that decides when Azure is officially down",
         "url": "https://thenewstack.io/inside-azure-brain/",
@@ -14,7 +121,7 @@
         ]
       },
       {
-        "title": "85% say code review is the new bottleneck. Here’s what the AI coding narrative leaves out.",
+        "title": "Your merge gate was a compromise. Coding agents are making it a liability.",
         "url": "https://thenewstack.io/merge-gate-coding-agents/",
         "source": "The New Stack",
         "published": "2026-07-11T17:00:00.000Z",
@@ -160,119 +267,27 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Improving Smart Tiered Cache for Public Cloud Regions",
-        "url": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-10T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "“Every IC engineer is really a front line manager now.” But are they productive?",
-        "url": "https://thenewstack.io/ai-engineering-productivity/",
-        "source": "The New Stack",
-        "published": "2026-07-10T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Why zero vulnerability code packages could still be your biggest software supply chain risk",
-        "url": "https://thenewstack.io/zero-cve-supply-chain-risk/",
-        "source": "The New Stack",
-        "published": "2026-07-10T11:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-        "url": "https://openai.com/index/deutsche-telekom",
-        "source": "OpenAI Blog",
-        "published": "2026-07-10T07:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Making agentic token costs visible in production",
-        "url": "https://www.datadoghq.com/blog/making-agentic-token-costs-visible-in-production/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-10T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Meta debuts Muse Spark 1.1 — its first paid AI model",
-        "url": "https://thenewstack.io/meta-muse-spark-api/",
-        "source": "The New Stack",
-        "published": "2026-07-09T22:22:15.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork",
-        "url": "https://thenewstack.io/openai-codex-work-atlas/",
-        "source": "The New Stack",
-        "published": "2026-07-09T18:55:19.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI’s GPT-5.6 is now live",
-        "url": "https://thenewstack.io/openai-gpt-56-live/",
-        "source": "The New Stack",
-        "published": "2026-07-09T18:16:05.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Enterprise AI benchmarks are broken",
-        "url": "https://thenewstack.io/enterprise-ai-benchmarks-are-broken/",
-        "source": "The New Stack",
-        "published": "2026-07-09T17:51:08.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Jensen Huang says traditional coding is dead. Here’s what comes next.",
-        "url": "https://thenewstack.io/huang-engineers-building-ai-agents/",
-        "source": "The New Stack",
-        "published": "2026-07-09T17:43:25.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Harvest Now, Decrypt Later: The Threat to Key Exchange – Quantum Series, Part 2",
+        "url": "https://blogs.cisco.com/developer/harvest-now-decrypt-later-the-threat-to-key-exchange-quantum-series-part-2",
+        "source": "Cisco Blogs",
+        "published": "2026-07-13T14:00:57.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Creating the Intelligent Workplace Experience: A Connected Workplace Blueprint",
+        "url": "https://blogs.cisco.com/news/creating-the-intelligent-workplace-experience-a-connected-workplace-blueprint",
+        "source": "Cisco Blogs",
+        "published": "2026-07-13T13:00:58.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "The Fundamentals of AI: Making AI practical",
         "url": "https://blogs.cisco.com/ai/the-fundamentals-of-ai-making-ai-practical",
@@ -334,22 +349,6 @@
         "url": "https://blogs.cisco.com/security/elevating-expertise-with-lessons-learned",
         "source": "Cisco Blogs",
         "published": "2026-07-07T17:59:03.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Educate at Event Speed: Cisco Live Security Operations Center",
-        "url": "https://blogs.cisco.com/security/educate-event-speed-cisco-live-soc",
-        "source": "Cisco Blogs",
-        "published": "2026-07-07T17:58:48.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "What Working the Cisco Live SOC Taught Me About AI, Detection, and Response",
-        "url": "https://blogs.cisco.com/security/clamer-soc-2026-pm-experience",
-        "source": "Cisco Blogs",
-        "published": "2026-07-07T17:58:43.000Z",
         "topics": [],
         "type": "article"
       },
