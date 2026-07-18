@@ -1,7 +1,71 @@
 {
-  "updatedAt": "2026-07-17T16:36:43.905Z",
+  "updatedAt": "2026-07-18T15:32:15.907Z",
   "industry": {
     "items": [
+      {
+        "title": "The bottleneck for AI agents isn’t the model anymore. It’s the context layer.",
+        "url": "https://thenewstack.io/ai-agent-infrastructure-bottleneck/",
+        "source": "The New Stack",
+        "published": "2026-07-18T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Platform engineering’s new job: serving environments at agent speed",
+        "url": "https://thenewstack.io/serving-environments-agent-speed/",
+        "source": "The New Stack",
+        "published": "2026-07-18T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "I trust Claude for everything. This test made me rethink that.",
+        "url": "https://thenewstack.io/grok-opus-coding-tokens/",
+        "source": "The New Stack",
+        "published": "2026-07-18T13:01:42.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Musk open-sourced Grok Build to fight Anthropic. Anthropic pays him $1.25 billion a month.",
+        "url": "https://thenewstack.io/musk-spacexai-grok-open-source/",
+        "source": "The New Stack",
+        "published": "2026-07-18T10:39:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+        "url": "https://blog.cloudflare.com/wordpress-vulnerabilities/",
+        "source": "Cloudflare Blog",
+        "published": "2026-07-17T21:30:43.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "The cost of saying yes has changed",
+        "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+        "source": "GitHub Blog",
+        "published": "2026-07-17T16:46:47.000Z",
+        "topics": [
+          "development"
+        ]
+      },
       {
         "title": "Kimi K3 tops Arena’s coding leaderboard — and it’s open-weight",
         "url": "https://thenewstack.io/kimi-k3-open-weight-coding/",
@@ -25,8 +89,8 @@
         ]
       },
       {
-        "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-07-17T16:00:00.000Z",
         "topics": [
@@ -45,8 +109,8 @@
         ]
       },
       {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
         "source": "Google Cloud Blog",
         "published": "2026-07-17T16:00:00.000Z",
         "topics": [
@@ -109,6 +173,16 @@
         ]
       },
       {
+        "title": "Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-17T09:14:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
         "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
         "url": "https://thenewstack.io/microsoft-comic-chat-open-source/",
         "source": "The New Stack",
@@ -122,6 +196,16 @@
       {
         "title": "How we brought agentic workflows to Cloud SIEM with the Datadog MCP Server",
         "url": "https://www.datadoghq.com/blog/creating-mcp-tools-for-cloud-siem/",
+        "source": "Datadog Engineering",
+        "published": "2026-07-17T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Answer any cost question faster with the Cloud Cost skill in Bits Chat",
+        "url": "https://www.datadoghq.com/blog/cloud-cost-skill-bits-chat/",
         "source": "Datadog Engineering",
         "published": "2026-07-17T00:00:00.000Z",
         "topics": [
@@ -181,94 +265,19 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Why teens deserve access to safe AI",
-        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-        "source": "OpenAI Blog",
-        "published": "2026-07-16T16:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Why smarter AI caching sometimes makes everything slower",
-        "url": "https://thenewstack.io/redis-vector-caching-tradeoffs/",
-        "source": "The New Stack",
-        "published": "2026-07-16T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
-        "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-16T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Bridging the gap between SQL and Python with BigQuery and the %%bqsql magic",
-        "url": "https://cloud.google.com/blog/products/data-analytics/bridge-sql-and-python-with-bigquery/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-16T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "What 10 autonomous film crews taught us about agent teamwork",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-16T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Three lessons in accelerating foundation model upgrades",
-        "url": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-16T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Linux creator Linus Torvalds tells AI haters to walk away from Linux, or go fork it",
-        "url": "https://thenewstack.io/torvalds-linux-ai-stance/",
-        "source": "The New Stack",
-        "published": "2026-07-16T15:15:14.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI’s GPT-Red automates prompt injection testing to harden AI agents",
-        "url": "https://thenewstack.io/gpt-red-prompt-injection-testing/",
-        "source": "The New Stack",
-        "published": "2026-07-16T14:58:18.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Cisco AI Defense: Built for the Way AI Is Actually Used",
+        "url": "https://blogs.cisco.com/ai/cisco-ai-defense-built-for-the-way-ai-is-actually-used",
+        "source": "Cisco Blogs",
+        "published": "2026-07-17T20:19:28.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "The Last Mile of AI Is a Room",
         "url": "https://blogs.cisco.com/partner/the-last-mile-of-ai-is-a-room",
@@ -342,14 +351,6 @@
         "type": "article"
       },
       {
-        "title": "Elevating the Guest Experience: How LHM Tackles the Device Explosion",
-        "url": "https://blogs.cisco.com/industries/elevating-the-guest-experience-how-lhm-tackles-the-device-explosion",
-        "source": "Cisco Blogs",
-        "published": "2026-07-14T14:48:30.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "The R&A Partners with Cisco to Deliver Critical Networking Infrastructure to Major Championships and New Global Headquarters",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/the-r-a-partners-with-cisco-to-deliver-critical-networking-infrastructure-to-major-championships-and-new-global-headquarters.html?source=rss",
         "source": "Cisco Press Releases",
@@ -366,16 +367,16 @@
         "type": "article"
       },
       {
-        "title": "At the U.S. Open, Cisco drives peak performance",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/at-the-u-s-open-cisco-drives-peak-performance.html?source=rss",
+        "title": "Building a people-first AI strategy",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/building-a-people-first-ai-strategy.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-07-01T12:00:00.000Z",
         "topics": [],
         "type": "article"
       },
       {
-        "title": "Building a people-first AI strategy",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/building-a-people-first-ai-strategy.html?source=rss",
+        "title": "At the U.S. Open, Cisco drives peak performance",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/at-the-u-s-open-cisco-drives-peak-performance.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-07-01T12:00:00.000Z",
         "topics": [],
