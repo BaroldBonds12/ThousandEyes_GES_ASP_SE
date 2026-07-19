@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-07-18T15:32:15.907Z",
+  "updatedAt": "2026-07-19T15:32:56.463Z",
   "industry": {
     "items": [
+      {
+        "title": "Move code review before the code",
+        "url": "https://thenewstack.io/move-code-review-upstream/",
+        "source": "The New Stack",
+        "published": "2026-07-19T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent",
+        "url": "https://thenewstack.io/self-healing-gpu-nodes/",
+        "source": "The New Stack",
+        "published": "2026-07-19T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI didn’t replace our security team — it multiplied it.",
+        "url": "https://thenewstack.io/scaling-security-with-ai/",
+        "source": "The New Stack",
+        "published": "2026-07-18T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "The bottleneck for AI agents isn’t the model anymore. It’s the context layer.",
         "url": "https://thenewstack.io/ai-agent-infrastructure-bottleneck/",
@@ -99,8 +132,8 @@
         ]
       },
       {
-        "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
-        "url": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
+        "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
         "source": "Google Cloud Blog",
         "published": "2026-07-17T16:00:00.000Z",
         "topics": [
@@ -109,8 +142,8 @@
         ]
       },
       {
-        "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+        "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
+        "url": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
         "source": "Google Cloud Blog",
         "published": "2026-07-17T16:00:00.000Z",
         "topics": [
@@ -228,38 +261,6 @@
         "url": "https://thenewstack.io/ai-code-bottleneck-myth/",
         "source": "The New Stack",
         "published": "2026-07-16T18:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GoDaddy opened its registrar to AI agents. Then it had to build guardrails.",
-        "url": "https://thenewstack.io/godaddy-developer-platform-domains/",
-        "source": "The New Stack",
-        "published": "2026-07-16T17:48:29.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "ObservabilityCON 2026: Register today and preview this year's agenda",
-        "url": "https://grafana.com/blog/observabilitycon-2026-register-today-and-preview-this-year-s-agenda/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-07-16T17:01:51.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "You don’t have a deployment problem. You have a validation problem.",
-        "url": "https://thenewstack.io/solving-the-validation-problem/",
-        "source": "The New Stack",
-        "published": "2026-07-16T17:00:00.000Z",
         "topics": [
           "development",
           "observability",
