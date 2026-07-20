@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-07-19T15:32:56.463Z",
+  "updatedAt": "2026-07-20T17:07:35.174Z",
   "industry": {
     "items": [
+      {
+        "title": "Anthropic employees worked “literally around the clock” to keep Fable 5 from disappearing",
+        "url": "https://thenewstack.io/fable-5-permanent-subscription-access/",
+        "source": "The New Stack",
+        "published": "2026-07-20T16:38:09.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "$100 million for open source: A milestone built by the community",
+        "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+        "source": "GitHub Blog",
+        "published": "2026-07-20T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen",
+        "url": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-20T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Making highly available, multi-region Cloud Run services just got easier",
+        "url": "https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-20T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet",
+        "url": "https://thenewstack.io/grok-opus-coding-tokens/",
+        "source": "The New Stack",
+        "published": "2026-07-20T13:38:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Safety and alignment in an era of long-horizon models",
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "source": "OpenAI Blog",
+        "published": "2026-07-20T10:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Spark 4.2 has a feature that could retire your vector database",
+        "url": "https://thenewstack.io/spark-4-2-ai-workloads/",
+        "source": "The New Stack",
+        "published": "2026-07-19T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Move code review before the code",
         "url": "https://thenewstack.io/move-code-review-upstream/",
@@ -51,17 +123,6 @@
         "url": "https://thenewstack.io/serving-environments-agent-speed/",
         "source": "The New Stack",
         "published": "2026-07-18T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "I trust Claude for everything. This test made me rethink that.",
-        "url": "https://thenewstack.io/grok-opus-coding-tokens/",
-        "source": "The New Stack",
-        "published": "2026-07-18T13:01:42.000Z",
         "topics": [
           "development",
           "observability",
@@ -132,8 +193,8 @@
         ]
       },
       {
-        "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+        "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
+        "url": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
         "source": "Google Cloud Blog",
         "published": "2026-07-17T16:00:00.000Z",
         "topics": [
@@ -142,8 +203,8 @@
         ]
       },
       {
-        "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
-        "url": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
+        "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
         "source": "Google Cloud Blog",
         "published": "2026-07-17T16:00:00.000Z",
         "topics": [
@@ -204,73 +265,19 @@
           "ai",
           "development"
         ]
-      },
-      {
-        "title": "Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-17T09:14:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
-        "url": "https://thenewstack.io/microsoft-comic-chat-open-source/",
-        "source": "The New Stack",
-        "published": "2026-07-17T07:50:03.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How we brought agentic workflows to Cloud SIEM with the Datadog MCP Server",
-        "url": "https://www.datadoghq.com/blog/creating-mcp-tools-for-cloud-siem/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-17T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Answer any cost question faster with the Cloud Cost skill in Bits Chat",
-        "url": "https://www.datadoghq.com/blog/cloud-cost-skill-bits-chat/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-17T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-16T19:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "AI hasn’t shifted the bottleneck from coding to code review",
-        "url": "https://thenewstack.io/ai-code-bottleneck-myth/",
-        "source": "The New Stack",
-        "published": "2026-07-16T18:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "ML-KEM vs Diffie-Hellman: The Showdown – IPsec Series, Part 3",
+        "url": "https://blogs.cisco.com/developer/ml-kem-vs-diffie-hellman-the-showdown-ipsec-series-part-3",
+        "source": "Cisco Blogs",
+        "published": "2026-07-20T14:00:09.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Cisco AI Defense: Built for the Way AI Is Actually Used",
         "url": "https://blogs.cisco.com/ai/cisco-ai-defense-built-for-the-way-ai-is-actually-used",
@@ -332,14 +339,6 @@
         "url": "https://blogs.cisco.com/networking/lean-it-future-ready-making-wireless-careers-attractive-in-the-age-of-ai",
         "source": "Cisco Blogs",
         "published": "2026-07-15T15:00:48.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "We third-party tested our firewall built for AI-scale. The test tools hit their limit first.",
-        "url": "https://blogs.cisco.com/security/we-third-party-tested-our-firewall-built-for-ai-scale-the-test-tools-hit-their-limit-first",
-        "source": "Cisco Blogs",
-        "published": "2026-07-15T15:00:06.000Z",
         "topics": [],
         "type": "article"
       },
