@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-20T17:07:35.174Z",
+  "updatedAt": "2026-07-22T16:59:44.767Z",
   "industry": {
     "items": [
       {
-        "title": "Anthropic employees worked “literally around the clock” to keep Fable 5 from disappearing",
-        "url": "https://thenewstack.io/fable-5-permanent-subscription-access/",
+        "title": "“Every few months, a new model made part of our roadmap unnecessary”: Why Mendral’s founders gave up their startup for Anthropic",
+        "url": "https://thenewstack.io/anthropic-mendral-cicd-acquihire/",
         "source": "The New Stack",
-        "published": "2026-07-20T16:38:09.000Z",
+        "published": "2026-07-22T16:45:49.000Z",
         "topics": [
           "development",
           "observability",
@@ -14,60 +14,79 @@
         ]
       },
       {
-        "title": "$100 million for open source: A milestone built by the community",
-        "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+        "title": "Next chapter: Restructuring GitHub’s bug bounty program",
+        "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
         "source": "GitHub Blog",
-        "published": "2026-07-20T16:00:00.000Z",
+        "published": "2026-07-22T16:00:00.000Z",
         "topics": [
           "development"
         ]
       },
       {
-        "title": "Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen",
-        "url": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
+        "title": "From maintenance to innovation: Checking in on Checkout.com’s Cloud Composer 3 migration",
+        "url": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
         "source": "Google Cloud Blog",
-        "published": "2026-07-20T16:00:00.000Z",
+        "published": "2026-07-22T14:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "Making highly available, multi-region Cloud Run services just got easier",
-        "url": "https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/",
+        "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "url": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/",
         "source": "Google Cloud Blog",
-        "published": "2026-07-20T16:00:00.000Z",
+        "published": "2026-07-22T13:30:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet",
-        "url": "https://thenewstack.io/grok-opus-coding-tokens/",
-        "source": "The New Stack",
-        "published": "2026-07-20T13:38:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Safety and alignment in an era of long-horizon models",
-        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "title": "Building AI infrastructure with the Effingham County community",
+        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
         "source": "OpenAI Blog",
-        "published": "2026-07-20T10:00:00.000Z",
+        "published": "2026-07-22T13:00:00.000Z",
         "topics": [
           "ai",
           "development"
         ]
       },
       {
-        "title": "Spark 4.2 has a feature that could retire your vector database",
-        "url": "https://thenewstack.io/spark-4-2-ai-workloads/",
+        "title": "Advancing the next era of national science",
+        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+        "source": "OpenAI Blog",
+        "published": "2026-07-22T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Introducing OpenAI Presence",
+        "url": "https://openai.com/index/introducing-openai-presence",
+        "source": "OpenAI Blog",
+        "published": "2026-07-22T05:30:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Why AI apps fail in production (And how Google solved it)",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-21T23:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Moonshot launched Kimi K3. Then demand shut down subscriptions in 48 hours.",
+        "url": "https://thenewstack.io/kimi-k3-inference-bottleneck/",
         "source": "The New Stack",
-        "published": "2026-07-19T16:00:00.000Z",
+        "published": "2026-07-21T20:48:32.000Z",
         "topics": [
           "development",
           "observability",
@@ -75,10 +94,10 @@
         ]
       },
       {
-        "title": "Move code review before the code",
-        "url": "https://thenewstack.io/move-code-review-upstream/",
+        "title": "Single-pass AI code isn’t dead, but “high-reasoning” is the next frontier",
+        "url": "https://thenewstack.io/high-reasoning-ai-coding/",
         "source": "The New Stack",
-        "published": "2026-07-19T14:00:00.000Z",
+        "published": "2026-07-21T17:13:17.000Z",
         "topics": [
           "development",
           "observability",
@@ -86,10 +105,10 @@
         ]
       },
       {
-        "title": "Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent",
-        "url": "https://thenewstack.io/self-healing-gpu-nodes/",
+        "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
+        "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
         "source": "The New Stack",
-        "published": "2026-07-19T13:00:00.000Z",
+        "published": "2026-07-21T17:05:16.000Z",
         "topics": [
           "development",
           "observability",
@@ -97,10 +116,20 @@
         ]
       },
       {
-        "title": "AI didn’t replace our security team — it multiplied it.",
-        "url": "https://thenewstack.io/scaling-security-with-ai/",
+        "title": "Introducing the ChatGPT for small business program",
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+        "source": "OpenAI Blog",
+        "published": "2026-07-21T17:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Block built a Slack for AI agents — and gave each one its own passport",
+        "url": "https://thenewstack.io/block-buzz-agent-workspace/",
         "source": "The New Stack",
-        "published": "2026-07-18T16:00:00.000Z",
+        "published": "2026-07-21T16:30:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -108,10 +137,29 @@
         ]
       },
       {
-        "title": "The bottleneck for AI agents isn’t the model anymore. It’s the context layer.",
-        "url": "https://thenewstack.io/ai-agent-infrastructure-bottleneck/",
+        "title": "How to build interactive experiences with canvases",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+        "source": "GitHub Blog",
+        "published": "2026-07-21T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Supercharging pgvector: 4x faster HNSW vector search with AlloyDB",
+        "url": "https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-21T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Google ships 3 new Gemini models. Just not the one everyone’s waiting for.",
+        "url": "https://thenewstack.io/google-ships-3-new-gemini-models-just-not-the-one-everyones-waiting-for/",
         "source": "The New Stack",
-        "published": "2026-07-18T15:00:00.000Z",
+        "published": "2026-07-21T15:00:52.000Z",
         "topics": [
           "development",
           "observability",
@@ -119,10 +167,10 @@
         ]
       },
       {
-        "title": "Platform engineering’s new job: serving environments at agent speed",
-        "url": "https://thenewstack.io/serving-environments-agent-speed/",
+        "title": "Kubernetes made deploying easy. Nobody warned you about the databases.",
+        "url": "https://thenewstack.io/kubernetes-database-operations-platform/",
         "source": "The New Stack",
-        "published": "2026-07-18T14:00:00.000Z",
+        "published": "2026-07-21T15:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -130,10 +178,20 @@
         ]
       },
       {
-        "title": "Musk open-sourced Grok Build to fight Anthropic. Anthropic pays him $1.25 billion a month.",
-        "url": "https://thenewstack.io/musk-spacexai-grok-open-source/",
+        "title": "Now in preview: Find and fix software vulnerabilities with CodeMender",
+        "url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-21T15:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Is retrieval engineering becoming AI’s next bottleneck?",
+        "url": "https://thenewstack.io/ai-retrieval-engineering-bottleneck/",
         "source": "The New Stack",
-        "published": "2026-07-18T10:39:00.000Z",
+        "published": "2026-07-21T14:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -141,10 +199,32 @@
         ]
       },
       {
-        "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
-        "url": "https://blog.cloudflare.com/wordpress-vulnerabilities/",
+        "title": "The rise of the agent runtime: The compute platform behind production agents",
+        "url": "https://thenewstack.io/agent-runtime-application-server/",
+        "source": "The New Stack",
+        "published": "2026-07-21T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "In a world of AI agents, where do we fit in?",
+        "url": "https://thenewstack.io/human-purpose-ai-agents/",
+        "source": "The New Stack",
+        "published": "2026-07-21T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How the 2026 World Cup affected Internet traffic",
+        "url": "https://blog.cloudflare.com/2026-world-cup-internet-traffic/",
         "source": "Cloudflare Blog",
-        "published": "2026-07-17T21:30:43.000Z",
+        "published": "2026-07-21T12:59:40.000Z",
         "topics": [
           "networking",
           "observability",
@@ -152,19 +232,10 @@
         ]
       },
       {
-        "title": "The cost of saying yes has changed",
-        "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-        "source": "GitHub Blog",
-        "published": "2026-07-17T16:46:47.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Kimi K3 tops Arena’s coding leaderboard — and it’s open-weight",
-        "url": "https://thenewstack.io/kimi-k3-open-weight-coding/",
+        "title": "“Second only to Fable 5:” Alibaba talks the talk with Qwen3.8 without providing any real data",
+        "url": "https://thenewstack.io/alibaba-qwen-anthropic-fable/",
         "source": "The New Stack",
-        "published": "2026-07-17T16:07:39.000Z",
+        "published": "2026-07-21T12:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -172,95 +243,20 @@
         ]
       },
       {
-        "title": "1Password’s new browser integration for Claude changes how AI uses your credentials",
-        "url": "https://thenewstack.io/1password-agent-authentication-framework/",
-        "source": "The New Stack",
-        "published": "2026-07-17T16:05:12.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "title": "Generosity Under Conditions: Hardening Google Cloud Access Management",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/",
         "source": "Google Cloud Blog",
-        "published": "2026-07-17T16:00:00.000Z",
+        "published": "2026-07-21T11:19:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
-        "url": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-17T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-17T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "“They’re dead if they don’t offer this”: DoorDash’s CLI for agents may be out of necessity",
-        "url": "https://thenewstack.io/doordash-cli-agents-order/",
-        "source": "The New Stack",
-        "published": "2026-07-17T14:36:17.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Why every AI agent decision needs a receipt",
-        "url": "https://thenewstack.io/agent-evidence-packet-analytics/",
-        "source": "The New Stack",
-        "published": "2026-07-17T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "From intent to enforcement: Lessons from operating Kubernetes controllers at scale",
-        "url": "https://thenewstack.io/kubernetes-controllers-at-scale/",
-        "source": "The New Stack",
-        "published": "2026-07-17T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Arm and Google offer a smarter option to run agentic AI workloads",
-        "url": "https://thenewstack.io/cpu-agentic-ai-axion/",
-        "source": "The New Stack",
-        "published": "2026-07-17T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "A scorecard for the AI age",
-        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
         "source": "OpenAI Blog",
-        "published": "2026-07-17T10:00:00.000Z",
+        "published": "2026-07-21T07:00:00.000Z",
         "topics": [
           "ai",
           "development"
@@ -271,74 +267,82 @@
   "cisco": {
     "items": [
       {
+        "title": "How Cisco architected AI-driven support and validated against industry benchmarks",
+        "url": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-architected-ai-driven-support-and-validated-against-industry-benchmarks",
+        "source": "Cisco Blogs",
+        "published": "2026-07-22T16:15:05.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "In the AI Era, Cyber Defense Needs a New Playbook",
+        "url": "https://blogs.cisco.com/news/in-the-ai-era-cyber-defense-needs-a-new-playbook",
+        "source": "Cisco Blogs",
+        "published": "2026-07-22T14:00:49.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Tech for the Modern Warfighter: Cisco at DoDIIS 2026",
+        "url": "https://blogs.cisco.com/industries/tech-for-the-modern-warfighter-cisco-at-dodiis-2026",
+        "source": "Cisco Blogs",
+        "published": "2026-07-22T14:00:46.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco-Powered Networking, Managed by Lumen: Simple, Secure and Responsive",
+        "url": "https://blogs.cisco.com/networking/cisco-powered-networking-managed-by-lumen-simple-secure-and-responsive",
+        "source": "Cisco Blogs",
+        "published": "2026-07-21T16:00:34.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Make AI Agent Skills that Work the Way You Do",
+        "url": "https://blogs.cisco.com/learning/make-ai-agent-skills-that-work-the-way-you-do",
+        "source": "Cisco Blogs",
+        "published": "2026-07-21T15:24:53.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Lean IT, future-ready: Three “ah-ha!” moments when small teams think big",
+        "url": "https://blogs.cisco.com/networking/lean-it-future-ready-three-ah-ha-moments-when-small-teams-think-big",
+        "source": "Cisco Blogs",
+        "published": "2026-07-21T15:00:50.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "The workforce has AI agents. The Wi-Fi network has…tickets.",
+        "url": "https://blogs.cisco.com/networking/the-workforce-has-ai-agents-the-wi-fi-network-hastickets",
+        "source": "Cisco Blogs",
+        "published": "2026-07-21T15:00:14.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization",
+        "url": "https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization",
+        "source": "Cisco Blogs",
+        "published": "2026-07-21T12:55:52.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "How agentic AI (and ETs!) can be a force for IT",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/how-agentic-ai-and-ets-can-be-a-force-for-it.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-07-21T12:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
         "title": "ML-KEM vs Diffie-Hellman: The Showdown – IPsec Series, Part 3",
         "url": "https://blogs.cisco.com/developer/ml-kem-vs-diffie-hellman-the-showdown-ipsec-series-part-3",
         "source": "Cisco Blogs",
         "published": "2026-07-20T14:00:09.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco AI Defense: Built for the Way AI Is Actually Used",
-        "url": "https://blogs.cisco.com/ai/cisco-ai-defense-built-for-the-way-ai-is-actually-used",
-        "source": "Cisco Blogs",
-        "published": "2026-07-17T20:19:28.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Last Mile of AI Is a Room",
-        "url": "https://blogs.cisco.com/partner/the-last-mile-of-ai-is-a-room",
-        "source": "Cisco Blogs",
-        "published": "2026-07-17T16:20:24.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco Launches 40 Communities Johannesburg: A New Chapter of Community-Led Transformation in South Africa",
-        "url": "https://blogs.cisco.com/news/cisco-launches-40-communities-johannesburg-a-new-chapter-of-community-led-transformation-in-south-africa",
-        "source": "Cisco Blogs",
-        "published": "2026-07-17T04:00:28.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Empowering Latin America: How Cisco Networking Academy is Scaling Digital Skilling",
-        "url": "https://blogs.cisco.com/learning/empowering-latin-america-how-cisco-networking-academy-is-scaling-digital-skilling",
-        "source": "Cisco Blogs",
-        "published": "2026-07-16T21:21:15.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Frontier Attacks Just Ended the Defender’s Advantage. Cisco IQ Is How You Get It Back",
-        "url": "https://blogs.cisco.com/customerexperience/frontier-attacks-just-ended-the-defenders-advantage-cisco-iq-is-how-you-get-it-back",
-        "source": "Cisco Blogs",
-        "published": "2026-07-16T15:42:18.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The AI-ready edge from Cisco and Nutanix",
-        "url": "https://blogs.cisco.com/datacenter/the-ai-ready-edge-from-cisco-and-nutanix",
-        "source": "Cisco Blogs",
-        "published": "2026-07-16T15:00:30.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "How responsible AI is changing the way organizations assess humanitarian needs",
-        "url": "https://blogs.cisco.com/our-corporate-purpose/how-responsible-ai-is-changing-the-way-organizations-assess-humanitarian-needs",
-        "source": "Cisco Blogs",
-        "published": "2026-07-16T00:30:55.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Lean IT, future-ready: Making wireless careers attractive in the age of AI",
-        "url": "https://blogs.cisco.com/networking/lean-it-future-ready-making-wireless-careers-attractive-in-the-age-of-ai",
-        "source": "Cisco Blogs",
-        "published": "2026-07-15T15:00:48.000Z",
         "topics": [],
         "type": "article"
       },
@@ -379,14 +383,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/at-the-u-s-open-cisco-drives-peak-performance.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-07-01T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The key to agentic AI adoption? The network",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m06/the-key-to-agentic-ai-adoption-the-network.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-06-15T13:00:00.000Z",
         "topics": [],
         "type": "article"
       }
@@ -458,10 +454,10 @@
         "type": "release"
       },
       {
-        "title": "Mobile Endpoint Agent Android Version 1.8.0",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#mobile-endpoint-agent-android-version-1-8-0",
+        "title": "Endpoint Local Network System Metrics for OpenTelemetry Data Model v2",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-local-network-system-metrics-for-opentelemetry-data-model-v2",
         "source": "Release Notes",
-        "published": "2026-07-06T00:00:00.000Z",
+        "published": "2026-07-07T00:00:00.000Z",
         "type": "release"
       }
     ]
