@@ -1,7 +1,111 @@
 {
-  "updatedAt": "2026-07-22T16:59:44.767Z",
+  "updatedAt": "2026-07-23T17:03:25.572Z",
   "industry": {
     "items": [
+      {
+        "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+        "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+        "source": "GitHub Blog",
+        "published": "2026-07-23T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Personalization is a ranking problem — architecture makes it work",
+        "url": "https://thenewstack.io/vespa-realtime-personalization-ranking/",
+        "source": "The New Stack",
+        "published": "2026-07-23T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your AI agents are ready. Is your data?",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-23T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "The Blueprint: How Voicify makes AI-enabled ordering a delight for customers",
+        "url": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-23T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How regulated organizations can increase AI code velocity safely",
+        "url": "https://thenewstack.io/regulated-ai-continuous-verification/",
+        "source": "The New Stack",
+        "published": "2026-07-23T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Can prompt caching tame RAG costs without sacrificing accuracy?",
+        "url": "https://thenewstack.io/production-rag-architecture-fixes/",
+        "source": "The New Stack",
+        "published": "2026-07-23T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Copilot vs. raw API access: What are you actually paying for?",
+        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+        "source": "GitHub Blog",
+        "published": "2026-07-22T19:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Kimi K3: White House alleges Fable 5 siphoning",
+        "url": "https://thenewstack.io/moonshot-fable5-distillation-accusations/",
+        "source": "The New Stack",
+        "published": "2026-07-22T18:28:31.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Agents keep changing their answers. Harness just built delivery pipelines that don’t care.",
+        "url": "https://thenewstack.io/harness-ai-agent-dlc/",
+        "source": "The New Stack",
+        "published": "2026-07-22T17:51:12.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI built support agents for its own customer service line, now it hopes big enterprises will trust them too",
+        "url": "https://thenewstack.io/openai-presence-enterprise-agents/",
+        "source": "The New Stack",
+        "published": "2026-07-22T17:23:20.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "“Every few months, a new model made part of our roadmap unnecessary”: Why Mendral’s founders gave up their startup for Anthropic",
         "url": "https://thenewstack.io/anthropic-mendral-cicd-acquihire/",
@@ -23,7 +127,17 @@
         ]
       },
       {
-        "title": "From maintenance to innovation: Checking in on Checkout.com’s Cloud Composer 3 migration",
+        "title": "Cost attribution in Grafana Cloud: Manage spend across observability and testing workflows",
+        "url": "https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-07-22T15:27:07.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "From Maintenance to Innovation: Checkout's Migration from Self-Managed Airflow to Managed Service for Apache Airflow (formerly Cloud Composer)",
         "url": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
         "source": "Google Cloud Blog",
         "published": "2026-07-22T14:00:00.000Z",
@@ -53,6 +167,16 @@
         ]
       },
       {
+        "title": "How news organizations are using AI to advance their vital missions",
+        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+        "source": "OpenAI Blog",
+        "published": "2026-07-22T13:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
         "title": "Advancing the next era of national science",
         "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
         "source": "OpenAI Blog",
@@ -70,6 +194,36 @@
         "topics": [
           "ai",
           "development"
+        ]
+      },
+      {
+        "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+        "url": "https://openai.com/index/ntt-data",
+        "source": "OpenAI Blog",
+        "published": "2026-07-22T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Unbiased Java CPU profiling with JFR in JDK 25",
+        "url": "https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/",
+        "source": "Datadog Engineering",
+        "published": "2026-07-22T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "From zero to traces: Choosing the right APM instrumentation method for your stack",
+        "url": "https://www.datadoghq.com/blog/choosing-apm-instrumentation/",
+        "source": "Datadog Engineering",
+        "published": "2026-07-22T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -103,169 +257,35 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
-        "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
-        "source": "The New Stack",
-        "published": "2026-07-21T17:05:16.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Introducing the ChatGPT for small business program",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-        "source": "OpenAI Blog",
-        "published": "2026-07-21T17:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Block built a Slack for AI agents — and gave each one its own passport",
-        "url": "https://thenewstack.io/block-buzz-agent-workspace/",
-        "source": "The New Stack",
-        "published": "2026-07-21T16:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How to build interactive experiences with canvases",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
-        "source": "GitHub Blog",
-        "published": "2026-07-21T16:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Supercharging pgvector: 4x faster HNSW vector search with AlloyDB",
-        "url": "https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-21T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google ships 3 new Gemini models. Just not the one everyone’s waiting for.",
-        "url": "https://thenewstack.io/google-ships-3-new-gemini-models-just-not-the-one-everyones-waiting-for/",
-        "source": "The New Stack",
-        "published": "2026-07-21T15:00:52.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Kubernetes made deploying easy. Nobody warned you about the databases.",
-        "url": "https://thenewstack.io/kubernetes-database-operations-platform/",
-        "source": "The New Stack",
-        "published": "2026-07-21T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Now in preview: Find and fix software vulnerabilities with CodeMender",
-        "url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-21T15:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Is retrieval engineering becoming AI’s next bottleneck?",
-        "url": "https://thenewstack.io/ai-retrieval-engineering-bottleneck/",
-        "source": "The New Stack",
-        "published": "2026-07-21T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "The rise of the agent runtime: The compute platform behind production agents",
-        "url": "https://thenewstack.io/agent-runtime-application-server/",
-        "source": "The New Stack",
-        "published": "2026-07-21T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "In a world of AI agents, where do we fit in?",
-        "url": "https://thenewstack.io/human-purpose-ai-agents/",
-        "source": "The New Stack",
-        "published": "2026-07-21T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How the 2026 World Cup affected Internet traffic",
-        "url": "https://blog.cloudflare.com/2026-world-cup-internet-traffic/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-21T12:59:40.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "“Second only to Fable 5:” Alibaba talks the talk with Qwen3.8 without providing any real data",
-        "url": "https://thenewstack.io/alibaba-qwen-anthropic-fable/",
-        "source": "The New Stack",
-        "published": "2026-07-21T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Generosity Under Conditions: Hardening Google Cloud Access Management",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-21T11:19:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-        "source": "OpenAI Blog",
-        "published": "2026-07-21T07:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "One Million Learners: Scaling Digital Skills and Inclusion in Nigeria",
+        "url": "https://blogs.cisco.com/learning/one-million-learners-scaling-digital-skills-and-inclusion-in-nigeria",
+        "source": "Cisco Blogs",
+        "published": "2026-07-23T17:00:50.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco Firewall Migration Manager: A Faster, Simpler, More Confident Path to Secure Firewall",
+        "url": "https://blogs.cisco.com/security/firewall-migration-manager",
+        "source": "Cisco Blogs",
+        "published": "2026-07-23T15:00:31.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Why AI inference is becoming a networking issue",
+        "url": "https://blogs.cisco.com/sp/why-ai-inference-is-becoming-a-networking-issue",
+        "source": "Cisco Blogs",
+        "published": "2026-07-23T15:00:18.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "How Cisco architected AI-driven support and validated against industry benchmarks",
         "url": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-architected-ai-driven-support-and-validated-against-industry-benchmarks",
@@ -315,34 +335,10 @@
         "type": "article"
       },
       {
-        "title": "The workforce has AI agents. The Wi-Fi network has…tickets.",
-        "url": "https://blogs.cisco.com/networking/the-workforce-has-ai-agents-the-wi-fi-network-hastickets",
-        "source": "Cisco Blogs",
-        "published": "2026-07-21T15:00:14.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization",
-        "url": "https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization",
-        "source": "Cisco Blogs",
-        "published": "2026-07-21T12:55:52.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "How agentic AI (and ETs!) can be a force for IT",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/how-agentic-ai-and-ets-can-be-a-force-for-it.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-07-21T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "ML-KEM vs Diffie-Hellman: The Showdown – IPsec Series, Part 3",
-        "url": "https://blogs.cisco.com/developer/ml-kem-vs-diffie-hellman-the-showdown-ipsec-series-part-3",
-        "source": "Cisco Blogs",
-        "published": "2026-07-20T14:00:09.000Z",
         "topics": [],
         "type": "article"
       },
