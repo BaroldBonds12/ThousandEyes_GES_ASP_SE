@@ -1,7 +1,83 @@
 {
-  "updatedAt": "2026-07-23T17:03:25.572Z",
+  "updatedAt": "2026-07-24T13:20:48.985Z",
   "industry": {
     "items": [
+      {
+        "title": "Test data wait times are slowing AI adoption more than code ever did",
+        "url": "https://thenewstack.io/test-data-ai-bottleneck/",
+        "source": "The New Stack",
+        "published": "2026-07-24T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI and Anthropic both speak at once with dueling voice updates",
+        "url": "https://thenewstack.io/voice-ai-openai-anthropic/",
+        "source": "The New Stack",
+        "published": "2026-07-23T19:57:50.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Nvidia’s new DNA model learns what token prediction misses",
+        "url": "https://thenewstack.io/nvidia-jepa-dna-genomics/",
+        "source": "The New Stack",
+        "published": "2026-07-23T18:44:01.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Introducing Cache Response Rules",
+        "url": "https://blog.cloudflare.com/introducing-cache-response-rules/",
+        "source": "Cloudflare Blog",
+        "published": "2026-07-23T18:40:38.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "“We love the world where we can use both”: How Nvidia thinks about local and frontier models",
+        "url": "https://thenewstack.io/nvidia-local-frontier-models/",
+        "source": "The New Stack",
+        "published": "2026-07-23T18:12:41.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cursor, Ramp, and Meta are all building model routers — but two have major model ambitions themselves",
+        "url": "https://thenewstack.io/cursor-ramp-meta-model-router/",
+        "source": "The New Stack",
+        "published": "2026-07-23T17:12:57.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Minimize idle accelerators: Native RL job interleaving with co-operative time-slicing in llm-d",
+        "url": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-23T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
       {
         "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
         "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
@@ -62,6 +138,36 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "Launching Health in ChatGPT",
+        "url": "https://openai.com/index/health-in-chatgpt",
+        "source": "OpenAI Blog",
+        "published": "2026-07-23T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Provision Datadog on Stripe Projects",
+        "url": "https://www.datadoghq.com/blog/datadog-stripe-projects/",
+        "source": "Datadog Engineering",
+        "published": "2026-07-23T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Efficient multi-provider agent environments with AI gateways: best practices",
+        "url": "https://www.datadoghq.com/blog/ai-gateways-best-practices/",
+        "source": "Datadog Engineering",
+        "published": "2026-07-23T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -137,7 +243,7 @@
         ]
       },
       {
-        "title": "From Maintenance to Innovation: Checkout's Migration from Self-Managed Airflow to Managed Service for Apache Airflow (formerly Cloud Composer)",
+        "title": "From maintenance to innovation: Checkout's migration to Managed Service for Apache Airflow",
         "url": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
         "source": "Google Cloud Blog",
         "published": "2026-07-22T14:00:00.000Z",
@@ -155,113 +261,19 @@
           "networking",
           "development"
         ]
-      },
-      {
-        "title": "Building AI infrastructure with the Effingham County community",
-        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-        "source": "OpenAI Blog",
-        "published": "2026-07-22T13:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "How news organizations are using AI to advance their vital missions",
-        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-        "source": "OpenAI Blog",
-        "published": "2026-07-22T13:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Advancing the next era of national science",
-        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-        "source": "OpenAI Blog",
-        "published": "2026-07-22T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Introducing OpenAI Presence",
-        "url": "https://openai.com/index/introducing-openai-presence",
-        "source": "OpenAI Blog",
-        "published": "2026-07-22T05:30:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-        "url": "https://openai.com/index/ntt-data",
-        "source": "OpenAI Blog",
-        "published": "2026-07-22T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Unbiased Java CPU profiling with JFR in JDK 25",
-        "url": "https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-22T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "From zero to traces: Choosing the right APM instrumentation method for your stack",
-        "url": "https://www.datadoghq.com/blog/choosing-apm-instrumentation/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-22T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Why AI apps fail in production (And how Google solved it)",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-21T23:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Moonshot launched Kimi K3. Then demand shut down subscriptions in 48 hours.",
-        "url": "https://thenewstack.io/kimi-k3-inference-bottleneck/",
-        "source": "The New Stack",
-        "published": "2026-07-21T20:48:32.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Single-pass AI code isn’t dead, but “high-reasoning” is the next frontier",
-        "url": "https://thenewstack.io/high-reasoning-ai-coding/",
-        "source": "The New Stack",
-        "published": "2026-07-21T17:13:17.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "From One Desk to the Whole Enterprise: Making Local AI Resilient",
+        "url": "https://blogs.cisco.com/ai/from-one-desk-to-the-whole-enterprise-making-local-ai-resilient",
+        "source": "Cisco Blogs",
+        "published": "2026-07-23T18:03:22.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "One Million Learners: Scaling Digital Skills and Inclusion in Nigeria",
         "url": "https://blogs.cisco.com/learning/one-million-learners-scaling-digital-skills-and-inclusion-in-nigeria",
@@ -327,14 +339,6 @@
         "type": "article"
       },
       {
-        "title": "Lean IT, future-ready: Three “ah-ha!” moments when small teams think big",
-        "url": "https://blogs.cisco.com/networking/lean-it-future-ready-three-ah-ha-moments-when-small-teams-think-big",
-        "source": "Cisco Blogs",
-        "published": "2026-07-21T15:00:50.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "How agentic AI (and ETs!) can be a force for IT",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/how-agentic-ai-and-ets-can-be-a-force-for-it.html?source=rss",
         "source": "Cisco Newsroom",
@@ -386,6 +390,13 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Cisco Application Hosting Framework (CAF) version 5.2.0",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#cisco-application-hosting-framework-caf-version-5-2-0",
+        "source": "Release Notes",
+        "published": "2026-07-23T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Chromium 150 Available for Browser Test Validation",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#chromium-150-available-for-browser-test-validation",
@@ -445,13 +456,6 @@
       {
         "title": "Endpoint Local Network Wireless Metrics for OpenTelemetry Data Model v2",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-local-network-wireless-metrics-for-opentelemetry-data-model-v2",
-        "source": "Release Notes",
-        "published": "2026-07-07T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Endpoint Local Network System Metrics for OpenTelemetry Data Model v2",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-local-network-system-metrics-for-opentelemetry-data-model-v2",
         "source": "Release Notes",
         "published": "2026-07-07T00:00:00.000Z",
         "type": "release"
