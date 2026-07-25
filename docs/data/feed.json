@@ -1,7 +1,136 @@
 {
-  "updatedAt": "2026-07-24T13:20:48.985Z",
+  "updatedAt": "2026-07-25T13:05:33.089Z",
   "industry": {
     "items": [
+      {
+        "title": "How routing keys isolate Kafka consumer tests on a shared broker",
+        "url": "https://thenewstack.io/isolate-kafka-consumer-tests/",
+        "source": "The New Stack",
+        "published": "2026-07-25T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Microsoft, Nvidia, Meta and 22 others defended open weights. Anthropic and OpenAI didn’t sign.",
+        "url": "https://thenewstack.io/microsoft-nvidia-meta-and-open-weights/",
+        "source": "The New Stack",
+        "published": "2026-07-25T10:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Opus 5 costs a third of the price — and that’s actually the problem",
+        "url": "https://thenewstack.io/opus-5-agentic-coding-cost/",
+        "source": "The New Stack",
+        "published": "2026-07-24T19:06:23.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Jensen Huang made his first X post. He used it to lobby Washington about open-weight AI.",
+        "url": "https://thenewstack.io/nvidia-open-weight-letter/",
+        "source": "The New Stack",
+        "published": "2026-07-24T18:26:50.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+        "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
+        "source": "Cloudflare Blog",
+        "published": "2026-07-24T17:25:28.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Anthropic’s Opus 5 is almost Fable 5",
+        "url": "https://thenewstack.io/anthropics-opus-5-almost-fable-5/",
+        "source": "The New Stack",
+        "published": "2026-07-24T17:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "What really happened in the Hugging Face breach",
+        "url": "https://thenewstack.io/openai-huggingface-sandbox-breach/",
+        "source": "The New Stack",
+        "published": "2026-07-24T16:20:24.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AWS, Google Cloud, Microsoft Azure, and Cloudflare now all offer agent sandboxes. None built them the same way.",
+        "url": "https://thenewstack.io/cloud-agent-code-sandboxes/",
+        "source": "The New Stack",
+        "published": "2026-07-24T16:04:54.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Open Knowledge format v0.2 tackles agentic trust",
+        "url": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-24T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-24T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Alert fatigue is breaking SOCs. Sumo Logic says it has a way out.",
+        "url": "https://thenewstack.io/sumo-logic-ai-security-alerts/",
+        "source": "The New Stack",
+        "published": "2026-07-24T14:07:44.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Updated Cyber Threat Actor Naming System",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-24T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
       {
         "title": "Test data wait times are slowing AI adoption more than code ever did",
         "url": "https://thenewstack.io/test-data-ai-bottleneck/",
@@ -22,6 +151,16 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "A new allowlists design for Grafana Cloud IP addresses: What you need to know",
+        "url": "https://grafana.com/blog/a-new-allowlists-design-for-grafana-cloud-ip-addresses-what-you-need-to-know/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-07-23T19:22:13.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -99,16 +238,6 @@
         ]
       },
       {
-        "title": "Your AI agents are ready. Is your data?",
-        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-23T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
         "title": "The Blueprint: How Voicify makes AI-enabled ordering a delight for customers",
         "url": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
         "source": "Google Cloud Blog",
@@ -119,153 +248,45 @@
         ]
       },
       {
-        "title": "How regulated organizations can increase AI code velocity safely",
-        "url": "https://thenewstack.io/regulated-ai-continuous-verification/",
-        "source": "The New Stack",
-        "published": "2026-07-23T14:00:00.000Z",
+        "title": "Your AI agents are ready. Is your data?",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-23T16:00:00.000Z",
         "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Can prompt caching tame RAG costs without sacrificing accuracy?",
-        "url": "https://thenewstack.io/production-rag-architecture-fixes/",
-        "source": "The New Stack",
-        "published": "2026-07-23T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Launching Health in ChatGPT",
-        "url": "https://openai.com/index/health-in-chatgpt",
-        "source": "OpenAI Blog",
-        "published": "2026-07-23T00:00:00.000Z",
-        "topics": [
-          "ai",
+          "networking",
           "development"
         ]
       },
       {
-        "title": "Provision Datadog on Stripe Projects",
-        "url": "https://www.datadoghq.com/blog/datadog-stripe-projects/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-23T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Efficient multi-provider agent environments with AI gateways: best practices",
-        "url": "https://www.datadoghq.com/blog/ai-gateways-best-practices/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-23T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Copilot vs. raw API access: What are you actually paying for?",
-        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
-        "source": "GitHub Blog",
-        "published": "2026-07-22T19:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Kimi K3: White House alleges Fable 5 siphoning",
-        "url": "https://thenewstack.io/moonshot-fable5-distillation-accusations/",
-        "source": "The New Stack",
-        "published": "2026-07-22T18:28:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Agents keep changing their answers. Harness just built delivery pipelines that don’t care.",
-        "url": "https://thenewstack.io/harness-ai-agent-dlc/",
-        "source": "The New Stack",
-        "published": "2026-07-22T17:51:12.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI built support agents for its own customer service line, now it hopes big enterprises will trust them too",
-        "url": "https://thenewstack.io/openai-presence-enterprise-agents/",
-        "source": "The New Stack",
-        "published": "2026-07-22T17:23:20.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Every few months, a new model made part of our roadmap unnecessary”: Why Mendral’s founders gave up their startup for Anthropic",
-        "url": "https://thenewstack.io/anthropic-mendral-cicd-acquihire/",
-        "source": "The New Stack",
-        "published": "2026-07-22T16:45:49.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Next chapter: Restructuring GitHub’s bug bounty program",
-        "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-        "source": "GitHub Blog",
-        "published": "2026-07-22T16:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Cost attribution in Grafana Cloud: Manage spend across observability and testing workflows",
-        "url": "https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/",
+        "title": "How to monitor your Supabase projects: connect Grafana Cloud in one click",
+        "url": "https://grafana.com/blog/grafana-cloud-supabase-one-click-integration/",
         "source": "Grafana Labs Blog",
-        "published": "2026-07-22T15:27:07.000Z",
+        "published": "2026-07-23T14:10:08.000Z",
         "topics": [
           "observability",
           "monitoring"
-        ]
-      },
-      {
-        "title": "From maintenance to innovation: Checkout's migration to Managed Service for Apache Airflow",
-        "url": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-22T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-        "url": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-22T13:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
         ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Antares and the Partner Opportunity: Local, Efficient, Trusted AI for Security",
+        "url": "https://blogs.cisco.com/partner/antares-and-the-partner-opportunity-local-efficient-trusted-ai-for-security",
+        "source": "Cisco Blogs",
+        "published": "2026-07-24T16:30:49.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "The Journey towards Logically Air-Gapped Deployment",
+        "url": "https://blogs.cisco.com/security/the-journey-towards-logically-air-gapped-deployment",
+        "source": "Cisco Blogs",
+        "published": "2026-07-24T15:00:52.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "From One Desk to the Whole Enterprise: Making Local AI Resilient",
         "url": "https://blogs.cisco.com/ai/from-one-desk-to-the-whole-enterprise-making-local-ai-resilient",
@@ -323,22 +344,6 @@
         "type": "article"
       },
       {
-        "title": "Cisco-Powered Networking, Managed by Lumen: Simple, Secure and Responsive",
-        "url": "https://blogs.cisco.com/networking/cisco-powered-networking-managed-by-lumen-simple-secure-and-responsive",
-        "source": "Cisco Blogs",
-        "published": "2026-07-21T16:00:34.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Make AI Agent Skills that Work the Way You Do",
-        "url": "https://blogs.cisco.com/learning/make-ai-agent-skills-that-work-the-way-you-do",
-        "source": "Cisco Blogs",
-        "published": "2026-07-21T15:24:53.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "How agentic AI (and ETs!) can be a force for IT",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/how-agentic-ai-and-ets-can-be-a-force-for-it.html?source=rss",
         "source": "Cisco Newsroom",
@@ -390,6 +395,13 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Support for ThousandEyes Enterprise Agents on Raspberry Pi 5",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#support-for-thousandeyes-enterprise-agents-on-raspberry-pi-5",
+        "source": "Release Notes",
+        "published": "2026-07-24T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Cisco Application Hosting Framework (CAF) version 5.2.0",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#cisco-application-hosting-framework-caf-version-5-2-0",
@@ -451,13 +463,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#pie-chart-and-stacked-area-stack-by-submetrics-or-by-group",
         "source": "Release Notes",
         "published": "2026-07-09T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Endpoint Local Network Wireless Metrics for OpenTelemetry Data Model v2",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-local-network-wireless-metrics-for-opentelemetry-data-model-v2",
-        "source": "Release Notes",
-        "published": "2026-07-07T00:00:00.000Z",
         "type": "release"
       }
     ]
