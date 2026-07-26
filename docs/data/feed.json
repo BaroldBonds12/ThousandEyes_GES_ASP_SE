@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-07-25T13:05:33.089Z",
+  "updatedAt": "2026-07-26T13:02:24.397Z",
   "industry": {
     "items": [
+      {
+        "title": "Stop correcting AI code. Build the system agents need.",
+        "url": "https://thenewstack.io/stop-correcting-ai-code-build-the-system-agents-need/",
+        "source": "The New Stack",
+        "published": "2026-07-25T17:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "5 steps to build great service architecture and operational resilience",
+        "url": "https://thenewstack.io/build-resilient-service-architecture/",
+        "source": "The New Stack",
+        "published": "2026-07-25T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "How routing keys isolate Kafka consumer tests on a shared broker",
         "url": "https://thenewstack.io/isolate-kafka-consumer-tests/",
@@ -91,8 +113,8 @@
         ]
       },
       {
-        "title": "Open Knowledge format v0.2 tackles agentic trust",
-        "url": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-07-24T16:00:00.000Z",
         "topics": [
@@ -101,8 +123,8 @@
         ]
       },
       {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "title": "Open Knowledge format v0.2 tackles agentic trust",
+        "url": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
         "source": "Google Cloud Blog",
         "published": "2026-07-24T16:00:00.000Z",
         "topics": [
@@ -238,16 +260,6 @@
         ]
       },
       {
-        "title": "The Blueprint: How Voicify makes AI-enabled ordering a delight for customers",
-        "url": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-23T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
         "title": "Your AI agents are ready. Is your data?",
         "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
         "source": "Google Cloud Blog",
@@ -255,16 +267,6 @@
         "topics": [
           "networking",
           "development"
-        ]
-      },
-      {
-        "title": "How to monitor your Supabase projects: connect Grafana Cloud in one click",
-        "url": "https://grafana.com/blog/grafana-cloud-supabase-one-click-integration/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-07-23T14:10:08.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
         ]
       }
     ]
