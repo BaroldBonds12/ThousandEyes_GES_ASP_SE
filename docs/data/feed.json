@@ -1,7 +1,105 @@
 {
-  "updatedAt": "2026-07-26T13:02:24.397Z",
+  "updatedAt": "2026-07-27T14:13:50.349Z",
   "industry": {
     "items": [
+      {
+        "title": "We’re open sourcing our privacy proxy CLI",
+        "url": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
+        "source": "Cloudflare Blog",
+        "published": "2026-07-27T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "“Developers see this as the future”:  Pilot Protocol launches to power the agent economy",
+        "url": "https://thenewstack.io/pilot-protocol-agent-economy/",
+        "source": "The New Stack",
+        "published": "2026-07-27T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Dynatrace’s new agents can reveal the single hardest part of AI operations",
+        "url": "https://thenewstack.io/dynatrace-autonomous-sre-agents/",
+        "source": "The New Stack",
+        "published": "2026-07-27T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cloudflare open-sources a debugger for privacy protocols used by Apple and Microsoft, with AI agents in mind",
+        "url": "https://thenewstack.io/cloudflare-pvcli-privacy-debugger-agents/",
+        "source": "The New Stack",
+        "published": "2026-07-27T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Nvidia, Palantir, Hugging Face join 30 others in race to defend open-weight AI from cyber threats",
+        "url": "https://thenewstack.io/open-secure-ai-alliance/",
+        "source": "The New Stack",
+        "published": "2026-07-27T09:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How AI is expanding what people do at work",
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "source": "OpenAI Blog",
+        "published": "2026-07-27T03:30:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "MCP’s biggest update removes the machinery many servers were built around",
+        "url": "https://thenewstack.io/mcp-release-candidate-rewrite/",
+        "source": "The New Stack",
+        "published": "2026-07-26T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Microsoft and Google DeepMind agree on AI control — but not on who holds it",
+        "url": "https://thenewstack.io/nadella-hassabis-ai-frameworks/",
+        "source": "The New Stack",
+        "published": "2026-07-26T15:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "5 ways SRE AI agents are set to augment human capabilities",
+        "url": "https://thenewstack.io/sre-ai-agents-capabilities/",
+        "source": "The New Stack",
+        "published": "2026-07-26T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Stop correcting AI code. Build the system agents need.",
         "url": "https://thenewstack.io/stop-correcting-ai-code-build-the-system-agents-need/",
@@ -174,105 +272,27 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "A new allowlists design for Grafana Cloud IP addresses: What you need to know",
-        "url": "https://grafana.com/blog/a-new-allowlists-design-for-grafana-cloud-ip-addresses-what-you-need-to-know/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-07-23T19:22:13.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Nvidia’s new DNA model learns what token prediction misses",
-        "url": "https://thenewstack.io/nvidia-jepa-dna-genomics/",
-        "source": "The New Stack",
-        "published": "2026-07-23T18:44:01.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Introducing Cache Response Rules",
-        "url": "https://blog.cloudflare.com/introducing-cache-response-rules/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-23T18:40:38.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "“We love the world where we can use both”: How Nvidia thinks about local and frontier models",
-        "url": "https://thenewstack.io/nvidia-local-frontier-models/",
-        "source": "The New Stack",
-        "published": "2026-07-23T18:12:41.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Cursor, Ramp, and Meta are all building model routers — but two have major model ambitions themselves",
-        "url": "https://thenewstack.io/cursor-ramp-meta-model-router/",
-        "source": "The New Stack",
-        "published": "2026-07-23T17:12:57.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Minimize idle accelerators: Native RL job interleaving with co-operative time-slicing in llm-d",
-        "url": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-23T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
-        "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
-        "source": "GitHub Blog",
-        "published": "2026-07-23T16:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Personalization is a ranking problem — architecture makes it work",
-        "url": "https://thenewstack.io/vespa-realtime-personalization-ranking/",
-        "source": "The New Stack",
-        "published": "2026-07-23T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your AI agents are ready. Is your data?",
-        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-23T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Watch a Hybrid Post-Quantum Handshake on the Wire – IPsec Series, Part 4",
+        "url": "https://blogs.cisco.com/developer/watch-a-hybrid-post-quantum-handshake-on-the-wire-ipsec-series-part-4",
+        "source": "Cisco Blogs",
+        "published": "2026-07-27T14:00:23.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Defending the Future, Today: Cisco Resilient Infrastructure Services",
+        "url": "https://blogs.cisco.com/customerexperience/defending-the-future-today-cisco-resilient-infrastructure-services",
+        "source": "Cisco Blogs",
+        "published": "2026-07-27T13:00:10.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Antares and the Partner Opportunity: Local, Efficient, Trusted AI for Security",
         "url": "https://blogs.cisco.com/partner/antares-and-the-partner-opportunity-local-efficient-trusted-ai-for-security",
@@ -326,22 +346,6 @@
         "url": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-architected-ai-driven-support-and-validated-against-industry-benchmarks",
         "source": "Cisco Blogs",
         "published": "2026-07-22T16:15:05.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "In the AI Era, Cyber Defense Needs a New Playbook",
-        "url": "https://blogs.cisco.com/news/in-the-ai-era-cyber-defense-needs-a-new-playbook",
-        "source": "Cisco Blogs",
-        "published": "2026-07-22T14:00:49.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Tech for the Modern Warfighter: Cisco at DoDIIS 2026",
-        "url": "https://blogs.cisco.com/industries/tech-for-the-modern-warfighter-cisco-at-dodiis-2026",
-        "source": "Cisco Blogs",
-        "published": "2026-07-22T14:00:46.000Z",
         "topics": [],
         "type": "article"
       },
