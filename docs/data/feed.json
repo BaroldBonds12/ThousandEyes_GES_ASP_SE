@@ -1,9 +1,155 @@
 {
-  "updatedAt": "2026-07-28T13:44:54.316Z",
+  "updatedAt": "2026-07-29T13:50:08.671Z",
   "industry": {
     "items": [
       {
-        "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption event",
+        "title": "GPT-5.6 kernel of truth: Sol can cut its own costs, says OpenAI",
+        "url": "https://thenewstack.io/gpt-5-6-serving-efficiency/",
+        "source": "The New Stack",
+        "published": "2026-07-29T13:04:39.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Post-quantum authentication to origins is now supported",
+        "url": "https://blog.cloudflare.com/post-quantum-authentication-to-origins/",
+        "source": "Cloudflare Blog",
+        "published": "2026-07-29T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Modus’s operandi: To give AI agents just the right amount of context",
+        "url": "https://thenewstack.io/modus-enterprise-context-warehouse/",
+        "source": "The New Stack",
+        "published": "2026-07-29T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Shipping code without human verification",
+        "url": "https://thenewstack.io/ship-code-without-verification/",
+        "source": "The New Stack",
+        "published": "2026-07-29T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots”",
+        "url": "https://thenewstack.io/huang-semiconductor-tenfold-ai-agents/",
+        "source": "The New Stack",
+        "published": "2026-07-28T19:46:50.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Sam Altman on model distillation: “This is not in my top ten list of worries”",
+        "url": "https://thenewstack.io/altman-security-distillation-scale/",
+        "source": "The New Stack",
+        "published": "2026-07-28T18:15:57.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Bringing Conversational Analytics to your entire data ecosystem",
+        "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-28T17:30:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Scientific computing in the age of agentic AI",
+        "url": "https://openai.com/index/scientific-computing-agentic-ai",
+        "source": "OpenAI Blog",
+        "published": "2026-07-28T17:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS",
+        "url": "https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-28T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+        "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+        "source": "GitHub Blog",
+        "published": "2026-07-28T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Best Buy scales AI workloads and secures access with Workforce Identity Federation",
+        "url": "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-28T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend",
+        "url": "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-28T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
+        "url": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-07-28T15:01:42.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A",
+        "url": "https://thenewstack.io/mate-security-context-graph/",
+        "source": "The New Stack",
+        "published": "2026-07-28T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
         "url": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/",
         "source": "Cloudflare Blog",
         "published": "2026-07-28T13:00:00.000Z",
@@ -14,8 +160,8 @@
         ]
       },
       {
-        "title": "Diagrid gives failed AI agents a way to resume",
-        "url": "https://thenewstack.io/diagrid-catalyst-agent-recovery/",
+        "title": "“There is a sell-by date on low-code, no-code”: What Tines thinks comes next",
+        "url": "https://thenewstack.io/tines-ai-workflow-governance/",
         "source": "The New Stack",
         "published": "2026-07-28T13:00:00.000Z",
         "topics": [
@@ -36,8 +182,8 @@
         ]
       },
       {
-        "title": "“There is a sell-by date on low-code, no-code”: What Tines thinks comes next",
-        "url": "https://thenewstack.io/tines-ai-workflow-governance/",
+        "title": "Diagrid gives failed AI agents a way to resume",
+        "url": "https://thenewstack.io/diagrid-catalyst-agent-recovery/",
         "source": "The New Stack",
         "published": "2026-07-28T13:00:00.000Z",
         "topics": [
@@ -55,6 +201,26 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "Investigate every security event with an AI agent, without the frontier bill",
+        "url": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/",
+        "source": "Datadog Engineering",
+        "published": "2026-07-28T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Engineering the Datadog Agent for FedRAMP High® Certification",
+        "url": "https://www.datadoghq.com/blog/engineering-the-datadog-agent-for-fedramp-high/",
+        "source": "Datadog Engineering",
+        "published": "2026-07-28T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -97,179 +263,35 @@
           "networking",
           "development"
         ]
-      },
-      {
-        "title": "Microsoft is racing to make OpenAI optional",
-        "url": "https://thenewstack.io/microsoft-homegrown-ai-models/",
-        "source": "The New Stack",
-        "published": "2026-07-27T16:24:08.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: Getting started",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
-        "source": "GitHub Blog",
-        "published": "2026-07-27T16:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Cyber Snapshot Report: Go beyond the toolchain and build enterprise resilience",
-        "url": "https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-27T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Smarter onboarding and planning with Grafana Assistant: How to ensure observability is baked in from the start",
-        "url": "https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-07-27T15:47:34.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Modernizing the skies: NOAA and Google Cloud collaborate to advance weather forecasting",
-        "url": "https://cloud.google.com/blog/topics/public-sector/modernizing-the-skies-noaa-google-cloud-collaborate-advance-weather-forecasting/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-27T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "We’re open-sourcing our privacy proxy CLI",
-        "url": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-27T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Cloudflare open-sources a debugger for privacy protocols used by Apple and Microsoft, with AI agents in mind",
-        "url": "https://thenewstack.io/cloudflare-pvcli-privacy-debugger-agents/",
-        "source": "The New Stack",
-        "published": "2026-07-27T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Dynatrace’s new agents can reveal the single hardest part of AI operations",
-        "url": "https://thenewstack.io/dynatrace-autonomous-sre-agents/",
-        "source": "The New Stack",
-        "published": "2026-07-27T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Developers see this as the future”:  Pilot Protocol launches to power the agent economy",
-        "url": "https://thenewstack.io/pilot-protocol-agent-economy/",
-        "source": "The New Stack",
-        "published": "2026-07-27T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Explore what's next in agentic operations: Introducing AI Week",
-        "url": "https://grafana.com/blog/explore-what-s-next-in-agentic-operations-introducing-ai-week/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-07-27T12:16:22.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Nvidia, Palantir, Hugging Face join 34 others in race to defend open-weight AI from cyber threats",
-        "url": "https://thenewstack.io/open-secure-ai-alliance/",
-        "source": "The New Stack",
-        "published": "2026-07-27T09:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How AI is expanding what people do at work",
-        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-        "source": "OpenAI Blog",
-        "published": "2026-07-27T03:30:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Normalize security logs to Google SecOps UDM with Observability Pipelines",
-        "url": "https://www.datadoghq.com/blog/observability-pipelines-google-secops/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-27T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "MCP’s biggest update removes the machinery many servers were built around",
-        "url": "https://thenewstack.io/mcp-release-candidate-rewrite/",
-        "source": "The New Stack",
-        "published": "2026-07-26T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Microsoft and Google DeepMind agree on AI control — but not on who holds it",
-        "url": "https://thenewstack.io/nadella-hassabis-ai-frameworks/",
-        "source": "The New Stack",
-        "published": "2026-07-26T15:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "5 ways SRE AI agents are set to augment human capabilities",
-        "url": "https://thenewstack.io/sre-ai-agents-capabilities/",
-        "source": "The New Stack",
-        "published": "2026-07-26T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "A High-IQ Network Isn’t a Smart Network. Here’s What’s Missing.",
+        "url": "https://blogs.cisco.com/learning/a-high-iq-network-isnt-a-smart-network-heres-whats-missing",
+        "source": "Cisco Blogs",
+        "published": "2026-07-28T21:58:37.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Sustainability 101: materials at the center of sustainability, human rights, and business resilience",
+        "url": "https://blogs.cisco.com/our-corporate-purpose/sustainability-101-materials-at-the-center-of-sustainability-human-rights-and-business-resilience",
+        "source": "Cisco Blogs",
+        "published": "2026-07-28T15:34:31.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Scale-across: Why the future of distributed AI isn’t in one data center",
+        "url": "https://blogs.cisco.com/datacenter/scale-across-why-the-future-of-distributed-ai-isnt-in-one-data-center",
+        "source": "Cisco Blogs",
+        "published": "2026-07-28T15:00:18.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "More Than Just Code: My Two-Week Crash Course in Cisco Culture",
         "url": "https://blogs.cisco.com/wearecisco/more-than-just-code-my-two-week-crash-course-in-cisco-culture",
@@ -315,30 +337,6 @@
         "url": "https://blogs.cisco.com/developer/watch-a-hybrid-post-quantum-handshake-on-the-wire-ipsec-series-part-4",
         "source": "Cisco Blogs",
         "published": "2026-07-27T14:00:23.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Defending the Future, Today: Cisco Resilient Infrastructure Services",
-        "url": "https://blogs.cisco.com/customerexperience/defending-the-future-today-cisco-resilient-infrastructure-services",
-        "source": "Cisco Blogs",
-        "published": "2026-07-27T13:00:10.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Antares and the Partner Opportunity: Local, Efficient, Trusted AI for Security",
-        "url": "https://blogs.cisco.com/partner/antares-and-the-partner-opportunity-local-efficient-trusted-ai-for-security",
-        "source": "Cisco Blogs",
-        "published": "2026-07-24T16:30:49.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Journey towards Logically Air-Gapped Deployment",
-        "url": "https://blogs.cisco.com/security/the-journey-towards-logically-air-gapped-deployment",
-        "source": "Cisco Blogs",
-        "published": "2026-07-24T15:00:52.000Z",
         "topics": [],
         "type": "article"
       },
