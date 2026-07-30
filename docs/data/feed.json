@@ -1,9 +1,210 @@
 {
-  "updatedAt": "2026-07-29T13:50:08.671Z",
+  "updatedAt": "2026-07-30T13:40:38.770Z",
   "industry": {
     "items": [
       {
-        "title": "GPT-5.6 kernel of truth: Sol can cut its own costs, says OpenAI",
+        "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
+        "url": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
+        "source": "Cloudflare Blog",
+        "published": "2026-07-30T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "When do AI agents need permission boundaries?",
+        "url": "https://thenewstack.io/ai-agent-permission-boundaries/",
+        "source": "The New Stack",
+        "published": "2026-07-30T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "IBM says quantum computers are getting harder to verify. That’s progress.",
+        "url": "https://thenewstack.io/ibm-quantum-advantage-verification/",
+        "source": "The New Stack",
+        "published": "2026-07-30T10:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits",
+        "url": "https://thenewstack.io/sol-usage-limits-reset/",
+        "source": "The New Stack",
+        "published": "2026-07-29T18:44:41.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic backs urgent call for the most powerful AI labs to hit the brakes",
+        "url": "https://thenewstack.io/ai-pause-framework-letter/",
+        "source": "The New Stack",
+        "published": "2026-07-29T18:41:26.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“The beast needs a cage”: Why PortSwigger’s agentic pentesting is kept safe behind bars",
+        "url": "https://thenewstack.io/burp-agentic-pentesting-control-layer/",
+        "source": "The New Stack",
+        "published": "2026-07-29T18:34:54.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value.",
+        "url": "https://thenewstack.io/cursor-anthropic-openai-india-pricing/",
+        "source": "The New Stack",
+        "published": "2026-07-29T18:30:55.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Opus 5 vs. Fable 5: What does half the price buy?",
+        "url": "https://thenewstack.io/opus-5-vs-fable-5/",
+        "source": "The New Stack",
+        "published": "2026-07-29T18:24:08.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+        "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+        "source": "GitHub Blog",
+        "published": "2026-07-29T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "The AI “vibe shift”: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach",
+        "url": "https://thenewstack.io/nanoclaw-echo-agent-runtime/",
+        "source": "The New Stack",
+        "published": "2026-07-29T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents",
+        "url": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-29T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Automate data monitoring and root-cause analysis with Looker Agentic Workflows",
+        "url": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-29T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Automate your agent development lifecycle using any coding agent",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-29T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new in Gemini Enterprise Agent Platform",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
+        "source": "Google Cloud Blog",
+        "published": "2026-07-29T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "“Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes",
+        "url": "https://thenewstack.io/perplexity-space-agent-sandboxes/",
+        "source": "The New Stack",
+        "published": "2026-07-29T15:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+        "source": "OpenAI Blog",
+        "published": "2026-07-29T15:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Automate all the things: How to use Grafana Cloud's AI to relieve the operational burden",
+        "url": "https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-07-29T14:47:56.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Your team isn’t “ignoring security.” They’re just underwater.",
+        "url": "https://thenewstack.io/cloud-security-triage-cadence/",
+        "source": "The New Stack",
+        "published": "2026-07-29T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Turning 10x developers into 10x value",
+        "url": "https://thenewstack.io/building-the-10x-organization/",
+        "source": "The New Stack",
+        "published": "2026-07-29T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Kernel of truth: GPT-5.6 Sol can cut its own costs, says OpenAI",
         "url": "https://thenewstack.io/gpt-5-6-serving-efficiency/",
         "source": "The New Stack",
         "published": "2026-07-29T13:04:39.000Z",
@@ -25,17 +226,6 @@
         ]
       },
       {
-        "title": "Modus’s operandi: To give AI agents just the right amount of context",
-        "url": "https://thenewstack.io/modus-enterprise-context-warehouse/",
-        "source": "The New Stack",
-        "published": "2026-07-29T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
         "title": "Shipping code without human verification",
         "url": "https://thenewstack.io/ship-code-without-verification/",
         "source": "The New Stack",
@@ -47,10 +237,10 @@
         ]
       },
       {
-        "title": "Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots”",
-        "url": "https://thenewstack.io/huang-semiconductor-tenfold-ai-agents/",
+        "title": "Modus’s operandi: To give AI agents just the right amount of context",
+        "url": "https://thenewstack.io/modus-enterprise-context-warehouse/",
         "source": "The New Stack",
-        "published": "2026-07-28T19:46:50.000Z",
+        "published": "2026-07-29T13:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -58,209 +248,22 @@
         ]
       },
       {
-        "title": "Sam Altman on model distillation: “This is not in my top ten list of worries”",
-        "url": "https://thenewstack.io/altman-security-distillation-scale/",
-        "source": "The New Stack",
-        "published": "2026-07-28T18:15:57.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Bringing Conversational Analytics to your entire data ecosystem",
-        "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-28T17:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Scientific computing in the age of agentic AI",
-        "url": "https://openai.com/index/scientific-computing-agentic-ai",
+        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
         "source": "OpenAI Blog",
-        "published": "2026-07-28T17:00:00.000Z",
+        "published": "2026-07-29T10:00:00.000Z",
         "topics": [
           "ai",
           "development"
         ]
       },
       {
-        "title": "Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS",
-        "url": "https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-28T17:00:00.000Z",
+        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "source": "OpenAI Blog",
+        "published": "2026-07-29T00:00:00.000Z",
         "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-        "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-        "source": "GitHub Blog",
-        "published": "2026-07-28T16:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Best Buy scales AI workloads and secures access with Workforce Identity Federation",
-        "url": "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-28T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend",
-        "url": "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-28T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
-        "url": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-07-28T15:01:42.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A",
-        "url": "https://thenewstack.io/mate-security-context-graph/",
-        "source": "The New Stack",
-        "published": "2026-07-28T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
-        "url": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/",
-        "source": "Cloudflare Blog",
-        "published": "2026-07-28T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "“There is a sell-by date on low-code, no-code”: What Tines thinks comes next",
-        "url": "https://thenewstack.io/tines-ai-workflow-governance/",
-        "source": "The New Stack",
-        "published": "2026-07-28T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "When vendor-supplied support matters: How AI is changing the open source security equation",
-        "url": "https://thenewstack.io/ai-open-source-security/",
-        "source": "The New Stack",
-        "published": "2026-07-28T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Diagrid gives failed AI agents a way to resume",
-        "url": "https://thenewstack.io/diagrid-catalyst-agent-recovery/",
-        "source": "The New Stack",
-        "published": "2026-07-28T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Anthropic wants tests, not bans, as OpenAI and Google back open weights",
-        "url": "https://thenewstack.io/anthropic-wants-tests-not-bans-as-openai-and-google-back-open-weights/",
-        "source": "The New Stack",
-        "published": "2026-07-28T00:02:25.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Investigate every security event with an AI agent, without the frontier bill",
-        "url": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-28T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Engineering the Datadog Agent for FedRAMP High® Certification",
-        "url": "https://www.datadoghq.com/blog/engineering-the-datadog-agent-for-fedramp-high/",
-        "source": "Datadog Engineering",
-        "published": "2026-07-28T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "The 24-hour experiment that helped Anthropic find its identity",
-        "url": "https://thenewstack.io/anthropic-evals-replace-prds/",
-        "source": "The New Stack",
-        "published": "2026-07-27T19:14:57.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Moonshot opens Kimi K3 weights — but few can run it",
-        "url": "https://thenewstack.io/kimi-k3-open-weights/",
-        "source": "The New Stack",
-        "published": "2026-07-27T19:10:17.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "The harness is all you need (mostly)",
-        "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-        "source": "GitHub Blog",
-        "published": "2026-07-27T18:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Announcing general availability of SAP Business Data Cloud Connect for BigQuery",
-        "url": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
-        "source": "Google Cloud Blog",
-        "published": "2026-07-27T16:30:00.000Z",
-        "topics": [
-          "networking",
+          "ai",
           "development"
         ]
       }
@@ -268,6 +271,22 @@
   },
   "cisco": {
     "items": [
+      {
+        "title": "AI Supply Chain Provenance Explorer for Responsible AI Governance",
+        "url": "https://blogs.cisco.com/ai/supply-chain-provenance-explorer",
+        "source": "Cisco Blogs",
+        "published": "2026-07-30T12:53:40.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Navigating AI Tokenomics: From Cost Uncertainty to Operational Scale",
+        "url": "https://blogs.cisco.com/news/navigating-ai-tokenomics-from-cost-uncertainty-to-operational-scale",
+        "source": "Cisco Blogs",
+        "published": "2026-07-29T17:00:33.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "A High-IQ Network Isn’t a Smart Network. Here’s What’s Missing.",
         "url": "https://blogs.cisco.com/learning/a-high-iq-network-isnt-a-smart-network-heres-whats-missing",
@@ -325,22 +344,6 @@
         "type": "article"
       },
       {
-        "title": "Assuming Failure: The Mindset Shift That Actually Improves Your Defensive Outcomes",
-        "url": "https://blogs.cisco.com/security/assuming-failure-the-mindset-shift-that-actually-improves-your-defensive-outcomes",
-        "source": "Cisco Blogs",
-        "published": "2026-07-27T15:00:33.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Watch a Hybrid Post-Quantum Handshake on the Wire – IPsec Series, Part 4",
-        "url": "https://blogs.cisco.com/developer/watch-a-hybrid-post-quantum-handshake-on-the-wire-ipsec-series-part-4",
-        "source": "Cisco Blogs",
-        "published": "2026-07-27T14:00:23.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "How agentic AI (and ETs!) can be a force for IT",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/how-agentic-ai-and-ets-can-be-a-force-for-it.html?source=rss",
         "source": "Cisco Newsroom",
@@ -393,6 +396,27 @@
   "thousandeyes": {
     "items": [
       {
+        "title": "RoomOS Device Names Now Automatically Populate Endpoint Agent Names",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#roomos-device-names-now-automatically-populate-endpoint-agent-names",
+        "source": "Release Notes",
+        "published": "2026-07-30T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Endpoint Agent Location Is Now Treated as Protected Data in Dashboards",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-location-is-now-treated-as-protected-data-in-dashboards",
+        "source": "Release Notes",
+        "published": "2026-07-29T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Agent ASN and Geolocation Live Updates",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#agent-asn-and-geolocation-live-updates",
+        "source": "Release Notes",
+        "published": "2026-07-29T00:00:00.000Z",
+        "type": "release"
+      },
+      {
         "title": "HTTP Server and API DNS Lookup Duration for OpenTelemetry Data Model v2",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#http-server-and-api-dns-lookup-duration-for-opentelemetry-data-model-v2",
         "source": "Release Notes",
@@ -439,27 +463,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#update-to-firewall-update-required-for-thousandeyes-virtual-appliance-teva-and-thousandeyes-physical-appliance-tepa-delayed-release-of-thousandeyes-docker-adapter",
         "source": "Release Notes",
         "published": "2026-07-16T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Cut Down on Alert Noise with Alert Optimizations (Public Beta)",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#cut-down-on-alert-noise-with-alert-optimizations-public-beta",
-        "source": "Release Notes",
-        "published": "2026-07-16T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Enhanced Provider Visibility in Provider Intelligence",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#enhanced-provider-visibility-in-provider-intelligence",
-        "source": "Release Notes",
-        "published": "2026-07-14T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Endpoint Agent Client Version 2.51.1",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-client-version-2-51-1",
-        "source": "Release Notes",
-        "published": "2026-07-13T00:00:00.000Z",
         "type": "release"
       }
     ]
