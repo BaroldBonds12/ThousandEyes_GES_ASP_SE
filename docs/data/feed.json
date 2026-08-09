@@ -1,7 +1,221 @@
 {
-  "updatedAt": "2026-08-07T12:43:24.681Z",
+  "updatedAt": "2026-08-09T12:33:13.037Z",
   "industry": {
     "items": [
+      {
+        "title": "AI adoption isn’t the same as AI usage",
+        "url": "https://thenewstack.io/ai-adoption-versus-usage/",
+        "source": "The New Stack",
+        "published": "2026-08-08T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Why your KubeVirt VMs can’t move between clusters — and how EVPN fixes it",
+        "url": "https://thenewstack.io/kubevirt-evpn-vm-migration/",
+        "source": "The New Stack",
+        "published": "2026-08-08T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Five AI rivals just backed a shared plugin standard. Here’s why it matters for developers.",
+        "url": "https://thenewstack.io/agent-plugins-open-standard/",
+        "source": "The New Stack",
+        "published": "2026-08-08T13:50:59.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI skills start on laptops. Enterprises inherit the mess.",
+        "url": "https://thenewstack.io/speakeasy-enterprise-agent-skills/",
+        "source": "The New Stack",
+        "published": "2026-08-08T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Auto Mode will soon be the default in Claude Code — because humans can’t be trusted",
+        "url": "https://thenewstack.io/claude-code-auto-mode/",
+        "source": "The New Stack",
+        "published": "2026-08-07T21:42:44.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The AI model OpenAI won’t release yet — and what it found in testing",
+        "url": "https://thenewstack.io/openai-astra-cybersecurity-delay/",
+        "source": "The New Stack",
+        "published": "2026-08-07T20:56:38.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The npm attack that turned provenance attestations into camouflage",
+        "url": "https://thenewstack.io/npm-supply-chain-worm-attack/",
+        "source": "The New Stack",
+        "published": "2026-08-07T18:31:59.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Meta’s new coding agent is cheap (but it’ll cost you your data).",
+        "url": "https://thenewstack.io/meta-muse-code/",
+        "source": "The New Stack",
+        "published": "2026-08-07T18:17:56.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Coinbase, Shopify and Ramp all built their own coding agents. All three still pay Anthropic.",
+        "url": "https://thenewstack.io/enterprise-ai-agent-harness/",
+        "source": "The New Stack",
+        "published": "2026-08-07T18:16:03.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Zero-code, low-cost data ingestion: New BigQuery DTS capabilities",
+        "url": "https://cloud.google.com/blog/products/data-analytics/new-bigquery-data-transfer-service-capabilities/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-07T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-07T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Unifying Structured and Unstructured Data Insights with BQ Search Innovations",
+        "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-07T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How Google Cloud detects, contains, and protects against emerging threats",
+        "url": "https://cloud.google.com/blog/products/identity-security/how-google-cloud-detects-contains-and-protects-against-emerging-threats/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-07T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud",
+        "url": "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-07T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "source": "OpenAI Blog",
+        "published": "2026-08-07T15:20:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Unveiling good and bad behaviors on the Agentic Internet",
+        "url": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-07T13:01:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+        "url": "https://blog.cloudflare.com/introducing-radar-researcher/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-07T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
+        "url": "https://blog.cloudflare.com/community-program-refresh/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-07T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+        "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-07T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "The “AI kill switch” assumes you know what you are trying to shut down",
+        "url": "https://thenewstack.io/ai-kill-switch-infrastructure/",
+        "source": "The New Stack",
+        "published": "2026-08-07T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
         "url": "https://openai.com/index/hsp-gruppe",
@@ -52,217 +266,6 @@
           "development",
           "observability",
           "networking"
-        ]
-      },
-      {
-        "title": "Free agents: How AWS Kiro could untie agents from editors",
-        "url": "https://thenewstack.io/kiro-agent-client-protocol/",
-        "source": "The New Stack",
-        "published": "2026-08-06T17:50:35.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "The blank-check AI coding era is dead. Here’s what comes next.",
-        "url": "https://thenewstack.io/microsoft-copilot-token-budgets/",
-        "source": "The New Stack",
-        "published": "2026-08-06T17:29:08.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Why Todoist says less AI can deliver more",
-        "url": "https://thenewstack.io/doist-ai-automation-code/",
-        "source": "The New Stack",
-        "published": "2026-08-06T17:05:57.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How we took malware advisories beyond npm",
-        "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
-        "source": "GitHub Blog",
-        "published": "2026-08-06T16:51:12.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "“Just rewrite it”: What platform teams really think about modernization",
-        "url": "https://thenewstack.io/nutanix-dual-native-architecture/",
-        "source": "The New Stack",
-        "published": "2026-08-06T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Say goodbye to K8s GPU pain: How DRA changes everything",
-        "url": "https://thenewstack.io/kubernetes-dra-gpu-scheduling/",
-        "source": "The New Stack",
-        "published": "2026-08-06T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Agentic Future Ready With BigQuery: Continually Improving Price-Performance, Zero Effort",
-        "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-06T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Advancing brain tumor research with privacy-first AI",
-        "url": "https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-06T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Your agentic summer: No-cost lessons from Google experts to build and scale agents",
-        "url": "https://cloud.google.com/blog/topics/training-certifications/free-gemini-enterrprise-training/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-06T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Digital sovereignty in the age of AI: You don’t have to choose between control and innovation",
-        "url": "https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-06T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Anthropic recommends a git worktree per agent. Your runtime infra makes that a problem.",
-        "url": "https://thenewstack.io/agent-native-runtime-branching/",
-        "source": "The New Stack",
-        "published": "2026-08-06T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-06T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Cloudflare AI Search: give your agents a search engine for your data",
-        "url": "https://blog.cloudflare.com/ai-search-easier/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-06T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "The next generation of MCP",
-        "url": "https://blog.cloudflare.com/mcp-v2/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-06T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents",
-        "url": "https://blog.cloudflare.com/aeo/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-06T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Building an open Agentic Internet: readable, discoverable, callable, and payable",
-        "url": "https://blog.cloudflare.com/the-agentic-internet/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-06T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-        "url": "https://blog.cloudflare.com/kitesurf/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-06T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Give any website a WebMCP interface",
-        "url": "https://blog.cloudflare.com/webmcp/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-06T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Mirendil taps AI Hypercomputer TPUs and GPUs for pre- and post-training applications",
-        "url": "https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-06T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-        "source": "OpenAI Blog",
-        "published": "2026-08-06T10:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
         ]
       }
     ]
