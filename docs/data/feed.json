@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-09T12:33:13.037Z",
+  "updatedAt": "2026-08-10T12:50:21.863Z",
   "industry": {
     "items": [
+      {
+        "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true,  but not how I expected.",
+        "url": "https://thenewstack.io/deepseek-flash-pro-benchmark/",
+        "source": "The New Stack",
+        "published": "2026-08-10T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Platform Engineering ROI: What it costs to build your own platform",
+        "url": "https://thenewstack.io/real-cost-diy-platform/",
+        "source": "The New Stack",
+        "published": "2026-08-09T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Coding agents can be evaluated. We just have to evaluate the work.",
+        "url": "https://thenewstack.io/evaluating-coding-agents-framework/",
+        "source": "The New Stack",
+        "published": "2026-08-09T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI coding got faster. Why didn’t engineering?",
+        "url": "https://thenewstack.io/ai-productivity-measurement-gap/",
+        "source": "The New Stack",
+        "published": "2026-08-09T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "AI adoption isn’t the same as AI usage",
         "url": "https://thenewstack.io/ai-adoption-versus-usage/",
@@ -112,16 +156,6 @@
         ]
       },
       {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-07T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
         "title": "Unifying Structured and Unstructured Data Insights with BQ Search Innovations",
         "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
         "source": "Google Cloud Blog",
@@ -144,6 +178,16 @@
       {
         "title": "GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud",
         "url": "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-07T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-08-07T16:00:00.000Z",
         "topics": [
@@ -224,48 +268,6 @@
         "topics": [
           "ai",
           "development"
-        ]
-      },
-      {
-        "title": "A guide to slash commands in the GitHub Copilot app",
-        "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
-        "source": "GitHub Blog",
-        "published": "2026-08-06T19:49:34.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "GPT-5.6 Sol just got better in one place and stayed the same everywhere else",
-        "url": "https://thenewstack.io/gpt-sol-chatgpt-split/",
-        "source": "The New Stack",
-        "published": "2026-08-06T19:33:02.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Why AI tools know nothing about your company — until now",
-        "url": "https://thenewstack.io/cloudflare-os-agentic-workspace-security/",
-        "source": "The New Stack",
-        "published": "2026-08-06T19:30:08.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that.",
-        "url": "https://thenewstack.io/aws-dogwood-agent-policies/",
-        "source": "The New Stack",
-        "published": "2026-08-06T19:11:55.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
         ]
       }
     ]
@@ -397,6 +399,13 @@
   "thousandeyes": {
     "items": [
       {
+        "title": "Endpoint Agent Client Version 2.53.3",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-client-version-2-53-3",
+        "source": "Release Notes",
+        "published": "2026-08-07T00:00:00.000Z",
+        "type": "release"
+      },
+      {
         "title": "Refreshed Color Palette Across ThousandEyes",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#refreshed-color-palette-across-thousandeyes",
         "source": "Release Notes",
@@ -455,13 +464,6 @@
       {
         "title": "Endpoint Agent Location Is Now Treated as Protected Data in Dashboards",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-location-is-now-treated-as-protected-data-in-dashboards",
-        "source": "Release Notes",
-        "published": "2026-07-29T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Agent ASN and Geolocation Live Updates",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#agent-asn-and-geolocation-live-updates",
         "source": "Release Notes",
         "published": "2026-07-29T00:00:00.000Z",
         "type": "release"
