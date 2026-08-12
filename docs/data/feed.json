@@ -1,7 +1,176 @@
 {
-  "updatedAt": "2026-08-11T12:44:31.564Z",
+  "updatedAt": "2026-08-12T12:49:39.447Z",
   "industry": {
     "items": [
+      {
+        "title": "Coding agents ignore open source contribution guidelines, researchers find.",
+        "url": "https://thenewstack.io/coding-agents-ignore-guidelines/",
+        "source": "The New Stack",
+        "published": "2026-08-12T11:48:08.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your AI agent remembers everything. Here’s what happens when its owner changes.",
+        "url": "https://thenewstack.io/manus-meta-data-deletion/",
+        "source": "The New Stack",
+        "published": "2026-08-11T21:46:49.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Why CPUs still matter in the age of AI agents",
+        "url": "https://thenewstack.io/cpus-matter-ai-agents/",
+        "source": "The New Stack",
+        "published": "2026-08-11T20:44:26.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How I learned to stop worrying and love hyperscaler capex",
+        "url": "https://thenewstack.io/stop-worrying-hyperscaler-capex/",
+        "source": "The New Stack",
+        "published": "2026-08-11T20:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic’s watermark survives copy-paste, but not the real dev workflow",
+        "url": "https://thenewstack.io/anthropic-claude-text-watermark/",
+        "source": "The New Stack",
+        "published": "2026-08-11T19:29:48.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Why CPUs still matter in the age of AI agents",
+        "url": "https://thenewstack.io/why-cpus-still-matter-in-the-age-of-ai-agents/",
+        "source": "The New Stack",
+        "published": "2026-08-11T18:54:02.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "From coder to orchestrator: How agents shift the role of a developer",
+        "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+        "source": "GitHub Blog",
+        "published": "2026-08-11T18:38:17.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "OpenAI’s ChatGPT/Codex desktop app is now on Linux",
+        "url": "https://thenewstack.io/openais-chatgpt-desktop-linux/",
+        "source": "The New Stack",
+        "published": "2026-08-11T17:53:59.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Databricks acquires Electric to give every AI agent its own Postgres database",
+        "url": "https://thenewstack.io/databricks-electric-wasm-agentic-postgres/",
+        "source": "The New Stack",
+        "published": "2026-08-11T16:44:15.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
+        "url": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-11T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
+        "url": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-11T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-11T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+        "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-11T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Nvidia launches a smaller, faster Nemotron model and a router to put it to work",
+        "url": "https://thenewstack.io/nvidia-nemotron-lightning-switchyard/",
+        "source": "The New Stack",
+        "published": "2026-08-11T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Testing ads in ChatGPT",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "source": "OpenAI Blog",
+        "published": "2026-08-11T10:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Daybreak models are now available on AWS",
+        "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+        "source": "OpenAI Blog",
+        "published": "2026-08-11T10:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
       {
         "title": "Expanding connectivity in the Americas: Introducing Alisios, Canoa, and OlaLuz subsea cables",
         "url": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect/",
@@ -10,6 +179,26 @@
         "topics": [
           "networking",
           "development"
+        ]
+      },
+      {
+        "title": "How we improved APM Java startup by encoding a prefix trie as a JVM constant",
+        "url": "https://www.datadoghq.com/blog/engineering/improving-apm-java-startup-with-a-prefix-trie/",
+        "source": "Datadog Engineering",
+        "published": "2026-08-11T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Investigate account-level churn risk with Product Analytics account segments",
+        "url": "https://www.datadoghq.com/blog/product-analytics-account-segments/",
+        "source": "Datadog Engineering",
+        "published": "2026-08-11T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -73,198 +262,13 @@
           "ai",
           "development"
         ]
-      },
-      {
-        "title": "Pulling multi-gigabyte container images in seconds on Amazon EKS",
-        "url": "https://thenewstack.io/accelerating-eks-image-pulls/",
-        "source": "The New Stack",
-        "published": "2026-08-10T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How WPP operationalizes platform and data engineering for AI marketing",
-        "url": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-10T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How Malachyte solves retail’s cold-start problem with managed real-time AI",
-        "url": "https://cloud.google.com/blog/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-10T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "ClusterNetworkPolicy in GKE: Balancing control and autonomy for your microservices",
-        "url": "https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-10T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google named a Leader in The Forrester Wave™: AI Platforms, Q3 2026",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-10T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost?",
-        "url": "https://thenewstack.io/meta-muse-claude-code/",
-        "source": "The New Stack",
-        "published": "2026-08-10T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“It blows my mind”-“It has a tendency to overengineer things a little”: Developers react to road-testing OpenAI GPT‑5.6 Sol",
-        "url": "https://thenewstack.io/developers-review-gpt-56-sol/",
-        "source": "The New Stack",
-        "published": "2026-08-10T14:28:08.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-        "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-        "source": "OpenAI Blog",
-        "published": "2026-08-10T14:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
-        "url": "https://blog.cloudflare.com/fedramp-class-d-certification/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-10T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "url": "https://openai.com/index/model-ml",
-        "source": "OpenAI Blog",
-        "published": "2026-08-10T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true,  but not how I expected.",
-        "url": "https://thenewstack.io/deepseek-flash-pro-benchmark/",
-        "source": "The New Stack",
-        "published": "2026-08-10T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "source": "OpenAI Blog",
-        "published": "2026-08-10T10:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Putting frontier cyber models in more trusted hands",
-        "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-        "source": "OpenAI Blog",
-        "published": "2026-08-10T10:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Premium seats are coming to ChatGPT Business",
-        "url": "https://openai.com/index/premium-seats-chatgpt-business",
-        "source": "OpenAI Blog",
-        "published": "2026-08-10T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-        "url": "https://openai.com/index/zapier",
-        "source": "OpenAI Blog",
-        "published": "2026-08-10T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-        "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-        "source": "OpenAI Blog",
-        "published": "2026-08-10T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Understanding unfixed Kubernetes CVEs: What you can and can’t detect",
-        "url": "https://www.datadoghq.com/blog/how-to-manage-unfixed-kubernetes-cves/",
-        "source": "Datadog Engineering",
-        "published": "2026-08-10T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Instrument serverless apps with agentic onboarding",
-        "url": "https://www.datadoghq.com/blog/serverless-agentic-onboarding/",
-        "source": "Datadog Engineering",
-        "published": "2026-08-10T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
       {
-        "title": "Elevating Federal Cybersecurity: Cisco’s Path from FedRAMP Certified (Class C) to FedRAMP Certified (Class D) and Zero …",
+        "title": "Elevating Federal Cybersecurity: Cisco’s Path from FedRAMP Certified Class C (Moderate) to Certified Class D (High)",
         "url": "https://blogs.cisco.com/security/elevating-federal-cybersecurity-ciscos-unified-path-to-fedramp-class-d-and-zero-trust",
         "source": "Cisco Blogs",
         "published": "2026-08-11T12:00:36.000Z",
