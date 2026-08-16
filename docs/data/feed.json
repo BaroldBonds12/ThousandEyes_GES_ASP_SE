@@ -1,7 +1,124 @@
 {
-  "updatedAt": "2026-08-14T12:44:59.791Z",
+  "updatedAt": "2026-08-16T12:21:54.494Z",
   "industry": {
     "items": [
+      {
+        "title": "Per-developer environments were the goal. Agents moved the goalposts.",
+        "url": "https://thenewstack.io/new-tenant-is-change/",
+        "source": "The New Stack",
+        "published": "2026-08-15T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Grok 4.6 matched Fable 5 Max at an 85% discount. Downloadable models set that price.",
+        "url": "https://thenewstack.io/grok-4-6-matched-fable-5-max/",
+        "source": "The New Stack",
+        "published": "2026-08-15T03:56:28.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Apple’s new AI split means your iOS app could behave differently in China",
+        "url": "https://thenewstack.io/apple-china-ai-model/",
+        "source": "The New Stack",
+        "published": "2026-08-14T19:21:28.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Alibaba’s new model promises Opus 4.6-level performance on your laptop",
+        "url": "https://thenewstack.io/qwen38-27b-local-inference/",
+        "source": "The New Stack",
+        "published": "2026-08-14T18:10:58.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How to bring your software delivery workflow into GitHub with agent apps",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+        "source": "GitHub Blog",
+        "published": "2026-08-14T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-14T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "GLM-5.3 didn’t change the base model — where did its coding gains come from?",
+        "url": "https://thenewstack.io/glm-5-3-post-training-coding/",
+        "source": "The New Stack",
+        "published": "2026-08-14T15:20:24.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your container images are unsigned. In the AI era, that’s a ticking time bomb.",
+        "url": "https://thenewstack.io/unsigned-container-images-ai/",
+        "source": "The New Stack",
+        "published": "2026-08-14T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How Cloudflare detects MCP traffic and helps secure it",
+        "url": "https://blog.cloudflare.com/mcp-security-updates/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-14T13:12:12.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Secure all your internal vibe-coded applications — in one click",
+        "url": "https://blog.cloudflare.com/workers-protected-by-access/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-14T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Data pipeline monitoring 101: Tracking health and performance across the data stack",
+        "url": "https://www.datadoghq.com/blog/data-pipeline-monitoring/",
+        "source": "Datadog Engineering",
+        "published": "2026-08-14T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
       {
         "title": "The AI model that just scored 65% on DeepSWE isn’t the one Google promised.",
         "url": "https://thenewstack.io/gemini-3-7-flash-agents/",
@@ -148,125 +265,19 @@
           "ai",
           "development"
         ]
-      },
-      {
-        "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-        "source": "OpenAI Blog",
-        "published": "2026-08-13T09:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "GitHub availability report: July 2026",
-        "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
-        "source": "GitHub Blog",
-        "published": "2026-08-12T22:17:32.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "“Issue tracking is dead”; How the pull request became the last chokepoint in the SDLC bottleneck",
-        "url": "https://thenewstack.io/coderabbit-agentic-change-management-review/",
-        "source": "The New Stack",
-        "published": "2026-08-12T22:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Anthropic’s Chrome extension is now a Cowork session",
-        "url": "https://thenewstack.io/claude-chrome-cowork-sessions/",
-        "source": "The New Stack",
-        "published": "2026-08-12T21:39:38.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Why space is actually a terrible place to cool a data center",
-        "url": "https://thenewstack.io/spacex-and-nvidias-orbital-ai-datacenter-fantasy/",
-        "source": "The New Stack",
-        "published": "2026-08-12T21:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "SpaceXAI trained Grok 4.6 on something most AI labs throw away",
-        "url": "https://thenewstack.io/grok-4-6-agent-training/",
-        "source": "The New Stack",
-        "published": "2026-08-12T20:07:54.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Write your first prompt with the GitHub Copilot app",
-        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
-        "source": "GitHub Blog",
-        "published": "2026-08-12T19:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Your contributors are AI-first now. Is your project?",
-        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
-        "source": "GitHub Blog",
-        "published": "2026-08-12T18:00:08.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Code that passes every test can still break the next AI agent that touches it",
-        "url": "https://thenewstack.io/go-language-ai-agents/",
-        "source": "The New Stack",
-        "published": "2026-08-12T17:00:12.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Anthropic gave agents the ability to dream. Then developers woke up.",
-        "url": "https://thenewstack.io/anthropic-agent-memory-dreaming/",
-        "source": "The New Stack",
-        "published": "2026-08-12T16:51:19.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Meta stopped worrying about distillation and just shipped the pipeline",
-        "url": "https://thenewstack.io/meta-glimmer-distillation-enterprise/",
-        "source": "The New Stack",
-        "published": "2026-08-12T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "How Identity Drives MSP Profitability: An Analyst’s Perspective",
+        "url": "https://blogs.cisco.com/partner/how-identity-drives-msp-profitability-an-analysts-perspective",
+        "source": "Cisco Blogs",
+        "published": "2026-08-14T16:17:36.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Monitoring beyond SNMP: Turning your network into a sensor",
         "url": "https://blogs.cisco.com/networking/monitoring-beyond-snmp-turning-your-network-into-a-sensor",
@@ -336,14 +347,6 @@
         "url": "https://blogs.cisco.com/developer/build-agentic-networking-experiences-with-meraki-and-catalyst-center-mcp-servers",
         "source": "Cisco Blogs",
         "published": "2026-08-10T16:00:40.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Elevating Trust: Email Threat Defense Achieves FedRAMP Class D (High) Certification",
-        "url": "https://blogs.cisco.com/security/elevating-trust-email-threat-defense-achieves-fedramp-class-d-high-certification",
-        "source": "Cisco Blogs",
-        "published": "2026-08-10T15:00:44.000Z",
         "topics": [],
         "type": "article"
       },
