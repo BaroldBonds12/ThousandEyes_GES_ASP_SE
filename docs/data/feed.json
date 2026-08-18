@@ -1,7 +1,110 @@
 {
-  "updatedAt": "2026-08-16T12:21:54.494Z",
+  "updatedAt": "2026-08-18T12:28:01.581Z",
   "industry": {
     "items": [
+      {
+        "title": "Partnering with CodeAI to prepare the first AI generation",
+        "url": "https://openai.com/index/partnering-with-codeai",
+        "source": "OpenAI Blog",
+        "published": "2026-08-18T11:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "url": "https://openai.com/index/chatgpt-for-teens",
+        "source": "OpenAI Blog",
+        "published": "2026-08-18T11:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Claude can now delete your production voice agent from a chat window",
+        "url": "https://thenewstack.io/elevenlabs-mcp-voice-agents/",
+        "source": "The New Stack",
+        "published": "2026-08-17T19:51:01.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format?",
+        "url": "https://thenewstack.io/agent-plugins-portability-gaps/",
+        "source": "The New Stack",
+        "published": "2026-08-17T19:27:20.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“Open weights are nowhere near a sufficient solution”: Dario Amodei fires back on AI power",
+        "url": "https://thenewstack.io/amodei-open-weights-compute-regulation/",
+        "source": "The New Stack",
+        "published": "2026-08-17T16:58:51.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+        "source": "GitHub Blog",
+        "published": "2026-08-17T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "TNS journalist Darryl K. Taft leaves a legacy of respected work and quiet integrity",
+        "url": "https://thenewstack.io/darryl-taft-technology-journalist/",
+        "source": "The New Stack",
+        "published": "2026-08-17T15:43:18.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The Defender’s Window",
+        "url": "https://openai.com/index/the-defenders-window",
+        "source": "OpenAI Blog",
+        "published": "2026-08-17T05:30:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "OpenAI joins PORTS-Pike project",
+        "url": "https://openai.com/index/openai-joins-ports-pike-project",
+        "source": "OpenAI Blog",
+        "published": "2026-08-17T05:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "New policy ideas for the Intelligence Age",
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "source": "OpenAI Blog",
+        "published": "2026-08-17T03:15:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
       {
         "title": "Per-developer environments were the goal. Agents moved the goalposts.",
         "url": "https://thenewstack.io/new-tenant-is-change/",
@@ -160,116 +263,43 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Rubrik’s lessons from one month with Mythos Preview",
-        "url": "https://thenewstack.io/rubrik-mythos-learnings/",
-        "source": "The New Stack",
-        "published": "2026-08-13T17:37:33.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "DeepSeek open sources an agent harness where everything is a plugin",
-        "url": "https://thenewstack.io/deepseek-harness-open-source-plugins/",
-        "source": "The New Stack",
-        "published": "2026-08-13T17:20:21.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
-        "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-13T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "What 50 open source projects taught us about security in the AI era",
-        "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-        "source": "GitHub Blog",
-        "published": "2026-08-13T16:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Why your AI pipeline costs 10x more after the demo",
-        "url": "https://thenewstack.io/ai-pipeline-token-optimization/",
-        "source": "The New Stack",
-        "published": "2026-08-13T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Code review is a taste problem",
-        "url": "https://thenewstack.io/code-review-taste-problem/",
-        "source": "The New Stack",
-        "published": "2026-08-13T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Five European companies just agreed to buy AI compute that doesn’t exist yet",
-        "url": "https://thenewstack.io/mistral-third-party-open-models/",
-        "source": "The New Stack",
-        "published": "2026-08-13T14:31:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Certificate Transparency Monitoring is now generally available",
-        "url": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-13T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "The builder’s guide to GPT‑5.6",
-        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "source": "OpenAI Blog",
-        "published": "2026-08-13T11:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-        "url": "https://openai.com/index/previewing-ultrafast",
-        "source": "OpenAI Blog",
-        "published": "2026-08-13T10:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "I Wasn’t Ready. I Did It Anyway.",
+        "url": "https://blogs.cisco.com/wearecisco/i-wasnt-ready-i-did-it-anyway",
+        "source": "Cisco Blogs",
+        "published": "2026-08-18T12:00:20.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "From first serve to match point: Inside the technology powering the Cincinnati Open",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/from-first-serve-to-match-point-inside-the-technology-powering-the-cincinnati-open.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-08-18T12:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Meet Instant Attack Verification: Agentic AI for Tier-1 and Tier-2 SOC investigation",
+        "url": "https://blogs.cisco.com/security/meet-instant-attack-verification-agentic-ai-for-tier-1-and-tier-2-soc-investigation",
+        "source": "Cisco Blogs",
+        "published": "2026-08-17T15:00:22.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "The Great Certificate Size Explosion – IPsec Series, Part 7",
+        "url": "https://blogs.cisco.com/developer/the-great-certificate-size-explosion-ipsec-series-part-7",
+        "source": "Cisco Blogs",
+        "published": "2026-08-17T14:00:19.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "How Identity Drives MSP Profitability: An Analyst’s Perspective",
         "url": "https://blogs.cisco.com/partner/how-identity-drives-msp-profitability-an-analysts-perspective",
@@ -327,30 +357,6 @@
         "type": "article"
       },
       {
-        "title": "Remote, Not Distant: How One Week in Raleigh Proved My Internship Was Never Really Virtual",
-        "url": "https://blogs.cisco.com/wearecisco/remote-not-distant-how-one-week-in-raleigh-proved-my-internship-was-never-really-virtual",
-        "source": "Cisco Blogs",
-        "published": "2026-08-11T12:00:13.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Secure Claude Enterprise with Cisco AI Defense",
-        "url": "https://blogs.cisco.com/ai/secure-claude-enterprise-with-cisco-ai-defense",
-        "source": "Cisco Blogs",
-        "published": "2026-08-11T01:06:16.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Build agentic networking experiences with Meraki and Catalyst Center MCP servers",
-        "url": "https://blogs.cisco.com/developer/build-agentic-networking-experiences-with-meraki-and-catalyst-center-mcp-servers",
-        "source": "Cisco Blogs",
-        "published": "2026-08-10T16:00:40.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco Schedules Conference Call for Q4 Fiscal Year 2026 Financial Results",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-schedules-conference-call-for-q4-fiscal-year-2026-financial-results.html?source=rss",
         "source": "Cisco Press Releases",
@@ -381,19 +387,25 @@
         "published": "2026-07-21T12:00:00.000Z",
         "topics": [],
         "type": "article"
-      },
-      {
-        "title": "For seamless, secure stadium experiences, Wi-Fi wins",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/for-seamless-secure-stadium-experiences-wi-fi-wins.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-07-15T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
       }
     ]
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Browser Synthetics Screenshot Return Format Changing to JPEG",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#browser-synthetics-screenshot-return-format-changing-to-jpeg",
+        "source": "Release Notes",
+        "published": "2026-08-17T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "New Cloud Agents",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#new-cloud-agents",
+        "source": "Release Notes",
+        "published": "2026-08-17T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Chromium Upgrade for Cloud and Enterprise Agents Scheduled for August 19",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#chromium-upgrade-for-cloud-and-enterprise-agents-scheduled-for-august-19",
@@ -448,20 +460,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#important-notice-cisco-account-migration-for-thousandeyes-login",
         "source": "Release Notes",
         "published": "2026-08-03T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Endpoint Experience Events Are Now Generally Available",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-experience-events-are-now-generally-available",
-        "source": "Release Notes",
-        "published": "2026-07-30T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Connected Devices Metrics in OpenTelemetry",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#connected-devices-metrics-in-opentelemetry",
-        "source": "Release Notes",
-        "published": "2026-07-30T00:00:00.000Z",
         "type": "release"
       }
     ]
