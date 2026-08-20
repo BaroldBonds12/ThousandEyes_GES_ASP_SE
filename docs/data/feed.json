@@ -1,7 +1,123 @@
 {
-  "updatedAt": "2026-08-19T12:28:33.339Z",
+  "updatedAt": "2026-08-20T12:30:29.243Z",
   "industry": {
     "items": [
+      {
+        "title": "“The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation",
+        "url": "https://thenewstack.io/openai-training-pause-cybersecurity/",
+        "source": "The New Stack",
+        "published": "2026-08-19T21:53:30.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI-generated Rust compiles perfectly. That’s the scary part.",
+        "url": "https://thenewstack.io/canonical-c-rust-apparmor/",
+        "source": "The New Stack",
+        "published": "2026-08-19T19:30:42.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Offering Zero Data Retention for frontier models",
+        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "source": "OpenAI Blog",
+        "published": "2026-08-19T19:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "AWS deprecated this EKS auth method. 81% of clusters still run it.",
+        "url": "https://thenewstack.io/kubernetes-fleet-security-management/",
+        "source": "The New Stack",
+        "published": "2026-08-19T18:59:54.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "GitHub Copilot app for Beginners: Managing your work",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+        "source": "GitHub Blog",
+        "published": "2026-08-19T17:50:23.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Codex can now keep coding while it waits for your answer",
+        "url": "https://thenewstack.io/codex-async-developer-messaging/",
+        "source": "The New Stack",
+        "published": "2026-08-19T17:44:59.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your coding agent got the onboarding your developers never did",
+        "url": "https://thenewstack.io/coding-agents-developer-neglect/",
+        "source": "The New Stack",
+        "published": "2026-08-19T17:04:22.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI broke code review. What about knowledge sharing?",
+        "url": "https://thenewstack.io/ai-code-review-cognitive-debt/",
+        "source": "The New Stack",
+        "published": "2026-08-19T17:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+        "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-19T16:00:28.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Serverless Apache Spark on Google Cloud: Architecture Choices & AI Troubleshooting",
+        "url": "https://cloud.google.com/blog/products/data-analytics/serverless-apache-spark-on-google-cloud-architecture-ai-troubleshooting/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-19T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How to modernize Apache Hive using Google Cloud’s Lakehouse runtime catalog",
+        "url": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-helps-modernize-apache-hive/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-19T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
       {
         "title": "An open source rival to Claude Managed Agents just launched",
         "url": "https://thenewstack.io/truefoundry-trueforge-claude-managed-agents/",
@@ -33,6 +149,36 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "Replit expands access to software creation with GPT-5.6 Luna",
+        "url": "https://openai.com/index/replit",
+        "source": "OpenAI Blog",
+        "published": "2026-08-19T07:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "How CISA’s BOD 26-04 changes vulnerability prioritization",
+        "url": "https://www.datadoghq.com/blog/cisa-bod-26-04-vulnerability-prioritization/",
+        "source": "Datadog Engineering",
+        "published": "2026-08-19T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
+        "url": "https://www.datadoghq.com/blog/engineering/gitretriever/",
+        "source": "Datadog Engineering",
+        "published": "2026-08-19T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -118,154 +264,59 @@
           "networking",
           "development"
         ]
-      },
-      {
-        "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
-        "url": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-18T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "BGP Role model: tracking the adoption of RFC 9234",
-        "url": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-18T15:21:32.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-18T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Building operational resilience with agentic AI in financial services",
-        "url": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-18T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "OpenAI’s Greg Brockman: Z.ai’s GLM-5.3 likely to “significantly accelerate the threat landscape”",
-        "url": "https://thenewstack.io/openai-open-weight-glm-5-3/",
-        "source": "The New Stack",
-        "published": "2026-08-18T13:10:15.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Partnering with CodeAI to prepare the first AI generation",
-        "url": "https://openai.com/index/partnering-with-codeai",
-        "source": "OpenAI Blog",
-        "published": "2026-08-18T11:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Pacing model development in an era of cyber-critical capabilities",
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "source": "OpenAI Blog",
-        "published": "2026-08-18T11:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "url": "https://openai.com/index/chatgpt-for-teens",
-        "source": "OpenAI Blog",
-        "published": "2026-08-18T11:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "url": "https://openai.com/index/asana",
-        "source": "OpenAI Blog",
-        "published": "2026-08-18T07:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "How NVIDIA scales expertise with ChatGPT Work",
-        "url": "https://openai.com/index/nvidia/chatgpt-work",
-        "source": "OpenAI Blog",
-        "published": "2026-08-18T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Two ways to measure the cumulative impact of experiments",
-        "url": "https://www.datadoghq.com/blog/two-ways-to-measure-cumulative-impact/",
-        "source": "Datadog Engineering",
-        "published": "2026-08-18T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Centralize human and agentic work with Datadog Work Management",
-        "url": "https://www.datadoghq.com/blog/work-management/",
-        "source": "Datadog Engineering",
-        "published": "2026-08-18T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Trace AWS Lambda durable functions with Datadog",
-        "url": "https://www.datadoghq.com/blog/trace-aws-lambda-durable-functions/",
-        "source": "Datadog Engineering",
-        "published": "2026-08-18T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Claude can now delete your production voice agent from a chat window",
-        "url": "https://thenewstack.io/elevenlabs-mcp-voice-agents/",
-        "source": "The New Stack",
-        "published": "2026-08-17T19:51:01.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "AI Workforce Consortium: Building a cybersecurity workforce ready for what’s next",
+        "url": "https://blogs.cisco.com/our-corporate-purpose/ai-workforce-consortium-building-a-cybersecurity-workforce-ready-for-whats-next",
+        "source": "Cisco Blogs",
+        "published": "2026-08-20T12:15:27.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Foundation AI in July: New Models, Benchmarks, and Security Research",
+        "url": "https://blogs.cisco.com/ai/foundation-ai-in-july-new-models-benchmarks-and-security-research",
+        "source": "Cisco Blogs",
+        "published": "2026-08-19T21:59:59.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Healthcare AI Must Earn Trust Before Adoption",
+        "url": "https://blogs.cisco.com/industries/healthcare-ai-must-earn-trust-before-adoption",
+        "source": "Cisco Blogs",
+        "published": "2026-08-19T18:09:49.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "How sustainability data is informing customer decisions",
+        "url": "https://blogs.cisco.com/our-corporate-purpose/how-sustainability-data-is-informing-customer-decisions",
+        "source": "Cisco Blogs",
+        "published": "2026-08-19T18:06:50.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco Recognized as a Leader in the 2026 Forrester Wave™ Data Center Network Solutions",
+        "url": "https://blogs.cisco.com/datacenter/cisco-recognized-as-leader-in-the-2026-forrester-wave-data-center-network-solutions",
+        "source": "Cisco Blogs",
+        "published": "2026-08-19T17:13:09.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Trust and Talent: The Real AI Lessons from a Day at the McLaren Technology Centre",
+        "url": "https://blogs.cisco.com/news/trust-and-talent-the-real-ai-lessons-from-mclaren-technology-centre",
+        "source": "Cisco Blogs",
+        "published": "2026-08-19T15:00:26.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Meet “The Data Center Lens” video series: Clear answers for modernizing and scaling for AI",
         "url": "https://blogs.cisco.com/datacenter/meet-the-data-center-lens-video-series-clear-answers-for-modernizing-and-scaling-for-ai",
@@ -291,58 +342,10 @@
         "type": "article"
       },
       {
-        "title": "I Wasn’t Ready. I Did It Anyway.",
-        "url": "https://blogs.cisco.com/wearecisco/i-wasnt-ready-i-did-it-anyway",
-        "source": "Cisco Blogs",
-        "published": "2026-08-18T12:00:20.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "From first serve to match point: Inside the technology powering the Cincinnati Open",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/from-first-serve-to-match-point-inside-the-technology-powering-the-cincinnati-open.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-08-18T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Meet Instant Attack Verification: Agentic AI for Tier-1 and Tier-2 SOC investigation",
-        "url": "https://blogs.cisco.com/security/meet-instant-attack-verification-agentic-ai-for-tier-1-and-tier-2-soc-investigation",
-        "source": "Cisco Blogs",
-        "published": "2026-08-17T15:00:22.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Great Certificate Size Explosion – IPsec Series, Part 7",
-        "url": "https://blogs.cisco.com/developer/the-great-certificate-size-explosion-ipsec-series-part-7",
-        "source": "Cisco Blogs",
-        "published": "2026-08-17T14:00:19.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "How Identity Drives MSP Profitability: An Analyst’s Perspective",
-        "url": "https://blogs.cisco.com/partner/how-identity-drives-msp-profitability-an-analysts-perspective",
-        "source": "Cisco Blogs",
-        "published": "2026-08-14T16:17:36.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Monitoring beyond SNMP: Turning your network into a sensor",
-        "url": "https://blogs.cisco.com/networking/monitoring-beyond-snmp-turning-your-network-into-a-sensor",
-        "source": "Cisco Blogs",
-        "published": "2026-08-13T16:38:11.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "How Autonoma and Cisco are reimagining air travel",
-        "url": "https://blogs.cisco.com/our-corporate-purpose/how-autonoma-and-cisco-are-reimagining-air-travel",
-        "source": "Cisco Blogs",
-        "published": "2026-08-13T15:44:24.000Z",
         "topics": [],
         "type": "article"
       },
@@ -390,6 +393,13 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Enhancements to Support Chat",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#enhancements-to-support-chat",
+        "source": "Release Notes",
+        "published": "2026-08-19T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Browser Synthetics Screenshot Return Format Changing to JPEG",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#browser-synthetics-screenshot-return-format-changing-to-jpeg",
@@ -451,13 +461,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#thousandeyes-support-lifecycle-updates-august-2026",
         "source": "Release Notes",
         "published": "2026-08-04T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Important Notice: Cisco Account Migration for ThousandEyes Login",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#important-notice-cisco-account-migration-for-thousandeyes-login",
-        "source": "Release Notes",
-        "published": "2026-08-03T00:00:00.000Z",
         "type": "release"
       }
     ]
