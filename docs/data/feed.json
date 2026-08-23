@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-20T12:30:29.243Z",
+  "updatedAt": "2026-08-23T12:22:27.824Z",
   "industry": {
     "items": [
       {
-        "title": "“The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation",
-        "url": "https://thenewstack.io/openai-training-pause-cybersecurity/",
+        "title": "The open mainframe: the keystone of the end-to-end digital enterprise",
+        "url": "https://thenewstack.io/open-mainframe-keystone-enterprise/",
         "source": "The New Stack",
-        "published": "2026-08-19T21:53:30.000Z",
+        "published": "2026-08-22T17:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -14,10 +14,10 @@
         ]
       },
       {
-        "title": "AI-generated Rust compiles perfectly. That’s the scary part.",
-        "url": "https://thenewstack.io/canonical-c-rust-apparmor/",
+        "title": "Securing sandboxes: What happens when AI agents escape containment?",
+        "url": "https://thenewstack.io/securing-ai-agent-sandboxes/",
         "source": "The New Stack",
-        "published": "2026-08-19T19:30:42.000Z",
+        "published": "2026-08-22T16:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -25,20 +25,10 @@
         ]
       },
       {
-        "title": "Offering Zero Data Retention for frontier models",
-        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-        "source": "OpenAI Blog",
-        "published": "2026-08-19T19:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "AWS deprecated this EKS auth method. 81% of clusters still run it.",
-        "url": "https://thenewstack.io/kubernetes-fleet-security-management/",
+        "title": "Six identity capabilities for securing autonomous AI agents",
+        "url": "https://thenewstack.io/securing-autonomous-ai-agents/",
         "source": "The New Stack",
-        "published": "2026-08-19T18:59:54.000Z",
+        "published": "2026-08-22T14:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -46,52 +36,10 @@
         ]
       },
       {
-        "title": "GitHub Copilot app for Beginners: Managing your work",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
-        "source": "GitHub Blog",
-        "published": "2026-08-19T17:50:23.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Codex can now keep coding while it waits for your answer",
-        "url": "https://thenewstack.io/codex-async-developer-messaging/",
-        "source": "The New Stack",
-        "published": "2026-08-19T17:44:59.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your coding agent got the onboarding your developers never did",
-        "url": "https://thenewstack.io/coding-agents-developer-neglect/",
-        "source": "The New Stack",
-        "published": "2026-08-19T17:04:22.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "AI broke code review. What about knowledge sharing?",
-        "url": "https://thenewstack.io/ai-code-review-cognitive-debt/",
-        "source": "The New Stack",
-        "published": "2026-08-19T17:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
-        "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+        "title": "Say it once: introducing Bot Preference Sync",
+        "url": "https://blog.cloudflare.com/bot-preference-sync/",
         "source": "Cloudflare Blog",
-        "published": "2026-08-19T16:00:28.000Z",
+        "published": "2026-08-21T23:19:57.000Z",
         "topics": [
           "networking",
           "observability",
@@ -99,103 +47,169 @@
         ]
       },
       {
-        "title": "Serverless Apache Spark on Google Cloud: Architecture Choices & AI Troubleshooting",
-        "url": "https://cloud.google.com/blog/products/data-analytics/serverless-apache-spark-on-google-cloud-architecture-ai-troubleshooting/",
+        "title": "Spline rebuilt its entire 3D editor. Then it handed the keys to Claude Code.",
+        "url": "https://thenewstack.io/spline-v2-mcp-agents/",
+        "source": "The New Stack",
+        "published": "2026-08-21T19:58:33.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic brings Mythos 5 to its Claude Security vulnerability scanner",
+        "url": "https://thenewstack.io/anthropic-mythos-claude-security/",
+        "source": "The New Stack",
+        "published": "2026-08-21T19:11:38.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic’s new browser tool doesn’t actually run a browser",
+        "url": "https://thenewstack.io/anthropic-browser-use-tool/",
+        "source": "The New Stack",
+        "published": "2026-08-21T16:52:36.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
         "source": "Google Cloud Blog",
-        "published": "2026-08-19T16:00:00.000Z",
+        "published": "2026-08-21T16:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "How to modernize Apache Hive using Google Cloud’s Lakehouse runtime catalog",
-        "url": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-helps-modernize-apache-hive/",
+        "title": "Cloud CISO Perspectives: Sticking to security fundamentals in the AI era",
+        "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/",
         "source": "Google Cloud Blog",
-        "published": "2026-08-19T16:00:00.000Z",
+        "published": "2026-08-21T16:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "An open source rival to Claude Managed Agents just launched",
-        "url": "https://thenewstack.io/truefoundry-trueforge-claude-managed-agents/",
-        "source": "The New Stack",
-        "published": "2026-08-19T11:00:00.000Z",
+        "title": "How agents can delegate better",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-21T16:00:00.000Z",
         "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "IBM builds a better fridge for its quantum computers",
-        "url": "https://thenewstack.io/ibm-modular-quantum-refrigerator/",
-        "source": "The New Stack",
-        "published": "2026-08-19T10:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3",
-        "url": "https://thenewstack.io/glm-5-3-anthropic-distillation/",
-        "source": "The New Stack",
-        "published": "2026-08-19T08:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Replit expands access to software creation with GPT-5.6 Luna",
-        "url": "https://openai.com/index/replit",
-        "source": "OpenAI Blog",
-        "published": "2026-08-19T07:00:00.000Z",
-        "topics": [
-          "ai",
+          "networking",
           "development"
         ]
       },
       {
-        "title": "How CISA’s BOD 26-04 changes vulnerability prioritization",
-        "url": "https://www.datadoghq.com/blog/cisa-bod-26-04-vulnerability-prioritization/",
+        "title": "Forget the model wars, Stripe and Ramp just started the router wars",
+        "url": "https://thenewstack.io/stripe-ramp-openrouter-router/",
+        "source": "The New Stack",
+        "published": "2026-08-21T14:28:28.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia’s AVO, it hit 100%.",
+        "url": "https://thenewstack.io/nvidia-avo-arcagi3-benchmark/",
+        "source": "The New Stack",
+        "published": "2026-08-21T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Grok, Claude, and Hermes agents get job titles — and persistent permissions",
+        "url": "https://thenewstack.io/persistent-ai-agent-identities/",
+        "source": "The New Stack",
+        "published": "2026-08-21T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Most coding agent benchmarks skip large-scale refactoring. Not this one.",
+        "url": "https://thenewstack.io/ai-agents-refactoring-benchmarks/",
+        "source": "The New Stack",
+        "published": "2026-08-21T11:54:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Control trace volume with OpenTelemetry tail-based sampling",
+        "url": "https://www.datadoghq.com/blog/control-trace-volume-with-opentelemetry-tail-based-sampling/",
         "source": "Datadog Engineering",
-        "published": "2026-08-19T00:00:00.000Z",
+        "published": "2026-08-21T00:00:00.000Z",
         "topics": [
           "observability",
           "monitoring"
         ]
       },
       {
-        "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
-        "url": "https://www.datadoghq.com/blog/engineering/gitretriever/",
-        "source": "Datadog Engineering",
-        "published": "2026-08-19T00:00:00.000Z",
+        "title": "GitHub now sees 2.9 billion commits a month — and it can’t keep up",
+        "url": "https://thenewstack.io/github-2-9b-monthly-commits/",
+        "source": "The New Stack",
+        "published": "2026-08-20T21:37:37.000Z",
         "topics": [
+          "development",
           "observability",
-          "monitoring"
+          "networking"
         ]
       },
       {
-        "title": "ChatGPT Ads expands across Europe",
-        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-        "source": "OpenAI Blog",
-        "published": "2026-08-18T22:00:00.000Z",
+        "title": "Google’s AI coding agent just escaped its own IDE",
+        "url": "https://thenewstack.io/google-antigravity-ide-extensions/",
+        "source": "The New Stack",
+        "published": "2026-08-20T20:17:54.000Z",
         "topics": [
-          "ai",
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Debian just proposed banning AI code. Here’s why it matters for open source developers & maintainers.",
+        "url": "https://thenewstack.io/debian-ai-contribution-ban-debate/",
+        "source": "The New Stack",
+        "published": "2026-08-20T18:49:42.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The August 17 outage, and the work ahead",
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+        "source": "GitHub Blog",
+        "published": "2026-08-20T18:36:11.000Z",
+        "topics": [
           "development"
         ]
       },
       {
-        "title": "What happens to your indexed data when Mistral flips the switch?",
-        "url": "https://thenewstack.io/mistral-mcp-connector-migration/",
+        "title": "Slack makes it easier to install agents built with third-party tools",
+        "url": "https://thenewstack.io/add-to-slack-agents/",
         "source": "The New Stack",
-        "published": "2026-08-18T20:07:55.000Z",
+        "published": "2026-08-20T18:30:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -203,10 +217,10 @@
         ]
       },
       {
-        "title": "“If GitHub was stable, these alternatives would not be as interesting”: Cursor launches Origin as GitHub goes dark",
-        "url": "https://thenewstack.io/cursor-origin-github-alternative/",
+        "title": "Warp wants to make it easier to build your software factory",
+        "url": "https://thenewstack.io/warp-software-factory-infrastructure/",
         "source": "The New Stack",
-        "published": "2026-08-18T19:47:17.000Z",
+        "published": "2026-08-20T17:52:29.000Z",
         "topics": [
           "development",
           "observability",
@@ -214,20 +228,10 @@
         ]
       },
       {
-        "title": "Strengthening democratic oversight in national security",
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-        "source": "OpenAI Blog",
-        "published": "2026-08-18T19:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "A Claude Code skill was eating 200,000 tokens before answering a single question",
-        "url": "https://thenewstack.io/claude-code-token-reduction/",
+        "title": "How to build smarter OpenSearch alerts: Join our live conversation",
+        "url": "https://thenewstack.io/opensearch-ppl-unified-alerting/",
         "source": "The New Stack",
-        "published": "2026-08-18T17:42:50.000Z",
+        "published": "2026-08-20T17:40:44.000Z",
         "topics": [
           "development",
           "observability",
@@ -235,40 +239,73 @@
         ]
       },
       {
-        "title": "Agentic AI has a latency problem that more compute won’t solve",
-        "url": "https://thenewstack.io/agentic-ai-latency-infrastructure/",
-        "source": "The New Stack",
-        "published": "2026-08-18T16:58:18.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Governance on autopilot, minus the turbulence",
-        "url": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+        "title": "Expanding Google Antigravity for enterprise customers",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
         "source": "Google Cloud Blog",
-        "published": "2026-08-18T16:00:00.000Z",
+        "published": "2026-08-20T17:30:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "Building cost-effective, high-throughput gen AI workflows in Google Dataflow",
-        "url": "https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-18T16:00:00.000Z",
+        "title": "OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it",
+        "url": "https://thenewstack.io/stripe-acquires-openrouter-tokens/",
+        "source": "The New Stack",
+        "published": "2026-08-20T17:20:31.000Z",
         "topics": [
-          "networking",
-          "development"
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Researchers hid an attack inside AES encryption. The AI model cracked it open willingly.",
+        "url": "https://thenewstack.io/encrypted-prompt-injection-grok/",
+        "source": "The New Stack",
+        "published": "2026-08-20T17:15:21.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
         ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "From the Gridiron to the Server Room: Meet the 49ers’ Cisco Networking Academy Apprentice",
+        "url": "https://blogs.cisco.com/learning/from-the-gridiron-to-the-server-room-meet-the-49ers-cisco-networking-academy-apprentice",
+        "source": "Cisco Blogs",
+        "published": "2026-08-21T18:17:02.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Five Midsize CIO Blueprints Built for Lean IT Teams",
+        "url": "https://blogs.cisco.com/partner/five-cio-blueprints-for-growing-organizations",
+        "source": "Cisco Blogs",
+        "published": "2026-08-21T15:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Powering the Scale Engine for Cisco: How AI is Revolutionizing Digital Customer Experience",
+        "url": "https://blogs.cisco.com/ai/powering-the-scale-engine-for-cisco-how-ai-is-revolutionizing-digital-customer-experience",
+        "source": "Cisco Blogs",
+        "published": "2026-08-20T15:25:26.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Miercom validates Cisco 8000 Series Secure Routers for direct internet access",
+        "url": "https://blogs.cisco.com/networking/miercom-validates-cisco-8000-series-secure-routers-for-direct-internet-access",
+        "source": "Cisco Blogs",
+        "published": "2026-08-20T15:00:04.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "AI Workforce Consortium: Building a cybersecurity workforce ready for what’s next",
         "url": "https://blogs.cisco.com/our-corporate-purpose/ai-workforce-consortium-building-a-cybersecurity-workforce-ready-for-whats-next",
@@ -306,38 +343,6 @@
         "url": "https://blogs.cisco.com/datacenter/cisco-recognized-as-leader-in-the-2026-forrester-wave-data-center-network-solutions",
         "source": "Cisco Blogs",
         "published": "2026-08-19T17:13:09.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Trust and Talent: The Real AI Lessons from a Day at the McLaren Technology Centre",
-        "url": "https://blogs.cisco.com/news/trust-and-talent-the-real-ai-lessons-from-mclaren-technology-centre",
-        "source": "Cisco Blogs",
-        "published": "2026-08-19T15:00:26.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Meet “The Data Center Lens” video series: Clear answers for modernizing and scaling for AI",
-        "url": "https://blogs.cisco.com/datacenter/meet-the-data-center-lens-video-series-clear-answers-for-modernizing-and-scaling-for-ai",
-        "source": "Cisco Blogs",
-        "published": "2026-08-18T15:00:56.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "How Cisco and Auvik simplify network modernization for AI",
-        "url": "https://blogs.cisco.com/networking/how-cisco-and-auvik-simplify-network-modernization-for-ai",
-        "source": "Cisco Blogs",
-        "published": "2026-08-18T15:00:15.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cloud or On-Premises? New Report Shows Why AI Workload Placement Matters",
-        "url": "https://blogs.cisco.com/news/cloud-or-on-premises-new-report-shows-why-ai-workload-placement-matters",
-        "source": "Cisco Blogs",
-        "published": "2026-08-18T14:57:49.000Z",
         "topics": [],
         "type": "article"
       },
@@ -393,6 +398,13 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Coming Soon: A Modernized Line Chart Experience",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#coming-soon-a-modernized-line-chart-experience",
+        "source": "Release Notes",
+        "published": "2026-08-20T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Enhancements to Support Chat",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#enhancements-to-support-chat",
@@ -454,13 +466,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#enterprise-agent-update-required-for-upcoming-test-scheduling-feature",
         "source": "Release Notes",
         "published": "2026-08-05T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "ThousandEyes Support & Lifecycle Updates: August 2026",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#thousandeyes-support-lifecycle-updates-august-2026",
-        "source": "Release Notes",
-        "published": "2026-08-04T00:00:00.000Z",
         "type": "release"
       }
     ]
