@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-08-23T12:22:27.824Z",
+  "updatedAt": "2026-08-24T12:31:20.170Z",
   "industry": {
     "items": [
+      {
+        "title": "Why real-time AI at scale is so hard",
+        "url": "https://thenewstack.io/real-time-ai-scale/",
+        "source": "The New Stack",
+        "published": "2026-08-23T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "One pull to wipe them all",
+        "url": "https://thenewstack.io/ai-coding-agent-security/",
+        "source": "The New Stack",
+        "published": "2026-08-23T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "The open mainframe: the keystone of the end-to-end digital enterprise",
         "url": "https://thenewstack.io/open-mainframe-keystone-enterprise/",
@@ -110,6 +132,16 @@
         ]
       },
       {
+        "title": "How to scale Alloy as a central telemetry gateway: capacity planning, load testing, and production lessons",
+        "url": "https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-08-21T15:12:52.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
         "title": "Forget the model wars, Stripe and Ramp just started the router wars",
         "url": "https://thenewstack.io/stripe-ramp-openrouter-router/",
         "source": "The New Stack",
@@ -121,8 +153,8 @@
         ]
       },
       {
-        "title": "Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia’s AVO, it hit 100%.",
-        "url": "https://thenewstack.io/nvidia-avo-arcagi3-benchmark/",
+        "title": "Grok, Claude, and Hermes agents get job titles — and persistent permissions",
+        "url": "https://thenewstack.io/persistent-ai-agent-identities/",
         "source": "The New Stack",
         "published": "2026-08-21T13:00:00.000Z",
         "topics": [
@@ -132,8 +164,8 @@
         ]
       },
       {
-        "title": "Grok, Claude, and Hermes agents get job titles — and persistent permissions",
-        "url": "https://thenewstack.io/persistent-ai-agent-identities/",
+        "title": "Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia’s AVO, it hit 100%.",
+        "url": "https://thenewstack.io/nvidia-avo-arcagi3-benchmark/",
         "source": "The New Stack",
         "published": "2026-08-21T13:00:00.000Z",
         "topics": [
@@ -232,38 +264,6 @@
         "url": "https://thenewstack.io/opensearch-ppl-unified-alerting/",
         "source": "The New Stack",
         "published": "2026-08-20T17:40:44.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Expanding Google Antigravity for enterprise customers",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-20T17:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it",
-        "url": "https://thenewstack.io/stripe-acquires-openrouter-tokens/",
-        "source": "The New Stack",
-        "published": "2026-08-20T17:20:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Researchers hid an attack inside AES encryption. The AI model cracked it open willingly.",
-        "url": "https://thenewstack.io/encrypted-prompt-injection-grok/",
-        "source": "The New Stack",
-        "published": "2026-08-20T17:15:21.000Z",
         "topics": [
           "development",
           "observability",
