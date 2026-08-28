@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-08-27T21:29:48.166Z",
+  "updatedAt": "2026-08-28T21:36:59.177Z",
   "industry": {
     "items": [
+      {
+        "title": "JetBrains told everyone to patch. It didn’t patch itself.",
+        "url": "https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself/",
+        "source": "The New Stack",
+        "published": "2026-08-28T20:51:48.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant.",
+        "url": "https://thenewstack.io/bionic-shell-command-safety/",
+        "source": "The New Stack",
+        "published": "2026-08-28T18:31:38.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4”",
+        "url": "https://thenewstack.io/qwen38-flash-previews-qwen4/",
+        "source": "The New Stack",
+        "published": "2026-08-28T18:27:06.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers",
+        "url": "https://thenewstack.io/zai-glm-weights-license/",
+        "source": "The New Stack",
+        "published": "2026-08-28T17:42:54.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-28T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Nvidia is paying $12.9 billion to keep open models on its chips",
+        "url": "https://thenewstack.io/nvidia-open-models-chips/",
+        "source": "The New Stack",
+        "published": "2026-08-28T15:43:25.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+        "url": "https://blog.cloudflare.com/botbase-for-operators/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-28T12:59:44.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Supporting Thailand’s next generation of AI startups",
+        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+        "source": "OpenAI Blog",
+        "published": "2026-08-28T02:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Reduce sensitive data exposure with build-time allowlists",
+        "url": "https://www.datadoghq.com/blog/rum-build-time-privacy-allowlist/",
+        "source": "Datadog Engineering",
+        "published": "2026-08-28T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
       {
         "title": "Google found a way to test Gemini without seeing the questions",
         "url": "https://thenewstack.io/google-double-blind-evaluation/",
@@ -120,6 +216,16 @@
         ]
       },
       {
+        "title": "How to measure and improve instrumentation quality for better full-stack observability",
+        "url": "https://grafana.com/blog/how-to-measure-and-improve-instrumentation-quality-for-better-full-stack-observability/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-08-27T13:03:49.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
         "title": "Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money.",
         "url": "https://thenewstack.io/anthropic-files-api-costs/",
         "source": "The New Stack",
@@ -159,118 +265,27 @@
           "observability",
           "monitoring"
         ]
-      },
-      {
-        "title": "What we learned about AI agent security by monitoring our agents",
-        "url": "https://www.datadoghq.com/blog/ai-agent-security-lessons/",
-        "source": "Datadog Engineering",
-        "published": "2026-08-27T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Anthropic’s Claude now has a browser of its own",
-        "url": "https://thenewstack.io/claude-built-in-browser-cowork/",
-        "source": "The New Stack",
-        "published": "2026-08-26T22:05:58.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "X sent Nitter a cease-and-desist. Then it went after the source code.",
-        "url": "https://thenewstack.io/x-nitter-open-source-takedown/",
-        "source": "The New Stack",
-        "published": "2026-08-26T21:04:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI’s Astra can do a researcher’s week of work. That’s the problem.",
-        "url": "https://thenewstack.io/openai-astra-persistent-agents/",
-        "source": "The New Stack",
-        "published": "2026-08-26T20:24:20.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
-        "source": "GitHub Blog",
-        "published": "2026-08-26T20:12:53.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Observability has a data problem. AI is about to make it worse.",
-        "url": "https://thenewstack.io/opentelemetry-observability-telemetry-storage/",
-        "source": "The New Stack",
-        "published": "2026-08-26T20:08:10.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Claude Desktop can now easily run Qwen, DeepSeek and Kimi models — after Ollama’s first effort stalled",
-        "url": "https://thenewstack.io/ollama-claude-desktop-integration/",
-        "source": "The New Stack",
-        "published": "2026-08-26T16:59:39.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
-        "url": "https://thenewstack.io/google-thomson-specialized-ai/",
-        "source": "The New Stack",
-        "published": "2026-08-26T16:33:23.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Z.ai’s GLM-5.3-Flash is cheap, good, and served on Chinese chips",
-        "url": "https://thenewstack.io/glm-5-3-flash-chinese-chips/",
-        "source": "The New Stack",
-        "published": "2026-08-26T16:26:03.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Perplexity just separated reasoning from authority. Here’s why it matters for enterprises.",
-        "url": "https://thenewstack.io/perplexity-agent-harness-security/",
-        "source": "The New Stack",
-        "published": "2026-08-26T16:18:18.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "From Isolated Agents to Collective Intelligence: Why A2A Is the Protocol the Agentic SOC Has Been Waiting For",
+        "url": "https://blogs.cisco.com/security/a2a-mcp-open-protocol-stack-multi-agent-soc",
+        "source": "Cisco Blogs",
+        "published": "2026-08-28T15:00:11.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "The Patch Window Just Closed. Here’s What Comes Next.",
+        "url": "https://blogs.cisco.com/partner/the-patch-window-just-closed-heres-what-comes-next",
+        "source": "Cisco Blogs",
+        "published": "2026-08-28T12:55:06.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "New Cisco Secure AI Factory with NVIDIA: Built for Rack-Scale Era",
         "url": "https://blogs.cisco.com/news/new-cisco-secure-ai-factory-with-nvidia-built-for-rack-scale-era",
@@ -324,22 +339,6 @@
         "url": "https://blogs.cisco.com/security/cisco-named-a-leader-in-the-forrester-wave-microsegmentation-solutions",
         "source": "Cisco Blogs",
         "published": "2026-08-26T15:00:54.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco IQ: Engineering Sovereignty in the AI Era",
-        "url": "https://blogs.cisco.com/customerexperience/cisco-iq-engineering-sovereignty-in-the-ai-era",
-        "source": "Cisco Blogs",
-        "published": "2026-08-26T15:00:44.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Pakistan Instructors & Partners Summit 2026: How Khyber Pakhtunkhwa is Building Digital Skills at Scale",
-        "url": "https://blogs.cisco.com/learning/pakistan-instructors-partners-summit-2026-how-khyber-pakhtunkhwa-is-building-digital-skills-at-scale",
-        "source": "Cisco Blogs",
-        "published": "2026-08-25T21:35:34.000Z",
         "topics": [],
         "type": "article"
       },
