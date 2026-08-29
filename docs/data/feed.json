@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-08-28T21:36:59.177Z",
+  "updatedAt": "2026-08-29T15:58:49.501Z",
   "industry": {
     "items": [
+      {
+        "title": "Your container runs. Everything around it shouldn’t be your problem.",
+        "url": "https://thenewstack.io/amazon-ecs-express-mode/",
+        "source": "The New Stack",
+        "published": "2026-08-29T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Commits on GitHub have doubled in four months. Verification capacity has not.",
+        "url": "https://thenewstack.io/scaling-ai-code-verification/",
+        "source": "The New Stack",
+        "published": "2026-08-29T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The 3 roles AI agents play in your developer platform",
+        "url": "https://thenewstack.io/ai-agent-platform-roles/",
+        "source": "The New Stack",
+        "published": "2026-08-29T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "JetBrains told everyone to patch. It didn’t patch itself.",
         "url": "https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself/",
@@ -76,6 +109,16 @@
           "networking",
           "observability",
           "monitoring"
+        ]
+      },
+      {
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "OpenAI Blog",
+        "published": "2026-08-28T06:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
         ]
       },
       {
@@ -220,47 +263,6 @@
         "url": "https://grafana.com/blog/how-to-measure-and-improve-instrumentation-quality-for-better-full-stack-observability/",
         "source": "Grafana Labs Blog",
         "published": "2026-08-27T13:03:49.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money.",
-        "url": "https://thenewstack.io/anthropic-files-api-costs/",
-        "source": "The New Stack",
-        "published": "2026-08-27T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-        "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-        "source": "OpenAI Blog",
-        "published": "2026-08-27T09:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Expanding OpenAI’s presence in Brazil",
-        "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-        "source": "OpenAI Blog",
-        "published": "2026-08-27T03:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Debug live production code without redeploying with Datadog Live Debugger",
-        "url": "https://www.datadoghq.com/blog/live-debugger/",
-        "source": "Datadog Engineering",
-        "published": "2026-08-27T00:00:00.000Z",
         "topics": [
           "observability",
           "monitoring"
