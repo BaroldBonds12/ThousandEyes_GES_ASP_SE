@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-29T15:58:49.501Z",
+  "updatedAt": "2026-08-30T15:47:02.246Z",
   "industry": {
     "items": [
+      {
+        "title": "Your AI agent is only as good as the harness around it",
+        "url": "https://thenewstack.io/building-ai-agent-harness/",
+        "source": "The New Stack",
+        "published": "2026-08-30T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Your container runs. Everything around it shouldn’t be your problem.",
         "url": "https://thenewstack.io/amazon-ecs-express-mode/",
@@ -256,16 +267,6 @@
           "development",
           "observability",
           "networking"
-        ]
-      },
-      {
-        "title": "How to measure and improve instrumentation quality for better full-stack observability",
-        "url": "https://grafana.com/blog/how-to-measure-and-improve-instrumentation-quality-for-better-full-stack-observability/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-08-27T13:03:49.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
         ]
       }
     ]
