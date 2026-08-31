@@ -1,7 +1,156 @@
 {
-  "updatedAt": "2026-08-30T15:47:02.246Z",
+  "updatedAt": "2026-08-31T18:31:14.224Z",
   "industry": {
     "items": [
+      {
+        "title": "Shai-Hulud: Whoever controls your package registry controls your pipeline",
+        "url": "https://thenewstack.io/shai-hulud-pipeline-security/",
+        "source": "The New Stack",
+        "published": "2026-08-31T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
+        "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-31T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "From weeks to minutes: The new agentic era of data pipelines",
+        "url": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-31T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new in AI infrastructure and orchestration in August",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+        "source": "Google Cloud Blog",
+        "published": "2026-08-31T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Cut coding agent token use with better tool output",
+        "url": "https://thenewstack.io/cut-coding-agent-tokens/",
+        "source": "The New Stack",
+        "published": "2026-08-31T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic’s Claude fixed all 10 alignment failures. Then it tried to cheat 2.4% of the time.",
+        "url": "https://thenewstack.io/claude-automated-alignment-research/",
+        "source": "The New Stack",
+        "published": "2026-08-31T13:09:17.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your agent context needs a development lifecycle",
+        "url": "https://thenewstack.io/agent-context-development-lifecycle/",
+        "source": "The New Stack",
+        "published": "2026-08-31T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
+        "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+        "source": "Cloudflare Blog",
+        "published": "2026-08-31T12:59:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed",
+        "url": "https://thenewstack.io/deepseek-gemini-vision-comparison/",
+        "source": "The New Stack",
+        "published": "2026-08-31T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Tide launched Raziel for AI security. It assumes hackers are inside.",
+        "url": "https://thenewstack.io/tide-raziel-emergent-authority/",
+        "source": "The New Stack",
+        "published": "2026-08-31T10:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "A milestone in expanding access to AI",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+        "source": "OpenAI Blog",
+        "published": "2026-08-31T04:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Troubleshoot and secure your code faster with Datadog’s Bitbucket Cloud Source Code integration",
+        "url": "https://www.datadoghq.com/blog/bitbucket-cloud-source-code-integration/",
+        "source": "Datadog Engineering",
+        "published": "2026-08-31T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "OpenAI leaving Cursor: “Developers have to be prepared to adapt when it happens.”",
+        "url": "https://thenewstack.io/openai-cuts-cursor-spacex/",
+        "source": "The New Stack",
+        "published": "2026-08-30T17:03:49.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI agents are making retrieval engineering a core engineering discipline",
+        "url": "https://thenewstack.io/ai-agents-retrieval-engineering/",
+        "source": "The New Stack",
+        "published": "2026-08-30T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Your AI agent is only as good as the harness around it",
         "url": "https://thenewstack.io/building-ai-agent-harness/",
@@ -121,158 +270,27 @@
           "observability",
           "monitoring"
         ]
-      },
-      {
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "source": "OpenAI Blog",
-        "published": "2026-08-28T06:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Supporting Thailand’s next generation of AI startups",
-        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-        "source": "OpenAI Blog",
-        "published": "2026-08-28T02:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Reduce sensitive data exposure with build-time allowlists",
-        "url": "https://www.datadoghq.com/blog/rum-build-time-privacy-allowlist/",
-        "source": "Datadog Engineering",
-        "published": "2026-08-28T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Google found a way to test Gemini without seeing the questions",
-        "url": "https://thenewstack.io/google-double-blind-evaluation/",
-        "source": "The New Stack",
-        "published": "2026-08-27T20:49:52.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Aider, Claude Code, and OpenClaw ran an identical model. Token use varied 70-fold.",
-        "url": "https://thenewstack.io/agent-harness-token-costs/",
-        "source": "The New Stack",
-        "published": "2026-08-27T17:54:40.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
-        "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-27T17:02:35.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "This duck will teach you reinforcement learning — and pick up your socks",
-        "url": "https://thenewstack.io/hugging-face-microduck-robot/",
-        "source": "The New Stack",
-        "published": "2026-08-27T16:20:38.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-        "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
-        "source": "GitHub Blog",
-        "published": "2026-08-27T16:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Replit’s new default: Auto mode picks the best model for each task",
-        "url": "https://thenewstack.io/replit-model-routing-default/",
-        "source": "The New Stack",
-        "published": "2026-08-27T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Reimagining work: How Pythian’s internal AI playbook delivers customer ROI",
-        "url": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-27T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Deploy personal AI agents with Cloud Run instances",
-        "url": "https://cloud.google.com/blog/products/serverless/introducing-cloud-run-instances/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-27T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Nvidia’s $12.9B Hugging Face deal has an open-source problem",
-        "url": "https://thenewstack.io/nvidia-hugging-face-acquisition-neutrality/",
-        "source": "The New Stack",
-        "published": "2026-08-27T15:35:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Posterity will find it ludicrous”: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work",
-        "url": "https://thenewstack.io/sai-agent-osworld-benchmark/",
-        "source": "The New Stack",
-        "published": "2026-08-27T15:34:11.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Why basic RAG fails at multi-hop reasoning (and how GraphRAG fixes it)",
-        "url": "https://thenewstack.io/graphrag-multi-hop-reasoning-python/",
-        "source": "The New Stack",
-        "published": "2026-08-27T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "The AI ready home: how Cisco helps broadband providers deliver next generation experience",
+        "url": "https://blogs.cisco.com/sp/the-ai-ready-home-how-cisco-helps-broadband-providers-deliver-next-generation-experience",
+        "source": "Cisco Blogs",
+        "published": "2026-08-31T15:00:02.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "AMD, Cisco and HUMAIN Expand Saudi Arabia’s AI Infrastructure as AMD Instinct Systems Go Live",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/amd-cisco-and-humain-expand-saudi-arabia-ai-infrastructure.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-08-31T11:15:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "From Isolated Agents to Collective Intelligence: Why A2A Is the Protocol the Agentic SOC Has Been Waiting For",
         "url": "https://blogs.cisco.com/security/a2a-mcp-open-protocol-stack-multi-agent-soc",
@@ -338,14 +356,6 @@
         "type": "article"
       },
       {
-        "title": "Microsegmentation’s Moment Is Now:  Cisco Named a Leader in The Forrester Wave™: Microsegmentation Solutions",
-        "url": "https://blogs.cisco.com/security/cisco-named-a-leader-in-the-forrester-wave-microsegmentation-solutions",
-        "source": "Cisco Blogs",
-        "published": "2026-08-26T15:00:54.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco Launches Sovereign Critical Infrastructure in Canada – Government and Organizations Gain More Choice and Control",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-launches-sovereign-critical-infrastructure-in-canada-government-and-organizations-gain-more-choice-and-control.html?source=rss",
         "source": "Cisco Press Releases",
@@ -382,14 +392,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-schedules-conference-call-for-q4-fiscal-year-2026-financial-results.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-08-10T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Building for the AI Surge",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/building-for-the-ai-surge.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-08-05T12:00:00.000Z",
         "topics": [],
         "type": "article"
       }
