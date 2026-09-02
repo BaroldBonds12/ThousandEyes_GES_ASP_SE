@@ -1,7 +1,135 @@
 {
-  "updatedAt": "2026-09-01T15:49:32.138Z",
+  "updatedAt": "2026-09-02T15:42:38.730Z",
   "industry": {
     "items": [
+      {
+        "title": "Vercel built a feedback loop that treats agent instructions like software",
+        "url": "https://thenewstack.io/vercel-agent-design-guidance/",
+        "source": "The New Stack",
+        "published": "2026-09-02T15:29:58.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your organization prioritized AI adoption, but you actually need AI fluency.",
+        "url": "https://thenewstack.io/ai-fluency-operating-model/",
+        "source": "The New Stack",
+        "published": "2026-09-02T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore",
+        "url": "https://thenewstack.io/fable-5-1-watermark/",
+        "source": "The New Stack",
+        "published": "2026-09-01T20:59:09.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Runway wants to generate software as you use it. Solaris is its first step.",
+        "url": "https://thenewstack.io/runway-solaris-generated-interfaces/",
+        "source": "The New Stack",
+        "published": "2026-09-01T19:44:41.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic’s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less",
+        "url": "https://thenewstack.io/anthropic-fable-5-1-launch/",
+        "source": "The New Stack",
+        "published": "2026-09-01T19:38:32.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your Mac is now part of Perplexity’s AI infrastructure",
+        "url": "https://thenewstack.io/perplexity-hybrid-compute-mac/",
+        "source": "The New Stack",
+        "published": "2026-09-01T19:21:51.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "GLM-5.3-Flash vs. GLM-5.3: Time and money, not the spec sheet",
+        "url": "https://thenewstack.io/glm-flash-flagship-benchmark/",
+        "source": "The New Stack",
+        "published": "2026-09-01T18:51:56.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Meta just beat OpenAI and Google at real-time transcription",
+        "url": "https://thenewstack.io/meta-muse-voice-transcribe/",
+        "source": "The New Stack",
+        "published": "2026-09-01T17:06:57.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How AI-native companies turn workflows into operating capability",
+        "url": "https://openai.com/index/ai-native-company-workflows",
+        "source": "OpenAI Blog",
+        "published": "2026-09-01T17:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "What Google Cloud announced in AI this month",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-01T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How Blackline simplifies perimeter policy intelligence with VPC Service Controls",
+        "url": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-01T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
+        "url": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-01T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
       {
         "title": "Vibe-coded apps are the new shadow IT",
         "url": "https://thenewstack.io/vibe-coded-shadow-it/",
@@ -46,6 +174,16 @@
         ]
       },
       {
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
+        "url": "https://openai.com/index/path-to-astra",
+        "source": "OpenAI Blog",
+        "published": "2026-09-01T13:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
         "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
         "url": "https://blog.cloudflare.com/cache-transcoding/",
         "source": "Cloudflare Blog",
@@ -57,8 +195,48 @@
         ]
       },
       {
+        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+        "source": "OpenAI Blog",
+        "published": "2026-09-01T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+        "url": "https://openai.com/index/gilbert-tobin",
+        "source": "OpenAI Blog",
+        "published": "2026-09-01T01:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
         "title": "Making Rust observability reliable at scale with OpenTelemetry",
         "url": "https://www.datadoghq.com/blog/engineering/rust-tracing-opentelemetry/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-01T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "From traces to experiments: A loop for improving AI agents",
+        "url": "https://www.datadoghq.com/blog/from-traces-to-experiments-a-loop-for-improving-ai-agents/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-01T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Visualize how CUPED adjusts experiment results with Datadog",
+        "url": "https://www.datadoghq.com/blog/cuped-adjustments-visualization/",
         "source": "Datadog Engineering",
         "published": "2026-09-01T00:00:00.000Z",
         "topics": [
@@ -86,213 +264,40 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "MCP was supposed to solve the agent tooling problem. It missed a step.",
-        "url": "https://thenewstack.io/ard-agent-discovery-specification/",
-        "source": "The New Stack",
-        "published": "2026-08-31T20:04:20.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Google’s new forecasting model beats everyone. You can’t use it at work (yet).",
-        "url": "https://thenewstack.io/google-timesfm-3-multivariate-forecasting/",
-        "source": "The New Stack",
-        "published": "2026-08-31T19:41:54.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "SpaceX designed an orbital Vera Rubin. Radiation comes next.",
-        "url": "https://thenewstack.io/spacex-nvidia-orbital-ai/",
-        "source": "The New Stack",
-        "published": "2026-08-31T18:55:35.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI wants to charge only when AI gets it right — here’s the catch",
-        "url": "https://thenewstack.io/openai-outcome-based-pricing/",
-        "source": "The New Stack",
-        "published": "2026-08-31T18:47:25.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Shai-Hulud: Whoever controls your package registry controls your pipeline",
-        "url": "https://thenewstack.io/shai-hulud-pipeline-security/",
-        "source": "The New Stack",
-        "published": "2026-08-31T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
-        "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-31T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "From weeks to minutes: The new agentic era of data pipelines",
-        "url": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-31T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "What’s new in AI infrastructure and orchestration in August",
-        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-31T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Cut coding agent token use with better tool output",
-        "url": "https://thenewstack.io/cut-coding-agent-tokens/",
-        "source": "The New Stack",
-        "published": "2026-08-31T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Anthropic’s Claude fixed all 10 alignment failures. Then it tried to cheat 2.4% of the time.",
-        "url": "https://thenewstack.io/claude-automated-alignment-research/",
-        "source": "The New Stack",
-        "published": "2026-08-31T13:09:17.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your agent context needs a development lifecycle",
-        "url": "https://thenewstack.io/agent-context-development-lifecycle/",
-        "source": "The New Stack",
-        "published": "2026-08-31T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
-        "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
-        "source": "Cloudflare Blog",
-        "published": "2026-08-31T12:59:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed",
-        "url": "https://thenewstack.io/deepseek-gemini-vision-comparison/",
-        "source": "The New Stack",
-        "published": "2026-08-31T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Tide launched Raziel for AI security. It assumes hackers are inside.",
-        "url": "https://thenewstack.io/tide-raziel-emergent-authority/",
-        "source": "The New Stack",
-        "published": "2026-08-31T10:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI supports California’s bill to advance youth AI safety",
-        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-        "source": "OpenAI Blog",
-        "published": "2026-08-31T07:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Polimill builds Japan's next-generation public AI infrastructure",
-        "url": "https://openai.com/index/polimill",
-        "source": "OpenAI Blog",
-        "published": "2026-08-31T07:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "A milestone in expanding access to AI",
-        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-        "source": "OpenAI Blog",
-        "published": "2026-08-31T04:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
       {
+        "title": "Why Fixing Europe’s Legacy Tech Problem is a Real AI Cyber Security Test",
+        "url": "https://blogs.cisco.com/gov/fixing-europe-legacy-tech-ai-cybersecurity-test",
+        "source": "Cisco Blogs",
+        "published": "2026-09-02T09:34:03.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Post-Quantum Key Exchange on Cisco Routers – IPsec Series, Part 9",
+        "url": "https://blogs.cisco.com/developer/post-quantum-key-exchange-on-cisco-routers-ipsec-series-part-9",
+        "source": "Cisco Blogs",
+        "published": "2026-09-01T20:49:30.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "From Release Days to Continuous Promotion: Building the Foundation for Agentic Promotions",
+        "url": "https://blogs.cisco.com/innovation/from-release-days-to-continuous-promotion-building-the-foundation-for-agentic-promotions",
+        "source": "Cisco Blogs",
+        "published": "2026-09-01T16:00:40.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
         "title": "Just Click Submit: How This Cisco Intern Found Success Through AI",
         "url": "https://blogs.cisco.com/wearecisco/just-click-submit-how-this-cisco-intern-found-success-through-ai",
         "source": "Cisco Blogs",
         "published": "2026-09-01T12:00:09.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Why Fixing Europe’s Legacy Tech Problem is a Real AI Cyber Security Test",
-        "url": "https://blogs.cisco.com/gov/fixing-europe-legacy-tech-ai-cybersecurity-test",
-        "source": "Cisco Blogs",
-        "published": "2026-09-01T09:34:03.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Test new page",
-        "url": "https://blogs.cisco.com/insidervoices/test-new-page",
-        "source": "Cisco Blogs",
-        "published": "2026-09-01T06:18:15.000Z",
         "topics": [],
         "type": "article"
       },
@@ -353,14 +358,6 @@
         "type": "article"
       },
       {
-        "title": "More Than Rack-Scale Compute: Operationalizing AI at Scale",
-        "url": "https://blogs.cisco.com/news/more-than-rack-scale-compute-operationalizing-ai-at-scale",
-        "source": "Cisco Blogs",
-        "published": "2026-08-27T15:30:34.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco Launches Sovereign Critical Infrastructure in Canada – Government and Organizations Gain More Choice and Control",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-launches-sovereign-critical-infrastructure-in-canada-government-and-organizations-gain-more-choice-and-control.html?source=rss",
         "source": "Cisco Press Releases",
@@ -396,6 +393,27 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Alerting for Cloud Insights Traffic Events",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#alerting-for-cloud-insights-traffic-events",
+        "source": "Release Notes",
+        "published": "2026-09-02T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "ThousandEyes Support & Lifecycle Updates: September 2026",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#thousandeyes-support-lifecycle-updates-september-2026",
+        "source": "Release Notes",
+        "published": "2026-09-01T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Cloud Agent Name Update",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#cloud-agent-name-update",
+        "source": "Release Notes",
+        "published": "2026-09-01T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "API Tests on Cloud and Enterprise Agents",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#api-tests-on-cloud-and-enterprise-agents",
@@ -443,27 +461,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#enhancements-to-support-chat",
         "source": "Release Notes",
         "published": "2026-08-19T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Browser Synthetics Screenshot Return Format Changing to JPEG",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#browser-synthetics-screenshot-return-format-changing-to-jpeg",
-        "source": "Release Notes",
-        "published": "2026-08-17T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "New Cloud Agents",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#new-cloud-agents",
-        "source": "Release Notes",
-        "published": "2026-08-17T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Chromium Upgrade for Cloud and Enterprise Agents Scheduled for August 19",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#chromium-upgrade-for-cloud-and-enterprise-agents-scheduled-for-august-19",
-        "source": "Release Notes",
-        "published": "2026-08-13T00:00:00.000Z",
         "type": "release"
       }
     ]
