@@ -1,7 +1,99 @@
 {
-  "updatedAt": "2026-09-02T15:42:38.730Z",
+  "updatedAt": "2026-09-03T15:32:36.600Z",
   "industry": {
     "items": [
+      {
+        "title": "Build and run Datadog workflows from Bits Chat or AI agents",
+        "url": "https://www.datadoghq.com/blog/build-datadog-workflows-ai-agents/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-03T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+        "source": "GitHub Blog",
+        "published": "2026-09-02T21:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story.",
+        "url": "https://thenewstack.io/quasar-438b-agent-compression/",
+        "source": "The New Stack",
+        "published": "2026-09-02T20:14:53.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your next OpenAI API timeout might not be a timeout at all",
+        "url": "https://thenewstack.io/astra-api-safety-stops/",
+        "source": "The New Stack",
+        "published": "2026-09-02T20:13:54.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic’s Claude failures have made agent observability a security priority",
+        "url": "https://thenewstack.io/anthropic-claude-agent-security/",
+        "source": "The New Stack",
+        "published": "2026-09-02T20:12:50.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How we make AI coding more cost efficient without sacrificing task quality",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+        "source": "GitHub Blog",
+        "published": "2026-09-02T18:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Google ships its third Gemini Flash model in six weeks",
+        "url": "https://thenewstack.io/google-ships-its-third-gemini-flash-model-in-six-weeks/",
+        "source": "The New Stack",
+        "published": "2026-09-02T16:56:52.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
+        "url": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-02T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Simplify pipelines with new BigQuery identity columns",
+        "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-02T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
       {
         "title": "Vercel built a feedback loop that treats agent instructions like software",
         "url": "https://thenewstack.io/vercel-agent-design-guidance/",
@@ -22,6 +114,26 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "url": "https://openai.com/index/atv-big-air-tour",
+        "source": "OpenAI Blog",
+        "published": "2026-09-02T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Monitor prompt caching to optimize your token usage",
+        "url": "https://www.datadoghq.com/blog/monitor-prompt-caching-optimize-token-usage/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-02T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -111,8 +223,8 @@
         ]
       },
       {
-        "title": "How Blackline simplifies perimeter policy intelligence with VPC Service Controls",
-        "url": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
+        "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
+        "url": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
         "source": "Google Cloud Blog",
         "published": "2026-09-01T16:00:00.000Z",
         "topics": [
@@ -121,8 +233,8 @@
         ]
       },
       {
-        "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
-        "url": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
+        "title": "How BlackLine simplifies perimeter policy intelligence with VPC Service Controls",
+        "url": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
         "source": "Google Cloud Blog",
         "published": "2026-09-01T16:00:00.000Z",
         "topics": [
@@ -151,124 +263,35 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "When agents build, deploy, and maintain, persistence becomes the hard problem",
-        "url": "https://thenewstack.io/agent-scale-database-persistence/",
-        "source": "The New Stack",
-        "published": "2026-09-01T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-01T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Path to Astra: critical capabilities and frontier safeguards",
-        "url": "https://openai.com/index/path-to-astra",
-        "source": "OpenAI Blog",
-        "published": "2026-09-01T13:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
-        "url": "https://blog.cloudflare.com/cache-transcoding/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-01T12:59:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-        "source": "OpenAI Blog",
-        "published": "2026-09-01T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-        "url": "https://openai.com/index/gilbert-tobin",
-        "source": "OpenAI Blog",
-        "published": "2026-09-01T01:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Making Rust observability reliable at scale with OpenTelemetry",
-        "url": "https://www.datadoghq.com/blog/engineering/rust-tracing-opentelemetry/",
-        "source": "Datadog Engineering",
-        "published": "2026-09-01T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "From traces to experiments: A loop for improving AI agents",
-        "url": "https://www.datadoghq.com/blog/from-traces-to-experiments-a-loop-for-improving-ai-agents/",
-        "source": "Datadog Engineering",
-        "published": "2026-09-01T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Visualize how CUPED adjusts experiment results with Datadog",
-        "url": "https://www.datadoghq.com/blog/cuped-adjustments-visualization/",
-        "source": "Datadog Engineering",
-        "published": "2026-09-01T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
-        "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
-        "source": "Google Cloud Blog",
-        "published": "2026-08-31T23:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "SpaceX is in an “enviable position”: why Anthropic is sticking with Cursor as OpenAI cuts access",
-        "url": "https://thenewstack.io/anthropic-spacex-cursor-compute-openai/",
-        "source": "The New Stack",
-        "published": "2026-08-31T21:47:04.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Crypto Agility: Why PQC Is Not a One-Time Upgrade",
+        "url": "https://blogs.cisco.com/security/crypto-agility-why-pqc-is-not-a-one-time-upgrade",
+        "source": "Cisco Blogs",
+        "published": "2026-09-03T15:00:56.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "The Backbone of Modern AI Data Centers: Networking the Gray Space",
+        "url": "https://blogs.cisco.com/industrial-iot/the-backbone-of-modern-ai-data-centers-networking-the-gray-space",
+        "source": "Cisco Blogs",
+        "published": "2026-09-03T13:19:25.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "From fabric to cloud native: Cisco Nexus One for the modern private cloud",
+        "url": "https://blogs.cisco.com/datacenter/from-fabric-to-cloud-native-cisco-nexus-one-for-the-modern-private-cloud",
+        "source": "Cisco Blogs",
+        "published": "2026-09-02T16:18:28.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Why Fixing Europe’s Legacy Tech Problem is a Real AI Cyber Security Test",
         "url": "https://blogs.cisco.com/gov/fixing-europe-legacy-tech-ai-cybersecurity-test",
@@ -334,30 +357,6 @@
         "type": "article"
       },
       {
-        "title": "From Isolated Agents to Collective Intelligence: Why A2A Is the Protocol the Agentic SOC Has Been Waiting For",
-        "url": "https://blogs.cisco.com/security/a2a-mcp-open-protocol-stack-multi-agent-soc",
-        "source": "Cisco Blogs",
-        "published": "2026-08-28T15:00:11.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Patch Window Just Closed. Here’s What Comes Next.",
-        "url": "https://blogs.cisco.com/partner/the-patch-window-just-closed-heres-what-comes-next",
-        "source": "Cisco Blogs",
-        "published": "2026-08-28T12:55:06.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "New Cisco Secure AI Factory with NVIDIA: Built for Rack-Scale Era",
-        "url": "https://blogs.cisco.com/news/new-cisco-secure-ai-factory-with-nvidia-built-for-rack-scale-era",
-        "source": "Cisco Blogs",
-        "published": "2026-08-27T15:31:51.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco Launches Sovereign Critical Infrastructure in Canada – Government and Organizations Gain More Choice and Control",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-launches-sovereign-critical-infrastructure-in-canada-government-and-organizations-gain-more-choice-and-control.html?source=rss",
         "source": "Cisco Press Releases",
@@ -394,8 +393,36 @@
   "thousandeyes": {
     "items": [
       {
+        "title": "Mobile Endpoint Agent Android Version 1.8.1",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#mobile-endpoint-agent-android-version-1-8-1",
+        "source": "Release Notes",
+        "published": "2026-09-03T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Advance Notice: End of Support for NTLM Authentication",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#advance-notice-end-of-support-for-ntlm-authentication",
+        "source": "Release Notes",
+        "published": "2026-09-02T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Enhanced Support Chat Now Live",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#enhanced-support-chat-now-live",
+        "source": "Release Notes",
+        "published": "2026-09-02T00:00:00.000Z",
+        "type": "release"
+      },
+      {
         "title": "Alerting for Cloud Insights Traffic Events",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#alerting-for-cloud-insights-traffic-events",
+        "source": "Release Notes",
+        "published": "2026-09-02T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Endpoint Agent Client Version 2.57.0",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-client-version-2-57-0",
         "source": "Release Notes",
         "published": "2026-09-02T00:00:00.000Z",
         "type": "release"
@@ -418,7 +445,7 @@
         "title": "API Tests on Cloud and Enterprise Agents",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#api-tests-on-cloud-and-enterprise-agents",
         "source": "Release Notes",
-        "published": "2026-08-27T00:00:00.000Z",
+        "published": "2026-09-01T00:00:00.000Z",
         "type": "release"
       },
       {
@@ -433,34 +460,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#cisco-cloud-control-integration-for-thousandeyes-general-availability",
         "source": "Release Notes",
         "published": "2026-08-25T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Updated ThousandEyes Design",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#updated-thousandeyes-design",
-        "source": "Release Notes",
-        "published": "2026-08-25T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Updated Agent Settings Page",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#updated-agent-settings-page",
-        "source": "Release Notes",
-        "published": "2026-08-25T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Coming Soon: A Modernized Line Chart Experience",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#coming-soon-a-modernized-line-chart-experience",
-        "source": "Release Notes",
-        "published": "2026-08-20T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Enhancements to Support Chat",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#enhancements-to-support-chat",
-        "source": "Release Notes",
-        "published": "2026-08-19T00:00:00.000Z",
         "type": "release"
       }
     ]
