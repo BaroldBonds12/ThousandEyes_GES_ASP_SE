@@ -1,7 +1,251 @@
 {
-  "updatedAt": "2026-09-03T15:32:36.600Z",
+  "updatedAt": "2026-09-04T15:30:38.576Z",
   "industry": {
     "items": [
+      {
+        "title": "OpenAI will sell you Astra, but not the system that scored 98.6% on ARC-AGI-3",
+        "url": "https://thenewstack.io/openai-astra-harness-arc-agi-3/",
+        "source": "The New Stack",
+        "published": "2026-09-04T15:25:17.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI agent evaluations are part of the product",
+        "url": "https://thenewstack.io/ai-agent-evaluation-gates/",
+        "source": "The New Stack",
+        "published": "2026-09-04T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“1% of my engineers are responsible for 40% of token spend”: Why Coder and SpaceXAI want to give developers nice things",
+        "url": "https://thenewstack.io/coder-cursor-agent-relay/",
+        "source": "The New Stack",
+        "published": "2026-09-04T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI spends $1 billion to expand Daybreak to defend power, water, and banking",
+        "url": "https://thenewstack.io/openai-daybreak-frontline-defenders/",
+        "source": "The New Stack",
+        "published": "2026-09-03T21:22:31.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+        "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-03T21:03:02.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "How to find failures without drowning in tracing data",
+        "url": "https://thenewstack.io/tracing-data-overload-sampling/",
+        "source": "The New Stack",
+        "published": "2026-09-03T20:17:25.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "GPT-6 Astra aced the hardest AI benchmark. The asterisk matters more than the score.",
+        "url": "https://thenewstack.io/astra-arc-agi-benchmark/",
+        "source": "The New Stack",
+        "published": "2026-09-03T19:05:24.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cut GPU inference cold start from 8 minutes to less than a minute",
+        "url": "https://thenewstack.io/cut-gpu-cold-starts/",
+        "source": "The New Stack",
+        "published": "2026-09-03T18:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The systems guide to production token optimization",
+        "url": "https://thenewstack.io/production-token-optimization-guide/",
+        "source": "The New Stack",
+        "published": "2026-09-03T18:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI launches GPT-6 Astra and says welcome to the “AGI era”",
+        "url": "https://thenewstack.io/openai-gpt6-astra-benchmarks/",
+        "source": "The New Stack",
+        "published": "2026-09-03T18:02:40.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“Hugging Face will remain an open platform”: Nvidia strikes $12.9B deal for the ‘GitHub of AI’",
+        "url": "https://thenewstack.io/nvidia-acquires-hugging-face/",
+        "source": "The New Stack",
+        "published": "2026-09-03T17:52:31.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI Agents built a 3D city for $33 in two hours —and exposed a major flaw",
+        "url": "https://thenewstack.io/ai-agents-3d-playwright/",
+        "source": "The New Stack",
+        "published": "2026-09-03T17:34:31.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "GitHub Copilot app for Beginners: Run several agents at once",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+        "source": "GitHub Blog",
+        "published": "2026-09-03T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Nvidia PAIR lets you put your idle Macs and PCs to work for AI agents",
+        "url": "https://thenewstack.io/nvidia-pair-local-inference/",
+        "source": "The New Stack",
+        "published": "2026-09-03T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "What’s new with Google Data Cloud",
+        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-03T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
+        "url": "https://thenewstack.io/ai-agent-retrieval-infrastructure/",
+        "source": "The New Stack",
+        "published": "2026-09-03T15:38:20.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“Google was ahead only a few hours”: Muse Spark 1.3 edges out Gemini as Meta claims its biggest coding leap yet",
+        "url": "https://thenewstack.io/muse-spark-1-3-gemini/",
+        "source": "The New Stack",
+        "published": "2026-09-03T15:37:07.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+        "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+        "source": "OpenAI Blog",
+        "published": "2026-09-03T13:15:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "source": "OpenAI Blog",
+        "published": "2026-09-03T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+        "source": "OpenAI Blog",
+        "published": "2026-09-03T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-03T09:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
+        "url": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-03T07:30:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Safety overview: GPT-6 Astra",
+        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "source": "OpenAI Blog",
+        "published": "2026-09-03T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
       {
         "title": "Build and run Datadog workflows from Bits Chat or AI agents",
         "url": "https://www.datadoghq.com/blog/build-datadog-workflows-ai-agents/",
@@ -20,254 +264,35 @@
         "topics": [
           "development"
         ]
-      },
-      {
-        "title": "Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story.",
-        "url": "https://thenewstack.io/quasar-438b-agent-compression/",
-        "source": "The New Stack",
-        "published": "2026-09-02T20:14:53.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your next OpenAI API timeout might not be a timeout at all",
-        "url": "https://thenewstack.io/astra-api-safety-stops/",
-        "source": "The New Stack",
-        "published": "2026-09-02T20:13:54.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Anthropic’s Claude failures have made agent observability a security priority",
-        "url": "https://thenewstack.io/anthropic-claude-agent-security/",
-        "source": "The New Stack",
-        "published": "2026-09-02T20:12:50.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How we make AI coding more cost efficient without sacrificing task quality",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-        "source": "GitHub Blog",
-        "published": "2026-09-02T18:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Google ships its third Gemini Flash model in six weeks",
-        "url": "https://thenewstack.io/google-ships-its-third-gemini-flash-model-in-six-weeks/",
-        "source": "The New Stack",
-        "published": "2026-09-02T16:56:52.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
-        "url": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-02T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Simplify pipelines with new BigQuery identity columns",
-        "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-02T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Vercel built a feedback loop that treats agent instructions like software",
-        "url": "https://thenewstack.io/vercel-agent-design-guidance/",
-        "source": "The New Stack",
-        "published": "2026-09-02T15:29:58.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your organization prioritized AI adoption, but you actually need AI fluency.",
-        "url": "https://thenewstack.io/ai-fluency-operating-model/",
-        "source": "The New Stack",
-        "published": "2026-09-02T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-        "url": "https://openai.com/index/atv-big-air-tour",
-        "source": "OpenAI Blog",
-        "published": "2026-09-02T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Monitor prompt caching to optimize your token usage",
-        "url": "https://www.datadoghq.com/blog/monitor-prompt-caching-optimize-token-usage/",
-        "source": "Datadog Engineering",
-        "published": "2026-09-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore",
-        "url": "https://thenewstack.io/fable-5-1-watermark/",
-        "source": "The New Stack",
-        "published": "2026-09-01T20:59:09.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Runway wants to generate software as you use it. Solaris is its first step.",
-        "url": "https://thenewstack.io/runway-solaris-generated-interfaces/",
-        "source": "The New Stack",
-        "published": "2026-09-01T19:44:41.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Anthropic’s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less",
-        "url": "https://thenewstack.io/anthropic-fable-5-1-launch/",
-        "source": "The New Stack",
-        "published": "2026-09-01T19:38:32.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your Mac is now part of Perplexity’s AI infrastructure",
-        "url": "https://thenewstack.io/perplexity-hybrid-compute-mac/",
-        "source": "The New Stack",
-        "published": "2026-09-01T19:21:51.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GLM-5.3-Flash vs. GLM-5.3: Time and money, not the spec sheet",
-        "url": "https://thenewstack.io/glm-flash-flagship-benchmark/",
-        "source": "The New Stack",
-        "published": "2026-09-01T18:51:56.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Meta just beat OpenAI and Google at real-time transcription",
-        "url": "https://thenewstack.io/meta-muse-voice-transcribe/",
-        "source": "The New Stack",
-        "published": "2026-09-01T17:06:57.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How AI-native companies turn workflows into operating capability",
-        "url": "https://openai.com/index/ai-native-company-workflows",
-        "source": "OpenAI Blog",
-        "published": "2026-09-01T17:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "What Google Cloud announced in AI this month",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-01T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
-        "url": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-01T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How BlackLine simplifies perimeter policy intelligence with VPC Service Controls",
-        "url": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-01T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Vibe-coded apps are the new shadow IT",
-        "url": "https://thenewstack.io/vibe-coded-shadow-it/",
-        "source": "The New Stack",
-        "published": "2026-09-01T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Meta’s Claude Code rival exits beta with three new subscription tiers — and it’s pushing hard on price",
-        "url": "https://thenewstack.io/muse-code-sdk-pricing/",
-        "source": "The New Stack",
-        "published": "2026-09-01T14:55:30.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Frontier AI just raised the stakes, and the old playbook won’t hold up",
+        "url": "https://blogs.cisco.com/security/frontier-ai-just-raised-the-stakes-and-the-old-playbook-wont-hold-up",
+        "source": "Cisco Blogs",
+        "published": "2026-09-04T15:00:46.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Your Agent Trusts Things You Never Approved",
+        "url": "https://blogs.cisco.com/ai/your-agent-trusts-things-you-never-approved",
+        "source": "Cisco Blogs",
+        "published": "2026-09-03T20:59:04.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco and the DISA STIG: Turning Zero Trust Policy into Repeatable Practice – Part 1: Cisco ISE",
+        "url": "https://blogs.cisco.com/industries/cisco-and-the-disa-stig-turning-zero-trust-policy-into-repeatable-practice-part-1-cisco-ise",
+        "source": "Cisco Blogs",
+        "published": "2026-09-03T17:50:30.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Crypto Agility: Why PQC Is Not a One-Time Upgrade",
         "url": "https://blogs.cisco.com/security/crypto-agility-why-pqc-is-not-a-one-time-upgrade",
@@ -317,34 +342,10 @@
         "type": "article"
       },
       {
-        "title": "Just Click Submit: How This Cisco Intern Found Success Through AI",
-        "url": "https://blogs.cisco.com/wearecisco/just-click-submit-how-this-cisco-intern-found-success-through-ai",
-        "source": "Cisco Blogs",
-        "published": "2026-09-01T12:00:09.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco to Participate in September Events with the Financial Community",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-to-participate-in-september-events-with-the-financial-community.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-08-31T20:30:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Power of Co-Innovation for AgenticOps and Autonomous Networks",
-        "url": "https://blogs.cisco.com/sp/the-power-of-co-innovation-for-agenticops-and-autonomous-networks",
-        "source": "Cisco Blogs",
-        "published": "2026-08-31T20:19:54.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The AI ready home: how Cisco helps broadband providers deliver next generation experience",
-        "url": "https://blogs.cisco.com/sp/the-ai-ready-home-how-cisco-helps-broadband-providers-deliver-next-generation-experience",
-        "source": "Cisco Blogs",
-        "published": "2026-08-31T15:00:02.000Z",
         "topics": [],
         "type": "article"
       },
