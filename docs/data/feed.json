@@ -1,7 +1,68 @@
 {
-  "updatedAt": "2026-09-04T15:30:38.576Z",
+  "updatedAt": "2026-09-05T14:18:31.271Z",
   "industry": {
     "items": [
+      {
+        "title": "“Sorry for the messy rollout”: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling",
+        "url": "https://thenewstack.io/gpt6-astra-developer-access-delayed/",
+        "source": "The New Stack",
+        "published": "2026-09-04T23:42:24.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Microsoft built a prompt injection detector. Then it caught a phishing campaign instead.",
+        "url": "https://thenewstack.io/unicode-ascii-smuggling-ai-pipelines/",
+        "source": "The New Stack",
+        "published": "2026-09-04T21:08:36.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+        "source": "GitHub Blog",
+        "published": "2026-09-04T16:04:14.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
+        "url": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-04T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-04T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-04T15:36:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
       {
         "title": "OpenAI will sell you Astra, but not the system that scored 98.6% on ARC-AGI-3",
         "url": "https://thenewstack.io/openai-astra-harness-arc-agi-3/",
@@ -33,6 +94,26 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-04T07:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Stop runtime threats with Workload Protection response actions",
+        "url": "https://www.datadoghq.com/blog/stop-runtime-threats-with-workload-protection-response-actions/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-04T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -69,7 +150,7 @@
         ]
       },
       {
-        "title": "GPT-6 Astra aced the hardest AI benchmark. The asterisk matters more than the score.",
+        "title": "GPT-6 Astra’s score of 98.6% looked like AGI. Then researchers read the fine print.",
         "url": "https://thenewstack.io/astra-arc-agi-benchmark/",
         "source": "The New Stack",
         "published": "2026-09-03T19:05:24.000Z",
@@ -185,85 +266,6 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-        "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-        "source": "OpenAI Blog",
-        "published": "2026-09-03T13:15:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-        "source": "OpenAI Blog",
-        "published": "2026-09-03T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-        "source": "OpenAI Blog",
-        "published": "2026-09-03T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-03T09:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
-        "url": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-03T07:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Safety overview: GPT-6 Astra",
-        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-        "source": "OpenAI Blog",
-        "published": "2026-09-03T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Build and run Datadog workflows from Bits Chat or AI agents",
-        "url": "https://www.datadoghq.com/blog/build-datadog-workflows-ai-agents/",
-        "source": "Datadog Engineering",
-        "published": "2026-09-03T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
-        "source": "GitHub Blog",
-        "published": "2026-09-02T21:00:00.000Z",
-        "topics": [
-          "development"
-        ]
       }
     ]
   },
@@ -274,6 +276,14 @@
         "url": "https://blogs.cisco.com/security/frontier-ai-just-raised-the-stakes-and-the-old-playbook-wont-hold-up",
         "source": "Cisco Blogs",
         "published": "2026-09-04T15:00:46.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Silicon: The Element Behind Everything",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/silicon-the-element-behind-everything.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-09-04T12:00:00.000Z",
         "topics": [],
         "type": "article"
       },
@@ -378,14 +388,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/from-first-serve-to-match-point-inside-the-technology-powering-the-cincinnati-open.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-08-18T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco Reports Fourth Quarter Earnings",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-reports-fourth-quarter-earnings.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-08-12T20:05:00.000Z",
         "topics": [],
         "type": "article"
       }
