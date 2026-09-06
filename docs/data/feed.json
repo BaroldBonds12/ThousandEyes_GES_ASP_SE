@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-05T14:18:31.271Z",
+  "updatedAt": "2026-09-06T14:41:50.042Z",
   "industry": {
     "items": [
+      {
+        "title": "Polars 2.0 pre-release comes with a 5x speed boost — but it could change row order",
+        "url": "https://thenewstack.io/polars-streaming-row-order/",
+        "source": "The New Stack",
+        "published": "2026-09-06T13:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
+        "url": "https://thenewstack.io/claude-fable-upgrade-tested/",
+        "source": "The New Stack",
+        "published": "2026-09-05T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Building trust in agentic RAG starts with evidence",
+        "url": "https://thenewstack.io/building-trust-agentic-rag/",
+        "source": "The New Stack",
+        "published": "2026-09-05T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "“Sorry for the messy rollout”: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling",
         "url": "https://thenewstack.io/gpt6-astra-developer-access-delayed/",
@@ -229,38 +262,6 @@
         "url": "https://thenewstack.io/nvidia-pair-local-inference/",
         "source": "The New Stack",
         "published": "2026-09-03T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "What’s new with Google Data Cloud",
-        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-03T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
-        "url": "https://thenewstack.io/ai-agent-retrieval-infrastructure/",
-        "source": "The New Stack",
-        "published": "2026-09-03T15:38:20.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Google was ahead only a few hours”: Muse Spark 1.3 edges out Gemini as Meta claims its biggest coding leap yet",
-        "url": "https://thenewstack.io/muse-spark-1-3-gemini/",
-        "source": "The New Stack",
-        "published": "2026-09-03T15:37:07.000Z",
         "topics": [
           "development",
           "observability",
