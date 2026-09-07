@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-06T14:41:50.042Z",
+  "updatedAt": "2026-09-07T16:56:14.060Z",
   "industry": {
     "items": [
+      {
+        "title": "OpenAI’s new model costs 2.5x more per token — and developers are saving money anyway",
+        "url": "https://thenewstack.io/astra-reasoning-effort-cost/",
+        "source": "The New Stack",
+        "published": "2026-09-07T16:12:18.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“Twenty years of brand building simply froze in time”: How coding agents select their tools of choice",
+        "url": "https://thenewstack.io/coding-agents-tool-choice/",
+        "source": "The New Stack",
+        "published": "2026-09-07T12:02:31.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Supporting independent journalism in Ukraine",
+        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+        "source": "OpenAI Blog",
+        "published": "2026-09-07T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Permissions belong in the assembly context",
+        "url": "https://thenewstack.io/enterprise-rag-permission-assembly/",
+        "source": "The New Stack",
+        "published": "2026-09-06T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Polars 2.0 pre-release comes with a 5x speed boost — but it could change row order",
         "url": "https://thenewstack.io/polars-streaming-row-order/",
@@ -11,6 +54,26 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "An Alien Mind",
+        "url": "https://openai.com/index/an-alien-mind",
+        "source": "OpenAI Blog",
+        "published": "2026-09-06T09:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Research acceleration: The view inside OpenAI",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "source": "OpenAI Blog",
+        "published": "2026-09-06T08:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
         ]
       },
       {
@@ -203,75 +266,51 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "The systems guide to production token optimization",
-        "url": "https://thenewstack.io/production-token-optimization-guide/",
-        "source": "The New Stack",
-        "published": "2026-09-03T18:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI launches GPT-6 Astra and says welcome to the “AGI era”",
-        "url": "https://thenewstack.io/openai-gpt6-astra-benchmarks/",
-        "source": "The New Stack",
-        "published": "2026-09-03T18:02:40.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Hugging Face will remain an open platform”: Nvidia strikes $12.9B deal for the ‘GitHub of AI’",
-        "url": "https://thenewstack.io/nvidia-acquires-hugging-face/",
-        "source": "The New Stack",
-        "published": "2026-09-03T17:52:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "AI Agents built a 3D city for $33 in two hours —and exposed a major flaw",
-        "url": "https://thenewstack.io/ai-agents-3d-playwright/",
-        "source": "The New Stack",
-        "published": "2026-09-03T17:34:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: Run several agents at once",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-        "source": "GitHub Blog",
-        "published": "2026-09-03T16:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Nvidia PAIR lets you put your idle Macs and PCs to work for AI agents",
-        "url": "https://thenewstack.io/nvidia-pair-local-inference/",
-        "source": "The New Stack",
-        "published": "2026-09-03T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Black Hat USA 2026: Building the Agentic SOC, One Live Event at a Time",
+        "url": "https://blogs.cisco.com/security/bhusa-2026-soc",
+        "source": "Cisco Blogs",
+        "published": "2026-09-07T15:00:58.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Troubleshooting Wi-Fi at Black Hat USA 2026 with ThousandEyes",
+        "url": "https://blogs.cisco.com/security/bhusa-2026-noc-thousandeyes",
+        "source": "Cisco Blogs",
+        "published": "2026-09-07T15:00:39.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Distributed Latency Monitoring at Black Hat",
+        "url": "https://blogs.cisco.com/security/bhusa-2026-te-latency",
+        "source": "Cisco Blogs",
+        "published": "2026-09-07T15:00:37.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Black Hat USA 2026: Safeguarding DNS with Secure Access",
+        "url": "https://blogs.cisco.com/security/bhusa-2026-soc-dns",
+        "source": "Cisco Blogs",
+        "published": "2026-09-07T15:00:32.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Building a Risk-Based Secure Network Analytics Detection with Splunk Detection Editor (Alpha)",
+        "url": "https://blogs.cisco.com/security/bhusa-2026-soc-sna",
+        "source": "Cisco Blogs",
+        "published": "2026-09-07T15:00:32.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Frontier AI just raised the stakes, and the old playbook won’t hold up",
         "url": "https://blogs.cisco.com/security/frontier-ai-just-raised-the-stakes-and-the-old-playbook-wont-hold-up",
@@ -309,46 +348,6 @@
         "url": "https://blogs.cisco.com/security/crypto-agility-why-pqc-is-not-a-one-time-upgrade",
         "source": "Cisco Blogs",
         "published": "2026-09-03T15:00:56.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Backbone of Modern AI Data Centers: Networking the Gray Space",
-        "url": "https://blogs.cisco.com/industrial-iot/the-backbone-of-modern-ai-data-centers-networking-the-gray-space",
-        "source": "Cisco Blogs",
-        "published": "2026-09-03T13:19:25.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "From fabric to cloud native: Cisco Nexus One for the modern private cloud",
-        "url": "https://blogs.cisco.com/datacenter/from-fabric-to-cloud-native-cisco-nexus-one-for-the-modern-private-cloud",
-        "source": "Cisco Blogs",
-        "published": "2026-09-02T16:18:28.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Why Fixing Europe’s Legacy Tech Problem is a Real AI Cyber Security Test",
-        "url": "https://blogs.cisco.com/gov/fixing-europe-legacy-tech-ai-cybersecurity-test",
-        "source": "Cisco Blogs",
-        "published": "2026-09-02T09:34:03.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Post-Quantum Key Exchange on Cisco Routers – IPsec Series, Part 9",
-        "url": "https://blogs.cisco.com/developer/post-quantum-key-exchange-on-cisco-routers-ipsec-series-part-9",
-        "source": "Cisco Blogs",
-        "published": "2026-09-01T20:49:30.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "From Release Days to Continuous Promotion: Building the Foundation for Agentic Promotions",
-        "url": "https://blogs.cisco.com/innovation/from-release-days-to-continuous-promotion-building-the-foundation-for-agentic-promotions",
-        "source": "Cisco Blogs",
-        "published": "2026-09-01T16:00:40.000Z",
         "topics": [],
         "type": "article"
       },
