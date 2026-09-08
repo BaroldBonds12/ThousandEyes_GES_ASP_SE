@@ -1,7 +1,102 @@
 {
-  "updatedAt": "2026-09-07T16:56:14.060Z",
+  "updatedAt": "2026-09-08T15:44:14.201Z",
   "industry": {
     "items": [
+      {
+        "title": "AI broke code review. Two experts disagree on what replaces it.",
+        "url": "https://thenewstack.io/ai-code-review-pipelines/",
+        "source": "The New Stack",
+        "published": "2026-09-08T15:35:42.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-08T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+        "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-08T13:10:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "The Work Now Within Reach",
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "source": "OpenAI Blog",
+        "published": "2026-09-08T13:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "After nine years as HashiCorp CEO, Dave McJannet now wants to “unblock” enterprise AI agents",
+        "url": "https://thenewstack.io/hashicorp-mcjannet-dome-agents/",
+        "source": "The New Stack",
+        "published": "2026-09-08T12:59:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "source": "OpenAI Blog",
+        "published": "2026-09-08T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Coordinate product launches with Datadog",
+        "url": "https://www.datadoghq.com/blog/coordinate-product-launches-with-datadog/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-08T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "“Some agents will be pursuing their own objectives”: OpenAI’s chief scientist warns AI could trick and blackmail humans",
+        "url": "https://thenewstack.io/openai-voluntary-slowdown-safety/",
+        "source": "The New Stack",
+        "published": "2026-09-07T23:37:39.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI agents are creating more work, not less — and OpenAI’s own numbers back it up",
+        "url": "https://thenewstack.io/openai-agent-research-bottleneck/",
+        "source": "The New Stack",
+        "published": "2026-09-07T19:05:17.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "OpenAI’s new model costs 2.5x more per token — and developers are saving money anyway",
         "url": "https://thenewstack.io/astra-reasoning-effort-cost/",
@@ -77,8 +172,8 @@
         ]
       },
       {
-        "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
-        "url": "https://thenewstack.io/claude-fable-upgrade-tested/",
+        "title": "Building trust in agentic RAG starts with evidence",
+        "url": "https://thenewstack.io/building-trust-agentic-rag/",
         "source": "The New Stack",
         "published": "2026-09-05T15:00:00.000Z",
         "topics": [
@@ -88,8 +183,8 @@
         ]
       },
       {
-        "title": "Building trust in agentic RAG starts with evidence",
-        "url": "https://thenewstack.io/building-trust-agentic-rag/",
+        "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
+        "url": "https://thenewstack.io/claude-fable-upgrade-tested/",
         "source": "The New Stack",
         "published": "2026-09-05T15:00:00.000Z",
         "topics": [
@@ -169,108 +264,27 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "AI agent evaluations are part of the product",
-        "url": "https://thenewstack.io/ai-agent-evaluation-gates/",
-        "source": "The New Stack",
-        "published": "2026-09-04T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“1% of my engineers are responsible for 40% of token spend”: Why Coder and SpaceXAI want to give developers nice things",
-        "url": "https://thenewstack.io/coder-cursor-agent-relay/",
-        "source": "The New Stack",
-        "published": "2026-09-04T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-04T07:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Stop runtime threats with Workload Protection response actions",
-        "url": "https://www.datadoghq.com/blog/stop-runtime-threats-with-workload-protection-response-actions/",
-        "source": "Datadog Engineering",
-        "published": "2026-09-04T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "OpenAI spends $1 billion to expand Daybreak to defend power, water, and banking",
-        "url": "https://thenewstack.io/openai-daybreak-frontline-defenders/",
-        "source": "The New Stack",
-        "published": "2026-09-03T21:22:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
-        "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-03T21:03:02.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "How to find failures without drowning in tracing data",
-        "url": "https://thenewstack.io/tracing-data-overload-sampling/",
-        "source": "The New Stack",
-        "published": "2026-09-03T20:17:25.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GPT-6 Astra’s score of 98.6% looked like AGI. Then researchers read the fine print.",
-        "url": "https://thenewstack.io/astra-arc-agi-benchmark/",
-        "source": "The New Stack",
-        "published": "2026-09-03T19:05:24.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Cut GPU inference cold start from 8 minutes to less than a minute",
-        "url": "https://thenewstack.io/cut-gpu-cold-starts/",
-        "source": "The New Stack",
-        "published": "2026-09-03T18:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Manage Cisco rugged switches right from your Meraki dashboard",
+        "url": "https://blogs.cisco.com/networking/manage-cisco-rugged-switches-right-from-cisco-cloud-control",
+        "source": "Cisco Blogs",
+        "published": "2026-09-08T15:00:43.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Turning ocean data into impact: How AI, trusted data, and partnerships can help accelerate sustainability",
+        "url": "https://blogs.cisco.com/our-corporate-purpose/turning-ocean-data-into-impact-how-ai-trusted-data-and-partnerships-can-help-accelerate-sustainability",
+        "source": "Cisco Blogs",
+        "published": "2026-09-08T12:00:39.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Black Hat USA 2026: Building the Agentic SOC, One Live Event at a Time",
         "url": "https://blogs.cisco.com/security/bhusa-2026-soc",
@@ -332,22 +346,6 @@
         "url": "https://blogs.cisco.com/ai/your-agent-trusts-things-you-never-approved",
         "source": "Cisco Blogs",
         "published": "2026-09-03T20:59:04.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco and the DISA STIG: Turning Zero Trust Policy into Repeatable Practice – Part 1: Cisco ISE",
-        "url": "https://blogs.cisco.com/industries/cisco-and-the-disa-stig-turning-zero-trust-policy-into-repeatable-practice-part-1-cisco-ise",
-        "source": "Cisco Blogs",
-        "published": "2026-09-03T17:50:30.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Crypto Agility: Why PQC Is Not a One-Time Upgrade",
-        "url": "https://blogs.cisco.com/security/crypto-agility-why-pqc-is-not-a-one-time-upgrade",
-        "source": "Cisco Blogs",
-        "published": "2026-09-03T15:00:56.000Z",
         "topics": [],
         "type": "article"
       },
