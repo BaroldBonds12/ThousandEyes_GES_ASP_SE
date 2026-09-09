@@ -1,7 +1,102 @@
 {
-  "updatedAt": "2026-09-08T15:44:14.201Z",
+  "updatedAt": "2026-09-09T15:39:17.551Z",
   "industry": {
     "items": [
+      {
+        "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+        "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-09T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "K2 Horizon just shipped as six new fully open models — developers aren’t fully convinced",
+        "url": "https://thenewstack.io/k2-horizon-fully-open/",
+        "source": "The New Stack",
+        "published": "2026-09-09T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Harness rebuilt its Git repository for nonstop AI agent traffic",
+        "url": "https://thenewstack.io/harness-ai-code-review/",
+        "source": "The New Stack",
+        "published": "2026-09-09T11:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic promised 20x more usage. Then developers hit a weekly ceiling.",
+        "url": "https://thenewstack.io/anthropic-claude-max-lawsuit/",
+        "source": "The New Stack",
+        "published": "2026-09-08T22:16:28.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "DeepSeek is hiring 150 engineers, and none of them will touch a model",
+        "url": "https://thenewstack.io/deepseek-dsec-agent-hiring/",
+        "source": "The New Stack",
+        "published": "2026-09-08T19:01:08.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "source": "OpenAI Blog",
+        "published": "2026-09-08T17:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-08T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Agentic analytics with the Data Agent Kit",
+        "url": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-08T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How KDDI built Buffmee, a faster, reliable consumer RAG app",
+        "url": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-08T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
       {
         "title": "AI broke code review. Two experts disagree on what replaces it.",
         "url": "https://thenewstack.io/ai-code-review-pipelines/",
@@ -56,8 +151,48 @@
         ]
       },
       {
+        "title": "Introducing ChatGPT Images 2.5",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "source": "OpenAI Blog",
+        "published": "2026-09-08T11:30:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "On the Navier–Stokes Millennium Prize Problem",
+        "url": "https://openai.com/index/navier-stokes-solution",
+        "source": "OpenAI Blog",
+        "published": "2026-09-08T10:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Funding grants for new research into AI and teen development",
+        "url": "https://openai.com/index/teen-development-research-grants",
+        "source": "OpenAI Blog",
+        "published": "2026-09-08T09:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
         "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
         "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "source": "OpenAI Blog",
+        "published": "2026-09-08T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "1Password increases engineering productivity 21% with Codex",
+        "url": "https://openai.com/index/1password",
         "source": "OpenAI Blog",
         "published": "2026-09-08T00:00:00.000Z",
         "topics": [
@@ -128,147 +263,43 @@
           "ai",
           "development"
         ]
-      },
-      {
-        "title": "Permissions belong in the assembly context",
-        "url": "https://thenewstack.io/enterprise-rag-permission-assembly/",
-        "source": "The New Stack",
-        "published": "2026-09-06T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Polars 2.0 pre-release comes with a 5x speed boost — but it could change row order",
-        "url": "https://thenewstack.io/polars-streaming-row-order/",
-        "source": "The New Stack",
-        "published": "2026-09-06T13:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "An Alien Mind",
-        "url": "https://openai.com/index/an-alien-mind",
-        "source": "OpenAI Blog",
-        "published": "2026-09-06T09:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Research acceleration: The view inside OpenAI",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "source": "OpenAI Blog",
-        "published": "2026-09-06T08:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Building trust in agentic RAG starts with evidence",
-        "url": "https://thenewstack.io/building-trust-agentic-rag/",
-        "source": "The New Stack",
-        "published": "2026-09-05T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
-        "url": "https://thenewstack.io/claude-fable-upgrade-tested/",
-        "source": "The New Stack",
-        "published": "2026-09-05T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Sorry for the messy rollout”: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling",
-        "url": "https://thenewstack.io/gpt6-astra-developer-access-delayed/",
-        "source": "The New Stack",
-        "published": "2026-09-04T23:42:24.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Microsoft built a prompt injection detector. Then it caught a phishing campaign instead.",
-        "url": "https://thenewstack.io/unicode-ascii-smuggling-ai-pipelines/",
-        "source": "The New Stack",
-        "published": "2026-09-04T21:08:36.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-        "source": "GitHub Blog",
-        "published": "2026-09-04T16:04:14.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
-        "url": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-04T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-04T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-04T15:36:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "OpenAI will sell you Astra, but not the system that scored 98.6% on ARC-AGI-3",
-        "url": "https://thenewstack.io/openai-astra-harness-arc-agi-3/",
-        "source": "The New Stack",
-        "published": "2026-09-04T15:25:17.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Cisco and Axis Communications: Greater camera visibility, scalability, and incident management",
+        "url": "https://blogs.cisco.com/networking/cisco-and-axis-communications-greater-camera-visibility-scalability-and-incident-management",
+        "source": "Cisco Blogs",
+        "published": "2026-09-09T15:00:31.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Now generally available: See how Stack Automation by Quali cuts deployment time",
+        "url": "https://blogs.cisco.com/datacenter/now-generally-available-see-how-stack-automation-by-quali-cuts-deployment-time",
+        "source": "Cisco Blogs",
+        "published": "2026-09-09T15:00:14.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "The Next Generation of Manufacturing Is Measured in Thousands of Decisions",
+        "url": "https://blogs.cisco.com/industries/the-next-generation-of-manufacturing-is-measured-in-thousands-of-decisions",
+        "source": "Cisco Blogs",
+        "published": "2026-09-08T20:31:10.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "ML-DSA Certificates on Cisco Routers – IPsec Series, Part 10",
+        "url": "https://blogs.cisco.com/developer/ml-dsa-certificates-on-cisco-routers-ipsec-series-part-10",
+        "source": "Cisco Blogs",
+        "published": "2026-09-08T17:48:10.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Manage Cisco rugged switches right from your Meraki dashboard",
         "url": "https://blogs.cisco.com/networking/manage-cisco-rugged-switches-right-from-cisco-cloud-control",
@@ -294,6 +325,14 @@
         "type": "article"
       },
       {
+        "title": "Thrown into the SOC: A Black Hat First-Timer’s Story",
+        "url": "https://blogs.cisco.com/security/bhusa-2026-soc-first-timer",
+        "source": "Cisco Blogs",
+        "published": "2026-09-07T15:00:54.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
         "title": "Troubleshooting Wi-Fi at Black Hat USA 2026 with ThousandEyes",
         "url": "https://blogs.cisco.com/security/bhusa-2026-noc-thousandeyes",
         "source": "Cisco Blogs",
@@ -302,50 +341,10 @@
         "type": "article"
       },
       {
-        "title": "Distributed Latency Monitoring at Black Hat",
-        "url": "https://blogs.cisco.com/security/bhusa-2026-te-latency",
-        "source": "Cisco Blogs",
-        "published": "2026-09-07T15:00:37.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Black Hat USA 2026: Safeguarding DNS with Secure Access",
-        "url": "https://blogs.cisco.com/security/bhusa-2026-soc-dns",
-        "source": "Cisco Blogs",
-        "published": "2026-09-07T15:00:32.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Building a Risk-Based Secure Network Analytics Detection with Splunk Detection Editor (Alpha)",
-        "url": "https://blogs.cisco.com/security/bhusa-2026-soc-sna",
-        "source": "Cisco Blogs",
-        "published": "2026-09-07T15:00:32.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Frontier AI just raised the stakes, and the old playbook won’t hold up",
-        "url": "https://blogs.cisco.com/security/frontier-ai-just-raised-the-stakes-and-the-old-playbook-wont-hold-up",
-        "source": "Cisco Blogs",
-        "published": "2026-09-04T15:00:46.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Silicon: The Element Behind Everything",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/silicon-the-element-behind-everything.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-09-04T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Your Agent Trusts Things You Never Approved",
-        "url": "https://blogs.cisco.com/ai/your-agent-trusts-things-you-never-approved",
-        "source": "Cisco Blogs",
-        "published": "2026-09-03T20:59:04.000Z",
         "topics": [],
         "type": "article"
       },
@@ -393,6 +392,13 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Modernized Line Chart Experience Now Available",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#modernized-line-chart-experience-now-available",
+        "source": "Release Notes",
+        "published": "2026-09-08T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Mobile Endpoint Agent Android Version 1.8.1",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#mobile-endpoint-agent-android-version-1-8-1",
@@ -454,13 +460,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#saml-certificate-renewal-notice",
         "source": "Release Notes",
         "published": "2026-08-26T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Cisco Cloud Control Integration for ThousandEyes General Availability",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#cisco-cloud-control-integration-for-thousandeyes-general-availability",
-        "source": "Release Notes",
-        "published": "2026-08-25T00:00:00.000Z",
         "type": "release"
       }
     ]
