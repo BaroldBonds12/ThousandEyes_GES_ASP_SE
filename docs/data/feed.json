@@ -1,7 +1,102 @@
 {
-  "updatedAt": "2026-09-11T15:36:37.081Z",
+  "updatedAt": "2026-09-12T14:42:55.755Z",
   "industry": {
     "items": [
+      {
+        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "source": "OpenAI Blog",
+        "published": "2026-09-14T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "The AI-native SDLC won’t be one process",
+        "url": "https://thenewstack.io/spec-driven-sdlc-gates/",
+        "source": "The New Stack",
+        "published": "2026-09-12T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Jacob Coxon warns AI could kill us all. Anthropic’s own report exposes safety gaps.",
+        "url": "https://thenewstack.io/coxon-anthropic-ai-monitoring-failures/",
+        "source": "The New Stack",
+        "published": "2026-09-12T11:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates",
+        "url": "https://thenewstack.io/openai-agents-api-compute/",
+        "source": "The New Stack",
+        "published": "2026-09-11T21:27:42.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+        "source": "GitHub Blog",
+        "published": "2026-09-11T18:26:10.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "OpenAI’s safety system is already cutting off API responses mid-task",
+        "url": "https://thenewstack.io/openai-slowing-ai-development/",
+        "source": "The New Stack",
+        "published": "2026-09-11T17:52:56.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cohere’s new translation model is open weights — but not for commercial use",
+        "url": "https://thenewstack.io/cohere-translation-commercial-licensing/",
+        "source": "The New Stack",
+        "published": "2026-09-11T17:50:11.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+        "url": "https://thenewstack.io/kubecon-kubernetes-updates-security/",
+        "source": "The New Stack",
+        "published": "2026-09-11T17:40:04.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+        "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+        "source": "OpenAI Blog",
+        "published": "2026-09-11T16:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
       {
         "title": "Introducing automatic remediation policies with Cloudflare CASB",
         "url": "https://blog.cloudflare.com/casb-policies/",
@@ -22,6 +117,36 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "source": "OpenAI Blog",
+        "published": "2026-09-11T10:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-11T09:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Analyze your experiments in ChatGPT with the Datadog Experiments plugin",
+        "url": "https://www.datadoghq.com/blog/chatgpt-datadog-experiments/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-11T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -135,133 +260,6 @@
         "url": "https://thenewstack.io/red-hat-ai-multitenancy/",
         "source": "The New Stack",
         "published": "2026-09-10T17:01:36.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Custom labels in Grafana Cloud Synthetic Monitoring: New updates for consistency and ease-of-use",
-        "url": "https://grafana.com/blog/synthetic-monitoring-labels-update/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-09-10T16:11:53.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "source": "OpenAI Blog",
-        "published": "2026-09-10T16:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-10T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "What’s new with Google Data Cloud",
-        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-10T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Now everyone can put data to work",
-        "url": "https://openai.com/index/put-data-to-work",
-        "source": "OpenAI Blog",
-        "published": "2026-09-10T15:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Researchers found that 1 in 5 MCP access policies came back broken or missing",
-        "url": "https://thenewstack.io/mcp-vibe-coding-security/",
-        "source": "The New Stack",
-        "published": "2026-09-10T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
-        "url": "https://thenewstack.io/claude-fable-benchmark-budget/",
-        "source": "The New Stack",
-        "published": "2026-09-10T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "47,000 job listings reveal the engineering roles that AI is creating",
-        "url": "https://thenewstack.io/ai-engineering-roles-emerging/",
-        "source": "The New Stack",
-        "published": "2026-09-10T13:09:28.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-        "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-10T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Stop AI code sprawl before it destroys your software design",
-        "url": "https://thenewstack.io/stop-ai-code-sprawl/",
-        "source": "The New Stack",
-        "published": "2026-09-10T12:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "AI floods security teams with flaws — business context sets priorities",
-        "url": "https://thenewstack.io/vulnerability-prioritization-business-context/",
-        "source": "The New Stack",
-        "published": "2026-09-10T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Nvidia and Palantir fine-tune a 30B Nemotron model for Nvidia’s supply chain. It beats a model 18 times its size.",
-        "url": "https://thenewstack.io/ai-factories-are-among-the-most-complex-systems-ever-built-nvidia-and-palantir-turn-nvidias-supply-chain-into-a-proving-ground-for-sovereign-ai/",
-        "source": "The New Stack",
-        "published": "2026-09-10T09:00:43.000Z",
         "topics": [
           "development",
           "observability",
