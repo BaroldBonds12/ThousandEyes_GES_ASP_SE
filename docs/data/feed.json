@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T14:42:55.755Z",
+  "updatedAt": "2026-09-13T15:22:39.520Z",
   "industry": {
     "items": [
       {
@@ -10,6 +10,61 @@
         "topics": [
           "ai",
           "development"
+        ]
+      },
+      {
+        "title": "Chip Huyen explains how to cut inference costs without new hardware",
+        "url": "https://thenewstack.io/pg-99-conf-2026-inference-costs/",
+        "source": "The New Stack",
+        "published": "2026-09-13T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“Machine translation is still broken for most of the world’s languages”: Cohere builds non-reasoning for a reason",
+        "url": "https://thenewstack.io/cohere-north-translate-sovereignty/",
+        "source": "The New Stack",
+        "published": "2026-09-13T14:21:46.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "It passed CI. It passed your evals. The customer still got the wrong answer.",
+        "url": "https://thenewstack.io/ai-agent-trace-debugging/",
+        "source": "The New Stack",
+        "published": "2026-09-13T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Why MCP security is about permissions overhaul",
+        "url": "https://thenewstack.io/mcp-security-permissions-overhaul/",
+        "source": "The New Stack",
+        "published": "2026-09-12T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“Same mission, bigger stage”: OpenAI hires Git AI founders to help Codex prove its ROI",
+        "url": "https://thenewstack.io/openai-hires-git-ai/",
+        "source": "The New Stack",
+        "published": "2026-09-12T14:46:53.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
         ]
       },
       {
@@ -206,60 +261,6 @@
         "url": "https://thenewstack.io/anthropic-claude-cyber-alignment/",
         "source": "The New Stack",
         "published": "2026-09-10T19:54:35.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-10T19:53:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Shopify spent years on React Native — then rebuilt everything in 12 weeks",
-        "url": "https://thenewstack.io/shopify-native-ai-agents/",
-        "source": "The New Stack",
-        "published": "2026-09-10T19:46:50.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GPT Images 2.5 promises edits that leave the rest of your image alone",
-        "url": "https://thenewstack.io/gpt-images-2-5-sunburst-flare/",
-        "source": "The New Stack",
-        "published": "2026-09-10T19:46:32.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Mistral wants open-weight AI to compete at the frontier. It just raised $3.5 billion to do it.",
-        "url": "https://thenewstack.io/mistral-funding-open-infrastructure/",
-        "source": "The New Stack",
-        "published": "2026-09-10T19:37:30.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Red Hat AI 3.5 tackles the GPU queue that can stall AI pilots",
-        "url": "https://thenewstack.io/red-hat-ai-multitenancy/",
-        "source": "The New Stack",
-        "published": "2026-09-10T17:01:36.000Z",
         "topics": [
           "development",
           "observability",
