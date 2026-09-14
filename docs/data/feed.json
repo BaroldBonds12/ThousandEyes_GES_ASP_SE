@@ -1,7 +1,91 @@
 {
-  "updatedAt": "2026-09-13T15:22:39.520Z",
+  "updatedAt": "2026-09-14T17:19:18.557Z",
   "industry": {
     "items": [
+      {
+        "title": "Agent-ready analytics: Unlocking insights with BigQuery augmented analytics",
+        "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-14T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Announcing Pause/Resume and NVIDIA RTX PRO 6000 Blackwell GPU support in Dataflow",
+        "url": "https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-14T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Google is a leader in The Forrester Wave™: Public Cloud Platforms, Q3 2026",
+        "url": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-14T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "AI keeps finding security flaws — here’s what to fix first",
+        "url": "https://thenewstack.io/vulnerability-prioritization-business-context/",
+        "source": "The New Stack",
+        "published": "2026-09-14T15:20:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your AI coding spend bought 25% more output. Duplication rose 81%.",
+        "url": "https://thenewstack.io/ai-coding-duplication-rose/",
+        "source": "The New Stack",
+        "published": "2026-09-14T14:39:14.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Chinese AI models dominate OpenRouter’s US token consumption. It can now guarantee that traffic stays entirely in the US.",
+        "url": "https://thenewstack.io/openrouter-us-region-routing/",
+        "source": "The New Stack",
+        "published": "2026-09-14T13:59:33.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How Fyxer built an AI executive assistant people trust",
+        "url": "https://openai.com/index/fyxer",
+        "source": "OpenAI Blog",
+        "published": "2026-09-14T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Why an old caching trick is your secret to lower LLM costs",
+        "url": "https://thenewstack.io/llm-response-caching-costs/",
+        "source": "The New Stack",
+        "published": "2026-09-14T11:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
         "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -10,6 +94,16 @@
         "topics": [
           "ai",
           "development"
+        ]
+      },
+      {
+        "title": "Datadog named the Company to Beat for observability platforms in 2026 Gartner® AI Vendor Race report",
+        "url": "https://www.datadoghq.com/blog/datadog-observability-platforms-gartner-ai-vendor-race-2026/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-14T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -173,104 +267,19 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "source": "OpenAI Blog",
-        "published": "2026-09-11T10:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-11T09:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Analyze your experiments in ChatGPT with the Datadog Experiments plugin",
-        "url": "https://www.datadoghq.com/blog/chatgpt-datadog-experiments/",
-        "source": "Datadog Engineering",
-        "published": "2026-09-11T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Understanding NetFlow duplication: Why it happens, and how to deduplicate",
-        "url": "https://www.datadoghq.com/blog/understanding-netflow-duplication/",
-        "source": "Datadog Engineering",
-        "published": "2026-09-11T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "AWS open-sources Pizza Bot: email-style inbox for background AI agents",
-        "url": "https://thenewstack.io/aws-pizza-bot-agent-inbox/",
-        "source": "The New Stack",
-        "published": "2026-09-10T22:54:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-        "source": "GitHub Blog",
-        "published": "2026-09-10T21:31:19.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code.",
-        "url": "https://thenewstack.io/gpt-live-1-voice-api/",
-        "source": "The New Stack",
-        "published": "2026-09-10T20:08:18.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Six tools, one harness”: Salesforce loops together a six-pack of favorites",
-        "url": "https://thenewstack.io/salesforce-enterprise-ai-harness/",
-        "source": "The New Stack",
-        "published": "2026-09-10T20:03:25.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Valuable warning shots”: How Anthropic now views Claude’s cyber incidents",
-        "url": "https://thenewstack.io/anthropic-claude-cyber-alignment/",
-        "source": "The New Stack",
-        "published": "2026-09-10T19:54:35.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Building for the AI era: Inside Cisco IT’s Wi-Fi 7 revolution",
+        "url": "https://blogs.cisco.com/cisco-on-cisco/building-for-the-ai-era-inside-cisco-its-wi-fi-7-revolution",
+        "source": "Cisco Blogs",
+        "published": "2026-09-14T13:00:21.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "The Unexpected Winner of Cisco IT’s Wi-Fi 7 Upgrade? Security.",
         "url": "https://blogs.cisco.com/cisco-on-cisco/the-unexpected-winner-of-cisco-its-wi-fi-7-upgrade-security",
@@ -340,14 +349,6 @@
         "url": "https://blogs.cisco.com/networking/cisco-and-axis-communications-greater-visibility-scalability-and-incident-management",
         "source": "Cisco Blogs",
         "published": "2026-09-09T15:00:31.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Now generally available: See how Stack Automation by Quali cuts deployment time",
-        "url": "https://blogs.cisco.com/datacenter/now-generally-available-see-how-stack-automation-by-quali-cuts-deployment-time",
-        "source": "Cisco Blogs",
-        "published": "2026-09-09T15:00:14.000Z",
         "topics": [],
         "type": "article"
       },
