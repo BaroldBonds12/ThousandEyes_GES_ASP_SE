@@ -1,7 +1,143 @@
 {
-  "updatedAt": "2026-09-18T15:31:54.422Z",
+  "updatedAt": "2026-09-19T15:06:18.413Z",
   "industry": {
     "items": [
+      {
+        "title": "One engineer shipped 2,000 PRs a month to production. Verification is the key.",
+        "url": "https://thenewstack.io/agentic-verification-distributed-systems/",
+        "source": "The New Stack",
+        "published": "2026-09-19T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules",
+        "url": "https://thenewstack.io/vercel-hobby-deployment-retention/",
+        "source": "The New Stack",
+        "published": "2026-09-19T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models",
+        "url": "https://thenewstack.io/ai-agent-harness-economics/",
+        "source": "The New Stack",
+        "published": "2026-09-19T10:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5.",
+        "url": "https://thenewstack.io/claude-exploits-openai-forum/",
+        "source": "The New Stack",
+        "published": "2026-09-18T18:57:14.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Saving another 100TB of RAM with math (and Rust)",
+        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-18T17:23:58.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
+        "url": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-18T16:30:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Reimagining service delivery in the agentic era with Google Public Sector",
+        "url": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-18T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-18T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How to upskill enterprise AI builders by using daily micro habits",
+        "url": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-18T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
+        "url": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-18T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-18T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Changing the game: Using agentic AI to secure infrastructure code",
+        "url": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-18T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Kubernetes can run AI inference. But can it count the real cost?",
+        "url": "https://thenewstack.io/kubernetes-ai-inference-costs/",
+        "source": "The New Stack",
+        "published": "2026-09-18T15:53:21.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
         "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
@@ -42,6 +178,16 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "Introducing the Australian Youth Safety Blueprint",
+        "url": "https://openai.com/index/australian-youth-safety-blueprint",
+        "source": "OpenAI Blog",
+        "published": "2026-09-18T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
         ]
       },
       {
@@ -118,157 +264,19 @@
           "networking",
           "development"
         ]
-      },
-      {
-        "title": "The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-17T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "The critical vulnerability was a test database. That’s the whole triage problem.",
-        "url": "https://thenewstack.io/vulnerability-prioritization-business-context/",
-        "source": "The New Stack",
-        "published": "2026-09-17T16:56:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How a solo founder runs a five-continent tender platform on AlloyDB and MCP",
-        "url": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-17T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "What’s new with Google Data Cloud",
-        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-17T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Study: Developers are addicted to AI, and managers are making it worse",
-        "url": "https://thenewstack.io/study-developers-are-addicted/",
-        "source": "The New Stack",
-        "published": "2026-09-17T15:12:36.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Why human oversight is shifting from writing code to defining requirements",
-        "url": "https://thenewstack.io/human-oversight-defining-requirements/",
-        "source": "The New Stack",
-        "published": "2026-09-17T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How Cooley is accelerating IPO work with ChatGPT",
-        "url": "https://openai.com/index/cooley-gopublic",
-        "source": "OpenAI Blog",
-        "published": "2026-09-17T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-        "source": "GitHub Blog",
-        "published": "2026-09-17T00:26:43.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Introducing Astra for Law",
-        "url": "https://openai.com/index/astra-for-law",
-        "source": "OpenAI Blog",
-        "published": "2026-09-17T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Perplexity’s AI agents helped build a database. They weren’t allowed to run it.",
-        "url": "https://thenewstack.io/perplexity-cobbledb-ai-database/",
-        "source": "The New Stack",
-        "published": "2026-09-16T21:51:15.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Automattic says CEO Mullenweg was gone and back inside 33 hours. What happened between?",
-        "url": "https://thenewstack.io/automattic-mullenweg-boardroom-reversal/",
-        "source": "The New Stack",
-        "published": "2026-09-16T20:39:42.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
-        "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-16T20:06:17.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "“Everyone’s in a race to replace GitHub”: Zed launches Delta because agents made pull requests obsolete",
-        "url": "https://thenewstack.io/zed-delta-github-alternative/",
-        "source": "The New Stack",
-        "published": "2026-09-16T19:45:30.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Our framework for reporting model misalignment",
-        "url": "https://openai.com/index/model-misalignment-reporting-framework",
-        "source": "OpenAI Blog",
-        "published": "2026-09-16T17:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "What’s Next for Cisco + Splunk: Insights from Our Partners at .conf26",
+        "url": "https://blogs.cisco.com/partner/whats-next-for-cisco-splunk-insights-from-our-partners-at-conf26",
+        "source": "Cisco Blogs",
+        "published": "2026-09-18T16:00:39.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Accelerating Operational Efficiency in Modern Transportation",
         "url": "https://blogs.cisco.com/industrial-iot/accelerating-operational-efficiency-in-modern-transportation",
@@ -342,14 +350,6 @@
         "type": "article"
       },
       {
-        "title": "Building for the AI era: Inside Cisco IT’s Wi-Fi 7 revolution",
-        "url": "https://blogs.cisco.com/cisco-on-cisco/building-for-the-ai-era-inside-cisco-its-wi-fi-7-revolution",
-        "source": "Cisco Blogs",
-        "published": "2026-09-14T13:00:21.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "MEDIA ALERT: Global Industry Leaders Join Cisco's WebexOne to Showcase What's Next for AI-Powered Work",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/media-alert-global-industry-leaders-join-cisco-webexone-to-showcase-what-s-next-for-ai-powered-work.html?source=rss",
         "source": "Cisco Press Releases",
@@ -393,6 +393,13 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Network Segmentation Widget in Cisco Cloud Control",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#network-segmentation-widget-in-cisco-cloud-control",
+        "source": "Release Notes",
+        "published": "2026-09-18T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Chromium 152 Available for Browser Test Validation",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#chromium-152-available-for-browser-test-validation",
@@ -452,13 +459,6 @@
       {
         "title": "Advance Notice: End of Support for NTLM Authentication",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#advance-notice-end-of-support-for-ntlm-authentication",
-        "source": "Release Notes",
-        "published": "2026-09-02T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Enhanced Support Chat Now Live",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#enhanced-support-chat-now-live",
         "source": "Release Notes",
         "published": "2026-09-02T00:00:00.000Z",
         "type": "release"
