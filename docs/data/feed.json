@@ -1,7 +1,109 @@
 {
-  "updatedAt": "2026-09-19T15:06:18.413Z",
+  "updatedAt": "2026-09-21T17:31:58.633Z",
   "industry": {
     "items": [
+      {
+        "title": "Scale your AI workloads faster and more efficiently with GKE Pod snapshots",
+        "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-21T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Strengthen your CI/CD pipeline with new Secure Source Manager capabilities",
+        "url": "https://cloud.google.com/blog/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-21T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices",
+        "url": "https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-21T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
+        "url": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-21T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Python Workers are now generally available",
+        "url": "https://blog.cloudflare.com/python-workers-ga/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-21T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Building standards for the next phase of AI",
+        "url": "https://openai.com/index/building-standards-next-phase-ai",
+        "source": "OpenAI Blog",
+        "published": "2026-09-21T10:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Expanding OpenAI Academy with new learning paths",
+        "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+        "source": "OpenAI Blog",
+        "published": "2026-09-21T07:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "How V7 gives AI agents institutional memory",
+        "url": "https://openai.com/index/v7",
+        "source": "OpenAI Blog",
+        "published": "2026-09-21T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Understand the top paths users take to convert or drop off with Journey Paths",
+        "url": "https://www.datadoghq.com/blog/product-analytics-journey-paths/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-21T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Your AI agent failed. The model might not be the problem.",
+        "url": "https://thenewstack.io/nvidia-agent-debugging-safe/",
+        "source": "The New Stack",
+        "published": "2026-09-20T14:04:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "One engineer shipped 2,000 PRs a month to production. Verification is the key.",
         "url": "https://thenewstack.io/agentic-verification-distributed-systems/",
@@ -88,8 +190,8 @@
         ]
       },
       {
-        "title": "How to upskill enterprise AI builders by using daily micro habits",
-        "url": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-09-18T16:00:00.000Z",
         "topics": [
@@ -108,8 +210,8 @@
         ]
       },
       {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "title": "Changing the game: Using agentic AI to secure infrastructure code",
+        "url": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
         "source": "Google Cloud Blog",
         "published": "2026-09-18T16:00:00.000Z",
         "topics": [
@@ -118,8 +220,8 @@
         ]
       },
       {
-        "title": "Changing the game: Using agentic AI to secure infrastructure code",
-        "url": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
+        "title": "How to upskill enterprise AI builders by using daily micro habits",
+        "url": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
         "source": "Google Cloud Blog",
         "published": "2026-09-18T16:00:00.000Z",
         "topics": [
@@ -157,118 +259,43 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Your agent is only as good as your infrastructure",
-        "url": "https://thenewstack.io/ai-agent-infrastructure-performance/",
-        "source": "The New Stack",
-        "published": "2026-09-18T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Open-weight models now handle a majority of tokens on Vercel’s AI Gateway. But Anthropic still takes 64% of the spend.",
-        "url": "https://thenewstack.io/open-weight-anthropic-spend/",
-        "source": "The New Stack",
-        "published": "2026-09-18T12:42:58.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Introducing the Australian Youth Safety Blueprint",
-        "url": "https://openai.com/index/australian-youth-safety-blueprint",
-        "source": "OpenAI Blog",
-        "published": "2026-09-18T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Code review is burning out your best engineers",
-        "url": "https://thenewstack.io/ai-code-review-burnout/",
-        "source": "The New Stack",
-        "published": "2026-09-18T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Enforce custom rules in Datadog IaC Security scanning",
-        "url": "https://www.datadoghq.com/blog/custom-iac-security-rules/",
-        "source": "Datadog Engineering",
-        "published": "2026-09-18T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Intel squeezed a 1.58-bit LLM down to 1.485 bits without changing a single weight",
-        "url": "https://thenewstack.io/intel-bitcos-ternary-compression/",
-        "source": "The New Stack",
-        "published": "2026-09-17T20:51:57.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Be transparent only if asked”: OpenAI’s models learned to leave notes for their future selves",
-        "url": "https://thenewstack.io/openai-model-misalignment-reports/",
-        "source": "The New Stack",
-        "published": "2026-09-17T18:27:44.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GitHub and Anthropic used their own agents for major Rust rewrites — but with very different playbooks",
-        "url": "https://thenewstack.io/github-copilot-anthropic-rust-migration/",
-        "source": "The New Stack",
-        "published": "2026-09-17T18:06:03.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Anthropic’s new Claude Code feature could drain your plan before lunch",
-        "url": "https://thenewstack.io/claude-code-parallel-projects/",
-        "source": "The New Stack",
-        "published": "2026-09-17T17:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
-        "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-17T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Partner Study Shows a Maturing AI Market, Expanding Opportunity for Partners",
+        "url": "https://blogs.cisco.com/partner/partner-study-shows-a-maturing-ai-market-expanding-opportunity-for-partners",
+        "source": "Cisco Blogs",
+        "published": "2026-09-21T16:23:35.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "The AI Era Demands More Than Speed: Building Secure, Intelligent Networks from Silicon to Optics",
+        "url": "https://blogs.cisco.com/news/the-ai-era-demands-more-than-speed-building-secure-intelligent-networks-from-silicon-to-optics",
+        "source": "Cisco Blogs",
+        "published": "2026-09-21T15:00:51.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "From Love Letters to AI Agents: Cybersecurity’s Evolution",
+        "url": "https://blogs.cisco.com/security/from-love-letters-to-ai-agents-cybersecuritys-evolution",
+        "source": "Cisco Blogs",
+        "published": "2026-09-21T15:00:07.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Industry’s first MLPerf™ Inference benchmarking across multi-vendor accelerators",
+        "url": "https://blogs.cisco.com/datacenter/industrys-first-mlperf-inference-benchmarking-across-multi-vendor-accelerators",
+        "source": "Cisco Blogs",
+        "published": "2026-09-21T15:00:06.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "What’s Next for Cisco + Splunk: Insights from Our Partners at .conf26",
         "url": "https://blogs.cisco.com/partner/whats-next-for-cisco-splunk-insights-from-our-partners-at-conf26",
@@ -314,38 +341,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-delivers-trusted-ai-at-scale-through-new-splunk-advancements.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-09-15T14:30:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Rail Network Modernization: FRMCS, Sovereignty and the AI Edge",
-        "url": "https://blogs.cisco.com/industries/rail-network-modernization-frmcs-sovereignty-and-the-ai-edge",
-        "source": "Cisco Blogs",
-        "published": "2026-09-15T13:31:46.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco and the DISA STIG: Turning Zero Trust Policy into Repeatable Practice – Part 2: Cisco SNA",
-        "url": "https://blogs.cisco.com/industries/cisco-and-the-disa-stig-turning-zero-trust-policy-into-repeatable-practice-part-2-cisco-sna",
-        "source": "Cisco Blogs",
-        "published": "2026-09-15T13:13:53.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Closing the Resilience Gap with Native Splunk in Cisco Nexus One",
-        "url": "https://blogs.cisco.com/datacenter/closing-the-resilience-gap-with-native-splunk-in-cisco-nexus-one",
-        "source": "Cisco Blogs",
-        "published": "2026-09-14T19:55:29.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Honest Migration Playbook – IPsec Series, Part 11",
-        "url": "https://blogs.cisco.com/developer/the-honest-migration-playbook-ipsec-series-part-11",
-        "source": "Cisco Blogs",
-        "published": "2026-09-14T19:41:59.000Z",
         "topics": [],
         "type": "article"
       },
