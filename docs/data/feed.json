@@ -1,7 +1,136 @@
 {
-  "updatedAt": "2026-09-21T17:31:58.633Z",
+  "updatedAt": "2026-09-22T16:00:44.594Z",
   "industry": {
     "items": [
+      {
+        "title": "We just shipped support for the ugliest part of HTTP: Vary",
+        "url": "https://blog.cloudflare.com/vary-support/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-22T14:04:31.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "The cloud reduced operational complexity. But many teams need someone to own it completely.",
+        "url": "https://thenewstack.io/elastic-beanstalk-operational-ownership/",
+        "source": "The New Stack",
+        "published": "2026-09-22T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+        "url": "https://blog.cloudflare.com/worker-previews/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-22T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "AI coding agents need a secrets-safe context boundary",
+        "url": "https://thenewstack.io/ai-agent-context-boundary/",
+        "source": "The New Stack",
+        "published": "2026-09-22T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
+        "url": "https://thenewstack.io/grok-build-vs-claude-code-memory/",
+        "source": "The New Stack",
+        "published": "2026-09-21T20:04:18.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "TypeSafe launched Jev because sequential LLMs are “totally useless for computers”",
+        "url": "https://thenewstack.io/typesafe-jev-system-one/",
+        "source": "The New Stack",
+        "published": "2026-09-21T19:36:29.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Your AI agent is burning tokens on choices that don’t need words",
+        "url": "https://thenewstack.io/kev-skips-text-generation/",
+        "source": "The New Stack",
+        "published": "2026-09-21T19:13:46.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Grok 4.7 was built to work for hours. It still fails most of the time.",
+        "url": "https://thenewstack.io/grok-4-7-agent-stamina/",
+        "source": "The New Stack",
+        "published": "2026-09-21T19:13:23.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Grafana Alerting: Scale alert routing without scaling complexity using multiple notification policies",
+        "url": "https://grafana.com/blog/grafana-alerting-scale-alert-routing-without-scaling-complexity-using-multiple-notification-policies/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-09-21T18:45:23.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
+        "url": "https://thenewstack.io/aws-strands-harness-agent/",
+        "source": "The New Stack",
+        "published": "2026-09-21T18:30:16.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
+        "url": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-21T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices",
+        "url": "https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-21T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
       {
         "title": "Scale your AI workloads faster and more efficiently with GKE Pod snapshots",
         "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/",
@@ -23,26 +152,6 @@
         ]
       },
       {
-        "title": "Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices",
-        "url": "https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-21T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
-        "url": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-21T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
         "title": "Python Workers are now generally available",
         "url": "https://blog.cloudflare.com/python-workers-ga/",
         "source": "Cloudflare Blog",
@@ -51,6 +160,26 @@
           "networking",
           "observability",
           "monitoring"
+        ]
+      },
+      {
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "source": "OpenAI Blog",
+        "published": "2026-09-21T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "source": "OpenAI Blog",
+        "published": "2026-09-21T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
         ]
       },
       {
@@ -136,134 +265,27 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5.",
-        "url": "https://thenewstack.io/claude-exploits-openai-forum/",
-        "source": "The New Stack",
-        "published": "2026-09-18T18:57:14.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Saving another 100TB of RAM with math (and Rust)",
-        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-18T17:23:58.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
-        "url": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-18T16:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Reimagining service delivery in the agentic era with Google Public Sector",
-        "url": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-18T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-18T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-18T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
-        "url": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-18T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Changing the game: Using agentic AI to secure infrastructure code",
-        "url": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-18T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How to upskill enterprise AI builders by using daily micro habits",
-        "url": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-18T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Kubernetes can run AI inference. But can it count the real cost?",
-        "url": "https://thenewstack.io/kubernetes-ai-inference-costs/",
-        "source": "The New Stack",
-        "published": "2026-09-18T15:53:21.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
-        "source": "GitHub Blog",
-        "published": "2026-09-18T15:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "How buildpacks help enterprises finally operate container security controls at scale",
-        "url": "https://thenewstack.io/buildpacks-container-security-scale/",
-        "source": "The New Stack",
-        "published": "2026-09-18T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Notre Dame Athletics Selects Cisco to Enhance Campus-Wide Network Connectivity",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/notre-dame-athletics-selects-cisco-to-enhance-campus-wide-network-connectivity.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-09-22T12:15:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Finding my Pace: How I’ve Found Wellbeing and Purpose at Cisco",
+        "url": "https://blogs.cisco.com/wearecisco/finding-my-pace-how-ive-found-wellbeing-and-purpose-at-cisco",
+        "source": "Cisco Blogs",
+        "published": "2026-09-22T12:00:19.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Partner Study Shows a Maturing AI Market, Expanding Opportunity for Partners",
         "url": "https://blogs.cisco.com/partner/partner-study-shows-a-maturing-ai-market-expanding-opportunity-for-partners",
@@ -313,6 +335,14 @@
         "type": "article"
       },
       {
+        "title": "Silent, solar boats transform Amazon communities",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/silent-solar-boats-transform-amazon-communities.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-09-17T12:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
         "title": "Native Splunk brings real-time insights to Cisco Nexus One",
         "url": "https://blogs.cisco.com/datacenter/native-splunk-brings-real-time-insights-to-cisco-nexus-one",
         "source": "Cisco Blogs",
@@ -325,14 +355,6 @@
         "url": "https://blogs.cisco.com/networking/cisco-integrates-axis-devices-bringing-unified-management-across-it-environments",
         "source": "Cisco Blogs",
         "published": "2026-09-16T15:00:57.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco UCS Manager: Celebrating the legacy, shaping the future with Cisco Intersight",
-        "url": "https://blogs.cisco.com/datacenter/cisco-ucs-manager-celebrating-the-legacy-shaping-the-future-with-cisco-intersight",
-        "source": "Cisco Blogs",
-        "published": "2026-09-15T21:00:37.000Z",
         "topics": [],
         "type": "article"
       },
@@ -367,27 +389,18 @@
         "published": "2026-08-31T20:30:00.000Z",
         "topics": [],
         "type": "article"
-      },
-      {
-        "title": "AMD, Cisco and HUMAIN Expand Saudi Arabia’s AI Infrastructure as AMD Instinct Systems Go Live",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/amd-cisco-and-humain-expand-saudi-arabia-ai-infrastructure.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-08-31T11:15:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco Launches Sovereign Critical Infrastructure in Canada – Government and Organizations Gain More Choice and Control",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-launches-sovereign-critical-infrastructure-in-canada-government-and-organizations-gain-more-choice-and-control.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-08-25T13:00:00.000Z",
-        "topics": [],
-        "type": "article"
       }
     ]
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Cloud Insights Topology View",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#cloud-insights-topology-view",
+        "source": "Release Notes",
+        "published": "2026-09-22T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Network Segmentation Widget in Cisco Cloud Control",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#network-segmentation-widget-in-cisco-cloud-control",
@@ -449,13 +462,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#mobile-endpoint-agent-android-version-1-8-1",
         "source": "Release Notes",
         "published": "2026-09-03T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Advance Notice: End of Support for NTLM Authentication",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#advance-notice-end-of-support-for-ntlm-authentication",
-        "source": "Release Notes",
-        "published": "2026-09-02T00:00:00.000Z",
         "type": "release"
       }
     ]
