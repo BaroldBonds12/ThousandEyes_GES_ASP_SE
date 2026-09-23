@@ -1,7 +1,187 @@
 {
-  "updatedAt": "2026-09-22T16:00:44.594Z",
+  "updatedAt": "2026-09-23T15:51:01.000Z",
   "industry": {
     "items": [
+      {
+        "title": "Two years of OpenAI Academy",
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "source": "OpenAI Blog",
+        "published": "2026-09-23T16:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "The software supply chain is the new battlefield. AI just changed the rules.",
+        "url": "https://thenewstack.io/ai-supply-chain-security/",
+        "source": "The New Stack",
+        "published": "2026-09-23T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Vulnerability alert fatigue nearly swamped WHOOP. But its fix still keeps a human in charge.",
+        "url": "https://thenewstack.io/whoop-automated-vulnerability-response-workflow/",
+        "source": "The New Stack",
+        "published": "2026-09-23T13:23:43.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+        "source": "OpenAI Blog",
+        "published": "2026-09-23T13:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+        "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+        "source": "GitHub Blog",
+        "published": "2026-09-23T13:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "AI spending can run negative. Qodo’s CEO built an ROI equation to fix it.",
+        "url": "https://thenewstack.io/qodo-ai-roi-equation/",
+        "source": "The New Stack",
+        "published": "2026-09-23T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on.",
+        "url": "https://thenewstack.io/claude-opus-agent-migration/",
+        "source": "The New Stack",
+        "published": "2026-09-23T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI cut GPT-6 token prices in half. The bigger lever may be the cache.",
+        "url": "https://thenewstack.io/openai-prompt-caching-costs/",
+        "source": "The New Stack",
+        "published": "2026-09-23T11:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+        "source": "OpenAI Blog",
+        "published": "2026-09-23T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Better prompt caching for GPT-6",
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "source": "OpenAI Blog",
+        "published": "2026-09-22T21:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Claude Opus 5.5 wants to finish your coding tasks, not just start them",
+        "url": "https://thenewstack.io/claude-opus-5-5-lifecycle/",
+        "source": "The New Stack",
+        "published": "2026-09-22T19:49:55.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "GPT-6 Sol closes most of the alignment gap with Astra. It’s one-fifth the price.",
+        "url": "https://thenewstack.io/gpt-sol-alignment-gaps/",
+        "source": "The New Stack",
+        "published": "2026-09-22T19:28:42.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“One of the most significant steps in our 26-year history”: JetBrains goes big on agentic development — and bets the IDE still matters",
+        "url": "https://thenewstack.io/jetbrains-air-agents-ide/",
+        "source": "The New Stack",
+        "published": "2026-09-22T18:27:37.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI releases GPT-6 Sol and Luna — and cuts token prices in half",
+        "url": "https://thenewstack.io/openai-gpt-6-sol-luna-release/",
+        "source": "The New Stack",
+        "published": "2026-09-22T18:00:02.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Introducing GPT-6 Sol and Luna",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "source": "OpenAI Blog",
+        "published": "2026-09-22T18:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Claude’s merged chat and Cowork vs. ChatGPT’s Work mode: ChatGPT is faster, Claude is more thorough",
+        "url": "https://thenewstack.io/claude-cowork-vs-chatgpt-work-benchmark/",
+        "source": "The New Stack",
+        "published": "2026-09-22T17:45:46.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic releases Opus 5.5 and cuts pricing by 20%. Your agent calls might secretly get routed to an older model.",
+        "url": "https://thenewstack.io/claude-opus-5-5-release/",
+        "source": "The New Stack",
+        "published": "2026-09-22T16:30:15.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "We just shipped support for the ugliest part of HTTP: Vary",
         "url": "https://blog.cloudflare.com/vary-support/",
@@ -25,7 +205,7 @@
         ]
       },
       {
-        "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+        "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
         "url": "https://blog.cloudflare.com/worker-previews/",
         "source": "Cloudflare Blog",
         "published": "2026-09-22T13:00:00.000Z",
@@ -47,229 +227,89 @@
         ]
       },
       {
-        "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
-        "url": "https://thenewstack.io/grok-build-vs-claude-code-memory/",
-        "source": "The New Stack",
-        "published": "2026-09-21T20:04:18.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "TypeSafe launched Jev because sequential LLMs are “totally useless for computers”",
-        "url": "https://thenewstack.io/typesafe-jev-system-one/",
-        "source": "The New Stack",
-        "published": "2026-09-21T19:36:29.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your AI agent is burning tokens on choices that don’t need words",
-        "url": "https://thenewstack.io/kev-skips-text-generation/",
-        "source": "The New Stack",
-        "published": "2026-09-21T19:13:46.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Grok 4.7 was built to work for hours. It still fails most of the time.",
-        "url": "https://thenewstack.io/grok-4-7-agent-stamina/",
-        "source": "The New Stack",
-        "published": "2026-09-21T19:13:23.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Grafana Alerting: Scale alert routing without scaling complexity using multiple notification policies",
-        "url": "https://grafana.com/blog/grafana-alerting-scale-alert-routing-without-scaling-complexity-using-multiple-notification-policies/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-09-21T18:45:23.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
-        "url": "https://thenewstack.io/aws-strands-harness-agent/",
-        "source": "The New Stack",
-        "published": "2026-09-21T18:30:16.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
-        "url": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-21T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices",
-        "url": "https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-21T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Scale your AI workloads faster and more efficiently with GKE Pod snapshots",
-        "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-21T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Strengthen your CI/CD pipeline with new Secure Source Manager capabilities",
-        "url": "https://cloud.google.com/blog/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-21T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Python Workers are now generally available",
-        "url": "https://blog.cloudflare.com/python-workers-ga/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-21T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Advisory Group on Mathematics and Artificial Intelligence",
-        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+        "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
         "source": "OpenAI Blog",
-        "published": "2026-09-21T12:00:00.000Z",
+        "published": "2026-09-22T12:00:00.000Z",
         "topics": [
           "ai",
           "development"
         ]
       },
       {
-        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "title": "Priorities and principles for effective third party assessments",
+        "url": "https://openai.com/index/priorities-principles-third-party-assessments",
         "source": "OpenAI Blog",
-        "published": "2026-09-21T12:00:00.000Z",
+        "published": "2026-09-22T00:00:00.000Z",
         "topics": [
           "ai",
           "development"
         ]
       },
       {
-        "title": "Building standards for the next phase of AI",
-        "url": "https://openai.com/index/building-standards-next-phase-ai",
-        "source": "OpenAI Blog",
-        "published": "2026-09-21T10:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Expanding OpenAI Academy with new learning paths",
-        "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-        "source": "OpenAI Blog",
-        "published": "2026-09-21T07:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "How V7 gives AI agents institutional memory",
-        "url": "https://openai.com/index/v7",
-        "source": "OpenAI Blog",
-        "published": "2026-09-21T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Understand the top paths users take to convert or drop off with Journey Paths",
-        "url": "https://www.datadoghq.com/blog/product-analytics-journey-paths/",
+        "title": "Cut AI agent cost and improve accuracy with Code Execution in the Datadog MCP Server",
+        "url": "https://www.datadoghq.com/blog/datadog-code-execution/",
         "source": "Datadog Engineering",
-        "published": "2026-09-21T00:00:00.000Z",
+        "published": "2026-09-22T00:00:00.000Z",
         "topics": [
           "observability",
           "monitoring"
         ]
       },
       {
-        "title": "Your AI agent failed. The model might not be the problem.",
-        "url": "https://thenewstack.io/nvidia-agent-debugging-safe/",
-        "source": "The New Stack",
-        "published": "2026-09-20T14:04:00.000Z",
+        "title": "When users don’t click thumbs up: Inferring agent feedback from Datadog telemetry",
+        "url": "https://www.datadoghq.com/blog/agent-feedback-classification-skill/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-22T00:00:00.000Z",
         "topics": [
-          "development",
           "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "One engineer shipped 2,000 PRs a month to production. Verification is the key.",
-        "url": "https://thenewstack.io/agentic-verification-distributed-systems/",
-        "source": "The New Stack",
-        "published": "2026-09-19T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules",
-        "url": "https://thenewstack.io/vercel-hobby-deployment-retention/",
-        "source": "The New Stack",
-        "published": "2026-09-19T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models",
-        "url": "https://thenewstack.io/ai-agent-harness-economics/",
-        "source": "The New Stack",
-        "published": "2026-09-19T10:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
+          "monitoring"
         ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "NetOps is already deploying agentic autonomy – trust will decide how far it goes",
+        "url": "https://blogs.cisco.com/news/netops-is-already-deploying-autonomy-trust-will-decide-how-far-it-goes",
+        "source": "Cisco Blogs",
+        "published": "2026-09-23T13:00:52.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco AI Research: AgenticOps Scaling Quickly in the Enterprise",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-ai-research-agenticops-scaling-quickly-in-the-enterprise.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-09-23T13:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "PQC for Dummies—Cisco Special Edition: Why we wrote it",
+        "url": "https://blogs.cisco.com/networking/pqc-for-dummies-cisco-special-edition-why-we-wrote-it",
+        "source": "Cisco Blogs",
+        "published": "2026-09-22T22:41:59.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Beyond static estimates: How Cisco’s product carbon footprint feature tracks a decarbonizing grid",
+        "url": "https://blogs.cisco.com/our-corporate-purpose/beyond-static-estimates-how-ciscos-product-carbon-footprint-feature-tracks-a-decarbonizing-grid",
+        "source": "Cisco Blogs",
+        "published": "2026-09-22T21:23:51.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Your network is a security layer. It’s time to treat it like one.",
+        "url": "https://blogs.cisco.com/networking/your-network-is-a-security-layer-its-time-to-treat-it-like-one",
+        "source": "Cisco Blogs",
+        "published": "2026-09-22T20:41:57.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Notre Dame Athletics Selects Cisco to Enhance Campus-Wide Network Connectivity",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/notre-dame-athletics-selects-cisco-to-enhance-campus-wide-network-connectivity.html?source=rss",
@@ -319,42 +359,10 @@
         "type": "article"
       },
       {
-        "title": "What’s Next for Cisco + Splunk: Insights from Our Partners at .conf26",
-        "url": "https://blogs.cisco.com/partner/whats-next-for-cisco-splunk-insights-from-our-partners-at-conf26",
-        "source": "Cisco Blogs",
-        "published": "2026-09-18T16:00:39.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Accelerating Operational Efficiency in Modern Transportation",
-        "url": "https://blogs.cisco.com/industrial-iot/accelerating-operational-efficiency-in-modern-transportation",
-        "source": "Cisco Blogs",
-        "published": "2026-09-17T13:30:51.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Silent, solar boats transform Amazon communities",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/silent-solar-boats-transform-amazon-communities.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-09-17T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Native Splunk brings real-time insights to Cisco Nexus One",
-        "url": "https://blogs.cisco.com/datacenter/native-splunk-brings-real-time-insights-to-cisco-nexus-one",
-        "source": "Cisco Blogs",
-        "published": "2026-09-16T15:00:59.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco integrates Axis devices, bringing unified management across IT environments",
-        "url": "https://blogs.cisco.com/networking/cisco-integrates-axis-devices-bringing-unified-management-across-it-environments",
-        "source": "Cisco Blogs",
-        "published": "2026-09-16T15:00:57.000Z",
         "topics": [],
         "type": "article"
       },
@@ -381,19 +389,25 @@
         "published": "2026-09-04T12:00:00.000Z",
         "topics": [],
         "type": "article"
-      },
-      {
-        "title": "Cisco to Participate in September Events with the Financial Community",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-to-participate-in-september-events-with-the-financial-community.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-08-31T20:30:00.000Z",
-        "topics": [],
-        "type": "article"
       }
     ]
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Color Grid Cards Show Metric Units",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#color-grid-cards-show-metric-units",
+        "source": "Release Notes",
+        "published": "2026-09-22T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Simplified Metric Selection in Dashboards",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#simplified-metric-selection-in-dashboards",
+        "source": "Release Notes",
+        "published": "2026-09-22T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Cloud Insights Topology View",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#cloud-insights-topology-view",
@@ -444,24 +458,10 @@
         "type": "release"
       },
       {
-        "title": "Final Reminder About the Browser Synthetics Screenshot Return Format Change",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#final-reminder-about-the-browser-synthetics-screenshot-return-format-change",
+        "title": "Endpoint Agent Support for Cisco Video Phone 8875",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-support-for-cisco-video-phone-8875",
         "source": "Release Notes",
-        "published": "2026-09-08T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Modernized Line Chart Experience Now Available",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#modernized-line-chart-experience-now-available",
-        "source": "Release Notes",
-        "published": "2026-09-08T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Mobile Endpoint Agent Android Version 1.8.1",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#mobile-endpoint-agent-android-version-1-8-1",
-        "source": "Release Notes",
-        "published": "2026-09-03T00:00:00.000Z",
+        "published": "2026-08-23T00:00:00.000Z",
         "type": "release"
       }
     ]
