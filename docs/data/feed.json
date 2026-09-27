@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-09-25T16:13:32.473Z",
+  "updatedAt": "2026-09-27T16:06:23.458Z",
   "industry": {
     "items": [
+      {
+        "title": "Performance engineering from kernel analysis to AI: Adrian Cockcroft’s take",
+        "url": "https://thenewstack.io/cockcroft-performance-engineering-ai/",
+        "source": "The New Stack",
+        "published": "2026-09-27T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer",
+        "url": "https://thenewstack.io/agentic-ai-kubernetes-management/",
+        "source": "The New Stack",
+        "published": "2026-09-27T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Avoiding vendor lock-in through an open-source approach: a developer’s perspective",
+        "url": "https://thenewstack.io/avoiding-vendor-lock-in/",
+        "source": "The New Stack",
+        "published": "2026-09-26T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "The agent didn’t break your controls. It went around them.",
+        "url": "https://thenewstack.io/inside-out-agent-security/",
+        "source": "The New Stack",
+        "published": "2026-09-26T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better",
+        "url": "https://thenewstack.io/claude-opus-5-5-vs-opus-5/",
+        "source": "The New Stack",
+        "published": "2026-09-26T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
         "url": "https://openai.com/index/proaction",
@@ -13,8 +68,39 @@
         ]
       },
       {
-        "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
-        "url": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
+        "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+        "source": "GitHub Blog",
+        "published": "2026-09-25T18:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Microsoft’s new Copilot agents get their own email, calendar — and a place in the org chart",
+        "url": "https://thenewstack.io/copilot-agents-identity-runtime/",
+        "source": "The New Stack",
+        "published": "2026-09-25T17:16:31.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenTelemetry and Prometheus are getting along. What’s still missing?",
+        "url": "https://thenewstack.io/opentelemetry-prometheus-observability-interoperability/",
+        "source": "The New Stack",
+        "published": "2026-09-25T16:56:47.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-09-25T16:00:00.000Z",
         "topics": [
@@ -23,8 +109,8 @@
         ]
       },
       {
-        "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
+        "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
+        "url": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
         "source": "Google Cloud Blog",
         "published": "2026-09-25T16:00:00.000Z",
         "topics": [
@@ -43,11 +129,31 @@
         ]
       },
       {
+        "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-25T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
         "title": "Improving site performance by shipping more CSS",
         "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
         "source": "GitHub Blog",
         "published": "2026-09-25T15:00:00.000Z",
         "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-25T14:00:00.000Z",
+        "topics": [
+          "networking",
           "development"
         ]
       },
@@ -71,6 +177,16 @@
           "development",
           "observability",
           "networking"
+        ]
+      },
+      {
+        "title": "Extend Datadog RUM and Product Analytics to Shopify and Salesforce",
+        "url": "https://www.datadoghq.com/blog/rum-product-analytics-shopify-salesforce/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-25T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
         ]
       },
       {
@@ -141,120 +257,6 @@
         "topics": [
           "observability",
           "monitoring"
-        ]
-      },
-      {
-        "title": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
-        "url": "https://thenewstack.io/kubernetes-self-service-platform-teams/",
-        "source": "The New Stack",
-        "published": "2026-09-24T16:06:27.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
-        "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-24T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise",
-        "url": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-24T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-        "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-24T15:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-24T15:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How growing Latin American midsize businesses are building in the AI era",
-        "url": "https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-24T14:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "AlloyDB delivers PostgreSQL for agents: Real-time data at agent scale, with full workload isolation",
-        "url": "https://cloud.google.com/blog/products/databases/announcing-postgresql-for-agents-in-alloydb/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-24T14:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "A new, no-compromises database architecture for the agentic era",
-        "url": "https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-24T14:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google’s Gemini CLI now asks before editing your build files",
-        "url": "https://thenewstack.io/gemini-cli-prompt-injection-safeguards/",
-        "source": "The New Stack",
-        "published": "2026-09-24T14:27:27.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
-        "source": "Google Cloud Blog",
-        "published": "2026-09-24T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "OpenAI makes you call sales for a custom voice. Google just made it self-serve.",
-        "url": "https://thenewstack.io/gemini-tts-voice-replication-api/",
-        "source": "The New Stack",
-        "published": "2026-09-24T13:20:11.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
         ]
       }
     ]
