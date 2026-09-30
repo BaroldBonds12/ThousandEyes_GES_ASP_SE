@@ -1,237 +1,52 @@
 {
-  "updatedAt": "2026-09-29T17:21:58.501Z",
+  "updatedAt": "2026-09-30T17:19:37.460Z",
   "industry": {
     "items": [
       {
-        "title": "OpenAI just launched Dots. Here’s why they matter for developers.",
-        "url": "https://thenewstack.io/openai-dots-gpt6-agents/",
-        "source": "The New Stack",
-        "published": "2026-09-29T17:15:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI’s new GPT-6.1 Sol undercuts its own Astra flagship",
-        "url": "https://thenewstack.io/openai-gpt-6-1-sol/",
-        "source": "The New Stack",
-        "published": "2026-09-29T17:15:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-        "url": "https://thenewstack.io/openai-decision-api-luna/",
-        "source": "The New Stack",
-        "published": "2026-09-29T17:15:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
-        "url": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
+        "title": "Cloud CISO Perspectives: How cybersecurity startups can win CISOs",
+        "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
         "source": "Google Cloud Blog",
-        "published": "2026-09-29T17:00:00.000Z",
+        "published": "2026-09-30T16:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
-        "url": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
+        "title": "Empower your agents with the Google Cloud CLI remote MCP server",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
         "source": "Google Cloud Blog",
-        "published": "2026-09-29T16:00:00.000Z",
+        "published": "2026-09-30T16:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-        "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-        "source": "GitHub Blog",
-        "published": "2026-09-29T15:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Claude Opus 5.5 vs. Fable 5.1: One overthinks, the other cuts corners",
-        "url": "https://thenewstack.io/claude-opus-5-5-vs-fable-5-1/",
-        "source": "The New Stack",
-        "published": "2026-09-29T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How to reassign resource ownership before someone’s last day",
-        "url": "https://thenewstack.io/reassign-cloud-resource-ownership/",
-        "source": "The New Stack",
-        "published": "2026-09-29T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Defending at machine speed: Securing the public sector in the agentic era",
-        "url": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
+        "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
+        "url": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
         "source": "Google Cloud Blog",
-        "published": "2026-09-29T14:00:00.000Z",
+        "published": "2026-09-30T16:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "MCP gets AI agents into your APIs. It doesn’t decide what they should see.",
-        "url": "https://thenewstack.io/mcp-ai-agents-api/",
-        "source": "The New Stack",
-        "published": "2026-09-29T13:06:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Using AI to chart a course for our post-quantum migration",
-        "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-29T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Building a certificate authority for the whole Internet",
-        "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-29T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
-        "url": "https://blog.cloudflare.com/ai-era-framework/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-29T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
-        "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-29T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "We tested our own WAF with frontier AI models. Here’s what we found",
-        "url": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-29T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
-        "url": "https://blog.cloudflare.com/threat-signals/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-29T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
-        "url": "https://blog.cloudflare.com/post-quantum-visibility/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-29T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Enforce positive security with Cloudflare Application Profiles",
-        "url": "https://blog.cloudflare.com/application-profiles/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-29T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Preventing quantum downgrade attacks against IPsec",
-        "url": "https://blog.cloudflare.com/ipsec-downgrade-protection/",
-        "source": "Cloudflare Blog",
-        "published": "2026-09-29T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Ember-1 vs. Kimi K3: Nearly identical results at 3.4 times the speed",
-        "url": "https://thenewstack.io/ember1-kimik3-speed-comparison/",
-        "source": "The New Stack",
-        "published": "2026-09-29T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
+        "title": "What’s new in AI infrastructure and orchestration in September",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
         "source": "Google Cloud Blog",
-        "published": "2026-09-29T05:00:00.000Z",
+        "published": "2026-09-30T16:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "You picked Claude Sonnet 5.5 — but Anthropic may send your request to Sonnet 5 in “higher-risk” situations",
-        "url": "https://thenewstack.io/claude-sonnet-cyber-safeguards/",
+        "title": "OpenAI’s Dots boundary problem rate doubled in longer tests",
+        "url": "https://thenewstack.io/openai-dots-agent-permissions/",
         "source": "The New Stack",
-        "published": "2026-09-28T21:34:23.000Z",
+        "published": "2026-09-30T15:26:15.000Z",
         "topics": [
           "development",
           "observability",
@@ -239,10 +54,10 @@
         ]
       },
       {
-        "title": "OpenAI exposes “new variety of prompt injection” that can spread like computer worms",
-        "url": "https://thenewstack.io/openai-self-replicating-injections/",
+        "title": "Your AI agent aced the demo. Your data may still derail it.",
+        "url": "https://thenewstack.io/ai-agents-production-data/",
         "source": "The New Stack",
-        "published": "2026-09-28T21:26:55.000Z",
+        "published": "2026-09-30T15:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -250,10 +65,10 @@
         ]
       },
       {
-        "title": "Enterprise AI desperately needs to protect data and models. Here’s how confidential AI could do it.",
-        "url": "https://thenewstack.io/confidential-ai-sensitive-enterprise-data/",
+        "title": "Microsoft Fabric is where AI agents learn how the business works",
+        "url": "https://thenewstack.io/microsoft-fabric-agent-context/",
         "source": "The New Stack",
-        "published": "2026-09-28T20:22:00.000Z",
+        "published": "2026-09-30T14:46:32.000Z",
         "topics": [
           "development",
           "observability",
@@ -261,19 +76,219 @@
         ]
       },
       {
-        "title": "How we will do better for Australia",
-        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "title": "Kill the code review theater, keep the review",
+        "url": "https://thenewstack.io/kill-code-review-theater/",
+        "source": "The New Stack",
+        "published": "2026-09-30T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-30T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Cloudflare Impact reaches $100 million in donations",
+        "url": "https://blog.cloudflare.com/100-million-donations/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-30T13:01:55.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Cut your AI spend with AI Gateway's Auto Router",
+        "url": "https://blog.cloudflare.com/auto-router/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-30T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Detect and send production issues straight to your agent",
+        "url": "https://blog.cloudflare.com/real-time-issue-detection/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-30T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Simplifying domains for people and agents",
+        "url": "https://blog.cloudflare.com/simplifying-domains/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-30T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+        "url": "https://blog.cloudflare.com/monetization-gateway-beta/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-30T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Pay Per Use: when AI uses your work, you should get paid",
+        "url": "https://blog.cloudflare.com/pay-per-use/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-30T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Identify AI model overuse with User Insights",
+        "url": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-30T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "CRA readiness starts in the codebase",
+        "url": "https://thenewstack.io/cra-readiness-starts-codebase/",
+        "source": "The New Stack",
+        "published": "2026-09-30T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
+        "source": "Google Cloud Blog",
+        "published": "2026-09-30T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+        "url": "https://blog.cloudflare.com/faster-agent-sandboxes/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-30T12:58:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "The Internet has a second audience",
+        "url": "https://blog.cloudflare.com/agentic-web/",
+        "source": "Cloudflare Blog",
+        "published": "2026-09-30T12:58:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Eclipse wants companies to be free to switch AI providers. Today, doing so can mean a costly rebuild.",
+        "url": "https://thenewstack.io/eclipse-sovereign-ai-foundation/",
+        "source": "The New Stack",
+        "published": "2026-09-30T11:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“Think of it as Kubernetes for agents”: OpenClaw lands in the enterprise with OpenAI, Nvidia and Red Hat on board",
+        "url": "https://thenewstack.io/openclaw-enterprise-kubernetes-agents/",
+        "source": "The New Stack",
+        "published": "2026-09-30T10:36:01.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Helping small businesses put AI to work",
+        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
         "source": "OpenAI Blog",
-        "published": "2026-09-28T19:00:00.000Z",
+        "published": "2026-09-30T10:00:00.000Z",
         "topics": [
           "ai",
           "development"
+        ]
+      },
+      {
+        "title": "How we built an async-aware Python profiler",
+        "url": "https://www.datadoghq.com/blog/engineering/async-python-profiler/",
+        "source": "Datadog Engineering",
+        "published": "2026-09-30T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Why Featherless says you don’t need a tank to deliver a pizza",
+        "url": "https://thenewstack.io/featherless-simple-jev-classifier/",
+        "source": "The New Stack",
+        "published": "2026-09-29T19:38:59.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
         ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "DevNet Latin & Hispanic Heritage Month recap",
+        "url": "https://blogs.cisco.com/developer/devnet-latin-hispanic-heritage-month-recap",
+        "source": "Cisco Blogs",
+        "published": "2026-09-30T14:00:22.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco unveils the Relentless Defense report",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-unveils-the-relentless-defense-report.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-09-29T12:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Automating Post-Quantum IPsec on Cisco Routers – IPsec Series, Part 12",
         "url": "https://blogs.cisco.com/developer/automating-post-quantum-ipsec-on-cisco-routers-ipsec-series-part-12",
@@ -339,14 +354,6 @@
         "type": "article"
       },
       {
-        "title": "LLM Security Leaderboard Now Ranks Every Modality Where Agent Risk Lives: Text, Image, and Audio",
-        "url": "https://blogs.cisco.com/ai/llm-security-leaderboard-multimodal",
-        "source": "Cisco Blogs",
-        "published": "2026-09-24T15:59:36.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "The Many Worlds of Amy Chang",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/the-many-worlds-of-amy-chang.html?source=rss",
         "source": "Cisco Newsroom",
@@ -383,14 +390,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-delivers-trusted-ai-at-scale-through-new-splunk-advancements.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-09-15T14:30:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "MEDIA ALERT: Global Industry Leaders Join Cisco's WebexOne to Showcase What's Next for AI-Powered Work",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/media-alert-global-industry-leaders-join-cisco-webexone-to-showcase-what-s-next-for-ai-powered-work.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-09-10T13:00:00.000Z",
         "topics": [],
         "type": "article"
       }
