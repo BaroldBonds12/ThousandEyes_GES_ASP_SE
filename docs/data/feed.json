@@ -1,22 +1,12 @@
 {
-  "updatedAt": "2026-10-01T17:47:01.683Z",
+  "updatedAt": "2026-10-03T15:29:28.313Z",
   "industry": {
     "items": [
       {
-        "title": "The eternal complement",
-        "url": "https://openai.com/index/the-eternal-complement",
-        "source": "OpenAI Blog",
-        "published": "2026-10-01T17:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Bit Cloud’s next chapter starts after the AI builds your app",
-        "url": "https://thenewstack.io/bit-cloud-component-reuse/",
+        "title": "AI is speeding up exploits. Vulnerability spreadsheets can’t keep up.",
+        "url": "https://thenewstack.io/cve-vulnerability-risk-management/",
         "source": "The New Stack",
-        "published": "2026-10-01T17:00:00.000Z",
+        "published": "2026-10-03T14:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -24,10 +14,10 @@
         ]
       },
       {
-        "title": "Transform AI from a security blind spot into a roadmap",
-        "url": "https://thenewstack.io/shadow-ai-ciso-governance/",
+        "title": "Anthropic’s answer to Dots and Muse is already inside Claude",
+        "url": "https://thenewstack.io/claude-answer-to-dots-muse/",
         "source": "The New Stack",
-        "published": "2026-10-01T16:40:44.000Z",
+        "published": "2026-10-03T10:11:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -35,51 +25,52 @@
         ]
       },
       {
-        "title": "How Albertsons Companies is reimagining retail from the inside out",
-        "url": "https://openai.com/index/albertsons-reimagining-retail",
-        "source": "OpenAI Blog",
-        "published": "2026-10-01T16:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "AWS launches a local answer to TypeSafe’s Jev decision model",
-        "url": "https://thenewstack.io/aws-strands-decider-model/",
-        "source": "The New Stack",
-        "published": "2026-10-01T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
-        "url": "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/",
+        "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
+        "url": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
         "source": "Google Cloud Blog",
-        "published": "2026-10-01T16:00:00.000Z",
+        "published": "2026-10-02T19:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark",
-        "url": "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-01T16:00:00.000Z",
+        "title": "GitHub’s advice for its new Copilot feature is to try something else first",
+        "url": "https://thenewstack.io/github-copilot-computer-use-desktop/",
+        "source": "The New Stack",
+        "published": "2026-10-02T18:25:27.000Z",
         "topics": [
-          "networking",
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
+        "url": "https://thenewstack.io/kubecon-agent-harness-koordinator/",
+        "source": "The New Stack",
+        "published": "2026-10-02T16:31:26.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "A model guide for the GPT-6 family",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "source": "OpenAI Blog",
+        "published": "2026-10-02T16:15:00.000Z",
+        "topics": [
+          "ai",
           "development"
         ]
       },
       {
-        "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+        "url": "https://blog.cloudflare.com/streamline/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-01T15:34:02.000Z",
+        "published": "2026-10-02T16:13:45.000Z",
         "topics": [
           "networking",
           "observability",
@@ -87,30 +78,49 @@
         ]
       },
       {
-        "title": "A live Kubernetes cluster can still have an ownership gap",
-        "url": "https://thenewstack.io/kubernetes-operations-ownership-governance/",
-        "source": "The New Stack",
-        "published": "2026-10-01T15:30:00.000Z",
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-02T16:00:00.000Z",
         "topics": [
-          "development",
-          "observability",
-          "networking"
+          "networking",
+          "development"
         ]
       },
       {
-        "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-        "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+        "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
+        "url": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-02T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
+        "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-02T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "AI is changing developer work. Here are three skills to strengthen.",
+        "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
         "source": "GitHub Blog",
-        "published": "2026-10-01T15:07:16.000Z",
+        "published": "2026-10-02T15:00:00.000Z",
         "topics": [
           "development"
         ]
       },
       {
-        "title": "Use Graph RAG when relationships are part of the evidence",
-        "url": "https://thenewstack.io/when-to-use-graph-rag/",
+        "title": "“No reason why everyone should have an identical Claude experience”: Anthropic’s mods let you change Claude Code’s look and behavior",
+        "url": "https://thenewstack.io/anthropic-claude-code-mods-plugins/",
         "source": "The New Stack",
-        "published": "2026-10-01T13:30:00.000Z",
+        "published": "2026-10-02T14:07:50.000Z",
         "topics": [
           "development",
           "observability",
@@ -118,10 +128,10 @@
         ]
       },
       {
-        "title": "One year later: Sovereign AI and the fight for choice",
-        "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+        "title": "Introducing Web Search API via AI Gateway",
+        "url": "https://blog.cloudflare.com/introducing-web-search-api/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-01T13:04:19.000Z",
+        "published": "2026-10-02T13:28:10.000Z",
         "topics": [
           "networking",
           "observability",
@@ -129,10 +139,10 @@
         ]
       },
       {
-        "title": "Introducing Workers KV Instant — powered by Quicksilver",
-        "url": "https://blog.cloudflare.com/workers-kv-instant/",
+        "title": "8 major updates to Cloudflare Observability",
+        "url": "https://blog.cloudflare.com/one-observability-platform/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-01T13:00:00.000Z",
+        "published": "2026-10-02T13:00:00.000Z",
         "topics": [
           "networking",
           "observability",
@@ -140,10 +150,10 @@
         ]
       },
       {
-        "title": "Cloudflare OS: your company’s agent workspace, managed for you",
-        "url": "https://blog.cloudflare.com/managed-cloudflare-os/",
+        "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+        "url": "https://blog.cloudflare.com/cloudflare-tracing/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-01T13:00:00.000Z",
+        "published": "2026-10-02T13:00:00.000Z",
         "topics": [
           "networking",
           "observability",
@@ -151,10 +161,10 @@
         ]
       },
       {
-        "title": "Announcing Cloudflare K2: serverless event streams",
-        "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+        "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+        "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-01T13:00:00.000Z",
+        "published": "2026-10-02T13:00:00.000Z",
         "topics": [
           "networking",
           "observability",
@@ -162,10 +172,10 @@
         ]
       },
       {
-        "title": "We want you to build the next Git platform on Cloudflare",
-        "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+        "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+        "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-01T13:00:00.000Z",
+        "published": "2026-10-02T13:00:00.000Z",
         "topics": [
           "networking",
           "observability",
@@ -173,10 +183,10 @@
         ]
       },
       {
-        "title": "AI Search is now generally available",
-        "url": "https://blog.cloudflare.com/ai-search-ga/",
+        "title": "Follow the thread: a new dashboard to investigate account abuse",
+        "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-01T13:00:00.000Z",
+        "published": "2026-10-02T13:00:00.000Z",
         "topics": [
           "networking",
           "observability",
@@ -184,10 +194,10 @@
         ]
       },
       {
-        "title": "Support for modern cryptographic algorithms in Workers",
-        "url": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
+        "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+        "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-01T13:00:00.000Z",
+        "published": "2026-10-02T13:00:00.000Z",
         "topics": [
           "networking",
           "observability",
@@ -195,74 +205,63 @@
         ]
       },
       {
-        "title": "Introducing the Server Side Cloud Swift SDK",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/",
+        "title": "Building for good: How civil society organizations are automating on Cloudflare",
+        "url": "https://blog.cloudflare.com/civil-society-automation/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-02T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "2026 Birthday week: network performance update",
+        "url": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-02T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "K3s vs. K8s: When lightweight Kubernetes distros win (and when they don’t)",
+        "url": "https://thenewstack.io/k3s-vs-k8s-comparison/",
+        "source": "The New Stack",
+        "published": "2026-10-02T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey",
+        "url": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
         "source": "Google Cloud Blog",
-        "published": "2026-10-01T13:00:00.000Z",
+        "published": "2026-10-02T07:00:00.000Z",
         "topics": [
           "networking",
           "development"
         ]
       },
       {
-        "title": "Democratizing Managed Lustre with lower cost and frictionless development",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-01T13:00:00.000Z",
+        "title": "Chatham scales its capital markets expertise with OpenAI",
+        "url": "https://openai.com/index/chatham-financial",
+        "source": "OpenAI Blog",
+        "published": "2026-10-02T00:00:00.000Z",
         "topics": [
-          "networking",
+          "ai",
           "development"
         ]
       },
       {
-        "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
-        "url": "https://blog.cloudflare.com/cloudflare-basin/",
-        "source": "Cloudflare Blog",
-        "published": "2026-10-01T12:58:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "In AI security, there’s no room for a defender’s mindset",
-        "url": "https://thenewstack.io/ai-security-attacker-mindset/",
-        "source": "The New Stack",
-        "published": "2026-10-01T12:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "AI coding agents leaked 13,000 screenshots, and nobody hacked them.",
-        "url": "https://thenewstack.io/coding-agents-leaked-screenshots/",
-        "source": "The New Stack",
-        "published": "2026-10-01T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "AI agents speed up development — data access slows them down",
-        "url": "https://thenewstack.io/unified-api-layer-agents/",
-        "source": "The New Stack",
-        "published": "2026-10-01T11:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How we extended Apache DataFusion to execute one query across many machines",
-        "url": "https://www.datadoghq.com/blog/engineering/distributed-datafusion/",
+        "title": "Key metrics for monitoring Databricks",
+        "url": "https://www.datadoghq.com/blog/key-metrics-for-databricks-monitoring/",
         "source": "Datadog Engineering",
-        "published": "2026-10-01T00:00:00.000Z",
+        "published": "2026-10-02T00:00:00.000Z",
         "topics": [
           "observability",
           "monitoring"
@@ -272,6 +271,22 @@
   },
   "cisco": {
     "items": [
+      {
+        "title": "The Talent Gap Is a Business Risk — Not Just an HR Problem",
+        "url": "https://blogs.cisco.com/partner/the-talent-gap-is-a-business-risk-not-just-an-hr-problem",
+        "source": "Cisco Blogs",
+        "published": "2026-10-02T15:00:08.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Saving wildlife treasures, with innovation and human skills",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/saving-wildlife-treasures-with-innovation-and-human-skills.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-10-02T12:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "30 Years on the Frontlines of the Internet: Why I’m Optimistic About AI",
         "url": "https://blogs.cisco.com/news/30-years-on-the-frontlines-of-the-internet-why-im-optimistic-about-ai",
@@ -293,6 +308,14 @@
         "url": "https://blogs.cisco.com/wearecisco/i-never-thought-id-be-here-and-thats-exactly-why-i-am",
         "source": "Cisco Blogs",
         "published": "2026-10-01T12:00:07.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "How Webex by Cisco is reimagining work in the AI era",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/how-webex-by-cisco-is-reimagining-work-in-the-ai-era.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-10-01T12:00:00.000Z",
         "topics": [],
         "type": "article"
       },
@@ -345,14 +368,6 @@
         "type": "article"
       },
       {
-        "title": "Beyond the Box: Future-Proofing Branch Firewall Security for the AI Era",
-        "url": "https://blogs.cisco.com/security/future-proofing-branch-firewall-security-for-the-ai-era",
-        "source": "Cisco Blogs",
-        "published": "2026-09-28T15:00:24.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "The Many Worlds of Amy Chang",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/the-many-worlds-of-amy-chang.html?source=rss",
         "source": "Cisco Newsroom",
@@ -375,27 +390,18 @@
         "published": "2026-09-22T12:15:00.000Z",
         "topics": [],
         "type": "article"
-      },
-      {
-        "title": "Silent, solar boats transform Amazon communities",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/silent-solar-boats-transform-amazon-communities.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-09-22T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco Delivers Trusted AI at Scale Through New Splunk Advancements",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-delivers-trusted-ai-at-scale-through-new-splunk-advancements.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-09-15T14:30:00.000Z",
-        "topics": [],
-        "type": "article"
       }
     ]
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Endpoint Agent Explainability Logging - Open Beta",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-explainability-logging-open-beta",
+        "source": "Release Notes",
+        "published": "2026-10-02T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Modernized Endpoint Views Experience",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#modernized-endpoint-views-experience",
@@ -455,13 +461,6 @@
       {
         "title": "Kubernetes Cluster Enterprise Agents",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#kubernetes-cluster-enterprise-agents",
-        "source": "Release Notes",
-        "published": "2026-09-24T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Cisco Catalyst 9550 Support for Enterprise Agents",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#cisco-catalyst-9550-support-for-enterprise-agents",
         "source": "Release Notes",
         "published": "2026-09-24T00:00:00.000Z",
         "type": "release"
