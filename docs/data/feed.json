@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-03T15:29:28.313Z",
+  "updatedAt": "2026-10-04T16:13:26.146Z",
   "industry": {
     "items": [
+      {
+        "title": "Agents have made CI the bottleneck. Faster pipelines are the wrong fix.",
+        "url": "https://thenewstack.io/ci-bottleneck-agent-verification/",
+        "source": "The New Stack",
+        "published": "2026-10-04T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "AI is speeding up exploits. Vulnerability spreadsheets can’t keep up.",
         "url": "https://thenewstack.io/cve-vulnerability-risk-management/",
@@ -255,16 +266,6 @@
         "topics": [
           "ai",
           "development"
-        ]
-      },
-      {
-        "title": "Key metrics for monitoring Databricks",
-        "url": "https://www.datadoghq.com/blog/key-metrics-for-databricks-monitoring/",
-        "source": "Datadog Engineering",
-        "published": "2026-10-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
         ]
       }
     ]
