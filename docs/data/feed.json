@@ -1,7 +1,123 @@
 {
-  "updatedAt": "2026-10-08T18:13:53.930Z",
+  "updatedAt": "2026-10-09T17:47:01.256Z",
   "industry": {
     "items": [
+      {
+        "title": "Hack the World: Why hackathons are still the best place to learn to build",
+        "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+        "source": "GitHub Blog",
+        "published": "2026-10-09T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
+        "url": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-09T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+        "url": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-09T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs.",
+        "url": "https://thenewstack.io/amazon-ecs-auto-repair/",
+        "source": "The New Stack",
+        "published": "2026-10-09T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Deno is joining Cloudflare",
+        "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-09T12:50:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
+        "url": "https://thenewstack.io/decision-models-system-one/",
+        "source": "The New Stack",
+        "published": "2026-10-09T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
+        "source": "OpenAI Blog",
+        "published": "2026-10-09T07:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "“Don’t use ‘open weight’ and ‘open source’ interchangeably”: Percona CEO on why AI terminology matters",
+        "url": "https://thenewstack.io/open-weight-open-source-ai/",
+        "source": "The New Stack",
+        "published": "2026-10-09T06:43:21.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Unify data across Datadog BYOC with cross-cluster queries for teams and AI agents",
+        "url": "https://www.datadoghq.com/blog/byoc-cross-cluster-queries/",
+        "source": "Datadog Engineering",
+        "published": "2026-10-09T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Harness bought Augment’s coding agents. The best feature hasn’t shipped yet.",
+        "url": "https://thenewstack.io/harness-augment-cosmos-acquisition/",
+        "source": "The New Stack",
+        "published": "2026-10-08T21:38:41.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Claude can now build your dashboards",
+        "url": "https://thenewstack.io/claude-dashboards-data-motion/",
+        "source": "The New Stack",
+        "published": "2026-10-08T19:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "GitHub Copilot is going local — but Microsoft won’t say what gets sent to the cloud",
         "url": "https://thenewstack.io/https-thenewstack-io-copilot-local-inference-routing/",
@@ -97,6 +213,17 @@
         ]
       },
       {
+        "title": "AI data lakes are driving new storage demands",
+        "url": "https://thenewstack.io/ai-data-lakes-storage/",
+        "source": "The New Stack",
+        "published": "2026-10-08T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
         "title": "The API tax: Why AI agents stall without infrastructure context",
         "url": "https://thenewstack.io/autonomous-cloud-context-layer/",
         "source": "The New Stack",
@@ -137,132 +264,6 @@
         "topics": [
           "ai",
           "development"
-        ]
-      },
-      {
-        "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
-        "url": "https://thenewstack.io/claude-sonnet-5-5-vs-opus-5-5/",
-        "source": "The New Stack",
-        "published": "2026-10-08T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Innovation in Ireland: How Irish brands scale with Gemini Enterprise",
-        "url": "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-08T12:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
-        "url": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-08T12:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Empowering SMBs to do more with Gemini",
-        "url": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-08T12:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-08T12:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Building scalable, agent-friendly APIs for AI applications",
-        "url": "https://thenewstack.io/building-agent-friendly-apis/",
-        "source": "The New Stack",
-        "published": "2026-10-08T11:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Redis by proxy: Percona targets the last major hurdle to Valkey adoption",
-        "url": "https://thenewstack.io/valkey-proxy-redis-percona/",
-        "source": "The New Stack",
-        "published": "2026-10-08T06:54:15.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Disrupting AI-enabled “false front” operations",
-        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-        "source": "OpenAI Blog",
-        "published": "2026-10-08T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Define user actions on your web app with visual labeling in Product Analytics",
-        "url": "https://www.datadoghq.com/blog/product-analytics-visual-labeling/",
-        "source": "Datadog Engineering",
-        "published": "2026-10-08T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "OpenSSH 10.6 deliberately breaks two features in the name of security",
-        "url": "https://thenewstack.io/openssh-breaks-compression-usernames/",
-        "source": "The New Stack",
-        "published": "2026-10-07T21:27:33.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Claude’s cyber safeguards are getting more flexible — but not for everyone.",
-        "url": "https://thenewstack.io/anthropic-cyber-access-tiers/",
-        "source": "The New Stack",
-        "published": "2026-10-07T21:25:06.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Decision models are suddenly everywhere. OpenAI’s is now public.",
-        "url": "https://thenewstack.io/openai-decision-models-deployment/",
-        "source": "The New Stack",
-        "published": "2026-10-07T21:11:26.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
         ]
       }
     ]
