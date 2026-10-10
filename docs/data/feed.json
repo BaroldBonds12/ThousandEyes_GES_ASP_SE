@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-10-09T17:47:01.256Z",
+  "updatedAt": "2026-10-10T16:40:52.979Z",
   "industry": {
     "items": [
+      {
+        "title": "How to turn AI production feedback into better agents",
+        "url": "https://thenewstack.io/ai-agent-evaluation-loop/",
+        "source": "The New Stack",
+        "published": "2026-10-10T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+        "url": "https://thenewstack.io/microsoft-decision-model-foundry/",
+        "source": "The New Stack",
+        "published": "2026-10-10T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead.",
+        "url": "https://thenewstack.io/musk-claude-model-triage/",
+        "source": "The New Stack",
+        "published": "2026-10-10T10:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Kubernetes on cgroup v1 is dead. Here’s what comes next.",
+        "url": "https://thenewstack.io/kubernetes-node-swap-ai/",
+        "source": "The New Stack",
+        "published": "2026-10-09T20:15:46.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cloudflare acquires Node.js creator’s startup that copied its serverless playbook",
+        "url": "https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl/",
+        "source": "The New Stack",
+        "published": "2026-10-09T18:52:36.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+        "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-09T18:27:34.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
       {
         "title": "Hack the World: Why hackathons are still the best place to learn to build",
         "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
@@ -14,6 +80,16 @@
       {
         "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
         "url": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-09T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new with Google Data Cloud",
+        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-10-09T16:00:00.000Z",
         "topics": [
@@ -68,6 +144,16 @@
       {
         "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
         "url": "https://openai.com/index/sophos",
+        "source": "OpenAI Blog",
+        "published": "2026-10-09T07:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
         "source": "OpenAI Blog",
         "published": "2026-10-09T07:00:00.000Z",
         "topics": [
@@ -179,97 +265,19 @@
           "ai",
           "development"
         ]
-      },
-      {
-        "title": "Your AI agent just provisioned a resource. Who owns it?",
-        "url": "https://thenewstack.io/ai-agent-cloud-ownership/",
-        "source": "The New Stack",
-        "published": "2026-10-08T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "The audit log says my name: what an agent inherits when you hand it your credentials",
-        "url": "https://thenewstack.io/ai-agent-credential-risks/",
-        "source": "The New Stack",
-        "published": "2026-10-08T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Manage your OpenTelemetry Collectors with Fleet Management in Grafana Cloud",
-        "url": "https://grafana.com/blog/manage-your-opentelemetry-collectors-with-fleet-management-in-grafana-cloud/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-10-08T14:04:56.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "AI data lakes are driving new storage demands",
-        "url": "https://thenewstack.io/ai-data-lakes-storage/",
-        "source": "The New Stack",
-        "published": "2026-10-08T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "The API tax: Why AI agents stall without infrastructure context",
-        "url": "https://thenewstack.io/autonomous-cloud-context-layer/",
-        "source": "The New Stack",
-        "published": "2026-10-08T13:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
-        "url": "https://blog.cloudflare.com/radar-redesign/",
-        "source": "Cloudflare Blog",
-        "published": "2026-10-08T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "AI changed how you respond to incidents. Your tabletops haven’t caught up.",
-        "url": "https://thenewstack.io/ai-incident-response-tabletops/",
-        "source": "The New Stack",
-        "published": "2026-10-08T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "url": "https://openai.com/index/pollo-ai",
-        "source": "OpenAI Blog",
-        "published": "2026-10-08T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Cisco Appoints Girish Rishi to its Board of Directors",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-appoints-girish-rishi-to-its-board-of-directors.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-10-09T20:10:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Chasing AMMYY at Splunk .conf",
         "url": "https://blogs.cisco.com/security/conf26-agentic-soc-chasing-ammyy",
@@ -379,14 +387,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/the-many-worlds-of-amy-chang.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-09-24T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco AI Research: AgenticOps Scaling Quickly in the Enterprise",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-ai-research-agenticops-scaling-quickly-in-the-enterprise.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-09-23T13:00:00.000Z",
         "topics": [],
         "type": "article"
       }
