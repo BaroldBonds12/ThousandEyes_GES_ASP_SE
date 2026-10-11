@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-10T16:40:52.979Z",
+  "updatedAt": "2026-10-11T17:06:40.465Z",
   "industry": {
     "items": [
+      {
+        "title": "Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.",
+        "url": "https://thenewstack.io/claude-code-mcp-records/",
+        "source": "The New Stack",
+        "published": "2026-10-11T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Claude found 29,000 possible bugs in open source. Only 516 have been fixed.",
+        "url": "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/",
+        "source": "The New Stack",
+        "published": "2026-10-11T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "How to turn AI production feedback into better agents",
         "url": "https://thenewstack.io/ai-agent-evaluation-loop/",
@@ -243,27 +265,6 @@
           "development",
           "observability",
           "networking"
-        ]
-      },
-      {
-        "title": "Most AI incident tools still leave a key decision to humans",
-        "url": "https://thenewstack.io/ai-sre-agent-autonomy-phases/",
-        "source": "The New Stack",
-        "published": "2026-10-08T16:20:24.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "url": "https://openai.com/index/oracle",
-        "source": "OpenAI Blog",
-        "published": "2026-10-08T16:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
         ]
       }
     ]
