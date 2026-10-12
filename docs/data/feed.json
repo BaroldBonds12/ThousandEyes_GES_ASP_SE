@@ -1,7 +1,89 @@
 {
-  "updatedAt": "2026-10-11T17:06:40.465Z",
+  "updatedAt": "2026-10-12T20:39:14.688Z",
   "industry": {
     "items": [
+      {
+        "title": "Coding agents made building easy. Platform teams that build from scratch are 3.5x more likely to lack a strategy.",
+        "url": "https://thenewstack.io/coding-agents-platform-teams/",
+        "source": "The New Stack",
+        "published": "2026-10-12T19:28:27.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+        "source": "GitHub Blog",
+        "published": "2026-10-12T17:43:59.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
+        "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-12T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Trusted Data Apps for the Agentic Data Cloud, powered by Looker",
+        "url": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-12T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "10 Years of the SRE book: Announcing the second edition of \"Site Reliability Engineering”",
+        "url": "https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-12T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Agentic data science with the Data Agent Kit",
+        "url": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-12T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Andrej Karpathy says only 5,000 people have seen what AI can really do",
+        "url": "https://thenewstack.io/karpathy-levie-ai-capability-gap/",
+        "source": "The New Stack",
+        "published": "2026-10-12T15:54:20.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Filter, reshape, and redact logs before export with Transformers",
+        "url": "https://blog.cloudflare.com/transformers-on-logpush/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-12T14:44:59.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
       {
         "title": "Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.",
         "url": "https://thenewstack.io/claude-code-mcp-records/",
@@ -100,8 +182,8 @@
         ]
       },
       {
-        "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
-        "url": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+        "title": "What’s new with Google Data Cloud",
+        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-10-09T16:00:00.000Z",
         "topics": [
@@ -110,8 +192,8 @@
         ]
       },
       {
-        "title": "What’s new with Google Data Cloud",
-        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+        "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
+        "url": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
         "source": "Google Cloud Blog",
         "published": "2026-10-09T16:00:00.000Z",
         "topics": [
@@ -182,95 +264,51 @@
           "ai",
           "development"
         ]
-      },
-      {
-        "title": "“Don’t use ‘open weight’ and ‘open source’ interchangeably”: Percona CEO on why AI terminology matters",
-        "url": "https://thenewstack.io/open-weight-open-source-ai/",
-        "source": "The New Stack",
-        "published": "2026-10-09T06:43:21.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Unify data across Datadog BYOC with cross-cluster queries for teams and AI agents",
-        "url": "https://www.datadoghq.com/blog/byoc-cross-cluster-queries/",
-        "source": "Datadog Engineering",
-        "published": "2026-10-09T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Harness bought Augment’s coding agents. The best feature hasn’t shipped yet.",
-        "url": "https://thenewstack.io/harness-augment-cosmos-acquisition/",
-        "source": "The New Stack",
-        "published": "2026-10-08T21:38:41.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Claude can now build your dashboards",
-        "url": "https://thenewstack.io/claude-dashboards-data-motion/",
-        "source": "The New Stack",
-        "published": "2026-10-08T19:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GitHub Copilot is going local — but Microsoft won’t say what gets sent to the cloud",
-        "url": "https://thenewstack.io/https-thenewstack-io-copilot-local-inference-routing/",
-        "source": "The New Stack",
-        "published": "2026-10-08T17:49:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How one bug bounty researcher chooses the features they investigate",
-        "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-        "source": "GitHub Blog",
-        "published": "2026-10-08T17:02:52.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Take Grafana Labs' 5th annual Observability Survey",
-        "url": "https://grafana.com/blog/take-grafana-labs-5th-annual-observability-survey/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-10-08T17:00:28.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "You can outgrow vanilla Postgres without abandoning Postgres",
-        "url": "https://thenewstack.io/postgres-at-scale-why-it-struggles/",
-        "source": "The New Stack",
-        "published": "2026-10-08T16:23:19.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Modern retail networks are secure, simple, and ready for what’s next",
+        "url": "https://blogs.cisco.com/networking/modern-retail-networks-are-secure-simple-and-ready-for-whats-next",
+        "source": "Cisco Blogs",
+        "published": "2026-10-12T15:00:54.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "SONiC’s next chapter with Cisco: Open choice, production confidence",
+        "url": "https://blogs.cisco.com/datacenter/sonics-next-chapter-with-cisco-open-choice-production-confidence",
+        "source": "Cisco Blogs",
+        "published": "2026-10-12T15:00:38.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity",
+        "url": "https://blogs.cisco.com/news/cisco-and-nvidia-announce-usfp-expanding-the-path-to-ai-connectivity",
+        "source": "Cisco Blogs",
+        "published": "2026-10-12T15:00:19.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/nvidia-and-cisco-new-pluggable-optics-to-scale-ai-factories.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-10-12T15:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco Advances Scalability and Openness at OCP 2026",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-advances-scalability-and-openness-at-ocp-2026.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-10-12T15:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Cisco Appoints Girish Rishi to its Board of Directors",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-appoints-girish-rishi-to-its-board-of-directors.html?source=rss",
@@ -336,30 +374,6 @@
         "type": "article"
       },
       {
-        "title": "Foundation AI in September: VLoc Bench and Cyber-Capability Safety",
-        "url": "https://blogs.cisco.com/ai/foundation-ai-in-september-vloc-bench-and-cyber-capability-safety",
-        "source": "Cisco Blogs",
-        "published": "2026-10-06T22:00:44.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Quantum Networking Gets a Control Plane",
-        "url": "https://blogs.cisco.com/news/quantum-networking-gets-a-control-plane",
-        "source": "Cisco Blogs",
-        "published": "2026-10-06T15:00:26.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Scaling open networking through Cisco-validated SONiC on N9000",
-        "url": "https://blogs.cisco.com/datacenter/scaling-open-networking-through-cisco-validated-sonic-on-n9000",
-        "source": "Cisco Blogs",
-        "published": "2026-10-06T15:00:09.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Saving wildlife treasures, with innovation and human skills",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/saving-wildlife-treasures-with-innovation-and-human-skills.html?source=rss",
         "source": "Cisco Newsroom",
@@ -372,22 +386,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/how-webex-by-cisco-is-reimagining-work-in-the-ai-era.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-10-01T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco unveils the Relentless Defense report",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-unveils-the-relentless-defense-report.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-09-29T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Many Worlds of Amy Chang",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/the-many-worlds-of-amy-chang.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-09-24T12:00:00.000Z",
         "topics": [],
         "type": "article"
       }
