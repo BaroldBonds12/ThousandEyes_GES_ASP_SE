@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-17T14:43:50.101Z",
+  "updatedAt": "2026-10-18T15:09:01.950Z",
   "industry": {
     "items": [
+      {
+        "title": "Liquid AI caught its model cheating on coding tests — then it recognized the sandbox",
+        "url": "https://thenewstack.io/liquid-ai-reward-hacking/",
+        "source": "The New Stack",
+        "published": "2026-10-18T14:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Scale isn’t one number: three ways a Kubernetes control plane runs out of room",
+        "url": "https://thenewstack.io/scaling-kubernetes-control-planes/",
+        "source": "The New Stack",
+        "published": "2026-10-18T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
+        "url": "https://thenewstack.io/live-streaming-engineering-lessons/",
+        "source": "The New Stack",
+        "published": "2026-10-17T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI has lowered the barrier to building. Here’s what that means for engineers.",
+        "url": "https://thenewstack.io/ai-lowering-building-barrier/",
+        "source": "The New Stack",
+        "published": "2026-10-17T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "His scanner wouldn’t work on Linux — so he let Claude study the Windows driver",
         "url": "https://thenewstack.io/claude-code-linux-driver/",
@@ -219,47 +263,6 @@
         "published": "2026-10-15T19:39:27.000Z",
         "topics": [
           "development"
-        ]
-      },
-      {
-        "title": "Bringing GPT-Rosalind to academic research labs",
-        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-        "source": "OpenAI Blog",
-        "published": "2026-10-15T19:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Vercel adds always-on workers to run more of your backend",
-        "url": "https://thenewstack.io/vercel-faces-its-daemons/",
-        "source": "The New Stack",
-        "published": "2026-10-15T18:45:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-        "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-        "source": "GitHub Blog",
-        "published": "2026-10-15T18:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "OpenAI promised developers six months’ notice. GPT-4o users got three.",
-        "url": "https://thenewstack.io/openai-gpt4o-api-shutdown/",
-        "source": "The New Stack",
-        "published": "2026-10-15T17:52:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
         ]
       }
     ]
