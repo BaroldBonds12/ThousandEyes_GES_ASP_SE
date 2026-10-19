@@ -1,7 +1,112 @@
 {
-  "updatedAt": "2026-10-18T15:09:01.950Z",
+  "updatedAt": "2026-10-19T18:02:07.911Z",
   "industry": {
     "items": [
+      {
+        "title": "Introducing Clairic, a new System One class of extraction models",
+        "url": "https://blog.cloudflare.com/clairic-extraction-model/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-19T17:48:26.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU",
+        "url": "https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-19T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How to Use Python UDF Logging for Pipeline Observability",
+        "url": "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-19T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Who judges the judge? Three helpful ways to audit your LLM evaluators",
+        "url": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-19T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Developer’s guide to implementing MCP apps in Gemini",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-19T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too.",
+        "url": "https://thenewstack.io/deepseek-web-search-api/",
+        "source": "The New Stack",
+        "published": "2026-10-19T14:29:42.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+        "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-19T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "The distroless security gap: Why bottom-up containers are the next evolution in OCI images",
+        "url": "https://thenewstack.io/distroless-container-security-gap/",
+        "source": "The New Stack",
+        "published": "2026-10-19T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Google named a Leader in the 2026 IDC MarketScape for Agentic AI Platforms",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-19T07:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
+        "url": "https://thenewstack.io/gemini-argon-claude-opus/",
+        "source": "The New Stack",
+        "published": "2026-10-18T15:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Liquid AI caught its model cheating on coding tests — then it recognized the sandbox",
         "url": "https://thenewstack.io/liquid-ai-reward-hacking/",
@@ -100,6 +205,16 @@
         ]
       },
       {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-16T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
         "title": "Architecting autonomy: A design pattern for high-compute, governed agents in biotech",
         "url": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
         "source": "Google Cloud Blog",
@@ -140,16 +255,6 @@
         ]
       },
       {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-16T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
         "title": "Only 34% trust synthetic data’s referential integrity — and it’s holding adoption back",
         "url": "https://thenewstack.io/synthetic-data-referential-integrity/",
         "source": "The New Stack",
@@ -158,111 +263,6 @@
           "development",
           "observability",
           "networking"
-        ]
-      },
-      {
-        "title": "Continuous accountability for Verified bots",
-        "url": "https://blog.cloudflare.com/verified-bots-accountability/",
-        "source": "Cloudflare Blog",
-        "published": "2026-10-16T13:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Employees are vibe-coding their own apps. Cloudflare open-sources Void to give IT a handle on them",
-        "url": "https://thenewstack.io/cloudflare-voidzero-void-vibe-coding/",
-        "source": "The New Stack",
-        "published": "2026-10-16T12:16:01.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
-        "url": "https://thenewstack.io/muse-wonder-claude-fable/",
-        "source": "The New Stack",
-        "published": "2026-10-16T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Running local AI models on Microsoft’s Surface Laptop Ultra: What we found",
-        "url": "https://thenewstack.io/surface-ultra-local-ai/",
-        "source": "The New Stack",
-        "published": "2026-10-16T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain",
-        "url": "https://thenewstack.io/uvi-ai-agent-context/",
-        "source": "The New Stack",
-        "published": "2026-10-16T11:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
-        "source": "OpenAI Blog",
-        "published": "2026-10-16T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-        "source": "OpenAI Blog",
-        "published": "2026-10-16T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Get observability in your pocket with the Grafana mobile app",
-        "url": "https://grafana.com/blog/get-observability-in-your-pocket-with-the-grafana-mobile-app/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-10-15T22:39:33.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos.",
-        "url": "https://thenewstack.io/hackers-hijacked-1900-github-accounts-then-they-went-after-30000-repos/",
-        "source": "The New Stack",
-        "published": "2026-10-15T21:13:01.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "The next developer interface is ambient intelligence",
-        "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-        "source": "GitHub Blog",
-        "published": "2026-10-15T19:39:27.000Z",
-        "topics": [
-          "development"
         ]
       }
     ]
@@ -358,16 +358,16 @@
         "type": "article"
       },
       {
-        "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/nvidia-and-cisco-new-pluggable-optics-to-scale-ai-factories.html?source=rss",
+        "title": "Cisco Advances Scalability and Openness at OCP 2026",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-advances-scalability-and-openness-at-ocp-2026.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-10-12T15:00:00.000Z",
         "topics": [],
         "type": "article"
       },
       {
-        "title": "Cisco Advances Scalability and Openness at OCP 2026",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-advances-scalability-and-openness-at-ocp-2026.html?source=rss",
+        "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/nvidia-and-cisco-new-pluggable-optics-to-scale-ai-factories.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-10-12T15:00:00.000Z",
         "topics": [],
@@ -393,6 +393,13 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Mobile Endpoint Agent Android Version 1.8.4",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#mobile-endpoint-agent-android-version-1-8-4",
+        "source": "Release Notes",
+        "published": "2026-10-19T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Enterprise Agent Support for Red Hat Enterprise Linux 10, AlmaLinux 10, and Rocky Linux 10",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#enterprise-agent-support-for-red-hat-enterprise-linux-10-almalinux-10-and-rocky-linux-10",
@@ -452,13 +459,6 @@
       {
         "title": "ThousandEyes Support & Lifecycle Updates: October 2026",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#thousandeyes-support-lifecycle-updates-october-2026",
-        "source": "Release Notes",
-        "published": "2026-10-05T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "New Cloud Agents",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#new-cloud-agents",
         "source": "Release Notes",
         "published": "2026-10-05T00:00:00.000Z",
         "type": "release"
