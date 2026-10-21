@@ -1,149 +1,51 @@
 {
-  "updatedAt": "2026-10-20T16:05:51.613Z",
+  "updatedAt": "2026-10-21T16:21:59.167Z",
   "industry": {
     "items": [
       {
-        "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+        "title": "The bridge to agent-scale Git infrastructure",
+        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
         "source": "GitHub Blog",
-        "published": "2026-10-20T16:05:03.000Z",
+        "published": "2026-10-21T16:00:00.000Z",
         "topics": [
           "development"
         ]
       },
       {
-        "title": "How to review AI code without reading the code",
-        "url": "https://thenewstack.io/review-decisions-not-code/",
-        "source": "The New Stack",
-        "published": "2026-10-20T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing with Nvidia.",
-        "url": "https://thenewstack.io/deepseek-deepinfer-huawei-nvidia/",
-        "source": "The New Stack",
-        "published": "2026-10-20T14:58:36.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Beam pulls single app windows off the Mac Mini running your agents",
-        "url": "https://thenewstack.io/beam-mac-mini-agents/",
-        "source": "The New Stack",
-        "published": "2026-10-20T14:07:14.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Introducing tsrs: a Port of TypeScript to Rust",
-        "url": "https://blog.cloudflare.com/typescript-rust-port/",
-        "source": "Cloudflare Blog",
-        "published": "2026-10-20T13:00:00.000Z",
+        "title": "BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL",
+        "url": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-21T16:00:00.000Z",
         "topics": [
           "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "AI’s Midas problem: When code is free, features are worthless",
-        "url": "https://thenewstack.io/ai-commoditizes-software-value/",
-        "source": "The New Stack",
-        "published": "2026-10-20T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Most AI incident tools still leave a key decision to humans",
-        "url": "https://thenewstack.io/ai-sre-agent-autonomy-phases/",
-        "source": "The New Stack",
-        "published": "2026-10-20T11:13:39.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
-        "url": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
-        "source": "Datadog Engineering",
-        "published": "2026-10-20T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
-        "url": "https://thenewstack.io/minimax-flash-agent-costs/",
-        "source": "The New Stack",
-        "published": "2026-10-19T22:00:19.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-        "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-        "source": "Cloudflare Blog",
-        "published": "2026-10-19T19:12:53.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "How to continue a GitHub Copilot app session in VS Code",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-        "source": "GitHub Blog",
-        "published": "2026-10-19T18:47:22.000Z",
-        "topics": [
           "development"
         ]
       },
       {
-        "title": "One sentence changed Claude Code’s overreach rate from 0% to 17.1%",
-        "url": "https://thenewstack.io/coding-agents-overstep-scope/",
-        "source": "The New Stack",
-        "published": "2026-10-19T18:36:02.000Z",
+        "title": "ZenteiQ scales batch inference 4x with GKE Inference Gateway powered by llm-d",
+        "url": "https://cloud.google.com/blog/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-21T16:00:00.000Z",
         "topics": [
-          "development",
-          "observability",
-          "networking"
+          "networking",
+          "development"
         ]
       },
       {
-        "title": "6 improvements that make Grafana Assistant better at helping your workflows",
-        "url": "https://grafana.com/blog/six-improvements-that-make-grafana-assistant-better-at-helping-your-workflows/",
+        "title": "Spend less time on operational busywork and resolve incidents faster with Grafana Workflows",
+        "url": "https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/",
         "source": "Grafana Labs Blog",
-        "published": "2026-10-19T18:10:01.000Z",
+        "published": "2026-10-21T15:06:02.000Z",
         "topics": [
           "observability",
           "monitoring"
         ]
       },
       {
-        "title": "Introducing Clairic, a new System One class of extraction models",
-        "url": "https://blog.cloudflare.com/clairic-extraction-model/",
+        "title": "Introducing full transaction detection for Cloudflare WAF",
+        "url": "https://blog.cloudflare.com/full-transaction-waf/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-19T17:48:26.000Z",
+        "published": "2026-10-21T14:10:42.000Z",
         "topics": [
           "networking",
           "observability",
@@ -151,10 +53,10 @@
         ]
       },
       {
-        "title": "DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too.",
-        "url": "https://thenewstack.io/deepseek-web-search-api/",
+        "title": "From feral to fiduciary: making AI agents serve your interests",
+        "url": "https://thenewstack.io/ai-agent-trust-score/",
         "source": "The New Stack",
-        "published": "2026-10-19T14:29:42.000Z",
+        "published": "2026-10-21T14:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -162,10 +64,20 @@
         ]
       },
       {
-        "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
-        "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+        "title": "Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619",
+        "url": "https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-21T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Cloudflare deploys protections against php2shell vulnerability",
+        "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-19T13:00:00.000Z",
+        "published": "2026-10-21T13:56:45.000Z",
         "topics": [
           "networking",
           "observability",
@@ -173,31 +85,31 @@
         ]
       },
       {
-        "title": "The distroless security gap: Why bottom-up containers are the next evolution in OCI images",
-        "url": "https://thenewstack.io/distroless-container-security-gap/",
-        "source": "The New Stack",
-        "published": "2026-10-19T13:00:00.000Z",
+        "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+        "url": "https://blog.cloudflare.com/webmcp-commerce/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-21T13:00:00.000Z",
         "topics": [
-          "development",
+          "networking",
           "observability",
-          "networking"
+          "monitoring"
         ]
       },
       {
-        "title": "Advancing coding in low‑resource programming languages",
-        "url": "https://openai.com/index/low-resource-programming-languages",
+        "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
         "source": "OpenAI Blog",
-        "published": "2026-10-19T12:00:00.000Z",
+        "published": "2026-10-21T13:00:00.000Z",
         "topics": [
           "ai",
           "development"
         ]
       },
       {
-        "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
-        "url": "https://thenewstack.io/gemini-argon-claude-opus/",
+        "title": "AI sped up coding. Sonar instills confidence with verification.",
+        "url": "https://thenewstack.io/ai-coding-verification-loops/",
         "source": "The New Stack",
-        "published": "2026-10-18T15:30:00.000Z",
+        "published": "2026-10-21T13:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -205,10 +117,40 @@
         ]
       },
       {
-        "title": "Liquid AI caught its model cheating on coding tests — then it recognized the sandbox",
-        "url": "https://thenewstack.io/liquid-ai-reward-hacking/",
+        "title": "Google Public Sector increases partner investments for frontline adoption",
+        "url": "https://cloud.google.com/blog/topics/public-sector/google-public-sector-increases-partner-investments-for-frontline-adoption/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-21T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "OpenAI models are coming to Google Cloud",
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "source": "OpenAI Blog",
+        "published": "2026-10-21T12:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-21T12:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Nvidia bets open models can give enterprise AI agents the context they’re missing",
+        "url": "https://thenewstack.io/nvidia-agent-knowledge-foundation/",
         "source": "The New Stack",
-        "published": "2026-10-18T14:30:00.000Z",
+        "published": "2026-10-21T11:30:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -216,10 +158,10 @@
         ]
       },
       {
-        "title": "Scale isn’t one number: three ways a Kubernetes control plane runs out of room",
-        "url": "https://thenewstack.io/scaling-kubernetes-control-planes/",
+        "title": "Nvidia wants AI factories built in real factories",
+        "url": "https://thenewstack.io/nvidia-dsx-pod-containers/",
         "source": "The New Stack",
-        "published": "2026-10-18T14:00:00.000Z",
+        "published": "2026-10-21T11:30:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -227,10 +169,71 @@
         ]
       },
       {
-        "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
-        "url": "https://thenewstack.io/live-streaming-engineering-lessons/",
+        "title": "Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-21T11:30:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-21T11:30:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+        "source": "OpenAI Blog",
+        "published": "2026-10-21T07:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+        "url": "https://openai.com/index/building-chatgpt-ad-stack",
+        "source": "OpenAI Blog",
+        "published": "2026-10-21T07:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+        "source": "OpenAI Blog",
+        "published": "2026-10-21T04:50:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+        "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-20T22:20:16.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Respan spent two years building on LiteLLM. One upgrade made it start over.",
+        "url": "https://thenewstack.io/respan-rust-ai-gateway/",
         "source": "The New Stack",
-        "published": "2026-10-17T16:00:00.000Z",
+        "published": "2026-10-20T22:13:08.000Z",
         "topics": [
           "development",
           "observability",
@@ -238,10 +241,10 @@
         ]
       },
       {
-        "title": "AI has lowered the barrier to building. Here’s what that means for engineers.",
-        "url": "https://thenewstack.io/ai-lowering-building-barrier/",
+        "title": "“We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents",
+        "url": "https://thenewstack.io/cloudflare-rust-typescript-tsrs/",
         "source": "The New Stack",
-        "published": "2026-10-17T15:00:00.000Z",
+        "published": "2026-10-20T21:36:25.000Z",
         "topics": [
           "development",
           "observability",
@@ -249,21 +252,10 @@
         ]
       },
       {
-        "title": "His scanner wouldn’t work on Linux — so he let Claude study the Windows driver",
-        "url": "https://thenewstack.io/claude-code-linux-driver/",
+        "title": "Assess the entire inference stack — not just open model benchmarks",
+        "url": "https://thenewstack.io/open-model-benchmarks-production/",
         "source": "The New Stack",
-        "published": "2026-10-17T14:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
-        "url": "https://thenewstack.io/ai-agents-kubernetes-control/",
-        "source": "The New Stack",
-        "published": "2026-10-17T14:00:00.000Z",
+        "published": "2026-10-20T20:44:17.000Z",
         "topics": [
           "development",
           "observability",
@@ -275,26 +267,74 @@
   "cisco": {
     "items": [
       {
-        "title": "Cisco OT Security and CML: Two Announcements, One Vision",
-        "url": "https://blogs.cisco.com/learning/ot-security-cml",
+        "title": "Three languages, one binary: Building a VMware Nutanix inventory with Claude",
+        "url": "https://blogs.cisco.com/cisco-devnet/vmware-nutanix-inventory-go-claude",
         "source": "Cisco Blogs",
-        "published": "2026-10-20T15:00:32.000Z",
+        "published": "2026-10-21T15:44:38.000Z",
         "topics": [],
         "type": "article"
       },
       {
-        "title": "State of Observability 2026 Reveals How Leaders Are Restoring Predictability to the Agentic Era",
-        "url": "https://blogs.cisco.com/news/state-of-observability-2026-reveals-how-leaders-are-restoring-predictability-to-the-agentic-era",
+        "title": "Cisco and Fortanix help make confidential AI verifiable from data to Kubernetes",
+        "url": "https://blogs.cisco.com/datacenter/cisco-and-fortanix-help-make-confidential-ai-verifiable-from-data-to-kubernetes",
         "source": "Cisco Blogs",
-        "published": "2026-10-20T12:00:37.000Z",
+        "published": "2026-10-21T14:26:54.000Z",
         "topics": [],
         "type": "article"
       },
       {
-        "title": "On My First Day at Cisco, I Asked My Manager Where My Manager Was",
-        "url": "https://blogs.cisco.com/wearecisco/on-my-first-day-at-cisco-i-asked-my-manager-where-my-manager-was",
+        "title": "Turn Distributed Capacity into AI Infrastructure",
+        "url": "https://blogs.cisco.com/news/turn-distributed-capacity-into-ai-infrastructure",
         "source": "Cisco Blogs",
-        "published": "2026-10-20T12:00:22.000Z",
+        "published": "2026-10-21T11:31:30.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Securing AI Agents Across the AI Factory",
+        "url": "https://blogs.cisco.com/news/securing-ai-agents-across-the-ai-factory",
+        "source": "Cisco Blogs",
+        "published": "2026-10-21T11:31:17.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Protect enterprise coding agents with Cisco DefenseClaw and NVIDIA OpenShell",
+        "url": "https://blogs.cisco.com/ai/protect-enterprise-coding-agents-with-cisco-defenseclaw-and-nvidia-openshell",
+        "source": "Cisco Blogs",
+        "published": "2026-10-21T11:25:44.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Enabling Local AI Resilience with Cisco Cloud Control and NVIDIA DGX Station",
+        "url": "https://blogs.cisco.com/ai/enabling-local-ai-resilience-with-cisco-cloud-control-and-nvidia-dgx-station",
+        "source": "Cisco Blogs",
+        "published": "2026-10-21T11:25:13.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Hardened by Design: Applying the NSA’s OT Guidance with Cisco Security & Splunk",
+        "url": "https://blogs.cisco.com/industries/hardened-by-design-applying-the-nsas-ot-guidance-with-cisco-security-splunk",
+        "source": "Cisco Blogs",
+        "published": "2026-10-21T02:39:42.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Building Trust into Enterprise AI Agents: Cisco AI Defense and Workday Agent Passport",
+        "url": "https://blogs.cisco.com/ai/building-trust-into-enterprise-ai-agents-cisco-ai-defense-and-workday-agent-passport",
+        "source": "Cisco Blogs",
+        "published": "2026-10-20T20:59:14.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Connecting people to humanitarian assistance with responsible AI",
+        "url": "https://blogs.cisco.com/our-corporate-purpose/connecting-people-to-humanitarian-assistance-with-responsible-ai",
+        "source": "Cisco Blogs",
+        "published": "2026-10-20T20:39:39.000Z",
         "topics": [],
         "type": "article"
       },
@@ -307,58 +347,10 @@
         "type": "article"
       },
       {
-        "title": "Rebuilding PubHub: How AI-assisted development shipped a mandatory rewrite 3.5 months early – Part 1",
-        "url": "https://blogs.cisco.com/cisco-devnet/ai-assisted-development-rebuilding-pubhub-part-1",
-        "source": "Cisco Blogs",
-        "published": "2026-10-19T20:00:21.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Data Center Networking Modernization Gap",
-        "url": "https://blogs.cisco.com/partner/the-data-center-networking-modernization-gap",
-        "source": "Cisco Blogs",
-        "published": "2026-10-19T19:30:37.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Accelerating Decision Superiority: Discover Cisco’s Solutions at AFCEA TechNet Indo-Pacific 2026",
-        "url": "https://blogs.cisco.com/industries/accelerating-decision-superiority-discover-ciscos-solutions-at-afcea-technet-indo-pacific-2026",
-        "source": "Cisco Blogs",
-        "published": "2026-10-16T17:19:20.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Quantum Security Transition: A Policy Agenda for Post-Quantum Readiness in Asia Pacific",
-        "url": "https://blogs.cisco.com/gov/the-quantum-security-transition-a-policy-agenda-for-post-quantum-readiness-in-asia-pacific",
-        "source": "Cisco Blogs",
-        "published": "2026-10-15T22:00:20.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco Takes the Court: Powering a More Connected Future Across the NBA",
-        "url": "https://blogs.cisco.com/industries/cisco-takes-the-court-powering-a-more-connected-future-across-the-nba",
-        "source": "Cisco Blogs",
-        "published": "2026-10-15T14:11:40.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco and higher ed: building a foundation for future learning",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-and-higher-ed-building-a-foundation-for-future-learning.html?source=rss",
         "source": "Cisco Newsroom",
         "published": "2026-10-15T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Segment Routing Fundamentals: From MPLS to SRv6",
-        "url": "https://blogs.cisco.com/learning/segment-routing-fundamentals-from-mpls-to-srv6",
-        "source": "Cisco Blogs",
-        "published": "2026-10-14T23:25:24.000Z",
         "topics": [],
         "type": "article"
       },
@@ -398,6 +390,20 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Updated Endpoint PII Handling in Dashboards",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#updated-endpoint-pii-handling-in-dashboards",
+        "source": "Release Notes",
+        "published": "2026-10-21T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Connected Devices: Generic Agent for Broadband Routers Generally Available",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#connected-devices-generic-agent-for-broadband-routers-generally-available",
+        "source": "Release Notes",
+        "published": "2026-10-21T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Wireless Active Testing SCEP Support",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#wireless-active-testing-scep-support",
@@ -452,20 +458,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-client-version-2-60-1",
         "source": "Release Notes",
         "published": "2026-10-07T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "NTLM Authentication Options Hidden for Accounts Not Using NTLM",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#ntlm-authentication-options-hidden-for-accounts-not-using-ntlm",
-        "source": "Release Notes",
-        "published": "2026-10-06T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Ubuntu 22.04 LTS (“Jammy”) Lifecycle and Appliance Upgrade Path",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#ubuntu-22-04-lts-jammy-lifecycle-and-appliance-upgrade-path",
-        "source": "Release Notes",
-        "published": "2026-10-05T00:00:00.000Z",
         "type": "release"
       }
     ]
