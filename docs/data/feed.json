@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-24T15:07:49.142Z",
+  "updatedAt": "2026-10-25T15:19:36.280Z",
   "industry": {
     "items": [
+      {
+        "title": "Is Kubernetes ready for AI agents?",
+        "url": "https://thenewstack.io/kubernetes-ready-ai-agents/",
+        "source": "The New Stack",
+        "published": "2026-10-25T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch",
         "url": "https://thenewstack.io/aws-says-its-ai-security-agent-fixes-89-of-bugs-but-theres-a-catch/",
@@ -257,17 +268,6 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Who on-calls an AI? This is the unresolved crisis of agent ownership",
-        "url": "https://thenewstack.io/production-ai-agent-ownership/",
-        "source": "The New Stack",
-        "published": "2026-10-22T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
@@ -378,16 +378,16 @@
         "type": "article"
       },
       {
-        "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/nvidia-and-cisco-new-pluggable-optics-to-scale-ai-factories.html?source=rss",
+        "title": "Cisco Advances Scalability and Openness at OCP 2026",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-advances-scalability-and-openness-at-ocp-2026.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-10-12T15:00:00.000Z",
         "topics": [],
         "type": "article"
       },
       {
-        "title": "Cisco Advances Scalability and Openness at OCP 2026",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-advances-scalability-and-openness-at-ocp-2026.html?source=rss",
+        "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/nvidia-and-cisco-new-pluggable-optics-to-scale-ai-factories.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-10-12T15:00:00.000Z",
         "topics": [],
