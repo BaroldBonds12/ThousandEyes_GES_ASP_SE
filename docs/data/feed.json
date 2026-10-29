@@ -1,7 +1,206 @@
 {
-  "updatedAt": "2026-10-28T17:42:51.815Z",
+  "updatedAt": "2026-10-29T17:49:56.027Z",
   "industry": {
     "items": [
+      {
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "OpenAI Blog",
+        "published": "2026-10-29T17:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
+        "url": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-29T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)",
+        "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-29T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Grounding agents in one context graph connecting semantic models you already trust",
+        "url": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-29T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Why MCP servers should tell agents what to do next",
+        "url": "https://thenewstack.io/aws-mcp-agent-observability/",
+        "source": "The New Stack",
+        "published": "2026-10-29T15:55:39.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Grafana 13.3 release: manage variables across dashboards, share findings with Notebooks, a UI refresh, and more",
+        "url": "https://grafana.com/blog/grafana-13-3-release-all-the-latest-features/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-10-29T15:01:42.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Mistral’s Large 4 open weights arrive with a 1-point coding lead over GLM-5.3: “There’s nothing you can’t do with this model that you can do with competitors.”",
+        "url": "https://thenewstack.io/mistral-chonk-coding-model/",
+        "source": "The New Stack",
+        "published": "2026-10-29T14:49:44.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AWS Elastic Beanstalk for regulated workloads: Built for the next decade, not just the first deploy",
+        "url": "https://thenewstack.io/elastic-beanstalk-regulated-workloads/",
+        "source": "The New Stack",
+        "published": "2026-10-29T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“I don’t think the world needs a new GitHub”: What GitHub’s leaders really think about their new rivals",
+        "url": "https://thenewstack.io/github-agentic-infrastructure-rebuild/",
+        "source": "The New Stack",
+        "published": "2026-10-29T13:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Why Kubernetes platforms keep rebuilding a layer they could share",
+        "url": "https://thenewstack.io/kubernetes-resource-composition-layer/",
+        "source": "The New Stack",
+        "published": "2026-10-29T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+        "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-29T12:55:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "The 5 essential layers of AI agent sandboxing on Kubernetes",
+        "url": "https://thenewstack.io/ai-agent-sandboxing-kubernetes/",
+        "source": "The New Stack",
+        "published": "2026-10-29T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "“Urgency is an inherently subjective call”: Anthropic tells TNS how it grades Claude Duet",
+        "url": "https://thenewstack.io/claude-duet-agent-judgment/",
+        "source": "The New Stack",
+        "published": "2026-10-29T11:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How we detect frontier model misalignment",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "source": "OpenAI Blog",
+        "published": "2026-10-29T09:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "url": "https://openai.com/index/ropes-gray-ai-diligence",
+        "source": "OpenAI Blog",
+        "published": "2026-10-29T07:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Datadog named a Leader in the Forrester Wave™: AIOps Platforms, Q4 2026",
+        "url": "https://www.datadoghq.com/blog/datadog-aiops-platforms-forrester-wave-2026/",
+        "source": "Datadog Engineering",
+        "published": "2026-10-29T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Trace voice agents with Datadog Agent Observability",
+        "url": "https://www.datadoghq.com/blog/agent-observability-voice-agent/",
+        "source": "Datadog Engineering",
+        "published": "2026-10-29T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Detect when your AI agent copies a self-replicating prompt injection",
+        "url": "https://www.datadoghq.com/blog/detect-when-your-ai-agent-copies-a-self-replicating-prompt-injection/",
+        "source": "Datadog Engineering",
+        "published": "2026-10-29T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Google just handed its rivals the keys to Android",
+        "url": "https://thenewstack.io/android-agents-build-debug/",
+        "source": "The New Stack",
+        "published": "2026-10-28T17:43:09.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost",
         "url": "https://thenewstack.io/github-copilot-fusion/",
@@ -53,207 +252,10 @@
         ]
       },
       {
-        "title": "How to troubleshoot GKE workloads faster with VPC Flow Logs",
-        "url": "https://cloud.google.com/blog/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-28T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How GKE networking scales to support high densities of concurrent AI agents",
-        "url": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-28T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
         "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
         "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
         "source": "Google Cloud Blog",
         "published": "2026-10-28T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
-        "url": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-28T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-28T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Nvidia launches a promptable transcription model",
-        "url": "https://thenewstack.io/nvidia-nemotron-promptable-transcription/",
-        "source": "The New Stack",
-        "published": "2026-10-28T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Step into a new dimension with XREAL AURA, the first-of-its-kind wired XR glasses",
-        "url": "https://cloud.google.com/blog/products/chrome-enterprise/step-in-to-a-new-dimension-with-xreal-aura-a-first-of-its-kind-wired-xr-glasses/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-28T14:41:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "What happens when the agent is long gone, but its access key lives on?",
-        "url": "https://thenewstack.io/governing-ai-agent-credentials/",
-        "source": "The New Stack",
-        "published": "2026-10-28T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "AI agents need to be replaceable – without losing your work",
-        "url": "https://thenewstack.io/durable-ai-agent-operations/",
-        "source": "The New Stack",
-        "published": "2026-10-28T13:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "From human clicks to agentic velocity: What OpenAI’s 1.2 billion scale means for your auth",
-        "url": "https://thenewstack.io/openai-agentic-identity-scale/",
-        "source": "The New Stack",
-        "published": "2026-10-28T12:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Legora is building the agentic operating system for legal work",
-        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-        "source": "OpenAI Blog",
-        "published": "2026-10-28T09:30:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Legora is building the agentic operating system for legal work",
-        "url": "https://openai.com/index/legora",
-        "source": "OpenAI Blog",
-        "published": "2026-10-28T09:30:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Match monitoring depth to workload needs with Infrastructure Basic",
-        "url": "https://www.datadoghq.com/blog/infrastructure-monitoring-basic/",
-        "source": "Datadog Engineering",
-        "published": "2026-10-28T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Google built AI agents a world to practice in. The physics still aren’t quite right.",
-        "url": "https://thenewstack.io/genie-4-world-model/",
-        "source": "The New Stack",
-        "published": "2026-10-27T22:33:51.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Replit’s CEO says an idea from 1937 could make the org chart obsolete",
-        "url": "https://thenewstack.io/replit-self-driving-company/",
-        "source": "The New Stack",
-        "published": "2026-10-27T21:16:40.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“The panic hasn’t turned into patching”: What security researchers really think about the PHP2Shell response",
-        "url": "https://thenewstack.io/php2shell-unpatched-php-servers/",
-        "source": "The New Stack",
-        "published": "2026-10-27T20:54:37.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Introducing VMware solution on Google Cloud",
-        "url": "https://cloud.google.com/blog/products/infrastructure-modernization/vmware-solution-on-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-27T20:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Powering the agentic enterprise with latest innovations in Oracle AI Database@Google Cloud",
-        "url": "https://cloud.google.com/blog/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-27T19:30:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Securely connecting Gemini Enterprise to Snowflake data",
-        "url": "https://cloud.google.com/blog/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-27T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
-        "url": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-27T16:00:00.000Z",
         "topics": [
           "networking",
           "development"
@@ -263,6 +265,22 @@
   },
   "cisco": {
     "items": [
+      {
+        "title": "From Small Village to Global Career: My Journey at Cisco",
+        "url": "https://blogs.cisco.com/wearecisco/from-small-village-to-global-career-my-journey-at-cisco",
+        "source": "Cisco Blogs",
+        "published": "2026-10-29T12:00:05.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco AI Defense joins ServiceNow’s Control Tower Alliance",
+        "url": "https://blogs.cisco.com/ai/cisco-ai-defense-joins-servicenows-control-tower-alliance",
+        "source": "Cisco Blogs",
+        "published": "2026-10-28T20:09:41.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Cisco IT’s Endpoint Observability Strategy: Right-Sized Telemetry for Splunk Observability Cloud",
         "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud",
@@ -320,22 +338,6 @@
         "type": "article"
       },
       {
-        "title": "Celebrating the Winners of Cisco’s 2026 Partner Innovation Challenge",
-        "url": "https://blogs.cisco.com/partner/celebrating-the-winners-of-ciscos-2026-partner-innovation-challenge",
-        "source": "Cisco Blogs",
-        "published": "2026-10-26T23:00:47.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Partners Who Set the Pace: Our FY26 Global Award Winners",
-        "url": "https://blogs.cisco.com/partner/the-partners-who-set-the-pace-our-fy26-global-award-winners",
-        "source": "Cisco Blogs",
-        "published": "2026-10-26T22:00:01.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco Expands Partner Opportunity with New Cisco 360 Program Updates, High Yield Customer Experience Offerings, and AI-Ready Innovations",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-expands-partner-opportunity-with-new-cisco-360-program-updates-high-yield-customer-experience-offerings-and-ai-ready-innovations.html?source=rss",
         "source": "Cisco Press Releases",
@@ -376,8 +378,8 @@
         "type": "article"
       },
       {
-        "title": "Cisco Advances Scalability and Openness at OCP 2026",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-advances-scalability-and-openness-at-ocp-2026.html?source=rss",
+        "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/nvidia-and-cisco-new-pluggable-optics-to-scale-ai-factories.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-10-12T15:00:00.000Z",
         "topics": [],
@@ -387,6 +389,41 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Shape Monitoring Around What Matters with Test Scheduler",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#shape-monitoring-around-what-matters-with-test-scheduler",
+        "source": "Release Notes",
+        "published": "2026-10-29T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Removal of Legacy OpenTelemetry Connection Type Attribute",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#removal-of-legacy-opentelemetry-connection-type-attribute",
+        "source": "Release Notes",
+        "published": "2026-10-29T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Improved Calculator Design and Cost Estimates",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#improved-calculator-design-and-cost-estimates",
+        "source": "Release Notes",
+        "published": "2026-10-29T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "HTTP Server Test in Splunk Synthetic Monitoring — Generally Available",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#http-server-test-in-splunk-synthetic-monitoring-generally-available",
+        "source": "Release Notes",
+        "published": "2026-10-28T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Wireless Active Testing Dashboard Template",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#wireless-active-testing-dashboard-template",
+        "source": "Release Notes",
+        "published": "2026-10-28T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Enterprise Routing Assurance",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#enterprise-routing-assurance",
@@ -420,41 +457,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#explore-dashboard-chart-data-with-tooltips-and-drill-down",
         "source": "Release Notes",
         "published": "2026-10-27T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Migrating Your SSO Configuration",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#migrating-your-sso-configuration",
-        "source": "Release Notes",
-        "published": "2026-10-23T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Alert Optimizations in the ThousandEyes MCP Server",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#alert-optimizations-in-the-thousandeyes-mcp-server",
-        "source": "Release Notes",
-        "published": "2026-10-23T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Advance Notice: Enterprise Agent Certificate Revocation Checks",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#advance-notice-enterprise-agent-certificate-revocation-checks",
-        "source": "Release Notes",
-        "published": "2026-10-22T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Endpoint Agent Client Version 2.60.5",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-client-version-2-60-5",
-        "source": "Release Notes",
-        "published": "2026-10-22T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Cloud Insights Adds Network and Security Views to Azure",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#cloud-insights-adds-network-and-security-views-to-azure",
-        "source": "Release Notes",
-        "published": "2026-10-22T00:00:00.000Z",
         "type": "release"
       }
     ]
