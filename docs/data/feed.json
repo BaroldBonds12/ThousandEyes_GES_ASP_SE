@@ -1,52 +1,12 @@
 {
-  "updatedAt": "2026-10-29T17:49:56.027Z",
+  "updatedAt": "2026-10-31T16:35:47.733Z",
   "industry": {
     "items": [
       {
-        "title": "An updated Model Spec for more capable and beneficial AI",
-        "url": "https://openai.com/index/updated-model-spec",
-        "source": "OpenAI Blog",
-        "published": "2026-10-29T17:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
-        "url": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-29T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)",
-        "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-29T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Grounding agents in one context graph connecting semantic models you already trust",
-        "url": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
-        "source": "Google Cloud Blog",
-        "published": "2026-10-29T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Why MCP servers should tell agents what to do next",
-        "url": "https://thenewstack.io/aws-mcp-agent-observability/",
+        "title": "The context problem: How Docusign built agents that understand the business behind contracts",
+        "url": "https://thenewstack.io/docusign-contract-ai-agents/",
         "source": "The New Stack",
-        "published": "2026-10-29T15:55:39.000Z",
+        "published": "2026-10-31T16:13:35.000Z",
         "topics": [
           "development",
           "observability",
@@ -54,20 +14,10 @@
         ]
       },
       {
-        "title": "Grafana 13.3 release: manage variables across dashboards, share findings with Notebooks, a UI refresh, and more",
-        "url": "https://grafana.com/blog/grafana-13-3-release-all-the-latest-features/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-10-29T15:01:42.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Mistral’s Large 4 open weights arrive with a 1-point coding lead over GLM-5.3: “There’s nothing you can’t do with this model that you can do with competitors.”",
-        "url": "https://thenewstack.io/mistral-chonk-coding-model/",
+        "title": "Five years after the fork, OpenSearch is slowly stepping out of AWS’s shadow",
+        "url": "https://thenewstack.io/opensearch-foundation-aws-elasticsearch/",
         "source": "The New Stack",
-        "published": "2026-10-29T14:49:44.000Z",
+        "published": "2026-10-31T16:02:34.000Z",
         "topics": [
           "development",
           "observability",
@@ -75,10 +25,10 @@
         ]
       },
       {
-        "title": "AWS Elastic Beanstalk for regulated workloads: Built for the next decade, not just the first deploy",
-        "url": "https://thenewstack.io/elastic-beanstalk-regulated-workloads/",
+        "title": "Developers ask AI which tool to use. Here’s how we track the answer.",
+        "url": "https://thenewstack.io/tracking-ai-tool-recommendations/",
         "source": "The New Stack",
-        "published": "2026-10-29T14:00:00.000Z",
+        "published": "2026-10-31T15:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -86,10 +36,10 @@
         ]
       },
       {
-        "title": "“I don’t think the world needs a new GitHub”: What GitHub’s leaders really think about their new rivals",
-        "url": "https://thenewstack.io/github-agentic-infrastructure-rebuild/",
+        "title": "Amazon CEO predicts 6 to 8 AI models will be ‘good enough’ for almost everything",
+        "url": "https://thenewstack.io/jassy-bedrock-multimodel-prediction/",
         "source": "The New Stack",
-        "published": "2026-10-29T13:30:00.000Z",
+        "published": "2026-10-31T14:30:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -97,10 +47,10 @@
         ]
       },
       {
-        "title": "Why Kubernetes platforms keep rebuilding a layer they could share",
-        "url": "https://thenewstack.io/kubernetes-resource-composition-layer/",
+        "title": "Shielding the patch gap: The exploit doesn’t wait for Patch Tuesday",
+        "url": "https://thenewstack.io/shielding-the-patch-gap/",
         "source": "The New Stack",
-        "published": "2026-10-29T13:00:00.000Z",
+        "published": "2026-10-31T14:00:00.000Z",
         "topics": [
           "development",
           "observability",
@@ -108,10 +58,54 @@
         ]
       },
       {
-        "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
-        "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+        "title": "GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort",
+        "url": "https://thenewstack.io/gpt-6-1-terra-vs-claude-opus-5-5/",
+        "source": "The New Stack",
+        "published": "2026-10-31T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
+        "url": "https://thenewstack.io/claude-ultra-session-limit/",
+        "source": "The New Stack",
+        "published": "2026-10-30T20:14:04.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Busy GPUs can hide slow AI inference on Kubernetes",
+        "url": "https://thenewstack.io/ai-inference-kubernetes-observability/",
+        "source": "The New Stack",
+        "published": "2026-10-30T19:56:41.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "What worries Entire co-founder Thomas Dohmke about the future of tech?",
+        "url": "https://thenewstack.io/we-are-developers-tech-predictions/",
+        "source": "The New Stack",
+        "published": "2026-10-30T19:37:46.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+        "url": "https://blog.cloudflare.com/emudhra-patching/",
         "source": "Cloudflare Blog",
-        "published": "2026-10-29T12:55:00.000Z",
+        "published": "2026-10-30T17:38:50.000Z",
         "topics": [
           "networking",
           "observability",
@@ -119,10 +113,10 @@
         ]
       },
       {
-        "title": "The 5 essential layers of AI agent sandboxing on Kubernetes",
-        "url": "https://thenewstack.io/ai-agent-sandboxing-kubernetes/",
+        "title": "Kubernetes just formed a workload conformance group. Here’s why it matters for AI teams.",
+        "url": "https://thenewstack.io/kubernetes-workload-conformance-ai/",
         "source": "The New Stack",
-        "published": "2026-10-29T12:00:00.000Z",
+        "published": "2026-10-30T17:29:11.000Z",
         "topics": [
           "development",
           "observability",
@@ -130,141 +124,170 @@
         ]
       },
       {
-        "title": "“Urgency is an inherently subjective call”: Anthropic tells TNS how it grades Claude Duet",
-        "url": "https://thenewstack.io/claude-duet-agent-judgment/",
-        "source": "The New Stack",
-        "published": "2026-10-29T11:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How we detect frontier model misalignment",
-        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-        "source": "OpenAI Blog",
-        "published": "2026-10-29T09:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "How Ropes & Gray is developing AI for transactional diligence",
-        "url": "https://openai.com/index/ropes-gray-ai-diligence",
-        "source": "OpenAI Blog",
-        "published": "2026-10-29T07:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Datadog named a Leader in the Forrester Wave™: AIOps Platforms, Q4 2026",
-        "url": "https://www.datadoghq.com/blog/datadog-aiops-platforms-forrester-wave-2026/",
-        "source": "Datadog Engineering",
-        "published": "2026-10-29T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Trace voice agents with Datadog Agent Observability",
-        "url": "https://www.datadoghq.com/blog/agent-observability-voice-agent/",
-        "source": "Datadog Engineering",
-        "published": "2026-10-29T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Detect when your AI agent copies a self-replicating prompt injection",
-        "url": "https://www.datadoghq.com/blog/detect-when-your-ai-agent-copies-a-self-replicating-prompt-injection/",
-        "source": "Datadog Engineering",
-        "published": "2026-10-29T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Google just handed its rivals the keys to Android",
-        "url": "https://thenewstack.io/android-agents-build-debug/",
-        "source": "The New Stack",
-        "published": "2026-10-28T17:43:09.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost",
-        "url": "https://thenewstack.io/github-copilot-fusion/",
-        "source": "The New Stack",
-        "published": "2026-10-28T16:19:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GitHub saw 7.4B commits in September, adding 4M CPU cores and 160 PB of storage to keep up",
-        "url": "https://thenewstack.io/github-7-4b-commits-september/",
-        "source": "The New Stack",
-        "published": "2026-10-28T16:10:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GitHub Universe 2026: Evolving every layer of the stack",
-        "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-        "source": "GitHub Blog",
-        "published": "2026-10-28T16:09:28.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Evaluate AI models for observability: o11y-bench joins Fireworks' Specialized Intelligence Index and reaches v1.1",
-        "url": "https://grafana.com/blog/evaluate-ai-models-for-observability-o11y-bench-joins-fireworks-specialized-intelligence-index-and-reaches-v1-1/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-10-28T16:08:24.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-        "source": "GitHub Blog",
-        "published": "2026-10-28T16:07:40.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
-        "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
+        "title": "What’s new in AI infrastructure and orchestration in October",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
         "source": "Google Cloud Blog",
-        "published": "2026-10-28T16:00:00.000Z",
+        "published": "2026-10-30T16:00:00.000Z",
         "topics": [
           "networking",
           "development"
+        ]
+      },
+      {
+        "title": "When the Kubernetes API went silent: A three-layer networking mystery",
+        "url": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-30T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Innovate on your own business terms: Google Cloud spend caps now generally available",
+        "url": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-30T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-30T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "GPT-6.1 Terra vs. GPT-6 Astra: One sacrifices accuracy for lower cost and higher speed at high effort",
+        "url": "https://thenewstack.io/gpt-6-1-terra-vs-gpt-6-astra/",
+        "source": "The New Stack",
+        "published": "2026-10-30T14:59:35.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cloudflare services for private origins is now generally available",
+        "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
+        "source": "Cloudflare Blog",
+        "published": "2026-10-30T14:23:43.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "What five P99 CONF talks reveal about database trade-offs",
+        "url": "https://thenewstack.io/p99-conf-database-tradeoffs/",
+        "source": "The New Stack",
+        "published": "2026-10-30T13:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "New Gemini courses for financial services and legal teams",
+        "url": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
+        "source": "Google Cloud Blog",
+        "published": "2026-10-30T13:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Making it easier for websites to express AI training preferences",
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+        "source": "OpenAI Blog",
+        "published": "2026-10-30T09:30:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Community safety report and new protections for teens",
+        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+        "source": "OpenAI Blog",
+        "published": "2026-10-30T09:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Fair use benefits everyone",
+        "url": "https://openai.com/index/fair-use-benefits-everyone",
+        "source": "OpenAI Blog",
+        "published": "2026-10-30T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "How we use Insights to improve the agent behind Insights",
+        "url": "https://www.datadoghq.com/blog/improving-insights-agent-observability/",
+        "source": "Datadog Engineering",
+        "published": "2026-10-30T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Sam Altman almost scrapped token pricing. Here’s why he backed off.",
+        "url": "https://thenewstack.io/openai-token-pricing-reversal/",
+        "source": "The New Stack",
+        "published": "2026-10-29T22:19:18.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AWS’s Hydro team wants the compiler to catch coding agents’ mistakes",
+        "url": "https://thenewstack.io/ai-agents-compiler-guardrails/",
+        "source": "The New Stack",
+        "published": "2026-10-29T21:53:05.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
         ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Accelerating Pipeline Velocity with Cisco 360 Marketing",
+        "url": "https://blogs.cisco.com/partner/accelerating-pipeline-velocity-with-cisco-360-marketing",
+        "source": "Cisco Blogs",
+        "published": "2026-10-30T20:00:13.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Platform Possibilities Multiply with Ecosystem Profitability",
+        "url": "https://blogs.cisco.com/partner/platform-possibilities-multiply-with-ecosystem-profitability",
+        "source": "Cisco Blogs",
+        "published": "2026-10-30T16:00:28.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "From Small Village to Global Career: My Journey at Cisco",
         "url": "https://blogs.cisco.com/wearecisco/from-small-village-to-global-career-my-journey-at-cisco",
@@ -322,22 +345,6 @@
         "type": "article"
       },
       {
-        "title": "Rebuilding PubHub: AI-first SDLC, one bottleneck at a time – Part 2",
-        "url": "https://blogs.cisco.com/cisco-devnet/ai-first-sdlc-rebuilding-pubhub-part-2",
-        "source": "Cisco Blogs",
-        "published": "2026-10-28T12:00:44.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Autonomous Channel: How Cisco Is Pioneering Agentic Solutions for Distribution",
-        "url": "https://blogs.cisco.com/partner/the-autonomous-channel-how-cisco-is-pioneering-agentic-solutions-for-distribution",
-        "source": "Cisco Blogs",
-        "published": "2026-10-27T13:28:30.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco Expands Partner Opportunity with New Cisco 360 Program Updates, High Yield Customer Experience Offerings, and AI-Ready Innovations",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-expands-partner-opportunity-with-new-cisco-360-program-updates-high-yield-customer-experience-offerings-and-ai-ready-innovations.html?source=rss",
         "source": "Cisco Press Releases",
@@ -378,8 +385,8 @@
         "type": "article"
       },
       {
-        "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/nvidia-and-cisco-new-pluggable-optics-to-scale-ai-factories.html?source=rss",
+        "title": "Cisco Advances Scalability and Openness at OCP 2026",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-advances-scalability-and-openness-at-ocp-2026.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-10-12T15:00:00.000Z",
         "topics": [],
@@ -389,6 +396,41 @@
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Manual Geolocation Configuration for Enterprise Agents",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#manual-geolocation-configuration-for-enterprise-agents",
+        "source": "Release Notes",
+        "published": "2026-10-30T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "New Agent Selector for Target Agent",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#new-agent-selector-for-target-agent",
+        "source": "Release Notes",
+        "published": "2026-10-30T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Jumbo Frame Support for Agent-to-Server and Agent-to-Agent Tests",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#jumbo-frame-support-for-agent-to-server-and-agent-to-agent-tests",
+        "source": "Release Notes",
+        "published": "2026-10-30T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Cisco Application Hosting Framework (CAF) Version 5.2.2",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#cisco-application-hosting-framework-caf-version-5-2-2",
+        "source": "Release Notes",
+        "published": "2026-10-29T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Advance Notice: Post-Quantum Cryptography Support",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#advance-notice-post-quantum-cryptography-support",
+        "source": "Release Notes",
+        "published": "2026-10-29T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Shape Monitoring Around What Matters with Test Scheduler",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#shape-monitoring-around-what-matters-with-test-scheduler",
@@ -422,41 +464,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#wireless-active-testing-dashboard-template",
         "source": "Release Notes",
         "published": "2026-10-28T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Enterprise Routing Assurance",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#enterprise-routing-assurance",
-        "source": "Release Notes",
-        "published": "2026-10-28T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Endpoint Agent Health Is Generally Available",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#endpoint-agent-health-is-generally-available",
-        "source": "Release Notes",
-        "published": "2026-10-28T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Stable Tag Selection for OpenTelemetry Streams",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#stable-tag-selection-for-opentelemetry-streams",
-        "source": "Release Notes",
-        "published": "2026-10-28T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Alert Optimizations Is Now Generally Available",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#alert-optimizations-is-now-generally-available",
-        "source": "Release Notes",
-        "published": "2026-10-27T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Explore Dashboard Chart Data with Tooltips and Drill-Down",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#explore-dashboard-chart-data-with-tooltips-and-drill-down",
-        "source": "Release Notes",
-        "published": "2026-10-27T00:00:00.000Z",
         "type": "release"
       }
     ]
