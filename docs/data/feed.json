@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-31T16:35:47.733Z",
+  "updatedAt": "2026-11-01T17:27:04.604Z",
   "industry": {
     "items": [
+      {
+        "title": "Open-source security in the AI exploit era: Patch without changing a thing",
+        "url": "https://thenewstack.io/patchmageddon-open-source-security22842502/",
+        "source": "The New Stack",
+        "published": "2026-11-01T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "A step-by-step guide for how to kill the line-by-line code review",
+        "url": "https://thenewstack.io/ai-code-review-invariants/",
+        "source": "The New Stack",
+        "published": "2026-11-01T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "The context problem: How Docusign built agents that understand the business behind contracts",
         "url": "https://thenewstack.io/docusign-contract-ai-agents/",
@@ -244,28 +266,6 @@
         "topics": [
           "observability",
           "monitoring"
-        ]
-      },
-      {
-        "title": "Sam Altman almost scrapped token pricing. Here’s why he backed off.",
-        "url": "https://thenewstack.io/openai-token-pricing-reversal/",
-        "source": "The New Stack",
-        "published": "2026-10-29T22:19:18.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "AWS’s Hydro team wants the compiler to catch coding agents’ mistakes",
-        "url": "https://thenewstack.io/ai-agents-compiler-guardrails/",
-        "source": "The New Stack",
-        "published": "2026-10-29T21:53:05.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
         ]
       }
     ]
