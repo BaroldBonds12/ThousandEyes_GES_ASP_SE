@@ -1,7 +1,109 @@
 {
-  "updatedAt": "2026-11-02T21:10:51.976Z",
+  "updatedAt": "2026-11-03T18:52:59.401Z",
   "industry": {
     "items": [
+      {
+        "title": "How Nammu21 automates syndicated loans on Google Cloud Universal Ledger",
+        "url": "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-03T18:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Leading in the agentic era: How to put people first as you adopt AI agents",
+        "url": "https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-03T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Arnis turns any place on Earth into a Minecraft world",
+        "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+        "source": "GitHub Blog",
+        "published": "2026-11-03T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Trace linkage: connect the dots between your app traces and database queries",
+        "url": "https://grafana.com/blog/trace-linkage-connect-the-dots-between-your-app-traces-and-database-queries/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-11-03T15:05:03.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+        "url": "https://blog.cloudflare.com/zero-wire/",
+        "source": "Cloudflare Blog",
+        "published": "2026-11-03T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Anthropic speeds up Claude Code with message threads. But your token bill stays the same.",
+        "url": "https://thenewstack.io/anthropic-claude-message-threads/",
+        "source": "The New Stack",
+        "published": "2026-11-03T13:46:14.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Heimstaden is changing residential real estate management with AI",
+        "url": "https://openai.com/index/heimstaden",
+        "source": "OpenAI Blog",
+        "published": "2026-11-03T08:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Five rules for evaluating agent skills before they bloat your context window",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-03T08:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Introducing Physical-Engineering’s Last Exam for agents",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-03T08:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "OpenAI built itself a new Git backend, too",
+        "url": "https://thenewstack.io/openai-pando-git-backend/",
+        "source": "The New Stack",
+        "published": "2026-11-03T00:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Developers are downgrading their AI on purpose — and it’s working",
         "url": "https://thenewstack.io/claude-code-developer-refusals/",
@@ -36,6 +138,26 @@
         ]
       },
       {
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "source": "OpenAI Blog",
+        "published": "2026-11-02T18:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Rewarding defenders with bigger bug bounties",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "source": "OpenAI Blog",
+        "published": "2026-11-02T18:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
         "title": "Google Cloud Developer plugin now available in Antigravity Marketplace",
         "url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
         "source": "Google Cloud Blog",
@@ -67,6 +189,16 @@
         ]
       },
       {
+        "title": "What Google Cloud announced in AI this month",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-02T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
         "title": "Instrumentation Hub in Grafana Cloud: start easier, stay in control",
         "url": "https://grafana.com/blog/instrumentation-hub-start-your-observability-journey-easier-and-still-stay-in-control/",
         "source": "Grafana Labs Blog",
@@ -74,6 +206,16 @@
         "topics": [
           "observability",
           "monitoring"
+        ]
+      },
+      {
+        "title": "Scaling Git at OpenAI",
+        "url": "https://openai.com/index/scaling-git-at-openai",
+        "source": "OpenAI Blog",
+        "published": "2026-11-02T15:30:00.000Z",
+        "topics": [
+          "ai",
+          "development"
         ]
       },
       {
@@ -98,16 +240,6 @@
         ]
       },
       {
-        "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-02T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
         "title": "Shutting the Door on the XCPE Botnet",
         "url": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
         "source": "Google Cloud Blog",
@@ -118,150 +250,27 @@
         ]
       },
       {
-        "title": "LifeVal",
-        "url": "https://openai.com/index/lifeval",
-        "source": "OpenAI Blog",
-        "published": "2026-11-02T09:00:00.000Z",
+        "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-02T14:00:00.000Z",
         "topics": [
-          "ai",
+          "networking",
           "development"
-        ]
-      },
-      {
-        "title": "Qodo builds context into AI code review with Codex",
-        "url": "https://openai.com/index/qodo-codex-plugin",
-        "source": "OpenAI Blog",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Extend RUM to Electron’s main process with the Datadog Electron SDK",
-        "url": "https://www.datadoghq.com/blog/datadog-electron-sdk/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Store and recover user sessions with RUM Managed Archive",
-        "url": "https://www.datadoghq.com/blog/rum-managed-archive/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Export RUM and Product Analytics data with Export Pipelines",
-        "url": "https://www.datadoghq.com/blog/export-pipelines/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Monitor C and C++ applications with Datadog RUM",
-        "url": "https://www.datadoghq.com/blog/monitor-native-apps-datadog-rum/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Datadog is now available on Anthropic’s Claude Marketplace",
-        "url": "https://www.datadoghq.com/blog/datadog-anthropic-claude-marketplace/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Agents make decisions at runtime—your security controls should too",
-        "url": "https://www.datadoghq.com/blog/runtime-security-for-ai-agents/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Bits investigations are faster, more accurate, and cost less",
-        "url": "https://www.datadoghq.com/blog/bits-investigations-cost-speed-accuracy/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Diagnose frontend performance issues with RUM Profiling",
-        "url": "https://www.datadoghq.com/blog/rum-profiling-mobile/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Manage and deploy LLM prompts with Datadog",
-        "url": "https://www.datadoghq.com/blog/agent-observability-prompt-management/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-02T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Game Off 2026: The theme is SHIFT",
-        "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-        "source": "GitHub Blog",
-        "published": "2026-11-01T21:36:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Open-source security in the AI exploit era: Patch without changing a thing",
-        "url": "https://thenewstack.io/patchmageddon-open-source-security22842502/",
-        "source": "The New Stack",
-        "published": "2026-11-01T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "A step-by-step guide for how to kill the line-by-line code review",
-        "url": "https://thenewstack.io/ai-code-review-invariants/",
-        "source": "The New Stack",
-        "published": "2026-11-01T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
         ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "PHP2Shell: How Cisco Helps Customers Respond to AI-Accelerated Threats",
+        "url": "https://blogs.cisco.com/security/php2shell-how-cisco-helps-customers-respond-to-ai-accelerated-threats",
+        "source": "Cisco Blogs",
+        "published": "2026-11-02T18:24:13.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Design-to-Code: Reimagine Handoff Workflow with AI – Rebuilding PubHub Part 3",
         "url": "https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow",
@@ -331,14 +340,6 @@
         "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud",
         "source": "Cisco Blogs",
         "published": "2026-10-28T16:59:15.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Expect more from your wireless network: A playbook for growing businesses",
-        "url": "https://blogs.cisco.com/networking/expect-more-from-your-wireless-network-a-playbook-for-growing-businesses",
-        "source": "Cisco Blogs",
-        "published": "2026-10-28T15:00:41.000Z",
         "topics": [],
         "type": "article"
       },
