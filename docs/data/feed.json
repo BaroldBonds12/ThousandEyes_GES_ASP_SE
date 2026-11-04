@@ -1,7 +1,194 @@
 {
-  "updatedAt": "2026-11-03T18:52:59.401Z",
+  "updatedAt": "2026-11-04T19:09:34.509Z",
   "industry": {
     "items": [
+      {
+        "title": "Render just removed its AI sandbox time limit — and Vercel still has a 24-hour cap",
+        "url": "https://thenewstack.io/render-vercel-ai-sandboxes/",
+        "source": "The New Stack",
+        "published": "2026-11-04T18:04:17.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Fortra says AI could save file transfer admins up to 160 hours a year",
+        "url": "https://thenewstack.io/failed-file-transfer-ai-troubleshooting/",
+        "source": "The New Stack",
+        "published": "2026-11-04T17:53:47.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Helping you build and defend at machine-speed in the agentic era",
+        "url": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-04T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot",
+        "url": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-04T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "“Signing in to your company’s plugins one by one is annoying”: Anthropic’s fix puts Claude in the identity business",
+        "url": "https://thenewstack.io/claude-plugin-identity-issuer/",
+        "source": "The New Stack",
+        "published": "2026-11-04T16:59:22.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Introducing Compute Engine API multi-versioning: Predictable evolution without breaking production",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-04T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
+        "source": "OpenAI Blog",
+        "published": "2026-11-04T14:30:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "See the agents, set the terms: new visibility and control for personal agents",
+        "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+        "source": "Cloudflare Blog",
+        "published": "2026-11-04T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "New capabilities to power agents at scale with Google's Agentic Data Cloud",
+        "url": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-04T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "AlloyDB Express: Instant, scale-to-zero PostgreSQL for developers and coding agents",
+        "url": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-04T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Unify operational and Lakehouse data with direct Iceberg access in AlloyDB for PostgreSQL",
+        "url": "https://cloud.google.com/blog/products/databases/direct-iceberg-access-in-alloydb/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-04T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Chrome Enterprise Premium drives 50%+ projected cost reduction for Mercari",
+        "url": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-premium-drives-50-projected-cost-reduction-for-mercari/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-04T09:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+        "source": "OpenAI Blog",
+        "published": "2026-11-04T07:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Compare AI agent changes with Online Experiments in Agent Observability",
+        "url": "https://www.datadoghq.com/blog/online-experiments-agent-observability/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-04T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "A developer opened Postman. Then two AI coding agents changed without their permission.",
+        "url": "https://thenewstack.io/postman-plugin-coding-agents/",
+        "source": "The New Stack",
+        "published": "2026-11-03T23:17:04.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Can agent standards keep up with the companies building them?",
+        "url": "https://thenewstack.io/mazin-gilbert-aaif-interview/",
+        "source": "The New Stack",
+        "published": "2026-11-03T22:50:15.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Bridging Alloy and OpenTelemetry: the OTel engine is now in Public Preview",
+        "url": "https://grafana.com/blog/bridging-alloy-and-opentelemetry-the-otel-engine-is-now-in-public-preview/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-11-03T21:32:18.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Goldman Sachs restricted Claude Code for bankers — but made one surprising exception",
+        "url": "https://thenewstack.io/ai-coding-agents-security/",
+        "source": "The New Stack",
+        "published": "2026-11-03T19:18:34.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "How Nammu21 automates syndicated loans on Google Cloud Universal Ledger",
         "url": "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/",
@@ -64,198 +251,12 @@
         ]
       },
       {
-        "title": "Heimstaden is changing residential real estate management with AI",
-        "url": "https://openai.com/index/heimstaden",
+        "title": "Accelerating engineering for the physical world",
+        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
         "source": "OpenAI Blog",
-        "published": "2026-11-03T08:00:00.000Z",
+        "published": "2026-11-03T12:00:00.000Z",
         "topics": [
           "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Five rules for evaluating agent skills before they bloat your context window",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-03T08:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Introducing Physical-Engineering’s Last Exam for agents",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-03T08:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "OpenAI built itself a new Git backend, too",
-        "url": "https://thenewstack.io/openai-pando-git-backend/",
-        "source": "The New Stack",
-        "published": "2026-11-03T00:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Developers are downgrading their AI on purpose — and it’s working",
-        "url": "https://thenewstack.io/claude-code-developer-refusals/",
-        "source": "The New Stack",
-        "published": "2026-11-02T21:03:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your AI coding agent now runs on a budget — and it can cut you off mid-task",
-        "url": "https://thenewstack.io/22842541cognition-devin-hierarchical-budgets/",
-        "source": "The New Stack",
-        "published": "2026-11-02T19:03:38.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Canva’s new design model doesn’t generate images. It writes code to edit them.",
-        "url": "https://thenewstack.io/canva-brush-design-editing/",
-        "source": "The New Stack",
-        "published": "2026-11-02T18:06:26.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-        "source": "OpenAI Blog",
-        "published": "2026-11-02T18:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Rewarding defenders with bigger bug bounties",
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-        "source": "OpenAI Blog",
-        "published": "2026-11-02T18:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Google Cloud Developer plugin now available in Antigravity Marketplace",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-02T18:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Beyond Migration: Using Database Migration Service for disk shrinking",
-        "url": "https://cloud.google.com/blog/products/databases/use-dms-to-shrink-cloud-sql-for-sql-server-disk/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-02T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "OpenAI’s new shared usage limit pits ChatGPT against Codex",
-        "url": "https://thenewstack.io/openai-chatgpt-codex-shared-limits/",
-        "source": "The New Stack",
-        "published": "2026-11-02T16:45:19.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "What Google Cloud announced in AI this month",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-02T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Instrumentation Hub in Grafana Cloud: start easier, stay in control",
-        "url": "https://grafana.com/blog/instrumentation-hub-start-your-observability-journey-easier-and-still-stay-in-control/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-11-02T15:44:53.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Scaling Git at OpenAI",
-        "url": "https://openai.com/index/scaling-git-at-openai",
-        "source": "OpenAI Blog",
-        "published": "2026-11-02T15:30:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Introducing the Grid Protectors Program",
-        "url": "https://openai.com/index/grid-protectors-program",
-        "source": "OpenAI Blog",
-        "published": "2026-11-02T15:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "How we halved DNS build delay and cut memory use by 85%",
-        "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-        "source": "Cloudflare Blog",
-        "published": "2026-11-02T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Shutting the Door on the XCPE Botnet",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-02T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-02T14:00:00.000Z",
-        "topics": [
-          "networking",
           "development"
         ]
       }
@@ -263,6 +264,54 @@
   },
   "cisco": {
     "items": [
+      {
+        "title": "Cisco IQ: Engineering APIs for the Agentic Era",
+        "url": "https://blogs.cisco.com/customerexperience/cisco-iq-engineering-apis-for-the-agentic-era",
+        "source": "Cisco Blogs",
+        "published": "2026-11-04T17:30:28.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Mastering stateful stream reordering at 200,000 messages per second",
+        "url": "https://blogs.cisco.com/cisco-devnet/flink-ab-development-stateful-stream-processing",
+        "source": "Cisco Blogs",
+        "published": "2026-11-04T17:00:06.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "More 100G in every rack: Meet the Cisco N9348C8D-H2",
+        "url": "https://blogs.cisco.com/datacenter/more-100g-in-every-rack-meet-the-cisco-n9348c8d-h2",
+        "source": "Cisco Blogs",
+        "published": "2026-11-04T16:00:25.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Grid Solutions at Scale, in a Small Footprint: Visit Cisco at Enlit Europe",
+        "url": "https://blogs.cisco.com/industrial-iot/grid-solutions-at-scale-in-a-small-footprint-visit-cisco-at-enlit-europe",
+        "source": "Cisco Blogs",
+        "published": "2026-11-04T15:56:59.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco Schedules Conference Call for Q1 Fiscal Year 2027 Financial Results",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-schedules-conference-call-for-q1-fiscal-year-2027-financial-results.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-11-03T21:05:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco Live Melbourne: What’s Happening at the Learn with Cisco Booth",
+        "url": "https://blogs.cisco.com/learning/cl-apjc-2026",
+        "source": "Cisco Blogs",
+        "published": "2026-11-03T19:23:26.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "PHP2Shell: How Cisco Helps Customers Respond to AI-Accelerated Threats",
         "url": "https://blogs.cisco.com/security/php2shell-how-cisco-helps-customers-respond-to-ai-accelerated-threats",
@@ -296,50 +345,10 @@
         "type": "article"
       },
       {
-        "title": "Accelerating Pipeline Velocity with Cisco 360 Marketing",
-        "url": "https://blogs.cisco.com/partner/accelerating-pipeline-velocity-with-cisco-360-marketing",
-        "source": "Cisco Blogs",
-        "published": "2026-10-30T20:00:13.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Platform Possibilities Multiply with Ecosystem Profitability",
-        "url": "https://blogs.cisco.com/partner/platform-possibilities-multiply-with-ecosystem-profitability",
-        "source": "Cisco Blogs",
-        "published": "2026-10-30T16:00:28.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "From Small Village to Global Career: My Journey at Cisco",
-        "url": "https://blogs.cisco.com/wearecisco/from-small-village-to-global-career-my-journey-at-cisco",
-        "source": "Cisco Blogs",
-        "published": "2026-10-29T12:00:05.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco and PSA Singapore Collaborate to Power the Next Phase of Tuas Port with AI-Driven Operations",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-and-psa-singapore-collaborate-to-power-the-next-phase-of-tuas-port-with-ai-driven-operations.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-10-29T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco AI Defense joins ServiceNow’s Control Tower Alliance",
-        "url": "https://blogs.cisco.com/ai/cisco-ai-defense-joins-servicenows-control-tower-alliance",
-        "source": "Cisco Blogs",
-        "published": "2026-10-28T20:09:41.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco IT’s Endpoint Observability Strategy: Right-Sized Telemetry for Splunk Observability Cloud",
-        "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud",
-        "source": "Cisco Blogs",
-        "published": "2026-10-28T16:59:15.000Z",
         "topics": [],
         "type": "article"
       },
@@ -374,19 +383,46 @@
         "published": "2026-10-15T12:00:00.000Z",
         "topics": [],
         "type": "article"
-      },
-      {
-        "title": "On the front lines of a breach with Cisco Talos Incident Response",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/on-the-front-lines-of-a-breach-with-cisco-talos-incident-response.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-10-13T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
       }
     ]
   },
   "thousandeyes": {
     "items": [
+      {
+        "title": "Mobile Endpoint Agent Open Beta for AOSP Devices",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#mobile-endpoint-agent-open-beta-for-aosp-devices",
+        "source": "Release Notes",
+        "published": "2026-11-04T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Mobile Endpoint Agent Android Version 1.9.0",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#mobile-endpoint-agent-android-version-1-9-0",
+        "source": "Release Notes",
+        "published": "2026-11-04T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "Update: Expanded Wi-Fi Metrics for Endpoint Agents",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#update-expanded-wi-fi-metrics-for-endpoint-agents",
+        "source": "Release Notes",
+        "published": "2026-11-04T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "ThousandEyes Support & Lifecycle Updates: November 2026",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#thousandeyes-support-lifecycle-updates-november-2026",
+        "source": "Release Notes",
+        "published": "2026-11-03T00:00:00.000Z",
+        "type": "release"
+      },
+      {
+        "title": "MCP Apps Now Available for the ThousandEyes MCP Server",
+        "url": "https://docs.thousandeyes.com/whats-new/changelog#mcp-apps-now-available-for-the-thousandeyes-mcp-server",
+        "source": "Release Notes",
+        "published": "2026-11-03T00:00:00.000Z",
+        "type": "release"
+      },
       {
         "title": "Manual Geolocation Configuration for Enterprise Agents",
         "url": "https://docs.thousandeyes.com/whats-new/changelog#manual-geolocation-configuration-for-enterprise-agents",
@@ -420,41 +456,6 @@
         "url": "https://docs.thousandeyes.com/whats-new/changelog#advance-notice-post-quantum-cryptography-support",
         "source": "Release Notes",
         "published": "2026-10-29T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Shape Monitoring Around What Matters with Test Scheduler",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#shape-monitoring-around-what-matters-with-test-scheduler",
-        "source": "Release Notes",
-        "published": "2026-10-29T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Removal of Legacy OpenTelemetry Connection Type Attribute",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#removal-of-legacy-opentelemetry-connection-type-attribute",
-        "source": "Release Notes",
-        "published": "2026-10-29T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Improved Calculator Design and Cost Estimates",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#improved-calculator-design-and-cost-estimates",
-        "source": "Release Notes",
-        "published": "2026-10-29T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "HTTP Server Test in Splunk Synthetic Monitoring — Generally Available",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#http-server-test-in-splunk-synthetic-monitoring-generally-available",
-        "source": "Release Notes",
-        "published": "2026-10-28T00:00:00.000Z",
-        "type": "release"
-      },
-      {
-        "title": "Wireless Active Testing Dashboard Template",
-        "url": "https://docs.thousandeyes.com/whats-new/changelog#wireless-active-testing-dashboard-template",
-        "source": "Release Notes",
-        "published": "2026-10-28T00:00:00.000Z",
         "type": "release"
       }
     ]
