@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-11-06T18:42:52.963Z",
+  "updatedAt": "2026-11-07T17:13:32.053Z",
   "industry": {
     "items": [
+      {
+        "title": "In the software factory, engineers become process engineers",
+        "url": "https://thenewstack.io/engineers-become-process-engineers/",
+        "source": "The New Stack",
+        "published": "2026-11-07T16:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Why AWS wants developers to stop babysitting their AI agents",
+        "url": "https://thenewstack.io/kiro-bots-agent-memory/",
+        "source": "The New Stack",
+        "published": "2026-11-07T15:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Beyond code generation: A developer’s guide to agentic engineering",
+        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+        "source": "GitHub Blog",
+        "published": "2026-11-06T22:15:59.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "AI agents are getting more complex. Developers shouldn’t have to babysit them.",
+        "url": "https://thenewstack.io/harness-engineering-coding-agents/",
+        "source": "The New Stack",
+        "published": "2026-11-06T19:35:59.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Any agent anywhere: How to use Grafana Cloud with Claude, Cursor, and any other AI agent",
+        "url": "https://grafana.com/blog/any-agent-anywhere-how-to-use-grafana-cloud-with-claude-cursor-and-any-other-ai-agent/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-11-06T18:37:07.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
       {
         "title": "Cognition turned an open model into a coding beast. But it won’t release the weights.",
         "url": "https://thenewstack.io/cognition-flash-private-weights/",
@@ -25,8 +77,8 @@
         ]
       },
       {
-        "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
-        "url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-11-06T17:00:00.000Z",
         "topics": [
@@ -37,6 +89,16 @@
       {
         "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
         "url": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-06T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
+        "url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
         "source": "Google Cloud Blog",
         "published": "2026-11-06T17:00:00.000Z",
         "topics": [
@@ -94,6 +156,16 @@
         "published": "2026-11-06T08:00:00.000Z",
         "topics": [
           "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "source": "OpenAI Blog",
+        "published": "2026-11-06T00:00:00.000Z",
+        "topics": [
+          "ai",
           "development"
         ]
       },
@@ -189,84 +261,43 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Groundcover automates Kubernetes sizing. Engineers set the bounds.",
-        "url": "https://thenewstack.io/groundcover-autonomous-kubernetes-rightsizing/",
-        "source": "The New Stack",
-        "published": "2026-11-05T17:14:41.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Agents aren’t humans (but they kinda are)",
-        "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
-        "source": "Cloudflare Blog",
-        "published": "2026-11-05T17:03:04.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Australian universities are creating AI-native graduates",
-        "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-        "source": "OpenAI Blog",
-        "published": "2026-11-05T17:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "AI failures threaten incident management: Here are 4 ways to avoid them.",
-        "url": "https://thenewstack.io/ai-failures-incident-management/",
-        "source": "The New Stack",
-        "published": "2026-11-05T17:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Semantic aggregation over millions of rows in BigQuery with AI.AGG",
-        "url": "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-05T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-05T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Building an agent skill optimizer with AlphaEvolve, Harbor and Gemini 4 Argon",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-an-agent-skill-optimizer-with-alphaevolve-and-harbor/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-05T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "From Connectivity to Continuity: Cisco URWB for Autonomous Work Vehicles",
+        "url": "https://blogs.cisco.com/learning/from-connectivity-to-continuity-cisco-urwb-for-autonomous-work-vehicles",
+        "source": "Cisco Blogs",
+        "published": "2026-11-07T01:14:49.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "How Cisco Built an Enterprise AI Factory: Scaling Economics, Performance, and Security",
+        "url": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-built-an-enterprise-ai-factory",
+        "source": "Cisco Blogs",
+        "published": "2026-11-06T19:35:41.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "When a golf course becomes a connected championship venue",
+        "url": "https://blogs.cisco.com/networking/when-a-golf-course-becomes-a-connected-championship-venue",
+        "source": "Cisco Blogs",
+        "published": "2026-11-06T19:35:37.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "From Collaboration to Intelligent Workplace: What’s New for Cisco Partners in 2026",
+        "url": "https://blogs.cisco.com/partner/from-collaboration-to-intelligent-workplace-whats-new-for-cisco-partners-in-2026",
+        "source": "Cisco Blogs",
+        "published": "2026-11-06T19:30:35.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "The Real Driver of Growth: What Partner Summit 2026 Taught Us",
         "url": "https://blogs.cisco.com/partner/the-real-driver-of-growth-what-partner-summit-2026-taught-us",
@@ -304,38 +335,6 @@
         "url": "https://blogs.cisco.com/learning/25-years-of-empowerment-in-panama",
         "source": "Cisco Blogs",
         "published": "2026-11-05T15:00:27.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco IQ: Engineering APIs for the Agentic Era",
-        "url": "https://blogs.cisco.com/customerexperience/cisco-iq-engineering-apis-for-the-agentic-era",
-        "source": "Cisco Blogs",
-        "published": "2026-11-04T17:30:28.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Mastering stateful stream reordering at 200,000 messages per second",
-        "url": "https://blogs.cisco.com/cisco-devnet/flink-ab-development-stateful-stream-processing",
-        "source": "Cisco Blogs",
-        "published": "2026-11-04T17:00:06.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "More 100G in every rack: Meet the Cisco N9348C8D-H2",
-        "url": "https://blogs.cisco.com/datacenter/more-100g-in-every-rack-meet-the-cisco-n9348c8d-h2",
-        "source": "Cisco Blogs",
-        "published": "2026-11-04T16:00:25.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Grid Solutions at Scale, in a Small Footprint: Visit Cisco at Enlit Europe",
-        "url": "https://blogs.cisco.com/industrial-iot/grid-solutions-at-scale-in-a-small-footprint-visit-cisco-at-enlit-europe",
-        "source": "Cisco Blogs",
-        "published": "2026-11-04T15:56:59.000Z",
         "topics": [],
         "type": "article"
       },
