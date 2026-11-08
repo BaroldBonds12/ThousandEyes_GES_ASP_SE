@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-07T17:13:32.053Z",
+  "updatedAt": "2026-11-08T17:26:03.167Z",
   "industry": {
     "items": [
+      {
+        "title": "Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout",
+        "url": "https://thenewstack.io/docusign-ai-engineering-adoption/",
+        "source": "The New Stack",
+        "published": "2026-11-08T17:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Scaling an autonomous agent from one team to fifty: A serverless-to-container decision framework",
+        "url": "https://thenewstack.io/scaling-autonomous-agents-framework/",
+        "source": "The New Stack",
+        "published": "2026-11-08T16:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Perplexity’s AI agents keep working after you close the tab",
+        "url": "https://thenewstack.io/perplexity-teammates-agent-orchestration/",
+        "source": "The New Stack",
+        "published": "2026-11-08T15:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How we review 4x more AI code without reading every line",
+        "url": "https://thenewstack.io/scale-ai-code-reviews/",
+        "source": "The New Stack",
+        "published": "2026-11-07T17:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "In the software factory, engineers become process engineers",
         "url": "https://thenewstack.io/engineers-become-process-engineers/",
@@ -217,49 +261,6 @@
         "topics": [
           "ai",
           "development"
-        ]
-      },
-      {
-        "title": "What’s new with Grafana variables: less clutter, easier reuse across dashboards, and more",
-        "url": "https://grafana.com/blog/whats-new-with-grafana-variables-less-clutter-easier-reuse-across-dashboards-and-more/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-11-05T19:25:32.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane",
-        "url": "https://thenewstack.io/openai-gpt6-cyber-exploits/",
-        "source": "The New Stack",
-        "published": "2026-11-05T19:01:03.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Together AI let coding agents rewrite its GPU code. Then it kept humans on the deploy button.",
-        "url": "https://thenewstack.io/together-compiler-gpu-optimization/",
-        "source": "The New Stack",
-        "published": "2026-11-05T18:56:57.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Raindrop simulates your agent’s world to catch what your changes break",
-        "url": "https://thenewstack.io/raindrop-simulations-ai-agents/",
-        "source": "The New Stack",
-        "published": "2026-11-05T18:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
         ]
       }
     ]
