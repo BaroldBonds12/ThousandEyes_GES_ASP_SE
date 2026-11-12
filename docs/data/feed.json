@@ -1,7 +1,141 @@
 {
-  "updatedAt": "2026-11-11T19:03:37.874Z",
+  "updatedAt": "2026-11-12T19:22:23.542Z",
   "industry": {
     "items": [
+      {
+        "title": "Chrome Enterprise brings more protections to healthcare technologies",
+        "url": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-12T18:55:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Chainguard defends its choice to break the PHP security embargo: “We own the decision.”",
+        "url": "https://thenewstack.io/chainguard-php-embargo-defense/",
+        "source": "The New Stack",
+        "published": "2026-11-12T17:03:25.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Google built an AI model that can’t write a sentence — and that’s the point",
+        "url": "https://thenewstack.io/google-gemini-decisions-api/",
+        "source": "The New Stack",
+        "published": "2026-11-12T17:02:36.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "An early look at the Grafana UI refresh: Building a clearer, more consistent user experience",
+        "url": "https://grafana.com/blog/an-early-look-at-the-grafana-ui-refresh-building-a-clearer-more-consistent-user-experience/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-11-12T17:01:40.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Powering agentic cloud governance: What's new in Organization Policy",
+        "url": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-12T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Autonomous defense at cloud speed with SentinelOne and Google Security Operations",
+        "url": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-12T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect",
+        "url": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-12T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new with Google Data Cloud",
+        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-12T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Google named the furthest in vision for the Gartner Magic Quadrant for Data Lakehouse Platforms",
+        "url": "https://cloud.google.com/blog/products/data-analytics/google-is-a-leader-in-the-gartner-magic-quadrant-for-data-lakehouse-platforms/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-12T16:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "The death of the 14-day patch: Surviving machine-speed vulnerability discovery",
+        "url": "https://thenewstack.io/machine-speed-vulnerability-discovery/",
+        "source": "The New Stack",
+        "published": "2026-11-12T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "See what AI looks like in production at Microsoft Ignite",
+        "url": "https://thenewstack.io/microsoft-ignite-2026/",
+        "source": "The New Stack",
+        "published": "2026-11-12T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Holiday Extras is rethinking what it can build with Codex",
+        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "source": "OpenAI Blog",
+        "published": "2026-11-12T09:30:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Supporting research on AI and children’s safety",
+        "url": "https://openai.com/index/children-first-declaration",
+        "source": "OpenAI Blog",
+        "published": "2026-11-12T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
       {
         "title": "Gilbert + Tobin rethinks the business of law with AI",
         "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -10,6 +144,28 @@
         "topics": [
           "ai",
           "development"
+        ]
+      },
+      {
+        "title": "Anthropic built a model that beats Opus. It recommends Opus anyway.",
+        "url": "https://thenewstack.io/anthropic-fable-opus-cost/",
+        "source": "The New Stack",
+        "published": "2026-11-11T19:15:21.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Why Nvidia gave OpenShell to the CNCF",
+        "url": "https://thenewstack.io/nvidia-donates-openshell-cncf/",
+        "source": "The New Stack",
+        "published": "2026-11-11T19:13:54.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
         ]
       },
       {
@@ -57,16 +213,6 @@
         ]
       },
       {
-        "title": "How lemonflow built real-time agents for EV charging using Gemma and TPUs",
-        "url": "https://cloud.google.com/blog/topics/startups/building-real-time-agents-for-ev-charging-using-gemma-and-tpus/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-11T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
         "title": "Introducing new AI functions for AlloyDB: ai.classify and ai.extract",
         "url": "https://cloud.google.com/blog/products/databases/ai-classify-and-ai-extract-functions-in-alloydb-ai/",
         "source": "Google Cloud Blog",
@@ -79,6 +225,16 @@
       {
         "title": "Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification",
         "url": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-agentic-architect-certification-dont-just-prompt-ai-design-it/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-11T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How lemonflow built real-time agents for EV charging using Gemma and TPUs",
+        "url": "https://cloud.google.com/blog/topics/startups/building-real-time-agents-for-ev-charging-using-gemma-and-tpus/",
         "source": "Google Cloud Blog",
         "published": "2026-11-11T17:00:00.000Z",
         "topics": [
@@ -107,165 +263,19 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Choosing QuePaxa, an unusual consensus algorithm",
-        "url": "https://blog.cloudflare.com/choosing-quepaxa/",
-        "source": "Cloudflare Blog",
-        "published": "2026-11-11T14:24:46.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "ChatGPT Plus for veterans and servicemembers",
-        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-        "source": "OpenAI Blog",
-        "published": "2026-11-11T08:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-        "url": "https://openai.com/index/jiostar-vijay-seshadri",
-        "source": "OpenAI Blog",
-        "published": "2026-11-11T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Where to run AWS workloads and how to limit their access",
-        "url": "https://www.datadoghq.com/blog/aws-account-management/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-11T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Anthropic wants Claude to be the front end for your entire enterprise app stack",
-        "url": "https://thenewstack.io/claude-enterprise-apps-connectors/",
-        "source": "The New Stack",
-        "published": "2026-11-10T20:00:58.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Git security vulnerabilities announced",
-        "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
-        "source": "GitHub Blog",
-        "published": "2026-11-10T18:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Inside the Gemini factory: Accelerating partner solutions",
-        "url": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-10T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Don't just flag it, fix it: How to run CodeMender in your pull requests",
-        "url": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-10T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy",
-        "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-10T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google says Gemini 4 Carbon proved Signal’s encryption in weeks",
-        "url": "https://thenewstack.io/gemini-4-carbon-swarm/",
-        "source": "The New Stack",
-        "published": "2026-11-10T16:17:22.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Experimenting with ClusterNetworkPolicy in GKE",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-10T16:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Grok API text watermarking was meant to be on by default from Nov. 7. Now, it’s opt-in.",
-        "url": "https://thenewstack.io/grok-api-watermarking-default/",
-        "source": "The New Stack",
-        "published": "2026-11-10T15:58:44.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why.",
-        "url": "https://thenewstack.io/cncf-developer-ai-adoption/",
-        "source": "The New Stack",
-        "published": "2026-11-10T15:42:54.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Helping caregivers use AI in everyday life",
-        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "source": "OpenAI Blog",
-        "published": "2026-11-10T12:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Introducing Gemini for healthcare",
-        "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-10T12:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Cisco Recognized as the Winner of 2026 Microsoft Business Transformation Partner of the Year — Marketplace",
+        "url": "https://blogs.cisco.com/partner/cisco-recognized-as-the-winner-of-2026-microsoft-business-transformation-partner-of-the-year-marketplace",
+        "source": "Cisco Blogs",
+        "published": "2026-11-12T17:30:07.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Rebuilding PubHub: A Cautionary Tale of AI-Driven Requirements, Part 4",
         "url": "https://blogs.cisco.com/cisco-devnet/ai-driven-requirements-rebuilding-pubhub-part-4",
@@ -335,14 +345,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-11-09T20:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco AI Defense to Add Anthropic’s Claude Mythos for AI Red Teaming",
-        "url": "https://blogs.cisco.com/ai/cisco-ai-defense-to-add-anthropics-claude-mythos-for-ai-red-teaming",
-        "source": "Cisco Blogs",
-        "published": "2026-11-09T19:59:43.000Z",
         "topics": [],
         "type": "article"
       },
