@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-11-13T18:59:35.958Z",
+  "updatedAt": "2026-11-14T17:30:16.147Z",
   "industry": {
     "items": [
+      {
+        "title": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
+        "url": "https://thenewstack.io/claude-fable-5-2-vs-fable-5-1/",
+        "source": "The New Stack",
+        "published": "2026-11-14T17:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Web search for agents is here: Why ranking still decides the answer",
+        "url": "https://thenewstack.io/ai-agent-search-ranking/",
+        "source": "The New Stack",
+        "published": "2026-11-14T16:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "DuckLake 1.1 solves the absurd complexity of data lakes at AI scale",
+        "url": "https://thenewstack.io/ducklake-sql-lakehouse-metadata/",
+        "source": "The New Stack",
+        "published": "2026-11-14T15:45:04.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic wants you to build on Claude. There’s a catch.",
+        "url": "https://thenewstack.io/anthropic-enterprise-developer-competition/",
+        "source": "The New Stack",
+        "published": "2026-11-14T15:15:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill",
+        "url": "https://thenewstack.io/claude-fable-5-2-vs-gpt-6-astra/",
+        "source": "The New Stack",
+        "published": "2026-11-14T14:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk in the software",
+        "url": "https://thenewstack.io/self-hosted-claude-managed-agents/",
+        "source": "The New Stack",
+        "published": "2026-11-13T21:29:30.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Kitesurf is now open source",
+        "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+        "source": "Cloudflare Blog",
+        "published": "2026-11-13T20:20:21.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+        "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+        "source": "Cloudflare Blog",
+        "published": "2026-11-13T19:26:07.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
       {
         "title": "The context problem: It’s what’s really breaking AI agents at scale",
         "url": "https://thenewstack.io/elastic-ai-context-gap/",
@@ -35,8 +123,8 @@
         ]
       },
       {
-        "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
-        "url": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
+        "title": "New AI agent observability and governance across BigQuery and Looker",
+        "url": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
         "source": "Google Cloud Blog",
         "published": "2026-11-13T17:00:00.000Z",
         "topics": [
@@ -55,8 +143,8 @@
         ]
       },
       {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
+        "url": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
         "source": "Google Cloud Blog",
         "published": "2026-11-13T17:00:00.000Z",
         "topics": [
@@ -65,8 +153,8 @@
         ]
       },
       {
-        "title": "New AI agent observability and governance across BigQuery and Looker",
-        "url": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
         "source": "Google Cloud Blog",
         "published": "2026-11-13T17:00:00.000Z",
         "topics": [
@@ -104,6 +192,16 @@
           "networking",
           "observability",
           "monitoring"
+        ]
+      },
+      {
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "url": "https://openai.com/business/customer-stories/shield",
+        "source": "OpenAI Blog",
+        "published": "2026-11-13T08:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
         ]
       },
       {
@@ -163,98 +261,6 @@
         "published": "2026-11-12T20:00:00.000Z",
         "topics": [
           "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Chrome Enterprise brings more protections to healthcare technologies",
-        "url": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-12T18:55:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Chainguard defends its choice to break the PHP security embargo: “We own the decision.”",
-        "url": "https://thenewstack.io/chainguard-php-embargo-defense/",
-        "source": "The New Stack",
-        "published": "2026-11-12T17:03:25.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Google built an AI model that can’t write a sentence — and that’s the point",
-        "url": "https://thenewstack.io/google-gemini-decisions-api/",
-        "source": "The New Stack",
-        "published": "2026-11-12T17:02:36.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "An early look at the Grafana UI refresh: Building a clearer, more consistent user experience",
-        "url": "https://grafana.com/blog/an-early-look-at-the-grafana-ui-refresh-building-a-clearer-more-consistent-user-experience/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-11-12T17:01:40.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Powering agentic cloud governance: What's new in Organization Policy",
-        "url": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-12T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect",
-        "url": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-12T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "What’s new with Google Data Cloud",
-        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-12T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Autonomous defense at cloud speed with SentinelOne and Google Security Operations",
-        "url": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-12T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google named the furthest in vision for the Gartner Magic Quadrant for Data Lakehouse Platforms",
-        "url": "https://cloud.google.com/blog/products/data-analytics/google-is-a-leader-in-the-gartner-magic-quadrant-for-data-lakehouse-platforms/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-12T16:00:00.000Z",
-        "topics": [
-          "networking",
           "development"
         ]
       }
