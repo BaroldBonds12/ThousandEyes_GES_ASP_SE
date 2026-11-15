@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-14T17:30:16.147Z",
+  "updatedAt": "2026-11-15T18:18:04.165Z",
   "industry": {
     "items": [
+      {
+        "title": "DuckDB has an answer to “bloated” database messages",
+        "url": "https://thenewstack.io/duckdb-quack-database-protocol/",
+        "source": "The New Stack",
+        "published": "2026-11-15T15:05:56.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost",
+        "url": "https://thenewstack.io/claude-fable-5-2-vs-opus-5-5/",
+        "source": "The New Stack",
+        "published": "2026-11-15T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AWS Emulator proves agents need a verification loop. Realism is the hard part.",
+        "url": "https://thenewstack.io/aws-emulator-verification-loops/",
+        "source": "The New Stack",
+        "published": "2026-11-14T17:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
         "url": "https://thenewstack.io/claude-fable-5-2-vs-fable-5-1/",
@@ -229,38 +262,6 @@
         "source": "GitHub Blog",
         "published": "2026-11-12T22:54:52.000Z",
         "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "Google’s Gemini 4 coding agent now switches models mid-task — and finishes 19% faster",
-        "url": "https://thenewstack.io/gemini-4-hydrogen-orchestrator/",
-        "source": "The New Stack",
-        "published": "2026-11-12T21:26:08.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Google’s coding agents now /swarm for one developer. Cursor’s go multiplayer so teammates’ agents can talk.",
-        "url": "https://thenewstack.io/cursor-google-multiplayer-swarm/",
-        "source": "The New Stack",
-        "published": "2026-11-12T21:22:46.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "url": "https://openai.com/business/customer-stories/amplitude",
-        "source": "OpenAI Blog",
-        "published": "2026-11-12T20:00:00.000Z",
-        "topics": [
-          "ai",
           "development"
         ]
       }
