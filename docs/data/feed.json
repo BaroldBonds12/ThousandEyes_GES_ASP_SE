@@ -1,7 +1,233 @@
 {
-  "updatedAt": "2026-11-19T19:47:52.515Z",
+  "updatedAt": "2026-11-20T19:27:54.577Z",
   "industry": {
     "items": [
+      {
+        "title": "Your AI agent’s “memory problem” may be something else",
+        "url": "https://thenewstack.io/ai-agent-memory-boundaries/",
+        "source": "The New Stack",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Ultimate guide for fixing your team’s API keys",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents",
+        "url": "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Frontier and Center: Why your data agents need a “wind tunnel”",
+        "url": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "DynaPORT modernization on Google Cloud with AlloyDB for PostgreSQL and GKE",
+        "url": "https://cloud.google.com/blog/products/databases/dynaport-modernizes-with-alloydb/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "What’s new in Managed Service for Apache Spark 4.0",
+        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How Spanner Graph detects ads fraud and abuse at Google at multi-billion node scale",
+        "url": "https://cloud.google.com/blog/products/databases/how-spanner-graph-detects-google-ads-fraud-and-abuse/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How Vodafone is using the Data Engineering Agent to improve their data pipelines",
+        "url": "https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Introducing ambient networking for GKE",
+        "url": "https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How to simplify cloud access with Unified Access Policies, now in preview",
+        "url": "https://cloud.google.com/blog/products/identity-security/how-to-simplify-cloud-access-with-unified-access-policies/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-20T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Anthropic says Claude writes and reviews 90% of its team’s code. The catch is how it checks the work.",
+        "url": "https://thenewstack.io/anthropic-claude-code-verification/",
+        "source": "The New Stack",
+        "published": "2026-11-20T16:41:28.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "From AI agents to fishing dashboards: The latest stories from Unprompted, the Grafana Labs engineering blog",
+        "url": "https://grafana.com/blog/from-ai-agents-to-fishing-dashboards-the-latest-stories-from-unprompted/",
+        "source": "Grafana Labs Blog",
+        "published": "2026-11-20T15:07:25.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+        "url": "https://blog.cloudflare.com/nginx2root/",
+        "source": "Cloudflare Blog",
+        "published": "2026-11-20T01:58:29.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Does your AI agent need an LLM to decide what to do next?",
+        "url": "https://thenewstack.io/aws-decider-models-agents/",
+        "source": "The New Stack",
+        "published": "2026-11-20T01:37:32.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Can AI help scientists identify promising drug candidates?",
+        "url": "https://openai.com/index/introducing-medchembench",
+        "source": "OpenAI Blog",
+        "published": "2026-11-20T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Build and troubleshoot Observability Pipelines with AI agents",
+        "url": "https://www.datadoghq.com/blog/observability-pipelines-mcp-server-ai-agents/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-20T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Let your AI agent set up Datadog with Agentic Onboarding",
+        "url": "https://www.datadoghq.com/blog/agentic-onboarding/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-20T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Let your product dashboards report to you with the Dashboard Reporter Agent",
+        "url": "https://www.datadoghq.com/blog/agentic-reporting-product-analytics/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-20T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Map sensitive data with Datadog Data Security Posture Management",
+        "url": "https://www.datadoghq.com/blog/data-security-posture-management/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-20T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "The Blueprint: How Kult built a gaming companion that actually knows your game",
+        "url": "https://cloud.google.com/blog/products/gaming/kult-built-a-gaming-companion-with-gemini-that-actually-knows-your-game/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-19T23:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Google just gave Gemini the run of your Mac — three days after Apple tightened the rules",
+        "url": "https://thenewstack.io/gemini-mac-computer-use/",
+        "source": "The New Stack",
+        "published": "2026-11-19T21:35:09.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "An engineer didn’t message his AI for 22 of 44 days. It built an Android app anyway.",
+        "url": "https://thenewstack.io/cognition-devin-bots-management/",
+        "source": "The New Stack",
+        "published": "2026-11-19T20:22:18.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "“Be ready for change”: AAIF’s CTO on why the agent stack won’t settle",
         "url": "https://thenewstack.io/agentic-ai-foundation-projects/",
@@ -25,254 +251,35 @@
         ]
       },
       {
-        "title": "A “headless Slack”: Vercel’s new message board lets Claude Code and Codex agents work together",
-        "url": "https://thenewstack.io/vercel-board-agent-swarms/",
-        "source": "The New Stack",
-        "published": "2026-11-19T16:58:48.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Grafana Labs’ First Executive Briefing Center Coming to Ginza",
-        "url": "https://grafana.com/blog/grafana-labs-ebc1/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-11-19T16:32:02.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Where should AI workloads run? Probably next to the data.",
-        "url": "https://thenewstack.io/ai-workloads-data-gravity/",
-        "source": "The New Stack",
-        "published": "2026-11-19T16:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "The best things in open source are built together",
-        "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-        "source": "GitHub Blog",
-        "published": "2026-11-19T16:00:00.000Z",
-        "topics": [
-          "development"
-        ]
-      },
-      {
-        "title": "How Amazon ECS handles blue/green, canary, and linear deployments",
-        "url": "https://thenewstack.io/amazon-ecs-deployment-strategies/",
-        "source": "The New Stack",
-        "published": "2026-11-19T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Bring charts, queries, and context into one shareable document: Introducing Grafana Notebooks",
-        "url": "https://grafana.com/blog/bring-charts-queries-and-context-into-one-shareable-document-introducing-grafana-notebooks/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-11-19T15:22:49.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Agent security is product security, and your marketing site counts",
-        "url": "https://thenewstack.io/marketing-site-agent-security/",
-        "source": "The New Stack",
-        "published": "2026-11-19T14:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
-        "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
-        "source": "Cloudflare Blog",
-        "published": "2026-11-19T14:00:00.000Z",
+        "title": "What’s new with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-19T17:00:00.000Z",
         "topics": [
           "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Groundcover Investigations lets engineers steer AI SRE agents",
-        "url": "https://thenewstack.io/groundcover-ai-incident-investigations/",
-        "source": "The New Stack",
-        "published": "2026-11-19T14:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "source": "OpenAI Blog",
-        "published": "2026-11-19T08:00:00.000Z",
-        "topics": [
-          "ai",
           "development"
-        ]
-      },
-      {
-        "title": "Why groundcover’s CEO says agents are the power users of observability",
-        "url": "https://thenewstack.io/groundcover-coding-agents-observability/",
-        "source": "The New Stack",
-        "published": "2026-11-19T03:15:24.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Google’s Gemini 4 Neon tripled its coding score without changing the model",
-        "url": "https://thenewstack.io/gemini-neon-antigravity-harness/",
-        "source": "The New Stack",
-        "published": "2026-11-19T00:45:11.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How Datadog resolves evolving OpenTelemetry semantics at query time",
-        "url": "https://www.datadoghq.com/blog/engineering/semantic-translation-otel/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-19T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Retain more logs for longer with Flex Logs BYOBucket",
-        "url": "https://www.datadoghq.com/blog/flex-logs-bring-your-own-bucket/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-19T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
-        "url": "https://blog.cloudflare.com/open-clairic/",
-        "source": "Cloudflare Blog",
-        "published": "2026-11-18T22:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Microsoft says Bing serves 1B people. Its next search engine isn’t for them.",
-        "url": "https://thenewstack.io/microsoft-web-iq-agents/",
-        "source": "The New Stack",
-        "published": "2026-11-18T20:38:31.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“The best escape room players that you’ve ever met”: What Red Hat’s AI architect really thinks about agents.",
-        "url": "https://thenewstack.io/openshell-ai-agent-security/",
-        "source": "The New Stack",
-        "published": "2026-11-18T20:25:18.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Qwen4-Max vs. Claude Opus 5.5: The cheaper model costs you somewhere else.",
-        "url": "https://thenewstack.io/qwen4-max-vs-claude-opus-5-5/",
-        "source": "The New Stack",
-        "published": "2026-11-18T19:10:39.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "OpenAI spent $1.2 million finding nearly 1,000 Linux security flaws. Sam Altman says this is just the beginning.",
-        "url": "https://thenewstack.io/openai-entire-ai-stack/",
-        "source": "The New Stack",
-        "published": "2026-11-18T18:17:50.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "ObservabilityCON on the Road: New sessions coming to you in 2027",
-        "url": "https://grafana.com/blog/observabilitycon-on-the-road-new-sessions-coming-to-you-in-2027/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-11-18T17:48:45.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "AI needs fresh data. Vector indexing is getting in the way",
-        "url": "https://thenewstack.io/gpu-accelerated-vector-indexing/",
-        "source": "The New Stack",
-        "published": "2026-11-18T17:11:35.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How Orkes ParticleDB turns an impressive demo into a remarkable application",
-        "url": "https://thenewstack.io/orkes-particledb-agentic-database/",
-        "source": "The New Stack",
-        "published": "2026-11-18T16:54:44.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "200 OK is dead as an AI agent health signal. Here’s what comes next.",
-        "url": "https://thenewstack.io/silent-ai-agent-failures/",
-        "source": "The New Stack",
-        "published": "2026-11-18T16:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
         ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Secure Networking: The New Default for Partner Growth",
+        "url": "https://blogs.cisco.com/partner/secure-networking-the-new-default-for-partner-growth",
+        "source": "Cisco Blogs",
+        "published": "2026-11-20T18:05:09.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Patching at the speed of discovery: full-fleet Network OS upgrades in days, not months",
+        "url": "https://blogs.cisco.com/cisco-on-cisco/patching-at-the-speed-of-discovery-full-fleet-network-os-upgrades-in-days-not-months",
+        "source": "Cisco Blogs",
+        "published": "2026-11-19T20:06:15.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "From Being Welcomed to Welcoming Others: A Full-Circle Moment at Cisco",
         "url": "https://blogs.cisco.com/wearecisco/from-being-welcomed-to-welcoming-others-a-full-circle-moment-at-cisco",
@@ -326,22 +333,6 @@
         "url": "https://blogs.cisco.com/industries/the-infrastructure-behind-a-technology-first-ai-ready-venue",
         "source": "Cisco Blogs",
         "published": "2026-11-17T14:00:35.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Rain, Agents and Open Source: My Week at Web Summit Lisbon",
-        "url": "https://blogs.cisco.com/cisco-devnet/web-summit-lisbon-open-source-ai-platform-engineering",
-        "source": "Cisco Blogs",
-        "published": "2026-11-17T12:00:39.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "From purchase to production: Automate full-stack deployment with Cisco",
-        "url": "https://blogs.cisco.com/datacenter/from-purchase-to-production-automate-full-stack-deployment-with-cisco",
-        "source": "Cisco Blogs",
-        "published": "2026-11-17T09:50:51.000Z",
         "topics": [],
         "type": "article"
       },
