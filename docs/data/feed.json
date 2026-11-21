@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-11-20T19:27:54.577Z",
+  "updatedAt": "2026-11-21T18:30:01.138Z",
   "industry": {
     "items": [
+      {
+        "title": "If we stop reading the code, what do we read?",
+        "url": "https://thenewstack.io/ai-agent-code-review/",
+        "source": "The New Stack",
+        "published": "2026-11-21T17:23:05.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "GPT-6.2 Sol vs. Claude Opus 5.5: Not as accurate, but still might be the better buy",
+        "url": "https://thenewstack.io/gpt-6-2-sol-vs-claude-opus-5-5/",
+        "source": "The New Stack",
+        "published": "2026-11-21T17:08:44.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Dynatrace just laid out its AI observability playbook at KubeCon. Here’s why it matters for developers.",
+        "url": "https://thenewstack.io/ai-feature-flags-observability/",
+        "source": "The New Stack",
+        "published": "2026-11-21T16:08:55.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Nvidia used 20,000 training examples to fix its AI’s mistakes. Its coding score jumped.",
+        "url": "https://thenewstack.io/nvidia-droid-harness-nemotron/",
+        "source": "The New Stack",
+        "published": "2026-11-21T15:30:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+        "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+        "source": "Cloudflare Blog",
+        "published": "2026-11-20T20:24:38.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+        "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+        "source": "Cloudflare Blog",
+        "published": "2026-11-20T20:00:45.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "“We are not querying like humans anymore”: OpenSearch’s Bianca Lewis on why AI agent mistakes look like successes",
+        "url": "https://thenewstack.io/opensearch-ai-agent-observability/",
+        "source": "The New Stack",
+        "published": "2026-11-20T19:37:08.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Your AI agent’s “memory problem” may be something else",
         "url": "https://thenewstack.io/ai-agent-memory-boundaries/",
@@ -125,6 +202,16 @@
         ]
       },
       {
+        "title": "Combatting adversarial distillation",
+        "url": "https://openai.com/index/combatting-adversarial-distillation",
+        "source": "OpenAI Blog",
+        "published": "2026-11-20T10:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
         "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
         "url": "https://blog.cloudflare.com/nginx2root/",
         "source": "Cloudflare Blog",
@@ -147,6 +234,16 @@
         ]
       },
       {
+        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "url": "https://openai.com/business/customer-stories/hebbia",
+        "source": "OpenAI Blog",
+        "published": "2026-11-20T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
         "title": "Can AI help scientists identify promising drug candidates?",
         "url": "https://openai.com/index/introducing-medchembench",
         "source": "OpenAI Blog",
@@ -165,105 +262,19 @@
           "observability",
           "monitoring"
         ]
-      },
-      {
-        "title": "Let your AI agent set up Datadog with Agentic Onboarding",
-        "url": "https://www.datadoghq.com/blog/agentic-onboarding/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-20T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Let your product dashboards report to you with the Dashboard Reporter Agent",
-        "url": "https://www.datadoghq.com/blog/agentic-reporting-product-analytics/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-20T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Map sensitive data with Datadog Data Security Posture Management",
-        "url": "https://www.datadoghq.com/blog/data-security-posture-management/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-20T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "The Blueprint: How Kult built a gaming companion that actually knows your game",
-        "url": "https://cloud.google.com/blog/products/gaming/kult-built-a-gaming-companion-with-gemini-that-actually-knows-your-game/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-19T23:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google just gave Gemini the run of your Mac — three days after Apple tightened the rules",
-        "url": "https://thenewstack.io/gemini-mac-computer-use/",
-        "source": "The New Stack",
-        "published": "2026-11-19T21:35:09.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "An engineer didn’t message his AI for 22 of 44 days. It built an Android app anyway.",
-        "url": "https://thenewstack.io/cognition-devin-bots-management/",
-        "source": "The New Stack",
-        "published": "2026-11-19T20:22:18.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "“Be ready for change”: AAIF’s CTO on why the agent stack won’t settle",
-        "url": "https://thenewstack.io/agentic-ai-foundation-projects/",
-        "source": "The New Stack",
-        "published": "2026-11-19T18:24:12.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "IDrive wants to back up your coding agents, too",
-        "url": "https://thenewstack.io/idrive-ai-agents-backup/",
-        "source": "The New Stack",
-        "published": "2026-11-19T17:31:44.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "What’s new with Google Cloud",
-        "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-19T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Your Year-End Guide to Cisco U. Learning Deals",
+        "url": "https://blogs.cisco.com/learning/learning-deals-2026",
+        "source": "Cisco Blogs",
+        "published": "2026-11-21T00:16:36.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Secure Networking: The New Default for Partner Growth",
         "url": "https://blogs.cisco.com/partner/secure-networking-the-new-default-for-partner-growth",
@@ -325,14 +336,6 @@
         "url": "https://blogs.cisco.com/security/building-a-security-framework-for-the-agentic-enterprise",
         "source": "Cisco Blogs",
         "published": "2026-11-17T16:00:35.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The infrastructure behind a technology first, AI-ready venue",
-        "url": "https://blogs.cisco.com/industries/the-infrastructure-behind-a-technology-first-ai-ready-venue",
-        "source": "Cisco Blogs",
-        "published": "2026-11-17T14:00:35.000Z",
         "topics": [],
         "type": "article"
       },
