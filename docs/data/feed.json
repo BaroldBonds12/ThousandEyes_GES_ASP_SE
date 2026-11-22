@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-11-21T18:30:01.138Z",
+  "updatedAt": "2026-11-22T18:52:38.987Z",
   "industry": {
     "items": [
+      {
+        "title": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
+        "url": "https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/",
+        "source": "The New Stack",
+        "published": "2026-11-22T15:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "source": "OpenAI Blog",
+        "published": "2026-11-22T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "“It is a rollercoaster ride”: Angie Jones of the Agentic AI Foundation on keeping up with AI agents",
+        "url": "https://thenewstack.io/junior-developers-ai-agents-block/",
+        "source": "The New Stack",
+        "published": "2026-11-21T21:58:14.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "If we stop reading the code, what do we read?",
         "url": "https://thenewstack.io/ai-agent-code-review/",
@@ -231,36 +263,6 @@
           "development",
           "observability",
           "networking"
-        ]
-      },
-      {
-        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-        "url": "https://openai.com/business/customer-stories/hebbia",
-        "source": "OpenAI Blog",
-        "published": "2026-11-20T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Can AI help scientists identify promising drug candidates?",
-        "url": "https://openai.com/index/introducing-medchembench",
-        "source": "OpenAI Blog",
-        "published": "2026-11-20T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Build and troubleshoot Observability Pipelines with AI agents",
-        "url": "https://www.datadoghq.com/blog/observability-pipelines-mcp-server-ai-agents/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-20T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
         ]
       }
     ]
