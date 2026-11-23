@@ -1,7 +1,153 @@
 {
-  "updatedAt": "2026-11-22T18:52:38.987Z",
+  "updatedAt": "2026-11-23T23:07:56.785Z",
   "industry": {
     "items": [
+      {
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "url": "https://openai.com/index/introducing-shirudo",
+        "source": "OpenAI Blog",
+        "published": "2026-11-23T21:20:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Anthropic’s Claude Ship lets Claude approve routine pull requests",
+        "url": "https://thenewstack.io/anthropic-claude-ship-approvals/",
+        "source": "The New Stack",
+        "published": "2026-11-23T20:24:17.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Google’s AI agents cut quantum computing costs 290-fold — now you can check their work",
+        "url": "https://thenewstack.io/deepmind-lean-quantum-verification/",
+        "source": "The New Stack",
+        "published": "2026-11-23T20:08:34.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Z.ai ran the same 28 layers twice — and claims its 750B model can rival a 3-trillion-parameter one",
+        "url": "https://thenewstack.io/zai-glm54-loop-transformer/",
+        "source": "The New Stack",
+        "published": "2026-11-23T18:46:42.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AWS launches 5 new open decision models for AI agents",
+        "url": "https://thenewstack.io/aws-strands-decider-v2/",
+        "source": "The New Stack",
+        "published": "2026-11-23T18:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
+        "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-23T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
+        "url": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-23T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+        "url": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-23T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "Palo Alto and Elastic snap up AI startups. The prize? Enterprise trust and control.",
+        "url": "https://thenewstack.io/palo-alto-applied-computer-elastic-honeyhive/",
+        "source": "The New Stack",
+        "published": "2026-11-23T15:22:07.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Probing DNS at Cloudflare",
+        "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+        "source": "Cloudflare Blog",
+        "published": "2026-11-23T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Connected intelligence for in-house legal",
+        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+        "source": "OpenAI Blog",
+        "published": "2026-11-23T08:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Richpanel helps companies automate 50% of support in 30 days",
+        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "source": "OpenAI Blog",
+        "published": "2026-11-23T08:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Simplify BYOC cluster operations with Datadog Operator",
+        "url": "https://www.datadoghq.com/blog/simplify-byoc-cluster-operations-with-datadog-operator/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-23T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Key learnings from the 2026 State of Cloud Security study",
+        "url": "https://www.datadoghq.com/blog/cloud-security-study-learnings-2026/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-23T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
       {
         "title": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
         "url": "https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/",
@@ -121,154 +267,67 @@
           "observability",
           "networking"
         ]
-      },
-      {
-        "title": "Ultimate guide for fixing your team’s API keys",
-        "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents",
-        "url": "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Frontier and Center: Why your data agents need a “wind tunnel”",
-        "url": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "DynaPORT modernization on Google Cloud with AlloyDB for PostgreSQL and GKE",
-        "url": "https://cloud.google.com/blog/products/databases/dynaport-modernizes-with-alloydb/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "What’s new in Managed Service for Apache Spark 4.0",
-        "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How Spanner Graph detects ads fraud and abuse at Google at multi-billion node scale",
-        "url": "https://cloud.google.com/blog/products/databases/how-spanner-graph-detects-google-ads-fraud-and-abuse/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How Vodafone is using the Data Engineering Agent to improve their data pipelines",
-        "url": "https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Introducing ambient networking for GKE",
-        "url": "https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "How to simplify cloud access with Unified Access Policies, now in preview",
-        "url": "https://cloud.google.com/blog/products/identity-security/how-to-simplify-cloud-access-with-unified-access-policies/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Anthropic says Claude writes and reviews 90% of its team’s code. The catch is how it checks the work.",
-        "url": "https://thenewstack.io/anthropic-claude-code-verification/",
-        "source": "The New Stack",
-        "published": "2026-11-20T16:41:28.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "From AI agents to fishing dashboards: The latest stories from Unprompted, the Grafana Labs engineering blog",
-        "url": "https://grafana.com/blog/from-ai-agents-to-fishing-dashboards-the-latest-stories-from-unprompted/",
-        "source": "Grafana Labs Blog",
-        "published": "2026-11-20T15:07:25.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Combatting adversarial distillation",
-        "url": "https://openai.com/index/combatting-adversarial-distillation",
-        "source": "OpenAI Blog",
-        "published": "2026-11-20T10:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
-        "url": "https://blog.cloudflare.com/nginx2root/",
-        "source": "Cloudflare Blog",
-        "published": "2026-11-20T01:58:29.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Does your AI agent need an LLM to decide what to do next?",
-        "url": "https://thenewstack.io/aws-decider-models-agents/",
-        "source": "The New Stack",
-        "published": "2026-11-20T01:37:32.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "Expanding the Defender’s Window with Self-defending Infrastructure",
+        "url": "https://blogs.cisco.com/news/expanding-the-defenders-window-with-self-defending-infrastructure",
+        "source": "Cisco Blogs",
+        "published": "2026-11-23T21:20:44.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco and OpenAI Launch Shirudo, A New Project to Safeguard Agentic AI",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-11-23T21:20:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cybersecurity Awareness Month: Video Recap",
+        "url": "https://blogs.cisco.com/cisco-devnet/cybersecurity-awareness-month-video-recap",
+        "source": "Cisco Blogs",
+        "published": "2026-11-23T16:13:37.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Beyond the Ceiling: How Customer Challenges Are Redefining EVPN for the Campus",
+        "url": "https://blogs.cisco.com/networking/beyond-the-ceiling-how-customer-challenges-are-redefining-evpn-for-the-campus",
+        "source": "Cisco Blogs",
+        "published": "2026-11-23T16:04:52.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Expanding the Reach of Scientific Discovery Through Shared AI Infrastructure",
+        "url": "https://blogs.cisco.com/datacenter/expanding-the-reach-of-scientific-discovery-through-shared-ai-infrastructure",
+        "source": "Cisco Blogs",
+        "published": "2026-11-23T16:00:31.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Beyond the Golf Course: How We’re Partnering for a More Inclusive Game",
+        "url": "https://blogs.cisco.com/industries/beyond-the-golf-course-how-were-partnering-for-a-more-inclusive-game",
+        "source": "Cisco Blogs",
+        "published": "2026-11-23T14:00:51.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "I Got Lucky. Now I’m Making Sure Others Don’t Have To.",
+        "url": "https://blogs.cisco.com/wearecisco/i-got-lucky-now-im-making-sure-others-dont-have-to",
+        "source": "Cisco Blogs",
+        "published": "2026-11-23T13:00:14.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Your Year-End Guide to Cisco U. Learning Deals",
         "url": "https://blogs.cisco.com/learning/learning-deals-2026",
@@ -290,54 +349,6 @@
         "url": "https://blogs.cisco.com/cisco-on-cisco/patching-at-the-speed-of-discovery-full-fleet-network-os-upgrades-in-days-not-months",
         "source": "Cisco Blogs",
         "published": "2026-11-19T20:06:15.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "From Being Welcomed to Welcoming Others: A Full-Circle Moment at Cisco",
-        "url": "https://blogs.cisco.com/wearecisco/from-being-welcomed-to-welcoming-others-a-full-circle-moment-at-cisco",
-        "source": "Cisco Blogs",
-        "published": "2026-11-19T13:00:28.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "The Power of AgenticOps: How a Crew of 4 Specialized AI Agents Can Supercharge Your Managed Services",
-        "url": "https://blogs.cisco.com/partner/the-power-of-agenticops-how-a-crew-of-4-specialized-ai-agents-can-supercharge-your-managed-services",
-        "source": "Cisco Blogs",
-        "published": "2026-11-18T17:00:51.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "From Flashlight to Floodlight: What Six Months of Frontier AI Has Changed at Cisco",
-        "url": "https://blogs.cisco.com/news/from-flashlight-to-floodlight-what-six-months-of-frontier-ai-has-changed-at-cisco",
-        "source": "Cisco Blogs",
-        "published": "2026-11-18T10:00:21.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco U. Spotlight 2026: Learn, Connect, and Innovate Together",
-        "url": "https://blogs.cisco.com/learning/cisco-u-spotlight-2026",
-        "source": "Cisco Blogs",
-        "published": "2026-11-17T23:59:40.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco Multicloud Fabric Enters Controlled Availability",
-        "url": "https://blogs.cisco.com/networking/cisco-multicloud-fabric-enters-controlled-availability",
-        "source": "Cisco Blogs",
-        "published": "2026-11-17T16:00:51.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Building a Security Framework for the Agentic Enterprise",
-        "url": "https://blogs.cisco.com/security/building-a-security-framework-for-the-agentic-enterprise",
-        "source": "Cisco Blogs",
-        "published": "2026-11-17T16:00:35.000Z",
         "topics": [],
         "type": "article"
       },
@@ -378,14 +389,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-expands-partner-opportunity-with-new-cisco-360-program-updates-high-yield-customer-experience-offerings-and-ai-ready-innovations.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-10-26T20:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "At Capital One Arena, a winning goal for the network",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/at-capital-one-arena-a-winning-goal-for-the-network.html?source=rss",
-        "source": "Cisco Newsroom",
-        "published": "2026-10-23T12:00:00.000Z",
         "topics": [],
         "type": "article"
       }
