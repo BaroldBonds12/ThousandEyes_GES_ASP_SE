@@ -1,7 +1,193 @@
 {
-  "updatedAt": "2026-11-23T23:07:56.785Z",
+  "updatedAt": "2026-11-24T21:46:28.499Z",
   "industry": {
     "items": [
+      {
+        "title": "Move fast, don’t break 100 apps: Dan Garfield on keeping AI-powered coding on the rails",
+        "url": "https://thenewstack.io/ai-coding-delivery-bottleneck/",
+        "source": "The New Stack",
+        "published": "2026-11-24T19:48:46.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Confluent spent 3 months rewriting Kafka’s Java client in Rust with AI — and had to start over",
+        "url": "https://thenewstack.io/confluent-kafka-rust-agents/",
+        "source": "The New Stack",
+        "published": "2026-11-24T19:26:18.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Anthropic let AI agents review each other’s code — one PR got stuck in a 50+ round loop overnight",
+        "url": "https://thenewstack.io/claude-ship-automated-approvals/",
+        "source": "The New Stack",
+        "published": "2026-11-24T18:15:59.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "As MCP turns two, Claude gets Skills over MCP and better support for long-running tasks",
+        "url": "https://thenewstack.io/mcp-skills-tasks-claude/",
+        "source": "The New Stack",
+        "published": "2026-11-24T18:08:34.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Getting a GPU is only the beginning. Ask AWS EKS.",
+        "url": "https://thenewstack.io/kubernetes-gpu-inference-startup/",
+        "source": "The New Stack",
+        "published": "2026-11-24T17:17:12.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud",
+        "url": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-24T17:00:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "These are the gifts developers will actually want",
+        "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+        "source": "GitHub Blog",
+        "published": "2026-11-24T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Enabling zero trust: ALLEN’s move to Chrome Enterprise Premium",
+        "url": "https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium/",
+        "source": "Google Cloud Blog",
+        "published": "2026-11-24T15:02:00.000Z",
+        "topics": [
+          "networking",
+          "development"
+        ]
+      },
+      {
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "source": "OpenAI Blog",
+        "published": "2026-11-24T13:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "OpenClaw at one: its chief architect on a year of explosive growth, wooing the enterprise, and being Meta’s muse",
+        "url": "https://thenewstack.io/openclaw-vincent-koc-interview/",
+        "source": "The New Stack",
+        "published": "2026-11-24T12:39:32.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Vercel will make AI providers prove they don’t keep prompts. Here’s why it matters for developers.",
+        "url": "https://thenewstack.io/vercel-audited-zdr-inference/",
+        "source": "The New Stack",
+        "published": "2026-11-24T12:00:00.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Searching for distant planets with Astra",
+        "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "source": "OpenAI Blog",
+        "published": "2026-11-24T11:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "How Intentful uses dots to make more time for growth",
+        "url": "https://openai.com/business/customer-stories/intentful-dots",
+        "source": "OpenAI Blog",
+        "published": "2026-11-24T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "How iFood scales coding agents across 15,000 repositories",
+        "url": "https://openai.com/business/customer-stories/ifood",
+        "source": "OpenAI Blog",
+        "published": "2026-11-24T00:00:00.000Z",
+        "topics": [
+          "ai",
+          "development"
+        ]
+      },
+      {
+        "title": "Ephyra: A new agentic property-based testing library to find the bugs you missed",
+        "url": "https://www.datadoghq.com/blog/ai/agentic-property-based-testing-with-ephyra/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-24T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Get ahead of AWS service quotas with Datadog",
+        "url": "https://www.datadoghq.com/blog/aws-service-quotas-monitoring-datadog/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-24T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Find EC2 Spot savings with Datadog",
+        "url": "https://www.datadoghq.com/blog/find-ec2-spot-savings-with-datadog/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-24T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Introducing Bits Maintenance, your AI teammate for infrastructure patching and upgrades",
+        "url": "https://www.datadoghq.com/blog/bits-maintenance/",
+        "source": "Datadog Engineering",
+        "published": "2026-11-24T00:00:00.000Z",
+        "topics": [
+          "observability",
+          "monitoring"
+        ]
+      },
       {
         "title": "OpenAI and Cisco introduce Shirudo",
         "url": "https://openai.com/index/introducing-shirudo",
@@ -67,16 +253,6 @@
         ]
       },
       {
-        "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
-        "url": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-23T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
         "title": "Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
         "url": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
         "source": "Google Cloud Blog",
@@ -85,193 +261,43 @@
           "networking",
           "development"
         ]
-      },
-      {
-        "title": "Palo Alto and Elastic snap up AI startups. The prize? Enterprise trust and control.",
-        "url": "https://thenewstack.io/palo-alto-applied-computer-elastic-honeyhive/",
-        "source": "The New Stack",
-        "published": "2026-11-23T15:22:07.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Probing DNS at Cloudflare",
-        "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
-        "source": "Cloudflare Blog",
-        "published": "2026-11-23T14:00:00.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Connected intelligence for in-house legal",
-        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-        "source": "OpenAI Blog",
-        "published": "2026-11-23T08:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Richpanel helps companies automate 50% of support in 30 days",
-        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-        "source": "OpenAI Blog",
-        "published": "2026-11-23T08:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Simplify BYOC cluster operations with Datadog Operator",
-        "url": "https://www.datadoghq.com/blog/simplify-byoc-cluster-operations-with-datadog-operator/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-23T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Key learnings from the 2026 State of Cloud Security study",
-        "url": "https://www.datadoghq.com/blog/cloud-security-study-learnings-2026/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-23T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
-        "url": "https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/",
-        "source": "The New Stack",
-        "published": "2026-11-22T15:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Perplexity and Intelligence",
-        "url": "https://openai.com/index/perplexity-and-intelligence",
-        "source": "OpenAI Blog",
-        "published": "2026-11-22T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "“It is a rollercoaster ride”: Angie Jones of the Agentic AI Foundation on keeping up with AI agents",
-        "url": "https://thenewstack.io/junior-developers-ai-agents-block/",
-        "source": "The New Stack",
-        "published": "2026-11-21T21:58:14.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "If we stop reading the code, what do we read?",
-        "url": "https://thenewstack.io/ai-agent-code-review/",
-        "source": "The New Stack",
-        "published": "2026-11-21T17:23:05.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "GPT-6.2 Sol vs. Claude Opus 5.5: Not as accurate, but still might be the better buy",
-        "url": "https://thenewstack.io/gpt-6-2-sol-vs-claude-opus-5-5/",
-        "source": "The New Stack",
-        "published": "2026-11-21T17:08:44.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Dynatrace just laid out its AI observability playbook at KubeCon. Here’s why it matters for developers.",
-        "url": "https://thenewstack.io/ai-feature-flags-observability/",
-        "source": "The New Stack",
-        "published": "2026-11-21T16:08:55.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Nvidia used 20,000 training examples to fix its AI’s mistakes. Its coding score jumped.",
-        "url": "https://thenewstack.io/nvidia-droid-harness-nemotron/",
-        "source": "The New Stack",
-        "published": "2026-11-21T15:30:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
-        "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
-        "source": "Cloudflare Blog",
-        "published": "2026-11-20T20:24:38.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
-        "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
-        "source": "Cloudflare Blog",
-        "published": "2026-11-20T20:00:45.000Z",
-        "topics": [
-          "networking",
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "“We are not querying like humans anymore”: OpenSearch’s Bianca Lewis on why AI agent mistakes look like successes",
-        "url": "https://thenewstack.io/opensearch-ai-agent-observability/",
-        "source": "The New Stack",
-        "published": "2026-11-20T19:37:08.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Your AI agent’s “memory problem” may be something else",
-        "url": "https://thenewstack.io/ai-agent-memory-boundaries/",
-        "source": "The New Stack",
-        "published": "2026-11-20T17:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "The intelligent workplace is taking shape. We’re building it ourselves.",
+        "url": "https://blogs.cisco.com/networking/the-intelligent-workplace-is-taking-shape-were-building-it-ourselves",
+        "source": "Cisco Blogs",
+        "published": "2026-11-24T17:47:35.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco to Participate in December Events with the Financial Community",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-to-participate-in-december-events-with-the-financial-community.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-11-24T14:06:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "Cisco to Host 2026 Virtual Annual Meeting of Stockholders",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-to-host-2026-virtual-annual-meeting-of-stockholders.html?source=rss",
+        "source": "Cisco Press Releases",
+        "published": "2026-11-24T14:06:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
+      {
+        "title": "The Invisible Race",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/the-invisible-race.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-11-24T13:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "Expanding the Defender’s Window with Self-defending Infrastructure",
         "url": "https://blogs.cisco.com/news/expanding-the-defenders-window-with-self-defending-infrastructure",
@@ -345,14 +371,6 @@
         "type": "article"
       },
       {
-        "title": "Patching at the speed of discovery: full-fleet Network OS upgrades in days, not months",
-        "url": "https://blogs.cisco.com/cisco-on-cisco/patching-at-the-speed-of-discovery-full-fleet-network-os-upgrades-in-days-not-months",
-        "source": "Cisco Blogs",
-        "published": "2026-11-19T20:06:15.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
         "title": "Cisco Reports First Quarter Earnings",
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html?source=rss",
         "source": "Cisco Press Releases",
@@ -365,30 +383,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-11-09T20:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco Schedules Conference Call for Q1 Fiscal Year 2027 Financial Results",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-schedules-conference-call-for-q1-fiscal-year-2027-financial-results.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-11-03T21:05:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco and PSA Singapore Collaborate to Power the Next Phase of Tuas Port with AI-Driven Operations",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-and-psa-singapore-collaborate-to-power-the-next-phase-of-tuas-port-with-ai-driven-operations.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-10-29T12:00:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco Expands Partner Opportunity with New Cisco 360 Program Updates, High Yield Customer Experience Offerings, and AI-Ready Innovations",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-expands-partner-opportunity-with-new-cisco-360-program-updates-high-yield-customer-experience-offerings-and-ai-ready-innovations.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-10-26T20:00:00.000Z",
         "topics": [],
         "type": "article"
       }
