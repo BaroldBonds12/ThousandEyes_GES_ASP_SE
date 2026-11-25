@@ -1,7 +1,80 @@
 {
-  "updatedAt": "2026-11-24T21:46:28.499Z",
+  "updatedAt": "2026-11-25T20:53:31.633Z",
   "industry": {
     "items": [
+      {
+        "title": "Anthropic set more than 1,700 traps for Claude — what it found is both reassuring and unsettling",
+        "url": "https://thenewstack.io/anthropic-siren-sandbox-escape/",
+        "source": "The New Stack",
+        "published": "2026-11-25T19:45:18.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "OpenAI claims to have solved a 57-year-old math problem at the heart of AI computation",
+        "url": "https://thenewstack.io/openai-matrix-multiplication-exponent/",
+        "source": "The New Stack",
+        "published": "2026-11-25T18:14:05.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "JetBrains’ latest Mellum coding model uses 45% fewer tokens. It got there by not thinking.",
+        "url": "https://thenewstack.io/jetbrains-mellum2-1-instruct-coding-model/",
+        "source": "The New Stack",
+        "published": "2026-11-25T17:23:47.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Art of play in the age of AI",
+        "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+        "source": "GitHub Blog",
+        "published": "2026-11-25T16:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "How to choose the next safe step in application modernization",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+        "source": "GitHub Blog",
+        "published": "2026-11-25T15:00:00.000Z",
+        "topics": [
+          "development"
+        ]
+      },
+      {
+        "title": "Introducing Search for Agents",
+        "url": "https://blog.cloudflare.com/search-for-agents/",
+        "source": "Cloudflare Blog",
+        "published": "2026-11-25T14:00:00.000Z",
+        "topics": [
+          "networking",
+          "observability",
+          "monitoring"
+        ]
+      },
+      {
+        "title": "Please don’t give the robot my SSH keys: How to keep AI out of trouble",
+        "url": "https://thenewstack.io/teleport-agent-delegated-identity/",
+        "source": "The New Stack",
+        "published": "2026-11-24T21:57:58.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Move fast, don’t break 100 apps: Dan Garfield on keeping AI-powered coding on the rails",
         "url": "https://thenewstack.io/ai-coding-delivery-bottleneck/",
@@ -25,7 +98,7 @@
         ]
       },
       {
-        "title": "Anthropic let AI agents review each other’s code — one PR got stuck in a 50+ round loop overnight",
+        "title": "Anthropic’s Claude Ship tackles the pull request bottleneck created by AI coding agents",
         "url": "https://thenewstack.io/claude-ship-automated-approvals/",
         "source": "The New Stack",
         "published": "2026-11-24T18:15:59.000Z",
@@ -149,13 +222,13 @@
         ]
       },
       {
-        "title": "Ephyra: A new agentic property-based testing library to find the bugs you missed",
-        "url": "https://www.datadoghq.com/blog/ai/agentic-property-based-testing-with-ephyra/",
-        "source": "Datadog Engineering",
+        "title": "Clay helps sales teams win with Codex and ChatGPT",
+        "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+        "source": "OpenAI Blog",
         "published": "2026-11-24T00:00:00.000Z",
         "topics": [
-          "observability",
-          "monitoring"
+          "ai",
+          "development"
         ]
       },
       {
@@ -187,85 +260,19 @@
           "observability",
           "monitoring"
         ]
-      },
-      {
-        "title": "OpenAI and Cisco introduce Shirudo",
-        "url": "https://openai.com/index/introducing-shirudo",
-        "source": "OpenAI Blog",
-        "published": "2026-11-23T21:20:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Anthropic’s Claude Ship lets Claude approve routine pull requests",
-        "url": "https://thenewstack.io/anthropic-claude-ship-approvals/",
-        "source": "The New Stack",
-        "published": "2026-11-23T20:24:17.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Google’s AI agents cut quantum computing costs 290-fold — now you can check their work",
-        "url": "https://thenewstack.io/deepmind-lean-quantum-verification/",
-        "source": "The New Stack",
-        "published": "2026-11-23T20:08:34.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Z.ai ran the same 28 layers twice — and claims its 750B model can rival a 3-trillion-parameter one",
-        "url": "https://thenewstack.io/zai-glm54-loop-transformer/",
-        "source": "The New Stack",
-        "published": "2026-11-23T18:46:42.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "AWS launches 5 new open decision models for AI agents",
-        "url": "https://thenewstack.io/aws-strands-decider-v2/",
-        "source": "The New Stack",
-        "published": "2026-11-23T18:00:00.000Z",
-        "topics": [
-          "development",
-          "observability",
-          "networking"
-        ]
-      },
-      {
-        "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
-        "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-23T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
-      },
-      {
-        "title": "Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
-        "url": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
-        "source": "Google Cloud Blog",
-        "published": "2026-11-23T17:00:00.000Z",
-        "topics": [
-          "networking",
-          "development"
-        ]
       }
     ]
   },
   "cisco": {
     "items": [
+      {
+        "title": "From vision to reality: agentic AI at Cisco Live Melbourne",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/from-vision-to-reality-agentic-ai-at-cisco-live-melbourne.html?source=rss",
+        "source": "Cisco Newsroom",
+        "published": "2026-11-25T13:00:00.000Z",
+        "topics": [],
+        "type": "article"
+      },
       {
         "title": "The intelligent workplace is taking shape. We’re building it ourselves.",
         "url": "https://blogs.cisco.com/networking/the-intelligent-workplace-is-taking-shape-were-building-it-ourselves",
@@ -375,14 +382,6 @@
         "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html?source=rss",
         "source": "Cisco Press Releases",
         "published": "2026-11-12T21:05:00.000Z",
-        "topics": [],
-        "type": "article"
-      },
-      {
-        "title": "Cisco Unveils Frontier AI Red Teaming and Agent Observability to Secure the Agentic Enterprise",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise.html?source=rss",
-        "source": "Cisco Press Releases",
-        "published": "2026-11-09T20:00:00.000Z",
         "topics": [],
         "type": "article"
       }
