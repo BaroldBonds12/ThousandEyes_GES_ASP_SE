@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-25T20:53:31.633Z",
+  "updatedAt": "2026-11-26T20:44:53.572Z",
   "industry": {
     "items": [
+      {
+        "title": "Cloudflare now lets websites add search for AI agents with a single toggle. Site owners foot the query bill.",
+        "url": "https://thenewstack.io/cloudflare-agent-search-endpoint/",
+        "source": "The New Stack",
+        "published": "2026-11-26T18:46:47.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "AI wrote the code. Can your test data tell you if it works?",
+        "url": "https://thenewstack.io/protecting-enterprise-ai-data/",
+        "source": "The New Stack",
+        "published": "2026-11-26T16:18:49.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "A developer ran 50 agents at once. Then his Mac became the bottleneck.",
+        "url": "https://thenewstack.io/ai-agents-remote-sandboxes/",
+        "source": "The New Stack",
+        "published": "2026-11-26T16:12:29.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
+      {
+        "title": "Cognition’s new engineers aren’t even downloading code anymore — they build entirely through Devin",
+        "url": "https://thenewstack.io/cognition-devin-automated-engineering/",
+        "source": "The New Stack",
+        "published": "2026-11-26T12:53:43.000Z",
+        "topics": [
+          "development",
+          "observability",
+          "networking"
+        ]
+      },
       {
         "title": "Anthropic set more than 1,700 traps for Claude — what it found is both reassuring and unsettling",
         "url": "https://thenewstack.io/anthropic-siren-sandbox-escape/",
@@ -219,46 +263,6 @@
         "topics": [
           "ai",
           "development"
-        ]
-      },
-      {
-        "title": "Clay helps sales teams win with Codex and ChatGPT",
-        "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-        "source": "OpenAI Blog",
-        "published": "2026-11-24T00:00:00.000Z",
-        "topics": [
-          "ai",
-          "development"
-        ]
-      },
-      {
-        "title": "Get ahead of AWS service quotas with Datadog",
-        "url": "https://www.datadoghq.com/blog/aws-service-quotas-monitoring-datadog/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-24T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Find EC2 Spot savings with Datadog",
-        "url": "https://www.datadoghq.com/blog/find-ec2-spot-savings-with-datadog/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-24T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
-        ]
-      },
-      {
-        "title": "Introducing Bits Maintenance, your AI teammate for infrastructure patching and upgrades",
-        "url": "https://www.datadoghq.com/blog/bits-maintenance/",
-        "source": "Datadog Engineering",
-        "published": "2026-11-24T00:00:00.000Z",
-        "topics": [
-          "observability",
-          "monitoring"
         ]
       }
     ]
